@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1">
+<defs>
+
+
+
+
+</defs>
+
+<defs>
+<linearGradient x1="50%" y1="50%" x2="0%" y2="50%" id="id-demon-female-1_wings_black-0">
+<stop stop-color="#002848" offset="0%">
+</stop>
+<stop stop-color="#0d0d0d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="39%" y1="55%" x2="8%" y2="50%" id="id-demon-female-1_wings_black-1">
+<stop stop-color="#002848" offset="0%">
+</stop>
+<stop stop-color="#0d0d0d" offset="100%">
+</stop>
+</linearGradient>
+</defs>
+<g transform="translate(0,151)" id="id-demon-female-1_wings_black-2">
+<path d="M 547 346 C 588 426 609 466 609 466 C 601 480 583 487 560 489 C 508 505 455 451 411 418 C 446 426 485 424 485 388 C 481 353 468 323 445 301 C 435 302 430 303 430 303 C 430 301 430 300 430 300 C 429 298 428 297 428 297 C 429 286 428 275 429 264 C 432 233 437 204 444 176 C 448 228 448 268 469 308 C 485 338 531 379 547 346 Z" fill="#0d0d0d" id="id-demon-female-1_wings_black-3">
+</path>
+<path d="M 824 346 C 865 426 886 466 886 466 C 878 480 860 487 837 489 C 785 505 732 451 688 418 C 723 426 762 424 762 388 C 758 353 745 323 722 301 C 712 302 707 303 707 303 C 707 301 707 300 707 300 C 706 298 705 297 705 297 C 706 286 705 275 706 264 C 709 233 714 204 721 176 C 725 228 725 268 746 308 C 762 338 808 379 824 346 Z" transform="translate(787,334) scale(-1,1) translate(-787,-334)" fill="#0d0d0d" id="id-demon-female-1_wings_black-4">
+</path>
+<path d="M 309 643 C 309 631 309 625 309 625 C 337 610 351 603 351 603 C 325 598 312 595 312 595 C 324 388 331 285 331 285 C 331 305 330 314 330 314 C 339 338 349 357 359 372 C 420 449 585 431 639 457 C 619 466 595 471 567 476 L 530 564 C 469 581 424 594 394 602 C 352 616 323 632 309 643 Z" fill="url(#id-demon-female-1_wings_black-0)" id="id-demon-female-1_wings_black-5">
+</path>
+<path d="M 688 643 C 688 631 688 625 688 625 C 716 610 730 603 730 603 C 704 598 691 595 691 595 C 701 388 707 284 710 285 C 710 305 709 314 709 314 C 718 338 728 357 738 372 C 799 449 964 431 1018 457 C 998 466 974 471 946 476 L 909 564 C 848 581 803 594 773 602 C 731 616 702 632 688 643 Z" transform="translate(853,464) scale(-1,1) translate(-853,-464)" fill="url(#id-demon-female-1_wings_black-1)" id="id-demon-female-1_wings_black-6">
+</path>
+<path d="M 751 443 C 753 454 756 462 760 469 L 776 440 C 759 442 751 443 751 443 Z" fill="#002a46" id="id-demon-female-1_wings_black-7">
+</path>
+<path d="M 104 1580 C 109 1510 114 1461 120 1434 C 133 1376 145 1330 156 1282 C 169 1234 183 1191 197 1142 C 207 1149 216 1169 225 1191 C 223 1215 225 1246 225 1274 C 229 1257 233 1237 235 1215 C 252 1249 256 1302 263 1356 C 263 1135 262 1024 262 1024 C 255 1028 250 1033 247 1038 C 249 1016 253 996 257 978 C 260 981 261 989 263 995 C 263 933 264 902 264 902 C 279 873 286 858 286 858 C 298 890 303 905 303 905 C 304 911 304 913 304 913 C 302 820 300 773 300 773 C 322 425 333 250 333 250 C 337 247 338 246 338 246 C 351 251 358 254 358 254 C 360 256 361 257 361 257 C 360 252 360 249 360 249 C 348 185 342 153 342 153 C 342 117 342 99 342 99 C 352 71 358 57 358 57 C 341 65 333 70 333 70 C 318 71 307 57 295 49 C 298 33 299 17 304 1 C 282 19 258 43 234 77 C 218 106 210 120 210 120 C 223 108 230 103 230 103 C 258 92 272 87 272 87 C 277 104 280 113 280 113 C 261 132 251 141 251 141 C 229 167 218 180 218 180 C 243 174 256 171 256 171 C 248 199 244 213 244 213 C 206 280 186 314 186 314 C 188 312 189 311 189 311 C 187 315 186 317 186 317 C 193 309 211 289 221 302 C 207 342 201 362 201 362 C 164 405 129 451 93 499 C 99 492 105 486 109 483 C 109 484 109 485 109 485 C 136 467 150 458 150 458 C 159 456 164 455 164 455 C 92 619 56 702 56 702 C 26 786 12 828 12 828 C 54 774 75 746 75 746 C 112 715 130 699 130 699 C 115 770 104 864 97 981 C 96 1040 94 1091 95 1137 C 89 1234 86 1283 86 1283 C 96 1244 101 1225 101 1225 L 104 1253 C 104 1463 104 1572 104 1580 Z" fill="#0d0d0d" id="id-demon-female-1_wings_black-8">
+</path>
+<path d="M 1 762 C 2 787 2 800 2 800 L 27 740 C 9 755 1 762 1 762 Z" fill="#0d0d0d" id="id-demon-female-1_wings_black-9">
+</path>
+<path d="M 76 1019 C 72 974 70 951 70 951 C 85 885 92 852 92 852 L 94 852 C 82 963 76 1019 76 1019 Z" fill="#0d0d0d" id="id-demon-female-1_wings_black-10">
+</path>
+<path d="M 159 1528 C 152 1416 149 1361 149 1361 L 169 1283 C 162 1446 159 1528 159 1528 Z" fill="#0d0d0d" id="id-demon-female-1_wings_black-11">
+</path>
+<path d="M 226 1494 C 192 1431 204 1357 224 1274 C 216 1325 210 1342 211 1397 C 213 1430 216 1464 226 1494 Z" fill="#0d0d0d" id="id-demon-female-1_wings_black-12">
+</path>
+<path d="M 279 203 C 288 168 296 148 302 142 L 324 156 C 302 171 287 187 279 203 Z" fill="#23252e" id="id-demon-female-1_wings_black-13">
+</path>
+<path d="M 233 78 C 257 45 281 18 304 1 C 287 34 279 50 279 50 C 267 55 255 61 225 94 L 233 78 Z" fill="#23252e" id="id-demon-female-1_wings_black-14">
+</path>
+<path d="M 217 180 C 252 145 287 126 322 112 C 329 84 333 70 333 70 L 278 109 L 279 113 L 250 141 C 228 167 217 180 217 180 Z" fill="#23252e" id="id-demon-female-1_wings_black-15">
+</path>
+<path d="M 200 362 L 197 385 L 122 460 C 161 409 187 376 200 362 Z" fill="#23252e" id="id-demon-female-1_wings_black-16">
+</path>
+<path d="M 12 828 L 56 701 C 128 537 164 455 164 455 C 177 429 184 417 184 417 C 151 527 107 618 81 740 L 75 746 L 12 828 Z" fill="#23252e" id="id-demon-female-1_wings_black-17">
+</path>
+<path d="M 95 1134 C 114 966 140 789 213 554 C 167 764 127 989 104 1253 C 104 1471 104 1580 104 1580 C 115 1324 138 1090 175 877 C 236 601 267 463 267 463 C 263 706 262 827 262 827 C 282 414 292 208 292 208 C 273 243 259 258 263 174 C 219 349 172 512 130 699 C 114 804 95 883 95 1134 Z" fill="#23252e" id="id-demon-female-1_wings_black-18">
+</path>
+<path d="M 333 250 L 316 222 C 318 351 314 471 312 595 C 326 365 333 250 333 250 Z" fill="#adbad5" id="id-demon-female-1_wings_black-19">
+</path>
+<path d="M 333 247 L 323 240 L 318 492 C 328 329 333 247 333 247 Z" fill="#adb8d3" id="id-demon-female-1_wings_black-20">
+</path>
+<path d="M 360 249 L 332 191 L 342 153 C 354 217 360 249 360 249 Z" fill="#adbad5" id="id-demon-female-1_wings_black-21">
+</path>
+<path d="M 333 70 C 349 61 358 57 358 57 C 336 93 326 111 326 111 L 321 117 L 333 70 Z" fill="#adbad5" id="id-demon-female-1_wings_black-22">
+</path>
+<path d="M 1164 1156 C 1165 1157 1165 1158 1166 1159 C 1169 1193 1169 1207 1168 1236 C 1166 1279 1172 1317 1173 1354 C 1176 1276 1177 1204 1168 1163 C 1172 1171 1177 1180 1180 1190 C 1180 1192 1180 1193 1180 1195 C 1182 1203 1184 1219 1186 1244 C 1190 1226 1190 1222 1190 1215 C 1208 1248 1212 1300 1218 1356 C 1218 1135 1217 1024 1217 1024 C 1210 1028 1205 1033 1202 1038 C 1204 1016 1208 996 1212 978 C 1215 981 1216 989 1218 995 C 1218 933 1219 902 1219 902 C 1234 873 1241 858 1241 858 C 1253 890 1258 905 1258 905 C 1260 912 1261 915 1261 915 C 1258 819 1257 771 1257 771 C 1278 421 1288 248 1288 250 C 1292 247 1293 246 1293 246 C 1306 251 1313 254 1313 254 C 1315 256 1316 257 1316 257 C 1315 252 1315 249 1315 249 C 1303 185 1297 153 1297 153 C 1297 117 1297 99 1297 99 C 1307 71 1313 57 1313 57 C 1296 65 1288 70 1288 70 C 1273 71 1262 57 1250 49 C 1253 33 1254 17 1259 1 C 1237 19 1213 43 1189 77 C 1173 106 1165 120 1165 120 C 1178 108 1185 103 1185 103 C 1213 92 1227 87 1227 87 C 1232 104 1235 113 1235 113 C 1216 132 1206 141 1206 141 C 1184 167 1173 180 1173 180 C 1198 174 1211 171 1211 171 C 1203 199 1199 213 1199 213 C 1161 280 1141 314 1141 314 C 1143 312 1144 311 1144 311 C 1142 315 1141 317 1141 317 C 1148 309 1166 289 1176 302 C 1162 342 1156 362 1156 362 C 1123 403 1086 453 1049 498 C 1055 491 1060 486 1064 483 C 1064 484 1064 485 1064 485 C 1091 467 1105 458 1105 458 C 1114 456 1119 455 1119 455 C 1047 619 1011 702 1011 702 C 981 786 967 828 967 828 C 1009 774 1030 746 1030 746 C 1067 715 1085 699 1085 699 C 1070 770 1059 864 1052 981 C 1051 1040 1049 1091 1050 1137 C 1044 1234 1041 1283 1041 1283 C 1051 1244 1056 1225 1056 1225 L 1059 1253 C 1059 1463 1059 1572 1059 1580 C 1064 1510 1069 1461 1075 1434 C 1088 1376 1100 1330 1111 1282 C 1124 1234 1138 1191 1152 1142 C 1153 1143 1154 1143 1154 1143 C 1157 1162 1158 1189 1158 1222 L 1164 1156 Z" transform="translate(1141,790) scale(-1,1) translate(-1141,-790)" fill="#0d0d0d" id="id-demon-female-1_wings_black-23">
+</path>
+<path d="M 1036 1137 C 1055 969 1081 789 1153 554 C 1107 764 1068 1013 1045 1278 C 1045 1479 1044 1580 1044 1580 C 1055 1324 1078 1090 1115 877 C 1127 811 1140 758 1153 718 C 1191 557 1210 472 1210 463 C 1208 647 1205 768 1202 827 C 1221 560 1231 353 1232 208 C 1213 243 1199 258 1203 174 C 1167 334 1112 513 1071 699 C 1054 804 1036 887 1036 1137 Z" transform="translate(1134,877) scale(-1,1) translate(-1134,-877)" fill="#23252e" id="id-demon-female-1_wings_black-24">
+</path>
+<path d="M 1081 1488 C 1083 1466 1085 1454 1085 1454 C 1095 1428 1102 1394 1108 1359 C 1107 1382 1106 1406 1101 1443 C 1090 1469 1083 1484 1081 1488 Z" fill="#0d0d0d" id="id-demon-female-1_wings_black-25">
+</path>
+<path d="M 1167 1528 C 1161 1365 1158 1284 1158 1284 L 1178 1360 C 1170 1472 1167 1528 1167 1528 Z" fill="#0d0d0d" id="id-demon-female-1_wings_black-26">
+</path>
+<path d="M 1252 1018 C 1240 908 1234 853 1234 853 L 1258 951 C 1254 996 1252 1018 1252 1018 Z" fill="#0d0d0d" id="id-demon-female-1_wings_black-27">
+</path>
+<path d="M 1325 800 C 1308 761 1300 741 1300 741 L 1327 763 C 1325 787 1325 800 1325 800 Z" fill="#0d0d0d" id="id-demon-female-1_wings_black-28">
+</path>
+<path d="M 1266 765 C 1256 753 1252 746 1252 746 C 1247 742 1245 740 1245 740 C 1224 635 1178 528 1144 422 C 1170 463 1220 592 1271 702 L 1315 829 L 1266 765 Z" fill="#23252e" id="id-demon-female-1_wings_black-29">
+</path>
+<path d="M 1317 832 C 1284 789 1267 768 1267 768 C 1263 730 1261 711 1261 711 L 1183 501 L 1273 705 C 1302 790 1317 832 1317 832 Z" fill="#adbad5" id="id-demon-female-1_wings_black-30">
+</path>
+<path d="M 1116 330 C 1124 364 1128 381 1128 381 L 1209 468 L 1127 362 C 1119 341 1116 330 1116 330 Z" fill="#adbad5" id="id-demon-female-1_wings_black-31">
+</path>
+<path d="M 1041 225 C 1049 254 1054 268 1054 268 L 1051 471 C 1044 307 1041 225 1041 225 Z" fill="#adbad5" id="id-demon-female-1_wings_black-32">
+</path>
+<path d="M 994 250 L 1011 222 C 1008 342 1014 471 1015 595 C 1001 365 994 250 994 250 Z" fill="#23262f" id="id-demon-female-1_wings_black-33">
+</path>
+<path d="M 968 249 L 997 188 C 992 185 990 161 986 154 C 974 217 968 249 968 249 Z" fill="#23252e" id="id-demon-female-1_wings_black-34">
+</path>
+<path d="M 1002 156 C 1017 146 1024 141 1024 141 L 1048 206 C 1034 181 1018 164 1002 156 Z" fill="#23252e" id="id-demon-female-1_wings_black-35">
+</path>
+<path d="M 969 57 L 1003 113 C 1040 125 1076 148 1110 180 L 1076 141 C 1039 103 1003 75 969 57 Z" fill="#23252e" id="id-demon-female-1_wings_black-36">
+</path>
+<path d="M 982 76 L 1003 77 C 993 69 982 62 970 57 C 978 69 982 76 982 76 Z" fill="#b0bcd7" id="id-demon-female-1_wings_black-37">
+</path>
+<path d="M 1020 90 L 1046 132 C 1067 143 1089 160 1110 180 L 1076 141 C 1057 119 1038 102 1020 90 Z" fill="#adbbd6" id="id-demon-female-1_wings_black-38">
+</path>
+<path d="M 1071 171 L 1084 238 L 1141 318 C 1138 314 1137 312 1137 312 L 1141 315 L 1082 213 C 1075 185 1071 171 1071 171 Z" fill="#e0ebff" id="id-demon-female-1_wings_black-39">
+</path>
+<path d="M 1070 194 C 1073 240 1075 263 1075 263 C 1086 296 1091 312 1091 312 C 1127 534 1145 645 1145 645 C 1122 464 1110 373 1110 373 L 1136 453 C 1090 278 1068 192 1070 194 Z" fill="#afbdd8" id="id-demon-female-1_wings_black-40">
+</path>
+<path d="M 1024 1 C 1036 33 1042 49 1042 49 L 1091 73 C 1065 39 1043 15 1024 1 Z" fill="#e0ebff" id="id-demon-female-1_wings_black-41">
+</path>
+<path d="M 1074 65 L 1103 94 C 1098 87 1096 80 1090 73 C 1079 68 1074 65 1074 65 Z" fill="#e0ebff" id="id-demon-female-1_wings_black-42">
+</path>
+</g>
+<defs>
+<filter width="155%" height="561%" x="-27%" y="-230%" id="id-demon-female-2_foreground_overlay_halo_back_green-0" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="30">
+</feGaussianBlur>
+</filter>
+<linearGradient x1="87%" y1="158%" x2="23%" y2="158%" id="id-demon-female-2_foreground_overlay_halo_back_green-1">
+<stop stop-color="#00781b" offset="0%">
+</stop>
+<stop stop-color="#185000" offset="100%">
+</stop>
+</linearGradient>
+</defs>
+<g transform="translate(494,237)" id="id-demon-female-2_foreground_overlay_halo_back_green-2">
+<path d="M 168 41 C 254 41 329 20 330 7 C 331 -7 250 25 165 25 C 80 25 0 -10 0 7 C 0 23 83 41 168 41 Z" fill="#00ff3e" id="id-demon-female-2_foreground_overlay_halo_back_green-3" filter="url(#id-demon-female-2_foreground_overlay_halo_back_green-0)">
+</path>
+<path d="M 164 28 C 250 28 320 24 320 7 C 320 3 315 1 304 1 C 298 10 249 14 157 14 C 65 14 22 10 28 0 C 18 1 13 3 13 7 C 13 24 78 28 164 28 Z" fill="#003f05" id="id-demon-female-2_foreground_overlay_halo_back_green-3">
+</path>
+<path d="M 28 14 C 53 22 95 25 156 25 C 217 25 265 22 300 15 C 249 20 201 22 156 22 C 111 22 68 19 28 14 Z" fill="url(#id-demon-female-2_foreground_overlay_halo_back_green-1)" id="id-demon-female-2_foreground_overlay_halo_back_green-6">
+</path>
+</g>
+<defs>
+</defs>
+<path d="M 827 682 C 804 670 786 641 775 595 C 775 593 781 608 810 649 C 812 653 815 661 818 674 L 822 674 C 820 664 819 658 817 654 C 792 602 782 608 774 576 C 774 561 772 532 769 490 L 570 447 L 536 539 L 521 601 L 515 623 L 496 643 L 486 675 L 827 682 Z" fill="#0c0001" id="id-demon-female-3_down_hair_back-0">
+</path>
+<defs>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="98%" id="id-demon-female-4_body_red-0">
+<stop stop-color="#c22c38" offset="0%">
+</stop>
+<stop stop-color="#7b1c28" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-demon-female-4_body_red-1">
+<stop stop-color="#531223" offset="0%">
+</stop>
+<stop stop-color="#4c1226" offset="67%">
+</stop>
+<stop stop-color="#360b24" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-demon-female-4_body_red-2">
+<stop stop-color="#4e1021" offset="0%">
+</stop>
+<stop stop-color="#3c0c22" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="31%" x2="45%" y2="50%" id="id-demon-female-4_body_red-3">
+<stop stop-color="#a72331" offset="0%">
+</stop>
+<stop stop-color="#c02a32" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="100%" y1="46%" x2="12%" y2="47%" id="id-demon-female-4_body_red-4">
+<stop stop-color="#94072d" offset="0%">
+</stop>
+<stop stop-color="#c00627" offset="21%">
+</stop>
+<stop stop-color="#e7372e" offset="45%">
+</stop>
+<stop stop-color="#771718" offset="80%">
+</stop>
+<stop stop-color="#c60f2f" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="53%" y1="81%" x2="50%" y2="21%" id="id-demon-female-4_body_red-5">
+<stop stop-color="#681532" offset="0%">
+</stop>
+<stop stop-color="#a22136" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="52%" y1="-4%" x2="46%" y2="70%" id="id-demon-female-4_body_red-6">
+<stop stop-color="#501b22" offset="0%">
+</stop>
+<stop stop-color="#45181c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="31%" y1="86%" x2="36%" y2="9%" id="id-demon-female-4_body_red-7">
+<stop stop-color="#790b27" offset="0%">
+</stop>
+<stop stop-color="#9f0c23" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="48%" y1="9%" x2="60%" y2="92%" id="id-demon-female-4_body_red-8">
+<stop stop-color="#b30922" offset="0%">
+</stop>
+<stop stop-color="#980b23" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="54%" y1="37%" x2="12%" y2="72%" id="id-demon-female-4_body_red-9">
+<stop stop-color="#390c0c" offset="0%">
+</stop>
+<stop stop-color="#6b110c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="40%" y1="14%" x2="61%" y2="85%" id="id-demon-female-4_body_red-10">
+<stop stop-color="#320f13" offset="0%">
+</stop>
+<stop stop-color="#331010" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="27%" y1="47%" x2="91%" y2="49%" id="id-demon-female-4_body_red-11">
+<stop stop-color="#d55c47" offset="0%">
+</stop>
+<stop stop-color="#d33e36" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="47%" y1="60%" x2="49%" y2="79%" id="id-demon-female-4_body_red-12">
+<stop stop-color="#5d1633" offset="0%">
+</stop>
+<stop stop-color="#571531" offset="60%">
+</stop>
+<stop stop-color="#4a122c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="51%" y1="11%" x2="49%" y2="93%" id="id-demon-female-4_body_red-13">
+<stop stop-color="#c50c2f" offset="0%">
+</stop>
+<stop stop-color="#d00233" offset="74%">
+</stop>
+<stop stop-color="#c60236" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="51%" y1="-5%" x2="48%" y2="96%" id="id-demon-female-4_body_red-14">
+<stop stop-color="#8e202d" offset="0%">
+</stop>
+<stop stop-color="#841c2f" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="19%" x2="50%" y2="69%" id="id-demon-female-4_body_red-15">
+<stop stop-color="#6b182a" offset="0%">
+</stop>
+<stop stop-color="#4c0f24" offset="45%">
+</stop>
+<stop stop-color="#511125" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="85%" y1="60%" x2="15%" y2="60%" id="id-demon-female-4_body_red-16">
+<stop stop-color="#b9052d" offset="0%">
+</stop>
+<stop stop-color="#9d0829" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="48%" y1="-20%" x2="59%" y2="91%" id="id-demon-female-4_body_red-17">
+<stop stop-color="#c02b2e" offset="0%">
+</stop>
+<stop stop-color="#d20a24" offset="60%">
+</stop>
+<stop stop-color="#821c31" offset="72%">
+</stop>
+<stop stop-color="#741832" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="55%" y1="48%" x2="46%" y2="33%" id="id-demon-female-4_body_red-18">
+<stop stop-color="#be042c" offset="0%">
+</stop>
+<stop stop-color="#b02631" offset="86%">
+</stop>
+<stop stop-color="#7f1c2b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="19%" x2="50%" y2="78%" id="id-demon-female-4_body_red-19">
+<stop stop-color="#401900" offset="0%">
+</stop>
+<stop stop-color="#522003" offset="50%">
+</stop>
+<stop stop-color="#371900" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="96%" y1="52%" x2="9%" y2="52%" id="id-demon-female-4_body_red-20">
+<stop stop-color="#57101c" offset="0%">
+</stop>
+<stop stop-color="#681725" offset="47%" stop-opacity="0">
+</stop>
+<stop stop-color="#661726" offset="63%" stop-opacity="0">
+</stop>
+<stop stop-color="#561320" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="44%" y1="70%" x2="86%" y2="30%" id="id-demon-female-4_body_red-21">
+<stop stop-color="#960c24" offset="0%">
+</stop>
+<stop stop-color="#e72e2d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="20%" y1="91%" x2="73%" y2="32%" id="id-demon-female-4_body_red-22">
+<stop stop-color="#df0d23" offset="0%">
+</stop>
+<stop stop-color="#f93d4a" offset="51%">
+</stop>
+<stop stop-color="#c02a2c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="24%" y1="86%" x2="67%" y2="37%" id="id-demon-female-4_body_red-23">
+<stop stop-color="#912028" offset="0%">
+</stop>
+<stop stop-color="#d8503e" offset="18%">
+</stop>
+<stop stop-color="#e83f31" offset="50%">
+</stop>
+<stop stop-color="#e51c26" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="20%" y1="36%" x2="101%" y2="55%" id="id-demon-female-4_body_red-24">
+<stop stop-color="#d5453f" offset="0%">
+</stop>
+<stop stop-color="#d33d35" offset="73%">
+</stop>
+<stop stop-color="#5f1524" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="35%" y1="78%" x2="41%" y2="54%" id="id-demon-female-4_body_red-25">
+<stop stop-color="#9c2328" offset="0%">
+</stop>
+<stop stop-color="#912028" offset="35%">
+</stop>
+<stop stop-color="#a22429" offset="100%">
+</stop>
+</linearGradient>
+<radialGradient cx="50%" cy="50%" r="42%" id="id-demon-female-4_body_red-26" fx="50%" fy="50%" gradientTransform="translate(0.5,0.5) scale(1,0.986) rotate(-100) translate(-0.5,-0.5)">
+<stop stop-color="#e07751" offset="0%">
+</stop>
+<stop stop-color="#e07752" offset="32%">
+</stop>
+<stop stop-color="#dc684a" offset="100%" stop-opacity="0">
+</stop>
+</radialGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-demon-female-4_body_red-27">
+<stop stop-color="#d23531" offset="0%">
+</stop>
+<stop stop-color="#d44238" offset="61%">
+</stop>
+<stop stop-color="#d54a3c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="63%" y1="95%" x2="43%" y2="20%" id="id-demon-female-4_body_red-28">
+<stop stop-color="#9d0b23" offset="0%">
+</stop>
+<stop stop-color="#b30922" offset="46%">
+</stop>
+<stop stop-color="#9f2328" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="40%" y1="0%" x2="50%" y2="86%" id="id-demon-female-4_body_red-29">
+<stop stop-color="#932128" offset="0%">
+</stop>
+<stop stop-color="#a82529" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="47%" y1="43%" x2="50%" y2="62%" id="id-demon-female-4_body_red-30">
+<stop stop-color="#3f0c21" offset="0%">
+</stop>
+<stop stop-color="#3e0c21" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="92%" id="id-demon-female-4_body_red-31">
+<stop stop-color="#da0a21" offset="0%">
+</stop>
+<stop stop-color="#b30922" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="33%" y1="79%" x2="21%" y2="44%" id="id-demon-female-4_body_red-32">
+<stop stop-color="#a92629" offset="0%">
+</stop>
+<stop stop-color="#a62529" offset="28%">
+</stop>
+<stop stop-color="#c82d2d" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="15%" y1="47%" x2="92%" y2="45%" id="id-demon-female-4_body_red-33">
+<stop stop-color="#801e2b" offset="0%">
+</stop>
+<stop stop-color="#7c1c2a" offset="17%">
+</stop>
+<stop stop-color="#912128" offset="48%">
+</stop>
+<stop stop-color="#731a25" offset="78%">
+</stop>
+<stop stop-color="#6c1827" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="60%" y1="45%" x2="67%" y2="53%" id="id-demon-female-4_body_red-34">
+<stop stop-color="#d33937" offset="0%">
+</stop>
+<stop stop-color="#d8534a" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="48%" y1="15%" x2="54%" y2="81%" id="id-demon-female-4_body_red-35">
+<stop stop-color="#a32235" offset="0%">
+</stop>
+<stop stop-color="#811a37" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="26%" y1="-7%" x2="50%" y2="96%" id="id-demon-female-4_body_red-36">
+<stop stop-color="#37373f" offset="0%">
+</stop>
+<stop stop-color="#19191d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="12%" x2="59%" y2="82%" id="id-demon-female-4_body_red-37">
+<stop stop-color="#252525" offset="0%">
+</stop>
+<stop stop-color="#101010" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="25%" y1="-16%" x2="50%" y2="98%" id="id-demon-female-4_body_red-38">
+<stop stop-color="#37373f" offset="0%">
+</stop>
+<stop stop-color="#19191d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="75%" y1="39%" x2="50%" y2="93%" id="id-demon-female-4_body_red-39">
+<stop stop-color="#252525" offset="0%">
+</stop>
+<stop stop-color="#000000" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="68%" y1="4%" x2="68%" y2="39%" id="id-demon-female-4_body_red-40">
+<stop stop-color="#cf3130" offset="0%">
+</stop>
+<stop stop-color="#b92b2b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="63%" y1="29%" x2="43%" y2="65%" id="id-demon-female-4_body_red-41">
+<stop stop-color="#ae292d" offset="0%">
+</stop>
+<stop stop-color="#ae2a2f" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="60%" y1="73%" x2="11%" y2="32%" id="id-demon-female-4_body_red-42">
+<stop stop-color="#c53434" offset="0%">
+</stop>
+<stop stop-color="#df3636" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="79%" y1="15%" x2="31%" y2="87%" id="id-demon-female-4_body_red-43">
+<stop stop-color="#d95757" offset="0%">
+</stop>
+<stop stop-color="#e96f6f" offset="100%">
+</stop>
+</linearGradient>
+<radialGradient cx="50%" cy="46%" r="72%" id="id-demon-female-4_body_red-44" fx="50%" fy="46%" gradientTransform="translate(0.5,0.465) scale(0.889,1) rotate(90) scale(1,1) translate(-0.5,-0.465)">
+<stop stop-color="#b32b30" offset="0%">
+</stop>
+<stop stop-color="#8e1818" offset="100%">
+</stop>
+</radialGradient>
+<linearGradient x1="32%" y1="4%" x2="54%" y2="75%" id="id-demon-female-4_body_red-45">
+<stop stop-color="#821f2b" offset="0%">
+</stop>
+<stop stop-color="#b52b2e" offset="38%">
+</stop>
+<stop stop-color="#ab272c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="11%" y1="50%" x2="57%" y2="50%" id="id-demon-female-4_body_red-46">
+<stop stop-color="#c62e30" offset="0%">
+</stop>
+<stop stop-color="#d24139" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-demon-female-4_body_red-47">
+<stop stop-color="#9d242a" offset="0%">
+</stop>
+<stop stop-color="#8c2029" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="63%" id="id-demon-female-4_body_red-48">
+<stop stop-color="#ce3232" offset="0%">
+</stop>
+<stop stop-color="#d55643" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="93%" y1="38%" x2="20%" y2="70%" id="id-demon-female-4_body_red-49">
+<stop stop-color="#d14d40" offset="0%">
+</stop>
+<stop stop-color="#d97151" offset="60%">
+</stop>
+<stop stop-color="#c22f31" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="17%" y1="66%" x2="58%" y2="41%" id="id-demon-female-4_body_red-50">
+<stop stop-color="#db7453" offset="0%">
+</stop>
+<stop stop-color="#d55c48" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="25%" y1="46%" x2="50%" y2="58%" id="id-demon-female-4_body_red-51">
+<stop stop-color="#b53535" offset="0%">
+</stop>
+<stop stop-color="#c43c3c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="74%" y1="15%" x2="42%" y2="68%" id="id-demon-female-4_body_red-52">
+<stop stop-color="#c94433" offset="0%">
+</stop>
+<stop stop-color="#d14521" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="43%" y1="47%" x2="85%" y2="53%" id="id-demon-female-4_body_red-53">
+<stop stop-color="#901b1b" offset="0%">
+</stop>
+<stop stop-color="#b42e2e" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="65%" y1="43%" x2="13%" y2="55%" id="id-demon-female-4_body_red-54">
+<stop stop-color="#7b1414" offset="0%">
+</stop>
+<stop stop-color="#811313" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="85%" y1="61%" x2="16%" y2="50%" id="id-demon-female-4_body_red-55">
+<stop stop-color="#b2292c" offset="0%">
+</stop>
+<stop stop-color="#b0292d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="34%" x2="72%" y2="84%" id="id-demon-female-4_body_red-56">
+<stop stop-color="#9a242a" offset="0%">
+</stop>
+<stop stop-color="#c02d30" offset="42%">
+</stop>
+<stop stop-color="#bf2c2e" offset="59%">
+</stop>
+<stop stop-color="#b1292c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="50%" x2="50%" y2="78%" id="id-demon-female-4_body_red-57">
+<stop stop-color="#d34f40" offset="0%">
+</stop>
+<stop stop-color="#c32d2f" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="36%" y1="33%" x2="50%" y2="71%" id="id-demon-female-4_body_red-58">
+<stop stop-color="#d24545" offset="0%">
+</stop>
+<stop stop-color="#a62121" offset="100%">
+</stop>
+<stop stop-color="#a63821" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="id-demon-female-4_body_red-59">
+<stop stop-color="#c22c2e" offset="0%">
+</stop>
+<stop stop-color="#cc2f30" offset="42%">
+</stop>
+<stop stop-color="#ce3030" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="57%" x2="-8%" y2="54%" id="id-demon-female-4_body_red-60">
+<stop stop-color="#9c2626" offset="0%">
+</stop>
+<stop stop-color="#661111" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="14%" y1="61%" x2="23%" y2="56%" id="id-demon-female-4_body_red-61">
+<stop stop-color="#6b1927" offset="0%">
+</stop>
+<stop stop-color="#6d1929" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="48%" y1="50%" x2="55%" y2="57%" id="id-demon-female-4_body_red-62">
+<stop stop-color="#b92a2c" offset="0%">
+</stop>
+<stop stop-color="#902228" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="43%" y2="119%" id="id-demon-female-4_body_red-63">
+<stop stop-color="#dc7553" offset="0%">
+</stop>
+<stop stop-color="#d34c3e" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="100%" y1="37%" x2="80%" y2="57%" id="id-demon-female-4_body_red-64">
+<stop stop-color="#9e1e1e" offset="0%">
+</stop>
+<stop stop-color="#cf4a4a" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="55%" y1="43%" x2="43%" y2="53%" id="id-demon-female-4_body_red-65">
+<stop stop-color="#be3b3b" offset="0%">
+</stop>
+<stop stop-color="#b32e2e" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="72%" y1="4%" x2="28%" y2="76%" id="id-demon-female-4_body_red-66">
+<stop stop-color="#b13737" offset="0%">
+</stop>
+<stop stop-color="#7d1b1b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="22%" y1="50%" x2="83%" y2="50%" id="id-demon-female-4_body_red-67">
+<stop stop-color="#c25e5e" offset="0%">
+</stop>
+<stop stop-color="#902222" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="82%" y1="54%" x2="50%" y2="59%" id="id-demon-female-4_body_red-68">
+<stop stop-color="#841818" offset="0%">
+</stop>
+<stop stop-color="#ba3f3f" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="25%" y1="53%" x2="75%" y2="52%" id="id-demon-female-4_body_red-69">
+<stop stop-color="#e1bb9f" offset="0%">
+</stop>
+<stop stop-color="#c08666" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="80%" id="id-demon-female-4_body_red-70">
+<stop stop-color="#340b13" offset="0%">
+</stop>
+<stop stop-color="#3b0f15" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-demon-female-4_body_red-71">
+<stop stop-color="#4f1416" offset="0%">
+</stop>
+<stop stop-color="#531519" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="109%" y1="50%" x2="23%" y2="43%" id="id-demon-female-4_body_red-72">
+<stop stop-color="#b55d33" offset="0%">
+</stop>
+<stop stop-color="#c18055" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="31%" x2="45%" y2="54%" id="id-demon-female-4_body_red-73">
+<stop stop-color="#681825" offset="0%">
+</stop>
+<stop stop-color="#3e0b21" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="60%" y1="33%" x2="52%" y2="35%" id="id-demon-female-4_body_red-74">
+<stop stop-color="#531224" offset="0%">
+</stop>
+<stop stop-color="#6d1826" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="53%" y1="55%" x2="47%" y2="50%" id="id-demon-female-4_body_red-75">
+<stop stop-color="#681724" offset="0%">
+</stop>
+<stop stop-color="#4d1025" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="98%" x2="50%" y2="0%" id="id-demon-female-4_body_red-76">
+<stop stop-color="#401027" offset="0%">
+</stop>
+<stop stop-color="#851f2b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="98%" x2="50%" y2="0%" id="id-demon-female-4_body_red-77">
+<stop stop-color="#401027" offset="0%">
+</stop>
+<stop stop-color="#851f2b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="49%" y1="52%" x2="48%" y2="50%" id="id-demon-female-4_body_red-78">
+<stop stop-color="#831c34" offset="0%">
+</stop>
+<stop stop-color="#5a122e" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="65%" y1="50%" x2="49%" y2="31%" id="id-demon-female-4_body_red-79">
+<stop stop-color="#7e1b2c" offset="0%">
+</stop>
+<stop stop-color="#942031" offset="84%">
+</stop>
+<stop stop-color="#bd2839" offset="100%">
+</stop>
+</linearGradient>
+</defs>
+<g transform="translate(335,335)" id="id-demon-female-4_body_red-80">
+<path d="M 322 490 C 273 541 249 566 249 566 L 373 561 C 339 514 322 490 322 490 Z" fill="url(#id-demon-female-4_body_red-0)" id="id-demon-female-4_body_red-81">
+</path>
+<g id="id-demon-female-4_body_red-82">
+<path d="M 277 1425 C 217 1425 187 1425 187 1425 C 188 1400 189 1388 189 1388 C 197 1390 202 1391 202 1391 C 184 1375 175 1366 175 1366 C 183 1343 187 1331 187 1331 C 192 1308 195 1297 195 1297 C 186 1312 182 1320 182 1320 C 169 1291 158 1257 147 1220 C 136 1163 126 1106 120 1048 C 111 1004 136 920 142 897 C 144 889 144 886 144 886 C 162 886 190 843 160 839 C 167 823 171 814 171 814 C 165 789 162 776 162 776 C 174 771 179 769 179 769 C 186 755 189 748 189 748 C 181 741 174 737 170 738 C 177 731 181 728 181 728 C 196 742 216 731 215 708 C 354 702 424 699 424 699 C 425 735 436 737 453 722 C 461 726 465 727 465 727 C 457 737 443 743 449 764 C 463 766 469 767 469 767 C 468 786 463 793 466 817 C 467 823 475 834 478 840 C 479 845 480 848 480 848 C 453 843 461 887 493 898 C 494 900 495 901 495 901 C 492 923 495 947 504 973 C 509 1008 513 1045 514 1083 C 511 1126 505 1161 498 1188 C 486 1225 468 1268 453 1316 C 451 1316 450 1315 450 1315 C 441 1298 436 1290 436 1290 C 444 1320 448 1335 448 1335 C 447 1351 444 1366 452 1384 C 443 1390 439 1393 439 1393 C 434 1398 431 1401 431 1401 C 442 1397 447 1395 447 1395 C 447 1415 447 1425 447 1425 C 390 1425 362 1425 362 1425 C 360 1421 360 1419 360 1419 C 362 1410 362 1405 362 1405 C 359 1406 357 1406 357 1406 C 354 1394 352 1381 352 1367 C 355 1364 356 1363 356 1363 C 358 1363 358 1364 358 1364 C 366 1343 369 1333 369 1333 C 366 1334 365 1334 365 1334 C 358 1348 355 1355 355 1355 C 351 1341 349 1335 349 1335 C 362 1283 364 1223 340 1145 C 335 1141 333 1139 333 1139 C 333 1082 333 1054 333 1054 C 339 1026 344 1004 349 989 C 352 981 351 975 344 974 C 331 978 324 980 324 980 C 319 979 313 971 307 973 C 303 971 295 970 298 986 C 303 1004 306 1025 308 1047 C 307 1104 307 1133 307 1133 C 302 1135 299 1136 299 1136 C 265 1203 275 1267 286 1330 C 282 1339 280 1344 280 1344 C 272 1327 268 1318 268 1318 C 266 1317 265 1316 265 1316 C 269 1331 278 1346 275 1361 C 280 1372 283 1384 283 1396 C 278 1400 276 1402 276 1402 L 280 1411 L 277 1425 Z" fill="url(#id-demon-female-4_body_red-1)" id="id-demon-female-4_body_red-83">
+</path>
+<path d="M 307 1133 C 302 1135 299 1136 299 1136 C 273 1096 237 1066 227 1007 C 222 906 220 856 220 856 C 227 860 231 862 231 862 C 264 913 281 939 281 939 C 299 917 307 907 307 907 C 314 890 322 878 330 873 C 343 892 357 912 376 937 L 425 870 C 421 924 417 978 410 1032 C 401 1070 373 1108 340 1145 L 333 1139 C 333 1111 333 1083 333 1053 C 342 999 362 974 344 974 C 341 974 334 976 324 980 C 319 978 313 971 307 973 C 302 971 297 970 298 984 L 308 1047 L 307 1133 Z" fill="url(#id-demon-female-4_body_red-2)" opacity="0.928" id="id-demon-female-4_body_red-84">
+</path>
+<g transform="translate(0,215)" id="id-demon-female-4_body_red-85">
+<polygon points="561 754 565 870 565 880 537 892 533 897 535 901 531 908 542 909 597 863" fill="#200608" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="519 499 516 519 544 628 473 499 489 398" fill="url(#id-demon-female-4_body_red-3)" id="id-demon-female-4_body_red-87">
+</polygon>
+<polygon points="536 282 539 245 535 195 528 157 521 137 484 117 440 110 212 110 188 113 156 122 120 138 111 185 107 220 109 289" fill="url(#id-demon-female-4_body_red-4)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="467 393 474 506 502 589 536 671 555 727 561 754 546 793 552 851 551 860 552 873 555 885 566 881 567 866 570 859 570 842 571 833 576 842 576 858 579 863 573 873 571 883 544 902 541 916 582 900 597 863 606 852 599 821 597 715 589 694 582 655 568 522 544 424" fill="url(#id-demon-female-4_body_red-5)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="546 793 552 851 551 860 552 873 555 885 566 881 567 866 570 859 570 842 571 833 576 842 576 858 579 863 573 873 571 883 544 902 541 916 582 900 597 863 583 870 588 854 573 814 560 822" fill="url(#id-demon-female-4_body_red-6)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="552 851 551 860 552 873 555 886 566 884 567 866 570 859 558 859" fill="#351015" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="543 905 541 916 582 900 571 889" fill="#391015" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="561 754 547 788 566 818 585 806" fill="#66152f" id="id-demon-female-4_body_red-86">
+</polygon>
+<path d="M 480 633 C 479 631 478 629 477 627 C 473 618 470 611 466 603 C 466 595 466 584 466 570 L 449 550 C 446 536 449 531 453 526 L 454 508 C 434 525 425 516 424 485 L 435 459 L 449 401 L 455 339 L 188 342 L 201 423 C 215 455 227 515 195 518 L 167 583 L 171 600 L 159 623 C 169 626 174 632 172 647 L 263 696 L 319 726 L 386 692 L 465 656 C 460 639 466 635 480 633 Z" fill="url(#id-demon-female-4_body_red-7)" id="id-demon-female-4_body_red-86">
+</path>
+<path d="M 479 633 L 466 603 C 464 586 465 578 466 569 C 457 560 451 553 448 548 C 446 541 448 534 453 525 L 445 514 C 430 522 425 507 424 484 L 435 456 L 449 401 L 455 339 L 296 352 L 376 634 L 464 645 C 464 640 471 633 479 633 Z" fill="url(#id-demon-female-4_body_red-8)" id="id-demon-female-4_body_red-86">
+</path>
+<g transform="translate(188,0)" id="id-demon-female-4_body_red-96">
+<polygon points="273 114 252 110 231 99 200 76 188 58 184 0 92 0 87 63 24 110 0 113 102 122 120 134 133 138 148 120 160 116 186 118 224 114" fill="#832e2e" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="200 76 188 58 184 12 174 57 154 111 184 72" fill="#a06e95" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="148 0 92 0 87 63 107 126 120 134 132 137" fill="#6e1f1f" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="115 101 119 113 117 115 135 134 149 119 164 71 124 108" fill="#5a1717" id="id-demon-female-4_body_red-100">
+</polygon>
+<polygon points="120 126 132 137 144 124" fill="#430303" id="id-demon-female-4_body_red-101">
+</polygon>
+<polygon points="135 97 164 70 174 57 185 16 133 50" fill="#681c1c" id="id-demon-female-4_body_red-102">
+</polygon>
+<polygon points="96 95 115 79 163 60 177 47 185 17 184 0 92 0 87 63 45 95" fill="#5e1919" opacity="0.654" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="185 17 184 0 92 0 87 63 45 95 65 95" fill="url(#id-demon-female-4_body_red-9)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="122 58 175 23 185 17 184 0 92 0 90 21 107 54" fill="#1e0404" opacity="0.39" id="id-demon-female-4_body_red-86">
+</polygon>
+</g>
+<polygon points="41 843 33 855 36 895 64 914 84 911 82 902 71 897 72 891 62 883 52 848" fill="url(#id-demon-female-4_body_red-10)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="314 151 285 173 320 187 357 165" fill="#d33632" id="id-demon-female-4_body_red-107">
+</polygon>
+<polygon points="327 150 370 129 342 126" fill="#b5282a" id="id-demon-female-4_body_red-108">
+</polygon>
+<polygon points="301 141 303 148 243 131 240 118 276 118" fill="#b2282b" id="id-demon-female-4_body_red-109">
+</polygon>
+<polygon points="159 148 205 122 269 122 302 143 296 117 188 113 156 122 120 138" fill="url(#id-demon-female-4_body_red-11)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="156 122 120 138 152 167 195 134" fill="#e44c41" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="89 583 77 541 62 551 45 657 34 712 25 740 25 761 9 816 0 844 14 869 25 900 57 919 71 919 68 912 60 905 50 899 37 873 37 852 43 844 51 854 50 886 56 900 63 905 66 900 66 881 71 835 71 799 68 780 63 773 66 734 85 683 120 598 162 510" fill="url(#id-demon-female-4_body_red-12)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="89 583 77 541 62 551 45 657 48 714 120 598 162 510" fill="#7a1b34" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="54 842 45 827 37 847 16 852 8 836 4 851 0 844 14 869 25 900 57 919 71 919 68 912 60 905 50 899 37 873 37 852 43 844 51 854 50 886 56 900 63 905 66 900 66 881 71 835" fill="#45102c" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="52 881 52 891 56 900 63 905 66 900 66 881 66 875" fill="#420f2b" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="25 900 57 919 71 919 61 909 37 894" fill="#420f2b" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="160 466 145 487 107 577 45 777 48 796 63 773 66 734 85 683 120 598 162 510" fill="#480e27" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="120 138 111 185 107 220 109 289 95 438 88 463 68 510 88 584 162 510 167 424 162 240" fill="url(#id-demon-female-4_body_red-13)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="101 465 103 488 105 510 159 446 179 359 164 231 187 183 186 179 132 181 160 234 160 320 149 375 151 383 123 460 114 465" fill="url(#id-demon-female-4_body_red-14)" id="id-demon-female-4_body_red-119">
+</polygon>
+<polygon points="95 438 88 463 68 510 50 620 101 519 95 476" fill="#851c35" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="95 451 127 364 133 315 120 138 111 185 107 220 109 289 95 438" fill="#910b2f" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="184 241 176 248 162 225 138 289 161 320 169 374 161 420 151 410 162 510 167 424 188 342" fill="url(#id-demon-female-4_body_red-15)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="10 854 8 836 4 851 0 844 14 869" fill="#44102e" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="510 475 491 418 481 446 484 356 520 273 533 417" fill="url(#id-demon-female-4_body_red-16)" id="id-demon-female-4_body_red-124">
+</polygon>
+<polygon points="568 522 544 424 542 345 536 282 539 245 535 195 528 157 521 137 494 160 419 157 470 211 516 289 525 410 510 476 518 506 535 461 561 542" fill="url(#id-demon-female-4_body_red-17)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="486 389 533 242 500 167 463 206 450 247 462 264" fill="url(#id-demon-female-4_body_red-18)" id="id-demon-female-4_body_red-126">
+</polygon>
+<polygon points="473 489 474 506 502 589 536 671 555 727 561 754 567 712 543 622" fill="#801c2c" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="460 328 466 378 474 506 489 424 486 391 468 273 479 230 461 259 454 251" fill="url(#id-demon-female-4_body_red-19)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="451 384 455 339 458 328 363 339 330 307 267 342 188 342 193 378 262 367 311 342 335 339 380 367" fill="url(#id-demon-female-4_body_red-20)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="286 327 306 310 330 274 452 251 464 204 420 155 317 203 219 164 210 153 187 180" fill="url(#id-demon-female-4_body_red-21)" id="id-demon-female-4_body_red-130">
+</polygon>
+<path d="M 421 194 L 404 189 C 377 189 356 197 342 213 C 328 229 322 249 322 275 C 324 301 331 320 345 332 C 365 350 384 355 404 355 C 425 355 444 346 450 341 C 453 338 457 334 460 328 C 463 323 466 316 467 307 C 469 293 465 275 457 254 L 421 194 Z" fill="url(#id-demon-female-4_body_red-22)" id="id-demon-female-4_body_red-131">
+</path>
+<path d="M 421 194 L 417 175 C 386 187 366 196 358 200 C 354 203 351 205 348 207 C 347 208 380 253 447 341 C 454 338 459 332 463 323 C 469 310 469 301 468 292 C 468 286 465 274 459 256 L 421 194 Z" fill="url(#id-demon-female-4_body_red-23)" id="id-demon-female-4_body_red-131">
+</path>
+<path d="M 272 204 C 260 198 243 200 220 209 C 186 226 169 258 167 302 C 167 318 183 341 190 346 C 196 350 212 355 238 352 C 256 351 271 344 283 332 C 303 311 312 287 309 259 C 305 217 290 213 272 204 Z" fill="url(#id-demon-female-4_body_red-24)" id="id-demon-female-4_body_red-133">
+</path>
+<path d="M 339 284 C 333 251 328 239 326 248 C 324 253 323 262 322 275 C 324 301 331 320 345 332 C 365 350 382 355 403 355 C 425 355 443 346 450 341 C 456 336 465 324 468 307 C 471 290 465 276 462 268 C 461 263 459 258 458 254 L 442 289 L 398 304 L 366 299 L 339 284 Z" fill="url(#id-demon-female-4_body_red-25)" id="id-demon-female-4_body_red-131">
+</path>
+<path d="M 375 225 C 337 252 343 276 343 283 C 343 290 353 318 370 334 C 378 342 422 348 446 331 C 468 315 471 293 457 264 C 427 220 399 207 375 225 Z" fill="url(#id-demon-female-4_body_red-26)" opacity="0.638" id="id-demon-female-4_body_red-131">
+</path>
+<path d="M 259 202 C 254 198 240 185 217 163 L 210 152 L 186 179 C 192 210 192 230 186 238 C 174 255 167 276 167 302 C 167 323 190 351 238 343 C 251 341 274 216 259 202 Z" fill="url(#id-demon-female-4_body_red-27)" id="id-demon-female-4_body_red-133">
+</path>
+<path d="M 175 564 L 203 550 L 234 557 L 241 519 L 216 475 C 217 486 216 517 196 519 L 175 564 Z" fill="#601524" id="id-demon-female-4_body_red-137">
+</path>
+<polygon points="240 441 241 517 228 555 233 628 265 656 316 707 380 658 395 628 364 503 350 503 300 379" fill="url(#id-demon-female-4_body_red-28)" id="id-demon-female-4_body_red-138">
+</polygon>
+<polygon points="431 625 426 588 407 517 414 504 449 567 469 618" fill="url(#id-demon-female-4_body_red-29)" id="id-demon-female-4_body_red-139">
+</polygon>
+<path d="M 171 634 L 241 683 L 306 758 C 313 759 318 764 324 766 L 337 762 L 395 699 L 468 654 L 403 643 L 313 699 L 216 622 L 171 634 Z" fill="url(#id-demon-female-4_body_red-30)" opacity="0.571" id="id-demon-female-4_body_red-140">
+</path>
+<polygon points="302 376 254 441 254 546 302 590 364 567 364 503 350 503 375 454 345 400" fill="url(#id-demon-female-4_body_red-31)" id="id-demon-female-4_body_red-138">
+</polygon>
+<polygon points="313 479 338 436 315 412 297 446" fill="#ad2629" id="id-demon-female-4_body_red-142">
+</polygon>
+<polygon points="297 541 311 507 322 541 306 548" fill="#992228" id="id-demon-female-4_body_red-143">
+</polygon>
+<polygon points="299 542 309 577 322 541" fill="#b3282a" id="id-demon-female-4_body_red-144">
+</polygon>
+<path d="M 178 332 C 178 334 180 335 181 338 C 184 341 186 343 189 345 C 190 346 197 350 206 352 C 214 354 226 354 238 352 C 256 351 271 344 283 332 C 292 322 299 313 302 305 C 304 300 307 293 309 277 C 310 273 310 267 309 259 L 228 277 L 207 294 L 178 332 Z" fill="url(#id-demon-female-4_body_red-32)" id="id-demon-female-4_body_red-133">
+</path>
+<polygon points="299 542 301 550 316 556 322 541" fill="#c72d2d" id="id-demon-female-4_body_red-144">
+</polygon>
+<polygon points="301 542 310 524 316 541 307 547" fill="#601524" id="id-demon-female-4_body_red-147">
+</polygon>
+<path d="M 161 625 L 170 601 L 176 560 L 185 616 L 213 601 L 246 627 L 323 689 L 404 627 L 422 605 L 454 605 L 465 584 L 466 603 C 472 614 477 624 480 633 C 471 634 466 636 464 645 L 457 644 L 388 688 L 341 760 L 303 758 L 259 687 L 175 638 C 179 655 153 671 141 687 L 145 672 C 161 669 188 632 161 625 Z" fill="url(#id-demon-female-4_body_red-33)" opacity="0.442" id="id-demon-female-4_body_red-148">
+</path>
+<polygon points="489 153 521 137 484 117 412 122" fill="url(#id-demon-female-4_body_red-34)" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="573 784 588 828 602 857 606 852 599 821 597 715 576 762" fill="#711634" id="id-demon-female-4_body_red-86">
+</polygon>
+<polygon points="574 721 589 694 582 655 533 541" fill="url(#id-demon-female-4_body_red-35)" id="id-demon-female-4_body_red-86">
+</polygon>
+<g transform="translate(187,269)" id="id-demon-female-4_body_red-152">
+<polygon points="207 13 207 10 217 2 220 2 239 21 258 39 260 42 250 51 246 52 226 33" fill="url(#id-demon-female-4_body_red-36)" id="id-demon-female-4_body_red-153">
+</polygon>
+<polygon points="208 40 218 50 222 50 240 33 257 13 257 9 247 0 244 1 230 19 209 36" fill="url(#id-demon-female-4_body_red-37)" id="id-demon-female-4_body_red-154">
+</polygon>
+<polygon points="1 13 1 10 10 2 15 2 32 21 50 39 52 42 42 52 38 52 19 33" fill="url(#id-demon-female-4_body_red-38)" id="id-demon-female-4_body_red-153">
+</polygon>
+<polygon points="0 43 10 53 14 53 33 35 50 15 50 11 40 3 36 4 19 23 1 39" fill="url(#id-demon-female-4_body_red-39)" id="id-demon-female-4_body_red-154">
+</polygon>
+</g>
+</g>
+<g transform="translate(227,0)" id="id-demon-female-4_body_red-157">
+<g transform="translate(169,113)" id="id-demon-female-4_body_red-158">
+<polygon points="14 1 18 0 25 8 26 21 23 40 14 65 0 67" fill="url(#id-demon-female-4_body_red-40)" id="id-demon-female-4_body_red-159">
+</polygon>
+<polygon points="12 48 19 49 23 41 25 24 20 11 12 21" fill="#cb5454" id="id-demon-female-4_body_red-160">
+</polygon>
+<polygon points="11 21 16 10 20 5 23 7 25 23 20 35 18 30 20 16 9 29" fill="#8e1515" id="id-demon-female-4_body_red-161">
+</polygon>
+<polygon points="10 28 11 37 8 44 12 49 18 37 13 24" fill="#7d0202" id="id-demon-female-4_body_red-162">
+</polygon>
+<polygon points="12 18 16 16 17 9" fill="#5b0000" id="id-demon-female-4_body_red-163">
+</polygon>
+<polygon points="18 49 10 50 8 49 5 60 12 62 14 60" fill="#7b1b28" id="id-demon-female-4_body_red-164">
+</polygon>
+</g>
+<g transform="translate(0,111)" id="id-demon-female-4_body_red-165">
+<polygon points="13 0 5 0 0 13 3 35 13 62 24 66" fill="#410e24" id="id-demon-female-4_body_red-166">
+</polygon>
+<polygon points="5 9 0 13 3 35 13 62 24 66 12 24" fill="#5c1627" id="id-demon-female-4_body_red-166">
+</polygon>
+<polygon points="18 45 14 46 7 31 11 26 4 8 6 5 16 20 17 28" fill="#ab3232" id="id-demon-female-4_body_red-168">
+</polygon>
+<polygon points="13 61 20 61 18 48 11 52" fill="#96242c" id="id-demon-female-4_body_red-169">
+</polygon>
+<polygon points="24 66 13 62 20 61 17 45 14 46 13 43 14 28 16 26 14 21 10 18 10 11 16 19" fill="#420e23" id="id-demon-female-4_body_red-170">
+</polygon>
+<polygon points="13 9 4 3 5 0 12 0" fill="#a5292e" id="id-demon-female-4_body_red-171">
+</polygon>
+</g>
+<path d="M 29 195 C 21 164 16 141 15 128 C 4 43 33 0 101 0 C 177 0 188 62 183 117 C 179 154 170 188 167 198 C 166 202 164 209 161 213 C 141 230 125 240 114 244 L 80 245 C 70 242 55 231 35 214 C 33 211 31 205 29 195 Z" fill="#d1865a" opacity="0.966" id="id-demon-female-4_body_red-172">
+</path>
+<polygon points="35 104 25 116 37 38 102 9 158 38 163 103 104 120" fill="url(#id-demon-female-4_body_red-41)" id="id-demon-female-4_body_red-173">
+</polygon>
+<polygon points="118 175 108 134 128 126 175 136 166 173 137 188" fill="url(#id-demon-female-4_body_red-42)" id="id-demon-female-4_body_red-174">
+</polygon>
+<polygon points="166 158 132 143 161 131 173 138" fill="#f67a7a" id="id-demon-female-4_body_red-175">
+</polygon>
+<polygon points="166 158 153 153 173 138" fill="url(#id-demon-female-4_body_red-43)" id="id-demon-female-4_body_red-175">
+</polygon>
+<path d="M 19 152 C 17 142 15 134 15 128 C 4 43 33 0 101 0 C 177 0 188 62 183 117 C 182 125 181 134 180 142 L 146 126 L 140 121 L 159 97 C 159 79 154 58 146 36 C 123 28 105 25 93 28 C 81 30 65 38 44 52 L 38 89 L 27 112 L 41 104 L 19 152 Z" fill="url(#id-demon-female-4_body_red-44)" opacity="0.966" id="id-demon-female-4_body_red-172">
+</path>
+<polygon points="76 142 36 126 22 146 56 214 86 197" fill="url(#id-demon-female-4_body_red-45)" id="id-demon-female-4_body_red-178">
+</polygon>
+<polygon points="68 188 58 168 69 143 84 129 93 137 86 183" fill="#c42e30" id="id-demon-female-4_body_red-179">
+</polygon>
+<polygon points="83 177 67 189 71 202 127 204 136 193 112 167" fill="url(#id-demon-female-4_body_red-46)" id="id-demon-female-4_body_red-180">
+</polygon>
+<polygon points="73 200 68 198 56 208 74 235 129 231 140 202 134 193 123 200" fill="url(#id-demon-female-4_body_red-47)" id="id-demon-female-4_body_red-181">
+</polygon>
+<polygon points="90 196 94 175 105 175 110 196" fill="url(#id-demon-female-4_body_red-48)" id="id-demon-female-4_body_red-182">
+</polygon>
+<path d="M 38 99 L 63 84 C 67 66 72 56 75 52 C 78 49 92 45 117 41 L 149 69 L 124 112 L 80 111 L 72 97 L 38 99 Z" fill="url(#id-demon-female-4_body_red-49)" id="id-demon-female-4_body_red-183">
+</path>
+<polygon points="153 97 121 76 103 96 125 109" fill="url(#id-demon-female-4_body_red-50)" id="id-demon-female-4_body_red-184">
+</polygon>
+<polygon points="90 196 91 189 100 191 108 190 110 196" fill="#dd7552" id="id-demon-female-4_body_red-182">
+</polygon>
+<polygon points="72 214 66 211 72 203 128 203 128 210 117 210" fill="#c02d2f" id="id-demon-female-4_body_red-186">
+</polygon>
+<polygon points="78 207 68 217 88 227 118 228 126 223 121 205" fill="url(#id-demon-female-4_body_red-51)" id="id-demon-female-4_body_red-187">
+</polygon>
+<polygon points="138 200 115 177 124 167 147 181" fill="url(#id-demon-female-4_body_red-52)" id="id-demon-female-4_body_red-188">
+</polygon>
+<polygon points="27 148 39 130 63 123 48 105 32 107 23 143" fill="#b63a3a" id="id-demon-female-4_body_red-189">
+</polygon>
+<polygon points="78 108 91 129 78 136 34 128 27 124 43 117" fill="url(#id-demon-female-4_body_red-53)" id="id-demon-female-4_body_red-190">
+</polygon>
+<polygon points="29 115 26 125 44 104 60 119 78 128 55 103 39 102" fill="url(#id-demon-female-4_body_red-54)" id="id-demon-female-4_body_red-191">
+</polygon>
+<polygon points="90 138 72 161 87 161 120 173 124 168 131 171 111 145" fill="url(#id-demon-female-4_body_red-55)" id="id-demon-female-4_body_red-192">
+</polygon>
+<polygon points="82 177 91 182 107 183 115 179 118 173" fill="#641818" id="id-demon-female-4_body_red-193">
+</polygon>
+<polygon points="121 132 112 139 121 165 121 171 115 177 80 170 79 167 80 163 89 136 85 130 100 125" fill="url(#id-demon-female-4_body_red-56)" id="id-demon-female-4_body_red-194">
+</polygon>
+<polygon points="78 109 97 102 119 111 105 141 96 141" fill="#c32e31" id="id-demon-female-4_body_red-195">
+</polygon>
+<polygon points="99 117 94 129 94 150 82 172 118 173 106 152 106 129" fill="url(#id-demon-female-4_body_red-57)" id="id-demon-female-4_body_red-196">
+</polygon>
+<polygon points="88 160 82 172 97 172" fill="#df765d" id="id-demon-female-4_body_red-196">
+</polygon>
+<path d="M 79 167 L 79 175 L 82 177 L 89 177 L 107 177 L 114 178 C 116 176 118 175 119 173 C 120 171 120 169 120 167 L 117 173 C 112 171 107 169 102 168 C 96 168 90 169 84 171 L 83 170 L 93 152 L 91 153 L 79 167 Z" fill="url(#id-demon-female-4_body_red-58)" id="id-demon-female-4_body_red-198">
+</path>
+<path d="M 103 176 C 105 174 107 173 109 173 C 111 173 114 173 117 173 C 113 171 110 170 105 169 C 104 169 103 171 103 176 Z" fill="#ce6065" id="id-demon-female-4_body_red-198">
+</path>
+<path d="M 86 177 L 96 177 C 95 174 93 173 90 173 C 87 173 86 174 86 177 Z" fill="#60140d" id="id-demon-female-4_body_red-200">
+</path>
+<path d="M 103 177 L 111 177 C 113 175 112 173 110 173 C 107 173 105 174 103 177 Z" fill="#5b120b" id="id-demon-female-4_body_red-201">
+</path>
+<polygon points="87 216 93 223 109 223 114 214" fill="#440d22" id="id-demon-female-4_body_red-202">
+</polygon>
+<path d="M 75 229 C 83 225 92 222 101 222 C 110 222 119 225 128 229 L 115 242 L 85 242 L 75 229 Z" fill="url(#id-demon-female-4_body_red-59)" id="id-demon-female-4_body_red-203">
+</path>
+<path d="M 111 223 C 115 224 120 226 128 229 L 115 242 L 99 238 L 111 223 Z" fill="#d96749" id="id-demon-female-4_body_red-203">
+</path>
+<path d="M 92 225 C 97 223 98 223 103 223 C 105 223 107 223 110 224 C 107 229 104 232 102 233 C 94 228 91 225 92 225 Z" fill="#d9684b" id="id-demon-female-4_body_red-203">
+</path>
+<polygon points="79 138 72 143 50 145 36 132 45 129 50 136 72 138" fill="url(#id-demon-female-4_body_red-60)" id="id-demon-female-4_body_red-206">
+</polygon>
+<path d="M 26 117 L 38 108 L 49 109 L 52 112 L 56 112 L 56 110 L 59 112 L 62 112 L 62 111 L 66 114 L 75 116 L 75 113 L 67 103 C 62 102 58 101 54 100 C 51 100 45 99 38 99 L 26 113 L 26 117 Z" fill="#500d0d" id="id-demon-female-4_body_red-207">
+</path>
+<polygon points="26 117 38 108 42 105 56 103 38 99 26 113" fill="#220f06" id="id-demon-female-4_body_red-207">
+</polygon>
+<polygon points="76 111 71 105 75 105" fill="#501c0d" id="id-demon-female-4_body_red-209">
+</polygon>
+<polygon points="78 112 78 107 80 108" fill="#501c0d" id="id-demon-female-4_body_red-210">
+</polygon>
+<path d="M 29 195 C 21 164 16 141 15 128 C 14 127 28 146 54 184 L 63 218 L 87 238 L 102 235 L 116 238 L 127 226 C 152 215 163 211 161 213 C 141 230 125 240 114 244 L 80 245 C 70 242 55 231 35 214 C 33 211 31 205 29 195 Z" fill="url(#id-demon-female-4_body_red-61)" opacity="0.966" id="id-demon-female-4_body_red-172">
+</path>
+<path d="M 116 238 L 127 226 L 144 180 L 164 157 L 169 139 L 183 117 C 179 154 170 188 167 198 C 166 202 164 209 161 213 C 142 228 129 237 123 240 C 120 241 118 241 116 238 Z" fill="url(#id-demon-female-4_body_red-62)" opacity="0.966" id="id-demon-female-4_body_red-172">
+</path>
+<polygon points="41 186 29 148 54 184 63 218" fill="#7c1e2a" opacity="0.966" id="id-demon-female-4_body_red-172">
+</polygon>
+<path d="M 179 69 C 180 80 181 97 181 120 C 173 165 169 191 167 198 C 166 202 164 209 161 213 C 147 224 138 231 132 235 L 160 210 L 175 152 L 175 106 L 172 111 L 165 104 L 179 69 Z" fill="#ca2f30" opacity="0.966" id="id-demon-female-4_body_red-172">
+</path>
+<path d="M 93 163 L 99 165 C 105 163 107 162 105 162 C 103 161 99 161 93 163 Z" fill="#f5aa9c" id="id-demon-female-4_body_red-215">
+</path>
+<polygon points="105 151 98 148 94 151 98 138 95 131 100 128 104 131 102 138" fill="url(#id-demon-female-4_body_red-63)" id="id-demon-female-4_body_red-216">
+</polygon>
+<polygon points="106 152 120 166 117 172 113 164 108 167 111 161" fill="#c54343" id="id-demon-female-4_body_red-217">
+</polygon>
+<path d="M 163 128 C 166 128 168 126 169 124 C 170 122 171 119 172 113 L 162 102 L 148 103 L 134 120 L 163 128 Z" fill="url(#id-demon-female-4_body_red-64)" id="id-demon-female-4_body_red-218">
+</path>
+<polygon points="121 132 115 138 122 141 128 136" fill="#f39393" id="id-demon-female-4_body_red-219">
+</polygon>
+<path d="M 109 130 L 122 133 L 165 128 C 162 122 159 119 154 117 C 150 115 144 114 137 115 L 117 107 L 112 116 L 114 120 L 109 130 Z" fill="url(#id-demon-female-4_body_red-65)" id="id-demon-female-4_body_red-220">
+</path>
+<polygon points="119 132 131 111 148 107 135 123" fill="url(#id-demon-female-4_body_red-66)" id="id-demon-female-4_body_red-221">
+</polygon>
+<path d="M 122 132 C 126 126 131 122 139 121 C 147 120 156 122 165 129 L 122 132 Z" fill="url(#id-demon-female-4_body_red-67)" id="id-demon-female-4_body_red-222">
+</path>
+<polygon points="122 140 136 145 151 145 162 132 155 128 125 136" fill="url(#id-demon-female-4_body_red-68)" id="id-demon-female-4_body_red-223">
+</polygon>
+<path d="M 126 132 L 124 136 L 148 137 L 157 131 C 152 127 147 126 142 126 C 137 126 132 128 126 132 Z" fill="#e9d5df" id="id-demon-female-4_body_red-224">
+</path>
+<path d="M 128 137 L 131 133 L 147 130 L 153 134 L 157 131 C 152 127 146 126 139 127 C 133 128 128 131 124 136 L 128 137 Z" fill="#000000" opacity="0.295" id="id-demon-female-4_body_red-225">
+</path>
+<polygon points="122 137 141 138 149 137 157 131 155 130 148 136 126 136" fill="url(#id-demon-female-4_body_red-69)" id="id-demon-female-4_body_red-226">
+</polygon>
+<polygon points="127 133 126 135 134 136 127 136 122 137 123 136" fill="#9d5133" id="id-demon-female-4_body_red-227">
+</polygon>
+<polygon points="132 127 129 125 139 121 143 125" fill="#ed7f7f" id="id-demon-female-4_body_red-228">
+</polygon>
+<path d="M 130 131 C 131 135 134 137 140 136 C 145 136 148 133 148 128 C 143 127 139 126 136 127 C 133 127 131 129 130 131 Z" fill="#200c09" id="id-demon-female-4_body_red-229">
+</path>
+<path d="M 133 133 C 133 135 135 136 140 135 C 144 135 146 133 145 130 C 144 131 143 132 141 132 C 139 133 136 133 133 133 Z" fill="#bf0526" id="id-demon-female-4_body_red-229">
+</path>
+<polygon points="137 130 134 130 134 131 138 131 138 130 140 130 140 128 137 128" fill="#b49ebb" id="id-demon-female-4_body_red-231">
+</polygon>
+<path d="M 123 135 C 130 131 136 128 142 128 C 147 127 153 129 161 134 L 168 127 L 159 128 C 151 125 144 124 138 126 C 132 127 127 130 123 135 Z" fill="#200f09" id="id-demon-female-4_body_red-232">
+</path>
+<polygon points="144 142 144 139 141 139" fill="#2d130a" id="id-demon-female-4_body_red-233">
+</polygon>
+<polygon points="148 138 152 141 150 137" fill="#2d130a" id="id-demon-female-4_body_red-234">
+</polygon>
+<polygon points="152 136 159 138 155 134 154 135" fill="#2d130a" id="id-demon-female-4_body_red-235">
+</polygon>
+<polygon points="120 117 128 109 124 116 129 113 131 115 134 110 136 112 139 111 140 110 143 111 153 107 161 106 171 115 171 110 159 97 148 97 127 102" fill="#661313" id="id-demon-female-4_body_red-236">
+</polygon>
+<polygon points="157 103 171 115 171 110 159 97 139 104" fill="#36150e" id="id-demon-female-4_body_red-236">
+</polygon>
+<polygon points="75 207 71 207 71 201 78 201 122 199 130 199 131 203 129 205" fill="#270712" id="id-demon-female-4_body_red-238">
+</polygon>
+<polygon points="76 205 73 205 75 203 100 197 128 203 129 204" fill="#1f0712" id="id-demon-female-4_body_red-239">
+</polygon>
+<path d="M 73 201 C 79 202 83 203 86 203 C 92 203 95 200 100 200 C 105 200 109 202 113 203 C 116 203 119 202 124 200 C 119 197 114 193 109 190 C 108 190 105 191 100 193 C 95 192 92 191 91 191 C 85 194 79 197 73 201 Z" fill="url(#id-demon-female-4_body_red-70)" id="id-demon-female-4_body_red-240">
+</path>
+<path d="M 74 205 C 78 207 85 220 101 219 C 117 218 121 208 127 204 C 115 203 115 204 100 204 C 92 205 88 203 74 205 Z" fill="#661726" id="id-demon-female-4_body_red-241">
+</path>
+<path d="M 74 205 C 76 206 79 211 84 214 C 88 217 116 215 120 211 C 122 208 124 206 127 204 C 115 203 115 204 100 204 C 92 205 88 203 74 205 Z" fill="url(#id-demon-female-4_body_red-71)" id="id-demon-female-4_body_red-241">
+</path>
+<path d="M 74 205 C 76 206 79 211 84 214 C 88 217 116 215 120 211 C 122 208 124 206 127 204 C 115 203 116 213 101 214 C 83 215 88 203 74 205 Z" fill="#531419" id="id-demon-female-4_body_red-241">
+</path>
+<path d="M 88 209 C 90 210 92 211 96 210 C 99 209 104 209 111 208 C 107 207 104 206 102 207 C 98 207 94 206 89 207 C 89 207 88 208 88 209 Z" fill="#fa827f" id="id-demon-female-4_body_red-244">
+</path>
+<polygon points="49 125 49 120 63 120 64 125" fill="url(#id-demon-female-4_body_red-72)" id="id-demon-female-4_body_red-245">
+</polygon>
+<path d="M 40 123 C 46 120 51 119 56 120 C 61 120 69 123 79 128 C 70 121 62 117 53 117 C 45 117 41 119 40 123 Z" fill="#661717" id="id-demon-female-4_body_red-246">
+</path>
+<polygon points="59 137 77 139 83 135" fill="#f8b291" id="id-demon-female-4_body_red-247">
+</polygon>
+<polygon points="68 136 79 136 79 134 73 131 73 134" fill="#902727" id="id-demon-female-4_body_red-248">
+</polygon>
+<path d="M 46 130 L 50 136 C 55 136 59 136 62 136 C 65 136 69 135 74 135 C 74 133 74 132 74 132 C 70 128 64 126 60 126 C 55 125 51 126 46 130 Z" fill="#d2b3b9" id="id-demon-female-4_body_red-249">
+</path>
+<path d="M 52 128 C 53 133 56 135 60 136 C 65 136 68 133 69 128 C 65 126 61 125 59 125 C 57 125 55 126 52 128 Z" fill="#250b06" id="id-demon-female-4_body_red-250">
+</path>
+<path d="M 56 131 C 54 131 53 132 54 133 C 55 134 57 135 60 136 C 63 136 65 135 67 133 C 67 133 66 130 64 131 C 62 132 59 132 56 131 Z" fill="#920017" id="id-demon-female-4_body_red-250">
+</path>
+<path d="M 46 130 L 48 134 C 53 131 56 130 57 130 C 69 129 74 132 74 132 C 70 128 64 126 60 126 C 55 125 51 126 46 130 Z" fill="#000000" opacity="0.3" id="id-demon-female-4_body_red-249">
+</path>
+<polygon points="56 130 56 128 59 128 59 130" fill="#bda7a9" id="id-demon-female-4_body_red-253">
+</polygon>
+<path d="M 32 128 L 38 132 L 42 132 C 49 128 55 127 60 127 C 65 127 71 130 79 135 C 76 130 70 127 63 125 C 55 124 48 125 41 128 L 32 128 Z" fill="#2c1309" id="id-demon-female-4_body_red-254">
+</path>
+<polygon points="42 135 46 132 49 134" fill="#3a180f" id="id-demon-female-4_body_red-255">
+</polygon>
+<polygon points="49 136 49 140 52 136" fill="#3a180f" id="id-demon-female-4_body_red-256">
+</polygon>
+<polygon points="54 137 57 138 54 142" fill="#3a180f" id="id-demon-female-4_body_red-257">
+</polygon>
+<polygon points="120 105 123 104 118 116" fill="#662913" id="id-demon-female-4_body_red-258">
+</polygon>
+<polygon points="116 106 118 106 116 113 112 116" fill="#662913" id="id-demon-female-4_body_red-259">
+</polygon>
+<path d="M 126 133 C 131 130 136 129 140 128 C 144 127 151 129 155 130 C 153 132 153 132 148 136 C 141 136 134 136 126 135 L 126 133 Z" fill="#00c900" id="id-demon-female-4_body_red-260">
+</path>
+<path d="M 74 135 C 65 137 57 137 51 136 C 47 132 46 130 46 130 C 50 128 54 127 59 127 C 65 128 67 128 74 132 C 75 133 74 134 74 135 Z" fill="#00c900" id="id-demon-female-4_body_red-261">
+</path>
+</g>
+<path d="M 425 870 C 423 888 422 897 422 897 L 376 949 L 343 975 C 338 976 331 980 324 981 C 317 977 310 972 305 973 C 300 974 298 971 298 975 C 272 955 260 945 260 945 L 221 885 L 220 856 L 231 862 L 281 939 L 307 907 C 313 893 319 880 330 873 L 376 937 C 408 892 425 870 425 870 Z" fill="url(#id-demon-female-4_body_red-73)" id="id-demon-female-4_body_red-262">
+</path>
+<path d="M 120 350 C 164 336 186 329 186 329 C 154 345 137 353 137 353 C 129 352 125 351 125 351 C 117 382 112 407 109 428 L 113 394 C 118 365 120 350 120 350 Z" fill="#ffb87e" id="id-demon-female-4_body_red-263">
+</path>
+<path d="M 469 325 C 473 325 475 325 475 325 C 482 331 486 335 486 335 C 511 344 523 349 523 349 C 526 367 527 376 527 376 C 526 377 525 377 525 377 C 524 369 521 359 516 348 C 509 352 506 353 506 353 C 502 347 476 344 458 339 L 480 336 C 473 332 469 328 469 325 Z" fill="#ffb87e" id="id-demon-female-4_body_red-264">
+</path>
+<path d="M 427 679 C 417 712 410 723 387 775 C 382 785 382 793 386 799 C 400 808 414 765 429 747 C 436 766 440 775 440 775 C 427 809 420 826 420 826 C 443 826 455 826 455 826 L 479 843 C 474 829 469 823 466 818 C 465 805 466 785 469 767 C 466 765 460 765 449 764 C 443 743 461 734 464 727 L 453 722 C 439 735 423 733 424 699 L 429 689 C 428 685 428 681 427 679 Z" fill="url(#id-demon-female-4_body_red-74)" opacity="0.751" id="id-demon-female-4_body_red-265">
+</path>
+<path d="M 189 1388 C 217 1397 232 1402 232 1402 L 237 1425 L 187 1425 C 188 1400 189 1388 189 1388 Z" fill="#3d1028" id="id-demon-female-4_body_red-266">
+</path>
+<path d="M 175 1366 C 217 1359 238 1355 238 1355 C 251 1325 251 1290 246 1253 C 265 1307 276 1337 280 1344 C 272 1327 269 1318 269 1318 L 265 1317 L 269 1330 C 273 1338 277 1348 275 1362 C 281 1373 283 1384 283 1396 C 278 1400 276 1403 276 1403 C 279 1409 280 1412 280 1412 L 277 1425 L 237 1425 L 232 1402 L 202 1391 C 184 1375 175 1366 175 1366 Z" fill="#350b24" id="id-demon-female-4_body_red-267">
+</path>
+<path d="M 182 1320 C 191 1304 195 1297 195 1297 C 229 1168 175 998 173 852 C 176 862 161 883 144 886 L 142 898 C 129 955 114 978 120 1048 C 124 1089 134 1150 146 1218 C 156 1255 168 1288 182 1320 Z" fill="#410e26" id="id-demon-female-4_body_red-268">
+</path>
+<path d="M 201 637 C 212 644 217 647 217 647 C 233 643 241 641 241 641 C 224 660 215 670 215 670 C 223 713 230 754 257 800 C 258 819 250 823 236 815 C 224 806 219 802 219 802 C 210 786 206 779 206 779 C 205 802 204 814 204 814 L 162 834 L 170 814 L 163 775 L 179 769 L 189 748 C 185 744 180 740 170 738 L 181 728 C 202 740 213 732 215 708 C 219 698 215 674 201 637 Z" fill="url(#id-demon-female-4_body_red-75)" id="id-demon-female-4_body_red-269">
+</path>
+<path d="M 468 886 C 462 897 459 903 459 903 L 416 981 L 410 1032 C 407 1180 393 1281 369 1333 C 366 1343 365 1348 365 1348 C 382 1379 391 1395 391 1395 L 425 1394 L 448 1335 C 439 1303 434 1286 434 1286 C 439 1293 441 1297 441 1297 C 432 1191 428 1084 459 967 C 465 913 468 886 468 886 Z" fill="url(#id-demon-female-4_body_red-76)" id="id-demon-female-4_body_red-270">
+</path>
+<path d="M 560 1039 C 562 1036 565 1033 573 1032 C 562 1030 561 1014 569 984 C 562 1001 559 1010 559 1010 L 553 1014 C 558 1031 560 1039 560 1039 Z" fill="#d54137" id="id-demon-female-4_body_red-271">
+</path>
+<path d="M 579 980 C 578 1002 580 1021 583 1038 C 584 1051 588 1058 585 1079 C 592 1070 596 1066 596 1066 C 600 1072 602 1075 602 1075 C 603 1068 604 1065 604 1065 C 588 1058 587 1062 584 1034 C 583 1024 581 1015 583 1005 C 581 989 579 980 579 980 Z" fill="#d54137" id="id-demon-female-4_body_red-272">
+</path>
+<path d="M 52 837 C 65 833 78 826 89 826 L 88 866 C 96 844 101 834 101 834 C 106 819 81 825 74 820 C 92 806 102 800 102 800 C 113 772 119 758 119 758 C 126 768 130 774 130 774 L 144 768 C 98 873 73 931 72 944 C 66 945 64 945 64 945 C 58 960 56 968 56 968 C 57 971 58 973 58 973 C 53 981 51 985 51 985 C 44 970 40 962 40 962 C 33 961 29 960 29 960 C 31 955 32 952 32 952 C 30 949 29 947 29 947 L 36 927 C 47 867 52 837 52 837 Z" fill="#57122a" id="id-demon-female-4_body_red-273">
+</path>
+<path d="M 172 859 L 221 888 C 225 967 227 1007 227 1007 C 233 1133 237 1196 237 1196 C 227 1212 216 1230 204 1247 C 215 1157 189 1041 172 859 Z" fill="url(#id-demon-female-4_body_red-77)" id="id-demon-female-4_body_red-274">
+</path>
+<path d="M 31 1078 C 26 1063 24 1055 24 1055 L 38 1054 C 33 1070 31 1078 31 1078 Z" fill="#d54137" id="id-demon-female-4_body_red-275">
+</path>
+<path d="M 59 1059 C 67 1054 72 1052 72 1052 C 71 1028 70 1017 70 1017 C 62 997 57 987 57 987 C 62 1003 65 1014 66 1020 C 66 1031 64 1044 59 1057" fill="#d54137" id="id-demon-female-4_body_red-276">
+</path>
+<path d="M 41 950 C 51 922 59 893 74 864 C 78 865 84 861 85 879 C 71 917 64 936 64 936 L 62 922 C 48 941 41 950 41 950 Z" fill="#831e37" id="id-demon-female-4_body_red-277">
+</path>
+<path d="M 74 621 C 77 641 79 650 79 650 C 90 663 95 669 95 669 C 100 688 102 697 102 697 C 98 696 96 695 96 695 C 86 713 81 722 81 722 C 86 719 88 717 88 717 C 87 757 86 777 86 777 C 103 761 112 753 112 753 C 103 776 99 788 99 788 C 69 808 54 817 54 817 C 61 773 65 750 65 750 C 60 733 57 724 57 724 C 66 695 70 681 70 681 C 70 688 72 699 77 714 C 81 705 82 700 82 700 L 69 656 C 72 633 74 621 74 621 Z" fill="url(#id-demon-female-4_body_red-78)" id="id-demon-female-4_body_red-278">
+</path>
+<path d="M 157 665 C 126 704 110 724 110 724 C 110 699 110 687 110 687 C 104 683 102 681 102 681 L 99 685 L 102 699 L 95 694 L 81 722 L 88 717 L 85 778 L 112 753 L 99 789 L 54 817 L 52 837 C 65 832 79 826 89 826 L 88 864 L 102 830 C 102 820 80 825 73 819 L 102 799 C 114 771 120 758 120 758 C 124 765 127 769 127 769 C 135 754 156 740 158 724 L 161 717 C 158 682 157 665 157 665 Z" fill="url(#id-demon-female-4_body_red-79)" id="id-demon-female-4_body_red-279">
+</path>
+<path d="M 251 644 C 266 658 273 665 273 665 C 298 647 310 639 310 639 L 260 650 C 254 646 251 644 251 644 Z" fill="#5c1425" opacity="0.773" id="id-demon-female-4_body_red-280">
+</path>
+<path d="M 327 637 C 346 655 356 664 356 664 C 368 664 374 664 374 664 C 387 651 394 644 394 644 L 370 649 C 341 641 327 637 327 637 Z" fill="#5c1425" opacity="0.773" id="id-demon-female-4_body_red-281">
+</path>
+<path d="M 448 623 C 436 637 430 644 430 644 C 419 643 414 642 414 642 C 418 655 420 662 420 662 L 431 662 C 442 636 448 623 448 623 Z" fill="#5c1425" opacity="0.773" id="id-demon-female-4_body_red-282">
+</path>
+<path d="M 474 669 C 469 660 466 655 466 655 C 465 685 465 700 465 700 C 474 727 478 740 478 740 C 478 723 478 715 478 715 C 487 660 481 643 474 628 C 474 655 474 669 474 669 Z" fill="#571326" id="id-demon-female-4_body_red-283">
+</path>
+<path d="M 565 966 C 567 965 567 964 567 964 C 564 951 563 945 563 945 C 558 945 555 945 555 945 C 540 903 532 882 532 882 C 539 851 543 836 543 836 C 549 849 553 868 564 891 C 561 918 559 932 559 932 C 561 937 562 939 562 939 C 565 923 566 916 566 916 C 582 937 590 948 590 948 C 594 938 597 933 597 933 C 597 960 597 973 597 973 C 592 959 589 953 589 953 C 577 970 571 978 571 978 C 568 972 567 968 567 968 C 565 974 564 977 564 977 L 544 1009 C 558 980 565 966 565 966 Z" fill="#4f0f28" id="id-demon-female-4_body_red-284">
+</path>
+<path d="M 585 895 C 581 906 578 912 578 912 C 568 891 561 867 555 839 C 559 840 563 846 566 852 L 572 767 C 579 850 584 892 585 895 Z" fill="#691532" id="id-demon-female-4_body_red-285">
+</path>
+<path d="M 527 868 C 520 852 517 843 517 843 C 520 825 524 809 521 779 C 534 782 553 774 561 773 C 560 809 560 827 560 827 L 541 814 C 531 850 527 868 527 868 Z" fill="#71172e" id="id-demon-female-4_body_red-286">
+</path>
+<path d="M 548 770 C 562 756 569 749 569 749 C 568 746 568 744 568 744 C 573 726 576 718 576 718 C 573 693 572 681 572 681 C 563 697 559 705 559 705 C 556 696 555 692 555 692 C 567 668 573 656 573 656 C 570 631 569 618 569 618 C 568 616 567 614 567 614 C 565 632 564 641 564 641 C 553 652 547 657 547 657 C 540 690 536 706 536 706 L 546 699 C 547 746 548 770 548 770 Z" fill="#520f2b" id="id-demon-female-4_body_red-287">
+</path>
+<path d="M 572 681 C 570 685 569 686 569 686 L 573 726 L 576 716 C 573 693 572 681 572 681 Z" fill="#ffbb81" id="id-demon-female-4_body_red-288">
+</path>
+<path d="M 570 625 C 568 627 567 628 567 628 L 571 656 L 572 656 C 571 636 570 625 570 625 Z" fill="#ffbb81" id="id-demon-female-4_body_red-289">
+</path>
+<path d="M 283 1396 C 281 1397 280 1398 280 1398 C 278 1391 276 1381 275 1371 C 269 1361 266 1357 266 1357 C 266 1354 266 1353 266 1353 C 271 1358 273 1361 273 1361 L 269 1330 C 273 1339 277 1348 275 1361 C 281 1373 283 1384 283 1396 Z" fill="#ffb87e" id="id-demon-female-4_body_red-290">
+</path>
+<path d="M 286 1330 C 285 1331 285 1332 285 1332 C 276 1310 268 1288 264 1269 C 273 1293 278 1304 278 1304 C 275 1274 274 1258 274 1258 L 276 1254 C 277 1279 281 1304 286 1330 Z" fill="#ffb87e" id="id-demon-female-4_body_red-291">
+</path>
+<path d="M 536 494 C 532 496 531 497 531 497 C 535 555 537 584 537 584 L 540 583 C 537 524 536 494 536 494 Z" fill="#ffb47b" id="id-demon-female-4_body_red-292">
+</path>
+<path d="M 69 656 C 70 658 70 660 70 660 L 76 633 L 74 621 C 71 644 69 656 69 656 Z" fill="#ffba7e" id="id-demon-female-4_body_red-293">
+</path>
+<path d="M 474 889 C 476 896 484 898 494 896 C 495 900 496 901 496 901 C 494 929 497 951 504 973 C 512 1026 518 1078 511 1125 C 513 1080 510 1047 507 1012 C 501 993 498 972 496 949 C 494 934 490 920 492 903 C 486 900 480 904 472 894 C 473 891 474 889 474 889 Z" fill="#ffb97e" id="id-demon-female-4_body_red-294">
+</path>
+<path d="M 499 756 C 523 707 534 682 534 682 L 521 791 C 506 768 499 756 499 756 Z" fill="#881d2f" id="id-demon-female-4_body_red-295">
+</path>
+<path d="M 547 657 C 545 646 544 641 544 641 C 528 690 520 715 520 715 L 524 720 C 540 678 547 657 547 657 Z" fill="#62152b" id="id-demon-female-4_body_red-296">
+</path>
+<path d="M 199 871 C 194 848 191 836 191 836 L 203 837 C 201 860 199 871 199 871 Z" fill="#5f1525" id="id-demon-female-4_body_red-297">
+</path>
+<path d="M 225 827 C 233 845 236 854 236 854 L 264 853 C 238 835 225 827 225 827 Z" fill="#5f1525" id="id-demon-female-4_body_red-298">
+</path>
+<path d="M 265 825 C 279 845 286 855 286 855 L 310 844 C 280 831 265 825 265 825 Z" fill="#5f1525" id="id-demon-female-4_body_red-299">
+</path>
+<path d="M 325 846 C 351 828 364 819 364 819 L 350 853 L 325 846 Z" fill="#5f1525" id="id-demon-female-4_body_red-300">
+</path>
+<path d="M 366 858 L 410 836 L 388 865 C 374 860 366 858 366 858 Z" fill="#5f1525" id="id-demon-female-4_body_red-301">
+</path>
+<path d="M 432 876 C 435 855 437 844 437 844 L 447 856 C 437 869 432 876 432 876 Z" fill="#5f1525" id="id-demon-female-4_body_red-302">
+</path>
+<path d="M 323 981 C 333 978 343 974 343 974 C 348 976 350 978 350 982 C 341 1014 334 1038 332 1054 C 332 1082 332 1096 332 1096 C 358 1001 372 953 372 953 C 299 949 262 948 262 948 C 292 1054 306 1107 306 1107 C 307 1068 307 1048 307 1048 C 305 1030 302 1011 298 990 C 294 981 295 969 305 973 C 309 972 315 975 323 981 Z" fill="#3a0a1c" id="id-demon-female-4_body_red-303">
+</path>
+</g>
+<g transform="translate(158,408)" fill="#010202" id="id-demon-female-4_body_red-304">
+<path d="M 42 305 C 45 309 46 311 46 311 C 47 324 75 391 98 432 C 130 455 161 466 190 467 C 242 441 281 407 313 370 C 312 381 289 408 232 458 C 266 441 285 426 301 410 C 306 401 309 396 309 396 L 309 396 C 314 402 318 409 320 417 C 308 427 302 432 302 432 C 293 474 289 495 289 495 C 288 488 288 484 288 484 L 288 484 C 287 481 286 478 286 475 L 286 474 C 284 469 283 463 279 459 C 275 458 273 458 273 458 C 247 520 233 551 233 551 C 233 551 232 551 232 551 C 232 547 232 545 232 544 L 232 544 C 231 548 231 551 230 554 L 229 558 C 222 593 216 627 194 633 C 189 656 187 667 187 667 C 168 663 160 689 154 717 L 154 719 C 152 729 150 739 147 747 C 147 742 146 736 146 730 L 145 727 C 145 725 145 724 145 723 L 144 712 C 141 661 137 610 123 568 C 111 591 105 617 103 645 C 103 644 103 642 102 641 L 101 628 C 96 586 91 544 83 503 C 78 509 74 515 71 523 L 71 523 L 71 543 C 67 503 67 463 61 424 C 45 394 30 373 15 361 C 8 351 15 340 24 343 C 40 368 57 392 77 413 C 77 412 77 411 76 411 L 75 408 L 75 408 L 74 406 C 73 404 72 402 71 400 L 70 398 C 54 365 39 334 32 310 C 39 307 42 305 42 305 Z M 227 510 C 210 574 201 605 201 605 C 211 601 217 582 224 562 L 224 561 C 225 560 225 559 225 558 L 226 556 C 228 551 230 545 232 540 C 228 520 227 510 227 510 Z" id="id-demon-female-4_body_red-305">
+</path>
+<path d="M 34 390 C 48 412 56 423 56 423 L 47 462 C 38 414 34 390 34 390 Z" id="id-demon-female-4_body_red-306">
+</path>
+<path d="M 25 20 C 24 33 13 56 6 72 C -10 120 8 151 58 165 C 62 168 64 169 64 169 C 120 165 120 120 164 125 C 172 127 175 128 175 128 C 190 149 210 160 234 165 C 251 165 271 161 295 152 C 324 121 310 77 300 35 C 296 45 290 54 281 62 C 282 44 281 26 276 8 C 264 62 201 79 175 119 C 161 120 149 117 140 109 C 140 107 140 106 140 106 C 122 72 53 65 45 0 C 41 15 39 33 42 55 C 33 43 28 31 25 20 Z" id="id-demon-female-4_body_red-307">
+</path>
+</g>
+</g>
+<defs>
+<linearGradient x1="47%" y1="5%" x2="51%" y2="64%" id="id-demon-female-5_down_hair_front-0">
+<stop stop-color="#9a0000" offset="0%">
+</stop>
+<stop stop-color="#280000" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="45%" y2="87%" id="id-demon-female-5_down_hair_front-1">
+<stop stop-color="#b50000" offset="0%">
+</stop>
+<stop stop-color="#e51919" offset="74%">
+</stop>
+<stop stop-color="#000000" offset="100%">
+</stop>
+</linearGradient>
+</defs>
+<g transform="translate(484,312)" id="id-demon-female-5_down_hair_front-2">
+<path d="M 245 118 L 230 105 L 230 109 C 208 89 196 78 193 77 C 154 100 123 123 99 145 L 97 139 L 197 52 L 245 118 Z" fill="#000000" opacity="0.296" id="id-demon-female-5_down_hair_front-3">
+</path>
+<g id="id-demon-female-5_down_hair_front-4">
+<polygon points="195 9 179 2 183 76 191 73 196 67 200 70 233 26 210 1" fill="#000000" id="id-demon-female-5_down_hair_front-5">
+</polygon>
+<path d="M 197 27 L 215 28 L 198 34 L 205 54 L 198 54 L 197 65 C 203 74 207 81 211 86 C 213 88 217 89 225 90 L 239 114 C 247 142 251 163 251 175 C 254 231 249 275 258 314 C 269 362 287 395 311 412 C 302 388 296 371 292 360 C 284 340 276 321 273 307 C 267 281 265 249 266 210 C 268 234 271 252 273 263 C 275 274 279 290 286 311 C 285 292 284 272 283 249 C 282 227 282 204 282 181 C 283 214 288 244 297 272 C 301 287 310 302 314 317 C 315 321 315 330 315 344 C 317 347 319 349 321 352 C 322 340 322 321 317 311 C 306 286 298 267 294 247 C 286 205 286 164 275 118 C 269 92 263 75 260 67 C 252 44 236 23 213 3 C 212 2 206 7 196 17 L 197 27 Z" fill="url(#id-demon-female-5_down_hair_front-0)" id="id-demon-female-5_down_hair_front-5">
+</path>
+<path d="M 66 185 C 67 198 68 207 69 210 C 69 212 62 220 59 224 C 78 251 59 350 34 398 C 32 399 23 392 5 376 C 4 380 2 384 1 387 C 0 374 2 359 5 351 C 6 348 12 341 19 334 L 20 333 C 20 333 20 333 21 332 L 21 331 C 28 325 34 318 34 317 C 35 317 35 310 35 302 L 36 301 C 36 301 36 300 36 300 L 36 299 C 36 291 36 284 36 284 C 36 285 35 287 34 289 L 33 290 C 29 299 23 308 23 309 C 23 311 23 315 22 321 L 22 321 L 12 331 L 17 314 C 23 271 39 228 66 185 Z M 37 247 C 33 262 31 273 29 280 C 27 287 26 294 24 301 L 37 277 L 37 247 Z" fill="#700000" id="id-demon-female-5_down_hair_front-7">
+</path>
+<path d="M 194 25 L 179 2 C 141 11 113 28 96 53 C 84 71 78 82 76 134 C 75 145 72 162 66 185 C 67 209 68 225 69 235 C 71 252 76 265 77 274 C 78 287 81 326 80 330 C 80 332 79 316 76 280 C 59 332 49 362 46 370 C 44 374 40 383 34 397 C 36 384 38 378 38 378 C 30 382 23 375 17 358 L 5 376 C 3 404 8 427 20 445 C 22 425 22 420 31 404 C 35 400 39 398 43 394 C 43 394 68 344 69 343 C 69 343 47 390 48 390 C 54 384 96 352 97 342 C 105 292 97 235 89 198 C 88 192 82 169 81 164 C 81 161 90 150 91 147 C 91 144 92 152 93 157 C 106 131 146 100 182 77 C 186 74 190 68 193 58 L 194 34 L 187 37 L 194 25 Z" fill="url(#id-demon-female-5_down_hair_front-1)" id="id-demon-female-5_down_hair_front-5">
+</path>
+</g>
+<g transform="translate(33,118)" id="id-demon-female-5_down_hair_front-9">
+<polygon points="58 8 54 25 51 41 58 29 59 33 65 1" fill="#000000" id="id-demon-female-5_down_hair_front-5">
+</polygon>
+<polygon points="15 165 5 239 0 217 8 205 12 167" fill="#4c0000" id="id-demon-female-5_down_hair_front-11">
+</polygon>
+</g>
+<g transform="translate(89,2)" id="id-demon-female-5_down_hair_front-12">
+<path d="M 117 76 C 119 81 126 89 138 100 L 135 90 L 150 112 C 157 136 161 162 163 189 C 166 155 162 126 153 102 C 167 83 173 71 171 65 C 165 47 154 30 138 14 C 136 12 137 31 132 46 C 127 62 113 69 117 76 Z" fill="#ab1616" id="id-demon-female-5_down_hair_front-5">
+</path>
+<path d="M 50 32 C 55 28 60 25 64 23 C 67 22 74 21 83 21 C 86 7 87 1 86 1 C 50 10 24 27 7 51 C 4 55 2 58 0 62 C 0 63 5 58 18 51 C 21 49 27 47 37 43 C 29 60 25 71 25 76 C 24 84 26 91 30 96 L 61 72 L 32 102 L 39 108 C 51 96 61 87 67 82 C 73 76 79 72 86 69 L 87 56 L 67 62 L 83 54 L 83 51 L 69 51 L 83 46 L 83 23 C 74 24 68 25 64 26 C 59 27 55 29 50 32 Z" fill="#d53434" id="id-demon-female-5_down_hair_front-5">
+</path>
+</g>
+</g>
+<defs>
+<linearGradient x1="6%" y1="50%" x2="92%" y2="50%" id="id-demon-female-11_halo_front_green-0">
+<stop stop-color="#52ff11" offset="0%">
+</stop>
+<stop stop-color="#40ff87" offset="50%">
+</stop>
+<stop stop-color="#00c420" offset="100%">
+</stop>
+</linearGradient>
+<filter width="155%" height="577%" x="-27%" y="-238%" id="id-demon-female-11_halo_front_green-1" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="30">
+</feGaussianBlur>
+</filter>
+</defs>
+<g transform="translate(494,210)" id="id-demon-female-11_halo_front_green-2">
+<path d="M 161 27 C 202 27 252 28 295 34 C 301 34 308 37 316 40 C 316 40 316 40 317 39 C 319 38 320 36 320 34 C 320 16 250 12 164 12 C 78 12 13 16 13 34 C 13 35 14 37 15 38 C 15 38 15 38 15 39 C 24 36 32 34 39 34 C 75 29 122 27 161 27 Z" fill="url(#id-demon-female-11_halo_front_green-0)" id="id-demon-female-11_halo_front_green-3">
+</path>
+<path d="M 31 31 C 63 26 105 23 158 23 C 211 23 260 26 305 31 C 285 24 236 20 158 20 C 80 20 38 24 31 31 Z" fill="#85ff88" id="id-demon-female-11_halo_front_green-4">
+</path>
+<path d="M 163 20 C 248 20 329 47 330 34 C 331 20 254 1 168 1 C 83 1 0 17 0 34 C 0 50 77 20 163 20 Z" fill="#00ff12" id="id-demon-female-11_halo_front_green-3" filter="url(#id-demon-female-11_halo_front_green-1)">
+</path>
+</g>
+<defs>
+</defs>
+
+</svg>

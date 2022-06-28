@@ -1,0 +1,1943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1">
+<defs>
+</defs>
+
+<defs>
+<linearGradient x1="50%" y1="6%" x2="50%" y2="100%" id="id-male-6.6_base_2-0">
+<stop stop-color="#783f2f" offset="0%">
+</stop>
+<stop stop-color="#97573c" offset="8%">
+</stop>
+<stop stop-color="#7a3f2d" offset="20%">
+</stop>
+<stop stop-color="#884b31" offset="34%">
+</stop>
+<stop stop-color="#6b2923" offset="71%">
+</stop>
+<stop stop-color="#602521" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="-10%" x2="50%" y2="84%" id="id-male-6.6_base_2-1">
+<stop stop-color="#824631" offset="0%">
+</stop>
+<stop stop-color="#9d5940" offset="49%">
+</stop>
+<stop stop-color="#91533a" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="57%" y1="50%" x2="47%" y2="56%" id="id-male-6.6_base_2-2">
+<stop stop-color="#551b1b" offset="0%">
+</stop>
+<stop stop-color="#612520" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="45%" y1="35%" x2="55%" y2="47%" id="id-male-6.6_base_2-3">
+<stop stop-color="#81452f" offset="0%">
+</stop>
+<stop stop-color="#5d221e" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="54%" y1="31%" x2="47%" y2="81%" id="id-male-6.6_base_2-4">
+<stop stop-color="#80402e" offset="0%">
+</stop>
+<stop stop-color="#793e2d" offset="20%">
+</stop>
+<stop stop-color="#77382c" offset="71%">
+</stop>
+<stop stop-color="#6d2f27" offset="81%">
+</stop>
+<stop stop-color="#5b201c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="43%" y1="38%" x2="54%" y2="44%" id="id-male-6.6_base_2-5">
+<stop stop-color="#8f4f38" offset="0%">
+</stop>
+<stop stop-color="#6d2c24" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="46%" y1="8%" x2="58%" y2="82%" id="id-male-6.6_base_2-6">
+<stop stop-color="#9b5b3f" offset="0%" stop-opacity="0.88">
+</stop>
+<stop stop-color="#6b2a22" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="41%" x2="49%" y2="66%" id="id-male-6.6_base_2-7">
+<stop stop-color="#581b1b" offset="0%">
+</stop>
+<stop stop-color="#843428" offset="27%">
+</stop>
+<stop stop-color="#86422d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="63%" y1="4%" x2="25%" y2="77%" id="id-male-6.6_base_2-8">
+<stop stop-color="#9f5f44" offset="0%">
+</stop>
+<stop stop-color="#b37459" offset="55%">
+</stop>
+<stop stop-color="#9c5d42" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="23%" x2="41%" y2="77%" id="id-male-6.6_base_2-9">
+<stop stop-color="#541214" offset="0%">
+</stop>
+<stop stop-color="#5d1b1c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="47%" y1="22%" x2="55%" y2="89%" id="id-male-6.6_base_2-10">
+<stop stop-color="#703527" offset="0%">
+</stop>
+<stop stop-color="#a9624a" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="86%" y1="87%" x2="11%" y2="66%" id="id-male-6.6_base_2-11">
+<stop stop-color="#773d31" offset="0%">
+</stop>
+<stop stop-color="#672d25" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="71%" y1="11%" x2="50%" y2="100%" id="id-male-6.6_base_2-12">
+<stop stop-color="#81432f" offset="0%" stop-opacity="0">
+</stop>
+<stop stop-color="#783a28" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="66%" y1="46%" x2="56%" y2="43%" id="id-male-6.6_base_2-13">
+<stop stop-color="#672b26" offset="0%">
+</stop>
+<stop stop-color="#5d2221" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="100%" y1="41%" x2="50%" y2="63%" id="id-male-6.6_base_2-14">
+<stop stop-color="#271321" offset="0%">
+</stop>
+<stop stop-color="#43151b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="69%" y1="20%" x2="50%" y2="100%" id="id-male-6.6_base_2-15">
+<stop stop-color="#672d26" offset="0%">
+</stop>
+<stop stop-color="#75382c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="36%" y1="20%" x2="57%" y2="81%" id="id-male-6.6_base_2-16">
+<stop stop-color="#b16549" offset="0%">
+</stop>
+<stop stop-color="#8a4934" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="26%" y1="83%" x2="92%" y2="50%" id="id-male-6.6_base_2-17">
+<stop stop-color="#874834" offset="0%">
+</stop>
+<stop stop-color="#cf836c" offset="100%" stop-opacity="0.095">
+</stop>
+</linearGradient>
+<linearGradient x1="17%" y1="56%" x2="85%" y2="45%" id="id-male-6.6_base_2-18">
+<stop stop-color="#b16549" offset="0%" stop-opacity="0">
+</stop>
+<stop stop-color="#ca8266" offset="52%">
+</stop>
+<stop stop-color="#a55d43" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="17%" y1="24%" x2="74%" y2="87%" id="id-male-6.6_base_2-19">
+<stop stop-color="#c0765d" offset="0%">
+</stop>
+<stop stop-color="#7a3c2d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="26%" y1="42%" x2="80%" y2="75%" id="id-male-6.6_base_2-20">
+<stop stop-color="#bd7964" offset="0%">
+</stop>
+<stop stop-color="#965340" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="29%" y1="56%" x2="77%" y2="50%" id="id-male-6.6_base_2-21">
+<stop stop-color="#cc876f" offset="0%">
+</stop>
+<stop stop-color="#b97055" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="74%" y1="24%" x2="34%" y2="74%" id="id-male-6.6_base_2-22">
+<stop stop-color="#7e4434" offset="0%">
+</stop>
+<stop stop-color="#a85a3b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="66%" y1="100%" x2="40%" y2="0%" id="id-male-6.6_base_2-23">
+<stop stop-color="#874837" offset="0%">
+</stop>
+<stop stop-color="#b56f57" offset="46%">
+</stop>
+<stop stop-color="#945437" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="52%" y1="13%" x2="59%" y2="75%" id="id-male-6.6_base_2-24">
+<stop stop-color="#763628" offset="0%">
+</stop>
+<stop stop-color="#813f2f" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="28%" y1="76%" x2="73%" y2="20%" id="id-male-6.6_base_2-25">
+<stop stop-color="#934d3c" offset="0%">
+</stop>
+<stop stop-color="#753528" offset="67%">
+</stop>
+<stop stop-color="#934d3c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="66%" y1="59%" x2="24%" y2="66%" id="id-male-6.6_base_2-26">
+<stop stop-color="#612115" offset="0%">
+</stop>
+<stop stop-color="#93533a" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="41%" y1="11%" x2="61%" y2="81%" id="id-male-6.6_base_2-27">
+<stop stop-color="#a06350" offset="0%">
+</stop>
+<stop stop-color="#713127" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="19%" y1="58%" x2="66%" y2="43%" id="id-male-6.6_base_2-28">
+<stop stop-color="#aa6b53" offset="0%">
+</stop>
+<stop stop-color="#93523b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="73%" y1="50%" x2="30%" y2="53%" id="id-male-6.6_base_2-29">
+<stop stop-color="#9b5f42" offset="0%">
+</stop>
+<stop stop-color="#b67b61" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="31%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_2-30">
+<stop stop-color="#b27562" offset="0%">
+</stop>
+<stop stop-color="#9b5c4b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="29%" y1="43%" x2="65%" y2="100%" id="id-male-6.6_base_2-31">
+<stop stop-color="#a86b54" offset="0%">
+</stop>
+<stop stop-color="#814030" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="13%" y1="78%" x2="84%" y2="50%" id="id-male-6.6_base_2-32">
+<stop stop-color="#7e3e2e" offset="0%">
+</stop>
+<stop stop-color="#74372c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="36%" y2="100%" id="id-male-6.6_base_2-33">
+<stop stop-color="#ab6c57" offset="0%">
+</stop>
+<stop stop-color="#a56750" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="28%" x2="64%" y2="55%" id="id-male-6.6_base_2-34">
+<stop stop-color="#a3664e" offset="0%">
+</stop>
+<stop stop-color="#98593d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="40%" y1="55%" x2="62%" y2="71%" id="id-male-6.6_base_2-35">
+<stop stop-color="#96573e" offset="0%">
+</stop>
+<stop stop-color="#713528" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="9%" y1="37%" x2="88%" y2="55%" id="id-male-6.6_base_2-36">
+<stop stop-color="#723829" offset="0%">
+</stop>
+<stop stop-color="#612824" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="62%" y1="19%" x2="50%" y2="100%" id="id-male-6.6_base_2-37">
+<stop stop-color="#914d34" offset="0%">
+</stop>
+<stop stop-color="#5f2420" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="45%" y1="18%" x2="51%" y2="67%" id="id-male-6.6_base_2-38">
+<stop stop-color="#b67760" offset="0%">
+</stop>
+<stop stop-color="#a95c3f" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_2-39">
+<stop stop-color="#ac6d55" offset="0%">
+</stop>
+<stop stop-color="#9f5136" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="45%" y1="50%" x2="58%" y2="50%" id="id-male-6.6_base_2-40">
+<stop stop-color="#733829" offset="0%">
+</stop>
+<stop stop-color="#8a4e3c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="33%" y1="74%" x2="77%" y2="42%" id="id-male-6.6_base_2-41">
+<stop stop-color="#985c46" offset="0%">
+</stop>
+<stop stop-color="#834732" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="63%" y1="59%" x2="38%" y2="59%" id="id-male-6.6_base_2-42">
+<stop stop-color="#7e4231" offset="0%">
+</stop>
+<stop stop-color="#905239" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_2-43">
+<stop stop-color="#925f4e" offset="0%">
+</stop>
+<stop stop-color="#6e2f26" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="47%" y1="47%" x2="53%" y2="50%" id="id-male-6.6_base_2-44">
+<stop stop-color="#956855" offset="0%">
+</stop>
+<stop stop-color="#7c3c32" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_2-45">
+<stop stop-color="#753229" offset="0%">
+</stop>
+<stop stop-color="#833e34" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_2-46">
+<stop stop-color="#925644" offset="0%">
+</stop>
+<stop stop-color="#865648" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="0%" y1="55%" x2="100%" y2="55%" id="id-male-6.6_base_2-47">
+<stop stop-color="#804a40" offset="0%">
+</stop>
+<stop stop-color="#692e2c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_2-48">
+<stop stop-color="#916451" offset="0%">
+</stop>
+<stop stop-color="#712e26" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="49%" y1="20%" x2="52%" y2="96%" id="id-male-6.6_base_2-49">
+<stop stop-color="#773530" offset="0%">
+</stop>
+<stop stop-color="#6f2c24" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="33%" y1="47%" x2="59%" y2="56%" id="id-male-6.6_base_2-50">
+<stop stop-color="#5f2419" offset="0%">
+</stop>
+<stop stop-color="#4f161a" offset="100%">
+</stop>
+</linearGradient>
+</defs>
+<g transform="translate(303,473)" id="id-male-6.6_base_2-51">
+<polygon points="174 662 140 824 138 906 147 1082 171 1154 176 1211 174 1230 176 1284 287 1284 284 1265 308 1195 306 1124 345 952 343 912 354 879 363 881 371 877 384 904 391 970 434 1079 458 1202 475 1252 475 1284 596 1284 601 1225 592 1146 609 1103 613 997 596 842 545 671 540 640 529 606 532 569 510 498 522 403 540 360 540 348 563 464 576 498 586 574 637 704 646 760 646 778 626 822 625 853 632 879 630 901 633 920 637 931 648 931 658 920 656 877 660 867 670 874 673 899 677 903 667 923 645 934 643 945 666 939 665 948 643 960 640 982 658 971 674 969 691 945 701 933 705 926 707 923 714 892 719 871 704 832 697 786 704 768 693 725 693 521 653 425 630 282 626 203 613 175 568 156 548 141 530 139 479 114 422 73 416 42 415 1 285 0 284 73 279 83 242 114 196 137 171 139 156 156 108 175 92 228 92 287 68 431 30 516 24 602 28 725 17 764 22 782 1 874 18 932 49 968 60 970 83 982 83 965 79 960 58 949 56 941 79 948 79 936 66 929 54 923 45 906 51 875 62 866 66 877 63 922 75 927 86 925 93 899 90 877 96 856 96 824 75 778 77 738 108 637 140 562 143 495 160 458 181 358 200 403 203 461 212 504 189 564 191 608" fill="url(#id-male-6.6_base_2-0)" id="id-male-6.6_base_2-52">
+</polygon>
+<polygon points="92 287 68 431 30 516 24 602 73 688 118 614 98 452 110 469 124 336 102 372 110 294 89 309 110 285" fill="url(#id-male-6.6_base_2-1)" id="id-male-6.6_base_2-52">
+</polygon>
+<polygon points="384 906 391 972 434 1081 458 1204 475 1254 475 1287 596 1287 601 1226 592 1148 609 1105 613 999 603 904 585 908 585 846 535 683 457 705 382 878" fill="url(#id-male-6.6_base_2-2)" id="id-male-6.6_base_2-52">
+</polygon>
+<polygon points="138 907 147 1083 172 1156 176 1212 174 1232 176 1286 176 1287 287 1287 284 1266 309 1197 306 1126 345 954 344 923 294 814 264 724 247 711" fill="url(#id-male-6.6_base_2-3)" id="id-male-6.6_base_2-52">
+</polygon>
+<polygon points="545 673 540 641 529 608 532 571 510 500 522 405 540 361 540 350 563 465 576 500 602 540 660 491 688 529 653 427 630 283 626 205 613 177 568 157 548 142 531 141 479 116 422 75 416 44 415 3 360 3 360 715 463 724" fill="url(#id-male-6.6_base_2-4)" id="id-male-6.6_base_2-52">
+</polygon>
+<polygon points="83 984 60 972 49 970 22 932 20 903 8 879 1 874 12 824 39 786 39 814 57 786 78 800 91 822 83 879 69 882 64 855 51 877 46 908 48 930 37 930 50 938 53 954 49 960 57 956 83 973" fill="#974e34" id="id-male-6.6_base_2-57">
+</polygon>
+<polygon points="66 855 69 882 64 855 51 877 46 908 43 870 58 825" fill="url(#id-male-6.6_base_2-5)" id="id-male-6.6_base_2-57">
+</polygon>
+<polygon points="83 879 69 882 70 868" fill="#a16148" id="id-male-6.6_base_2-57">
+</polygon>
+<polygon points="482 376 513 349 558 291 522 368" fill="#714a47" id="id-male-6.6_base_2-60">
+</polygon>
+<polygon points="313 697 261 560 246 448 259 424 356 408 362 366 318 404 285 409 268 378 314 343 394 351 431 378 420 404 369 399 371 404 450 421 467 441 449 510 467 547 407 697 358 717" fill="url(#id-male-6.6_base_2-6)" id="id-male-6.6_base_2-61">
+</polygon>
+<polygon points="410 90 430 82 423 76 417 45 417 7 287 9 287 48 283 76 278 86 245 114 195 139 366 139 391 70 410 26" fill="url(#id-male-6.6_base_2-7)" id="id-male-6.6_base_2-62">
+</polygon>
+<polygon points="182 180 133 231 98 289 98 231 114 182 166 159" fill="url(#id-male-6.6_base_2-8)" id="id-male-6.6_base_2-63">
+</polygon>
+<polygon points="347 107 384 55 410 31 414 23 300 31" fill="url(#id-male-6.6_base_2-9)" id="id-male-6.6_base_2-64">
+</polygon>
+<polygon points="287 93 296 32 323 129" fill="url(#id-male-6.6_base_2-10)" id="id-male-6.6_base_2-65">
+</polygon>
+<polygon points="336 139 314 151 271 146 224 139" fill="#c0775d" id="id-male-6.6_base_2-66">
+</polygon>
+<polygon points="410 84 410 136 462 129" fill="url(#id-male-6.6_base_2-11)" id="id-male-6.6_base_2-67">
+</polygon>
+<polygon points="173 246 167 286 191 351 263 386 329 330 360 330 360 152 349 139 336 139 310 152" fill="url(#id-male-6.6_base_2-12)" id="id-male-6.6_base_2-68">
+</polygon>
+<polygon points="464 159 516 190 500 159" fill="url(#id-male-6.6_base_2-13)" id="id-male-6.6_base_2-69">
+</polygon>
+<polygon points="302 31 347 72 383 62 410 37 417 28 417 13" fill="url(#id-male-6.6_base_2-14)" id="id-male-6.6_base_2-70">
+</polygon>
+<polygon points="264 151 191 202 220 151" fill="#814431" id="id-male-6.6_base_2-71">
+</polygon>
+<polygon points="154 206 170 170 123 188" fill="#ce826d" id="id-male-6.6_base_2-72">
+</polygon>
+<polygon points="359 285 345 299 323 318 305 354 359 345 354 305" fill="url(#id-male-6.6_base_2-15)" id="id-male-6.6_base_2-73">
+</polygon>
+<polygon points="261 361 265 387 204 371 192 347" fill="#6b3127" id="id-male-6.6_base_2-74">
+</polygon>
+<polygon points="199 362 181 359 167 284" fill="#4b131a" id="id-male-6.6_base_2-75">
+</polygon>
+<polygon points="477 341 477 335 488 326 496 325 509 338 497 348 485 354" fill="#5d2221" id="id-male-6.6_base_2-76">
+</polygon>
+<polygon points="314 151 343 220 317 293 238 351 209 318 172 251 186 205 271 146" fill="url(#id-male-6.6_base_2-16)" id="id-male-6.6_base_2-77">
+</polygon>
+<polygon points="314 151 330 238 209 318 172 251 186 205 271 146" fill="url(#id-male-6.6_base_2-17)" id="id-male-6.6_base_2-77">
+</polygon>
+<polygon points="314 151 351 205 221 227 186 205 271 146" fill="url(#id-male-6.6_base_2-18)" opacity="0.369" id="id-male-6.6_base_2-77">
+</polygon>
+<polygon points="212 335 223 322 242 327 244 332 236 353 214 349" fill="#642b26" id="id-male-6.6_base_2-80">
+</polygon>
+<polygon points="224 339 227 342 227 345 223 349 236 350 242 333 230 338 227 335" fill="#70434f" id="id-male-6.6_base_2-81">
+</polygon>
+<polygon points="489 343 491 347 486 351 479 338 490 327 495 327 494 336" fill="#6f373c" id="id-male-6.6_base_2-82">
+</polygon>
+<polygon points="486 339 489 343 494 337" fill="#92523e" id="id-male-6.6_base_2-83">
+</polygon>
+<polygon points="360 162 360 291 406 325 455 347 529 267 464 182 416 166" fill="url(#id-male-6.6_base_2-19)" id="id-male-6.6_base_2-84">
+</polygon>
+<polygon points="360 178 360 281 391 302 391 249 489 270 462 189 416 166" fill="url(#id-male-6.6_base_2-20)" id="id-male-6.6_base_2-84">
+</polygon>
+<polygon points="360 178 360 219 472 220 462 189 416 166 371 163" fill="url(#id-male-6.6_base_2-21)" id="id-male-6.6_base_2-84">
+</polygon>
+<polygon points="358 178 373 168 440 156 414 137 378 158 412 80 396 60 358 146" fill="url(#id-male-6.6_base_2-22)" id="id-male-6.6_base_2-87">
+</polygon>
+<polygon points="347 140 358 152 373 129 400 48 369 86 365 130" fill="#b66b53" id="id-male-6.6_base_2-88">
+</polygon>
+<polygon points="591 281 602 226 559 159 514 159 524 138 499 156 571 263" fill="url(#id-male-6.6_base_2-23)" id="id-male-6.6_base_2-89">
+</polygon>
+<polygon points="609 298 626 332 630 285 627 227 614 207 617 251" fill="#695b75" id="id-male-6.6_base_2-90">
+</polygon>
+<polygon points="555 159 567 157 613 177 614 192 580 175 604 207 602 226" fill="#8a4e37" id="id-male-6.6_base_2-91">
+</polygon>
+<polygon points="641 823 649 826 697 896 714 873 682 781" fill="url(#id-male-6.6_base_2-24)" id="id-male-6.6_base_2-92">
+</polygon>
+<polygon points="626 840 701 762 689 738 679 784 648 776 626 822" fill="url(#id-male-6.6_base_2-25)" id="id-male-6.6_base_2-92">
+</polygon>
+<polygon points="649 862 649 845 661 825 661 870 655 878 658 922 652 929 638 929 632 914 632 893 632 877 645 888" fill="#602222" id="id-male-6.6_base_2-94">
+</polygon>
+<polygon points="554 375 578 333 608 451 594 508 569 462" fill="#994b3b" id="id-male-6.6_base_2-95">
+</polygon>
+<polygon points="623 326 643 425 633 431 693 523 653 427 637 326 626 315" fill="#583847" id="id-male-6.6_base_2-96">
+</polygon>
+<polygon points="628 274 639 339 623 314" fill="#561b1f" id="id-male-6.6_base_2-97">
+</polygon>
+<polygon points="693 523 695 567 685 525 618 416 633 431" fill="#4b1114" id="id-male-6.6_base_2-98">
+</polygon>
+<polygon points="641 463 599 539 602 571 635 655 646 703 650 754 658 640 661 491" fill="#914f3a" id="id-male-6.6_base_2-99">
+</polygon>
+<polygon points="610 531 648 646 652 546 638 479" fill="#a8614d" id="id-male-6.6_base_2-99">
+</polygon>
+<polygon points="693 748 677 730 677 700 660 491 685 525 692 552 684 727" fill="#74332a" id="id-male-6.6_base_2-101">
+</polygon>
+<polygon points="692 746 704 768 693 727 695 567 692 551 684 727" fill="#5c3c47" id="id-male-6.6_base_2-102">
+</polygon>
+<polygon points="260 559 310 683 356 716 264 713 238 685 196 582" fill="url(#id-male-6.6_base_2-26)" id="id-male-6.6_base_2-103">
+</polygon>
+<polygon points="638 931 637 919 639 914 654 914 654 922 652 929 648 931 644 933" fill="#7c4139" id="id-male-6.6_base_2-104">
+</polygon>
+<polygon points="638 861 638 882 642 890 654 886 649 861" fill="#79372b" id="id-male-6.6_base_2-105">
+</polygon>
+<polygon points="691 871 694 912 689 936 669 956 672 965 696 924 696 909 705 877" fill="#934d3c" id="id-male-6.6_base_2-106">
+</polygon>
+<polygon points="704 768 685 788 694 837 712 873 703 908 701 933 707 925 719 873 704 834 697 788" fill="#591f1c" id="id-male-6.6_base_2-107">
+</polygon>
+<polygon points="667 939 643 946 645 934 658 928 667 922 677 903 673 899 670 874 661 870 661 854 671 867 681 873 681 902 677 920" fill="#431105" id="id-male-6.6_base_2-108">
+</polygon>
+<polygon points="362 510 360 634 426 561 421 535" fill="url(#id-male-6.6_base_2-27)" opacity="0.626" id="id-male-6.6_base_2-109">
+</polygon>
+<polygon points="320 403 289 399 268 380 314 343 361 348 362 372" fill="url(#id-male-6.6_base_2-28)" id="id-male-6.6_base_2-110">
+</polygon>
+<polygon points="172 141 169 151 181 151 205 139 196 138" fill="url(#id-male-6.6_base_2-29)" id="id-male-6.6_base_2-111">
+</polygon>
+<polygon points="359 308 362 360 383 334" fill="#bb7863" opacity="0.625" id="id-male-6.6_base_2-112">
+</polygon>
+<polygon points="361 546 361 584 388 551 374 540" fill="url(#id-male-6.6_base_2-30)" opacity="0.626" id="id-male-6.6_base_2-113">
+</polygon>
+<polygon points="347 542 361 547 374 540 361 534" fill="#581c1c" id="id-male-6.6_base_2-114">
+</polygon>
+<polygon points="325 545 278 503 259 561 308 579" fill="url(#id-male-6.6_base_2-31)" opacity="0.758" id="id-male-6.6_base_2-115">
+</polygon>
+<polygon points="389 499 460 467 450 510 404 520" fill="url(#id-male-6.6_base_2-32)" id="id-male-6.6_base_2-116">
+</polygon>
+<polygon points="364 491 361 403 420 428" fill="url(#id-male-6.6_base_2-33)" opacity="0.758" id="id-male-6.6_base_2-117">
+</polygon>
+<polygon points="263 446 333 446 323 469 279 492" fill="url(#id-male-6.6_base_2-34)" opacity="0.758" id="id-male-6.6_base_2-118">
+</polygon>
+<polygon points="260 425 280 496 260 561 237 528 213 443 227 425 244 447" fill="url(#id-male-6.6_base_2-35)" id="id-male-6.6_base_2-119">
+</polygon>
+<polygon points="412 343 445 374 466 383 500 351 448 354 416 339" fill="url(#id-male-6.6_base_2-36)" id="id-male-6.6_base_2-120">
+</polygon>
+<polygon points="165 252 164 278 128 284" fill="#642a24" id="id-male-6.6_base_2-121">
+</polygon>
+<polygon points="58 478 89 441 89 416 69 430 66 456" fill="url(#id-male-6.6_base_2-37)" id="id-male-6.6_base_2-122">
+</polygon>
+<polygon points="77 684 70 634 62 517 89 474 112 569" fill="url(#id-male-6.6_base_2-38)" id="id-male-6.6_base_2-123">
+</polygon>
+<polygon points="54 489 48 539 70 635 77 684 54 760 41 781 17 766 28 727 24 604 29 544" fill="url(#id-male-6.6_base_2-39)" id="id-male-6.6_base_2-124">
+</polygon>
+<polygon points="136 452 128 497 154 460 178 340 170 300" fill="#793b28" id="id-male-6.6_base_2-125">
+</polygon>
+<polygon points="181 359 160 460 143 497 142 514 124 532 109 514 108 490 128 497 154 460 178 340" fill="#5f2420" id="id-male-6.6_base_2-125">
+</polygon>
+<polygon points="39 747 28 772 39 788 44 772" fill="#ae7058" id="id-male-6.6_base_2-127">
+</polygon>
+<polygon points="360 379 343 413 362 444 378 417" fill="url(#id-male-6.6_base_2-40)" id="id-male-6.6_base_2-128">
+</polygon>
+<polygon points="196 581 260 561 230 519" fill="url(#id-male-6.6_base_2-41)" id="id-male-6.6_base_2-129">
+</polygon>
+<polygon points="75 929 67 925 69 909 78 905 86 912 84 928" fill="url(#id-male-6.6_base_2-42)" id="id-male-6.6_base_2-130">
+</polygon>
+<polygon points="20 903 7 880 21 851 28 871" fill="#a16148" id="id-male-6.6_base_2-131">
+</polygon>
+<polygon points="219 1123 204 1040 192 913 171 1090 183 1169 230 1208 262 1237 271 1213 235 1175 213 1157 273 1191 282 1169" fill="url(#id-male-6.6_base_2-43)" opacity="0.808" id="id-male-6.6_base_2-132">
+</polygon>
+<polygon points="183 1207 182 1155 214 1106 237 1166 231 1210" fill="#7d3b2d" id="id-male-6.6_base_2-133">
+</polygon>
+<polygon points="187 902 212 1137 227 1161 275 1187 300 1137 273 1009 300 918 270 791 212 836" fill="url(#id-male-6.6_base_2-44)" id="id-male-6.6_base_2-134">
+</polygon>
+<polygon points="288 1079 311 1040 312 942 295 903 265 1019 276 1188 302 1137" fill="url(#id-male-6.6_base_2-45)" id="id-male-6.6_base_2-135">
+</polygon>
+<polygon points="585 908 604 1008 608 1106 614 998 599 887" fill="#604050" id="id-male-6.6_base_2-136">
+</polygon>
+<polygon points="431 886 489 1140 536 1115 561 925 566 886 537 816 501 786" fill="url(#id-male-6.6_base_2-46)" opacity="0.792" id="id-male-6.6_base_2-137">
+</polygon>
+<polygon points="582 921 588 1011 585 1112 576 1162 545 1046 566 886" fill="url(#id-male-6.6_base_2-47)" id="id-male-6.6_base_2-138">
+</polygon>
+<polygon points="562 1247 519 1200 472 1112 495 931 506 931 595 1188 579 1244" fill="url(#id-male-6.6_base_2-48)" id="id-male-6.6_base_2-139">
+</polygon>
+<polygon points="532 1221 540 1263 537 1269 516 1287 510 1287 500 1263 513 1199 488 1226 462 1170 472 1101 428 1010 399 877 469 771 519 739 537 818 501 787 433 890 477 1078 534 1212" fill="url(#id-male-6.6_base_2-49)" id="id-male-6.6_base_2-140">
+</polygon>
+<polygon points="322 1058 284 852 258 721 267 733 371 879 363 883 354 881 343 914 345 954" fill="#6b2d24" id="id-male-6.6_base_2-141">
+</polygon>
+<polygon points="430 1068 425 875 536 705 454 704 380 865 384 906 392 972" fill="#571d1c" opacity="0.394" id="id-male-6.6_base_2-142">
+</polygon>
+<polygon points="175 1262 194 1287 207 1287 225 1226 214 1249 175 1221 174 1232" fill="#743428" id="id-male-6.6_base_2-143">
+</polygon>
+<polygon points="529 1227 554 1234 569 1169 549 1168" fill="#824c40" id="id-male-6.6_base_2-144">
+</polygon>
+<polygon points="547 678 545 672 540 641 529 608 532 571 510 500 522 405 540 361 540 350 548 389 543 330 558 289 517 369 529 369 517 411 500 442 510 465 488 531 508 525 522 585 450 724" fill="#520d17" id="id-male-6.6_base_2-52">
+</polygon>
+<polygon points="403 722 491 609 523 585 450 723" fill="#5f211f" id="id-male-6.6_base_2-146">
+</polygon>
+<polygon points="174 664 140 826 138 907 139 937 238 690 352 886 354 881 363 883 371 879 384 906 472 773 549 712 597 844 545 673 540 641 478 697 450 723 279 705 232 657 189 566 191 610" fill="url(#id-male-6.6_base_2-50)" id="id-male-6.6_base_2-52">
+</polygon>
+<polygon points="189 616 211 620 191 586 191 609" fill="#40120e" id="id-male-6.6_base_2-148">
+</polygon>
+<polygon points="139 836 226 709 167 697 139 826" fill="#4f1c18" id="id-male-6.6_base_2-149">
+</polygon>
+<polygon points="519 734 596 843 547 678" fill="#420f15" id="id-male-6.6_base_2-150">
+</polygon>
+<polygon points="416 778 448 726 315 744 330 762" fill="#6b2c26" opacity="0.52" id="id-male-6.6_base_2-52">
+</polygon>
+<polygon points="412 685 464 666 457 573" fill="#4f161a" id="id-male-6.6_base_2-152">
+</polygon>
+</g>
+<defs>
+<linearGradient x1="53%" y1="5%" x2="47%" y2="91%" id="id-male-6.8_face_2-0">
+<stop stop-color="#8f4340" offset="0%">
+</stop>
+<stop stop-color="#702a2c" offset="82%">
+</stop>
+<stop stop-color="#974b47" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="62%" y1="61%" x2="50%" y2="36%" id="id-male-6.8_face_2-1">
+<stop stop-color="#822f31" offset="0%">
+</stop>
+<stop stop-color="#3c1b25" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="13%" x2="57%" y2="81%" id="id-male-6.8_face_2-2">
+<stop stop-color="#773435" offset="0%">
+</stop>
+<stop stop-color="#944945" offset="52%">
+</stop>
+<stop stop-color="#a57660" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="54%" y2="88%" id="id-male-6.8_face_2-3">
+<stop stop-color="#9f7d60" offset="0%">
+</stop>
+<stop stop-color="#8f4539" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="36%" y1="75%" x2="36%" y2="18%" id="id-male-6.8_face_2-4">
+<stop stop-color="#8b2e30" offset="0%">
+</stop>
+<stop stop-color="#662221" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="30%" y1="63%" x2="66%" y2="53%" id="id-male-6.8_face_2-5">
+<stop stop-color="#995c43" offset="0%">
+</stop>
+<stop stop-color="#a2705a" offset="11%">
+</stop>
+<stop stop-color="#ac8266" offset="35%">
+</stop>
+<stop stop-color="#955d4b" offset="72%">
+</stop>
+<stop stop-color="#844137" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="12%" y1="55%" x2="89%" y2="49%" id="id-male-6.8_face_2-6">
+<stop stop-color="#baa188" offset="0%">
+</stop>
+<stop stop-color="#b5a382" offset="69%">
+</stop>
+<stop stop-color="#8a4c3b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="77%" y1="45%" x2="9%" y2="48%" id="id-male-6.8_face_2-7">
+<stop stop-color="#b6a383" offset="0%">
+</stop>
+<stop stop-color="#a3775d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="4%" y1="59%" x2="84%" y2="52%" id="id-male-6.8_face_2-8">
+<stop stop-color="#925340" offset="0%">
+</stop>
+<stop stop-color="#a98468" offset="40%">
+</stop>
+<stop stop-color="#9d6e56" offset="75%">
+</stop>
+<stop stop-color="#7e352a" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="0%" y1="62%" x2="75%" y2="50%" id="id-male-6.8_face_2-9">
+<stop stop-color="#a07158" offset="0%">
+</stop>
+<stop stop-color="#c8b5a3" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="91%" y1="50%" x2="43%" y2="50%" id="id-male-6.8_face_2-10">
+<stop stop-color="#915b47" offset="0%">
+</stop>
+<stop stop-color="#c1ae9d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="73%" y1="44%" x2="36%" y2="73%" id="id-male-6.8_face_2-11">
+<stop stop-color="#8b493b" offset="0%">
+</stop>
+<stop stop-color="#905c4e" offset="100%" stop-opacity="0.589">
+</stop>
+</linearGradient>
+<linearGradient x1="22%" y1="31%" x2="35%" y2="66%" id="id-male-6.8_face_2-12">
+<stop stop-color="#a96d54" offset="0%">
+</stop>
+<stop stop-color="#945949" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="13%" y1="-5%" x2="103%" y2="59%" id="id-male-6.8_face_2-13">
+<stop stop-color="#ac887c" offset="0%">
+</stop>
+<stop stop-color="#985d44" offset="31%">
+</stop>
+<stop stop-color="#7d3328" offset="79%">
+</stop>
+<stop stop-color="#712d2c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="47%" y1="96%" x2="25%" y2="14%" id="id-male-6.8_face_2-14">
+<stop stop-color="#a56b59" offset="0%" stop-opacity="0.302">
+</stop>
+<stop stop-color="#874339" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="24%" y1="56%" x2="50%" y2="45%" id="id-male-6.8_face_2-15">
+<stop stop-color="#976043" offset="0%">
+</stop>
+<stop stop-color="#aa7758" offset="59%">
+</stop>
+<stop stop-color="#8f523b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="87%" y1="65%" x2="23%" y2="32%" id="id-male-6.8_face_2-16">
+<stop stop-color="#9e6e50" offset="0%">
+</stop>
+<stop stop-color="#b89475" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="13%" y1="29%" x2="91%" y2="29%" id="id-male-6.8_face_2-17">
+<stop stop-color="#80372b" offset="0%">
+</stop>
+<stop stop-color="#833e2e" offset="38%">
+</stop>
+<stop stop-color="#8e4939" offset="51%">
+</stop>
+<stop stop-color="#894036" offset="70%">
+</stop>
+<stop stop-color="#8d413b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="9%" y1="45%" x2="41%" y2="63%" id="id-male-6.8_face_2-18">
+<stop stop-color="#8e4836" offset="0%">
+</stop>
+<stop stop-color="#772e23" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="19%" x2="50%" y2="70%" id="id-male-6.8_face_2-19">
+<stop stop-color="#975b45" offset="0%">
+</stop>
+<stop stop-color="#aa836d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="9%" y1="54%" x2="38%" y2="50%" id="id-male-6.8_face_2-20">
+<stop stop-color="#5e3931" offset="0%">
+</stop>
+<stop stop-color="#2f1b1d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="97%" y1="55%" x2="73%" y2="44%" id="id-male-6.8_face_2-21">
+<stop stop-color="#6f3f30" offset="0%">
+</stop>
+<stop stop-color="#2e1a1c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="40%" y1="21%" x2="72%" y2="94%" id="id-male-6.8_face_2-22">
+<stop stop-color="#a67a62" offset="0%">
+</stop>
+<stop stop-color="#af8e6f" offset="50%">
+</stop>
+<stop stop-color="#af7c69" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="7%" y1="41%" x2="71%" y2="63%" id="id-male-6.8_face_2-23">
+<stop stop-color="#a77e68" offset="0%">
+</stop>
+<stop stop-color="#bfb0a1" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="87%" y1="51%" x2="37%" y2="52%" id="id-male-6.8_face_2-24">
+<stop stop-color="#935943" offset="0%">
+</stop>
+<stop stop-color="#ae7f68" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.8_face_2-25">
+<stop stop-color="#b18b6b" offset="0%">
+</stop>
+<stop stop-color="#b35746" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="71%" y1="47%" x2="15%" y2="54%" id="id-male-6.8_face_2-26">
+<stop stop-color="#9e6e5a" offset="0%">
+</stop>
+<stop stop-color="#c6b4a8" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="66%" y1="11%" x2="44%" y2="95%" id="id-male-6.8_face_2-27">
+<stop stop-color="#ad6f5d" offset="0%" stop-opacity="0.528">
+</stop>
+<stop stop-color="#aa5f4f" offset="49%">
+</stop>
+<stop stop-color="#aa604e" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="-5%" y1="53%" x2="86%" y2="50%" id="id-male-6.8_face_2-28">
+<stop stop-color="#6d352d" offset="0%">
+</stop>
+<stop stop-color="#341d27" offset="47%">
+</stop>
+<stop stop-color="#692522" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="10%" y1="52%" x2="66%" y2="50%" id="id-male-6.8_face_2-29">
+<stop stop-color="#a47a65" offset="0%">
+</stop>
+<stop stop-color="#884237" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="-36%" x2="50%" y2="100%" id="id-male-6.8_face_2-30">
+<stop stop-color="#8f293e" offset="0%">
+</stop>
+<stop stop-color="#56121d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="23%" y1="39%" x2="61%" y2="66%" id="id-male-6.8_face_2-31">
+<stop stop-color="#c1a490" offset="0%">
+</stop>
+<stop stop-color="#bd9d86" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.8_face_2-32">
+<stop stop-color="#a93f54" offset="0%">
+</stop>
+<stop stop-color="#852e3c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="23%" y1="50%" x2="76%" y2="52%" id="id-male-6.8_face_2-33">
+<stop stop-color="#ae507e" offset="0%" stop-opacity="0">
+</stop>
+<stop stop-color="#d7709a" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="58%" y1="36%" x2="35%" y2="100%" id="id-male-6.8_face_2-34">
+<stop stop-color="#b18f79" offset="0%">
+</stop>
+<stop stop-color="#b18d76" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="96%" y1="25%" x2="45%" y2="90%" id="id-male-6.8_face_2-35">
+<stop stop-color="#361b27" offset="0%">
+</stop>
+<stop stop-color="#411720" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="40%" y1="34%" x2="57%" y2="75%" id="id-male-6.8_face_2-36">
+<stop stop-color="#853b31" offset="0%">
+</stop>
+<stop stop-color="#722b2c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="66%" y1="30%" x2="24%" y2="92%" id="id-male-6.8_face_2-37">
+<stop stop-color="#401923" offset="0%">
+</stop>
+<stop stop-color="#7e3530" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="53%" y1="73%" x2="54%" y2="75%" id="id-male-6.8_face_2-38">
+<stop stop-color="#5e231e" offset="0%" stop-opacity="0.476">
+</stop>
+<stop stop-color="#471a24" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="36%" y1="31%" x2="47%" y2="50%" id="id-male-6.8_face_2-39">
+<stop stop-color="#c0a895" offset="0%">
+</stop>
+<stop stop-color="#945d46" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="52%" y1="46%" x2="46%" y2="43%" id="id-male-6.8_face_2-40">
+<stop stop-color="#995c43" offset="0%">
+</stop>
+<stop stop-color="#844137" offset="100%">
+</stop>
+</linearGradient>
+</defs>
+<g transform="translate(548,259)" id="id-male-6.8_face_2-41">
+<g transform="translate(0,121)" id="id-male-6.8_face_2-42">
+<polygon points="199 13 214 3 222 9 221 25 214 38 214 43 210 54 208 65 197 70 190 64" fill="url(#id-male-6.8_face_2-0)" id="id-male-6.8_face_2-43">
+</polygon>
+<polygon points="197 24 209 14 216 9 219 10 220 22 214 37 195 43" fill="url(#id-male-6.8_face_2-1)" id="id-male-6.8_face_2-44">
+</polygon>
+<polygon points="203 38 208 34 199 25 203 22 209 23 207 18 212 16 214 38 214 43 213 48 207 51 201 46" fill="url(#id-male-6.8_face_2-2)" id="id-male-6.8_face_2-43">
+</polygon>
+<polygon points="212 5 214 3 222 9 222 10 219 10 216 9" fill="#d49ba0" id="id-male-6.8_face_2-43">
+</polygon>
+<polygon points="208 65 197 70 190 64 194 42 199 50 193 62 199 67" fill="#602d31" id="id-male-6.8_face_2-43">
+</polygon>
+<polygon points="203 62 202 54 211 50" fill="#722c2d" id="id-male-6.8_face_2-48">
+</polygon>
+<polygon points="196 50 202 51 203 42 196 46" fill="#874b46" id="id-male-6.8_face_2-49">
+</polygon>
+<polygon points="194 45 199 47 202 45 202 32 197 31" fill="#361b27" id="id-male-6.8_face_2-50">
+</polygon>
+<path d="M 30 70 C 24 70 20 69 19 68 C 17 66 12 52 8 46 C 4 39 2 38 1 33 C 0 30 0 21 1 6 L 8 0 L 23 9 L 30 70 Z" fill="url(#id-male-6.8_face_2-3)" id="id-male-6.8_face_2-51">
+</path>
+<polygon points="8 6 2 6 7 3 10 2 23 9 19 14" fill="#b99d8c" id="id-male-6.8_face_2-51">
+</polygon>
+<path d="M 26 68 C 23 69 20 69 19 68 C 17 66 12 52 8 46 C 7 44 6 43 6 42 C 9 45 10 47 12 48 C 13 50 14 52 16 56 L 26 68 Z" fill="#ab7260" id="id-male-6.8_face_2-51">
+</path>
+<polygon points="26 68 29 65 27 53 20 61" fill="#c67b6d" id="id-male-6.8_face_2-51">
+</polygon>
+<path d="M 23 19 C 12 12 6 9 5 9 C 3 10 2 18 2 33 L 17 53 L 26 52 L 23 19 Z" fill="url(#id-male-6.8_face_2-4)" id="id-male-6.8_face_2-55">
+</path>
+<polygon points="12 17 19 19 18 26 15 28 22 38 21 49 12 44" fill="#8e4f46" id="id-male-6.8_face_2-56">
+</polygon>
+<path d="M 27 53 C 16 50 10 47 8 42 C 6 38 8 30 12 17 L 15 23 C 15 36 14 42 15 43 C 15 45 18 46 25 48 L 27 53 Z" fill="#a6866b" id="id-male-6.8_face_2-57">
+</path>
+<polygon points="11 31 19 26 19 18 14 20 12 18" fill="#bca28f" id="id-male-6.8_face_2-58">
+</polygon>
+<polygon points="20 46 17 42 22 37 25 48" fill="#b27668" id="id-male-6.8_face_2-59">
+</polygon>
+</g>
+<g transform="translate(18,0)" id="id-male-6.8_face_2-60">
+<path d="M 20 231 C 18 227 11 201 5 153 C 3 140 2 128 1 117 C -1 91 4 63 8 49 C 9 46 16 35 16 34 C 30 20 56 0 94 0 C 157 0 178 45 181 51 C 183 57 183 111 181 144 C 178 177 162 232 160 235 C 158 239 124 261 119 264 C 113 266 74 267 69 264 C 64 261 22 235 20 231 Z" fill="url(#id-male-6.8_face_2-5)" id="id-male-6.8_face_2-61">
+</path>
+<polygon points="42 97 56 74 52 61 155 41 139 103 93 103" fill="url(#id-male-6.8_face_2-6)" id="id-male-6.8_face_2-62">
+</polygon>
+<polygon points="96 68 135 48 39 38 42 54" fill="url(#id-male-6.8_face_2-7)" id="id-male-6.8_face_2-63">
+</polygon>
+<path d="M 27 130 L 4 145 C 3 135 2 126 1 117 C -1 91 4 63 8 49 C 9 46 16 35 16 34 C 30 20 56 0 94 0 C 157 0 178 45 181 51 L 147 47 L 86 54 L 44 42 L 57 74 L 27 98 L 27 130 Z" fill="url(#id-male-6.8_face_2-8)" id="id-male-6.8_face_2-61">
+</path>
+<polygon points="42 81 80 64 52 52 42 54" fill="url(#id-male-6.8_face_2-9)" id="id-male-6.8_face_2-65">
+</polygon>
+<polygon points="45 68 60 57 52 52 45 54" fill="#cec5b3" opacity="0.553" id="id-male-6.8_face_2-66">
+</polygon>
+<polygon points="90 96 73 84 69 76 91 79 113 76 93 88" fill="#ad8f72" id="id-male-6.8_face_2-67">
+</polygon>
+<polygon points="137 97 137 86 108 81 98 91 102 103" fill="url(#id-male-6.8_face_2-10)" id="id-male-6.8_face_2-68">
+</polygon>
+<polygon points="99 91 101 94 111 91 111 84" fill="#d3cbb9" opacity="0.56" id="id-male-6.8_face_2-69">
+</polygon>
+<polygon points="60 213 39 221 45 248 56 248 84 233 80 206" fill="url(#id-male-6.8_face_2-11)" id="id-male-6.8_face_2-70">
+</polygon>
+<path d="M 20 231 C 18 227 12 203 6 158 C 22 179 32 191 34 197 C 36 202 40 220 47 250 C 35 242 21 233 20 231 Z" fill="#804033" id="id-male-6.8_face_2-61">
+</path>
+<path d="M 11 192 C 9 183 7 171 6 158 C 26 171 38 180 40 188 C 42 191 42 202 40 221 L 11 192 Z" fill="#6d3322" opacity="0.47" id="id-male-6.8_face_2-61">
+</path>
+<polygon points="132 203 121 178 107 160 107 139 115 134 168 130 179 136" fill="url(#id-male-6.8_face_2-12)" id="id-male-6.8_face_2-73">
+</polygon>
+<path d="M 160 158 C 165 146 167 139 164 138 C 153 133 136 132 136 127 C 135 126 137 111 140 83 L 129 85 L 143 73 C 144 62 144 56 143 55 C 141 53 143 36 130 31 C 126 30 112 32 88 38 L 51 31 L 35 38 C 22 36 16 35 16 34 C 30 20 56 0 94 0 C 157 0 178 45 181 51 C 183 57 183 111 181 144 L 160 158 Z" fill="url(#id-male-6.8_face_2-13)" id="id-male-6.8_face_2-61">
+</path>
+<polygon points="93 230 129 249 146 243 153 201 125 219 113 221" fill="#662826" id="id-male-6.8_face_2-75">
+</polygon>
+<polygon points="120 175 124 185 115 193 133 206 135 223 104 221 103 198 95 176" fill="url(#id-male-6.8_face_2-14)" id="id-male-6.8_face_2-76">
+</polygon>
+<polygon points="117 131 107 134 112 117 140 96 157 104 144 127" fill="#944b36" id="id-male-6.8_face_2-77">
+</polygon>
+<polygon points="65 125 74 128 77 122 60 101 35 99 20 129" fill="url(#id-male-6.8_face_2-15)" id="id-male-6.8_face_2-78">
+</polygon>
+<polygon points="44 112 41 108 49 105 59 112 61 115 66 120 66 125" fill="url(#id-male-6.8_face_2-16)" id="id-male-6.8_face_2-79">
+</polygon>
+<polygon points="44 135 30 136 15 132 23 105 35 93 73 94 92 101 115 98 157 102 159 108 151 121 157 123 153 129 143 126 153 105 147 96 108 119 108 139 111 159 120 175 118 179 86 167 76 123 69 121 54 98 37 105 26 123 23 127" fill="url(#id-male-6.8_face_2-17)" id="id-male-6.8_face_2-80">
+</polygon>
+<polygon points="100 118 108 126 137 102 113 98" fill="url(#id-male-6.8_face_2-18)" id="id-male-6.8_face_2-81">
+</polygon>
+<polygon points="125 120 128 110 137 104 144 103 137 110 139 118 144 122 144 125 122 125" fill="url(#id-male-6.8_face_2-19)" id="id-male-6.8_face_2-82">
+</polygon>
+<polygon points="99 109 105 101 103 110" fill="#5e3931" id="id-male-6.8_face_2-83">
+</polygon>
+<polygon points="105 109 108 97 117 96 132 96 126 94 146 93 152 98 149 93 151 92 162 106 161 112 149 103 108 110 112 100" fill="url(#id-male-6.8_face_2-20)" id="id-male-6.8_face_2-84">
+</polygon>
+<polygon points="163 108 163 116 166 120 166 113" fill="#2f1b1d" id="id-male-6.8_face_2-85">
+</polygon>
+<path d="M 19 119 C 20 112 22 106 24 103 C 26 99 30 96 34 93 L 29 94 L 31 92 L 45 91 L 75 96 L 77 107 L 79 100 L 77 111 L 73 105 L 73 109 L 69 104 L 71 109 C 50 104 39 101 38 101 C 37 101 32 104 25 110 L 26 104 L 19 119 Z" fill="url(#id-male-6.8_face_2-21)" id="id-male-6.8_face_2-86">
+</path>
+<path d="M 116 127 L 156 130 L 167 133 L 163 138 L 156 135 C 149 139 143 141 137 141 C 132 141 124 140 115 137 L 108 140 L 108 134 L 111 130 L 116 127 Z" fill="#753529" id="id-male-6.8_face_2-87">
+</path>
+<polygon points="137 136 147 137 162 128 147 130" transform="translate(150,133) rotate(-2) translate(-150,-133)" fill="#431d1f" id="id-male-6.8_face_2-88">
+</polygon>
+<polygon points="125 121 133 114 137 118" transform="translate(131,118) rotate(-2) translate(-131,-118)" fill="#d0c0bb" id="id-male-6.8_face_2-89">
+</polygon>
+<path d="M 125 135 L 112 131 L 116 127 C 123 121 130 118 137 118 C 144 118 150 120 156 125 C 148 121 142 119 135 119 C 129 120 124 123 119 128 L 122 132 L 125 135 Z" transform="translate(134,126) rotate(-2) translate(-134,-126)" fill="#55241f" id="id-male-6.8_face_2-90">
+</path>
+<path d="M 112 131 C 112 131 116 132 123 134 L 114 130 C 120 129 133 126 142 130 C 149 133 157 132 164 129 C 159 128 156 128 153 127 C 146 125 142 122 132 123 C 121 123 119 127 112 131 Z" transform="translate(138,128) rotate(-2) translate(-138,-128)" fill="#220f0f" id="id-male-6.8_face_2-91">
+</path>
+<path d="M 118 129 L 121 133 C 127 136 132 137 137 136 C 141 136 146 135 152 132 C 144 129 138 127 134 127 C 130 126 125 127 118 129 Z" transform="translate(135,132) rotate(-2) translate(-135,-132)" fill="#e0cbbb" id="id-male-6.8_face_2-92">
+</path>
+<path d="M 124 127 C 126 133 129 136 133 137 C 137 137 141 134 143 128 C 140 127 138 127 135 127 C 133 126 129 127 124 127 Z" transform="translate(134,132) rotate(-2) translate(-134,-132)" fill="#321b1d" id="id-male-6.8_face_2-93">
+</path>
+<path d="M 130 128 C 131 130 132 131 133 131 C 134 131 136 130 138 128 C 136 127 135 127 134 127 C 133 127 131 127 130 128 Z" transform="translate(134,129) rotate(-2) translate(-134,-129)" fill="#220e0f" id="id-male-6.8_face_2-94">
+</path>
+<path d="M 139 130 L 140 132 C 138 135 136 136 134 136 C 131 136 129 135 126 132 L 132 131 L 134 134 L 135 132 L 139 130 Z" transform="translate(133,133) rotate(-2) translate(-133,-133)" fill="#3f405e" id="id-male-6.8_face_2-95">
+</path>
+<path d="M 117 129 L 119 131 C 123 130 127 129 132 129 C 134 129 138 131 146 134 C 147 134 149 133 152 131 C 144 129 138 127 134 127 C 130 126 124 127 117 129 Z" transform="translate(135,130) rotate(-2) translate(-135,-130)" fill="#1a0a04" fill-opacity="0.556" id="id-male-6.8_face_2-92">
+</path>
+<polygon points="127 131 128 129 131 128 132 130" transform="translate(130,130) rotate(-2) translate(-130,-130)" fill="#d0bcae" id="id-male-6.8_face_2-97">
+</polygon>
+<polygon points="66 221 111 223 125 219 126 212 102 197 95 177 99 123 86 122 80 129 64 179 58 199 62 214" fill="url(#id-male-6.8_face_2-22)" id="id-male-6.8_face_2-98">
+</polygon>
+<polygon points="78 151 81 128 76 132 74 130 64 126 37 130 19 159 24 163" fill="url(#id-male-6.8_face_2-23)" id="id-male-6.8_face_2-99">
+</polygon>
+<polygon points="30 136 48 140 71 133 73 131 52 125 34 130" fill="#874a3a" id="id-male-6.8_face_2-100">
+</polygon>
+<path d="M 21 127 L 29 122 C 37 117 44 115 49 116 C 55 117 60 120 65 125 L 21 127 Z" fill="url(#id-male-6.8_face_2-24)" id="id-male-6.8_face_2-101">
+</path>
+<polygon points="39 117 44 110 52 116" fill="#d0c0bb" id="id-male-6.8_face_2-102">
+</polygon>
+<polygon points="33 127 40 118 47 116 49 123" fill="#b89f8c" id="id-male-6.8_face_2-103">
+</polygon>
+<path d="M 32 130 C 35 134 40 136 48 136 C 56 136 62 134 67 129 C 61 127 56 126 51 126 C 47 126 40 127 32 130 Z" fill="#e5d2c5" id="id-male-6.8_face_2-104">
+</path>
+<path d="M 40 128 C 41 133 44 136 49 136 C 54 136 57 133 59 127 C 55 125 52 125 49 125 C 46 125 43 126 40 128 Z" fill="#392524" id="id-male-6.8_face_2-105">
+</path>
+<path d="M 32 130 C 33 131 34 132 35 132 C 43 131 48 130 50 130 C 51 130 53 131 54 131 C 56 131 57 129 59 129 C 60 130 61 130 63 132 C 64 131 65 130 67 129 C 61 127 56 126 51 126 C 47 126 40 127 32 130 Z" fill="#1f0606" fill-opacity="0.51" id="id-male-6.8_face_2-104">
+</path>
+<path d="M 49 117 C 42 117 35 119 28 123 C 36 117 44 114 52 116 C 59 118 65 122 71 131 C 67 128 65 126 64 126 C 59 121 55 118 49 117 Z" fill="#663123" id="id-male-6.8_face_2-107">
+</path>
+<path d="M 36 134 L 20 127 C 24 126 27 126 30 125 C 35 124 43 121 49 121 C 59 121 70 131 73 131 C 71 132 69 133 67 133 C 65 133 61 134 57 134 L 66 130 C 64 128 60 127 54 127 C 47 127 40 128 33 130 L 36 134 Z" fill="#220f0d" id="id-male-6.8_face_2-108">
+</path>
+<path d="M 42 132 L 45 128 C 47 130 49 131 50 131 C 51 131 53 130 55 128 L 56 130 C 54 133 52 135 49 135 C 46 135 43 134 42 132 Z" fill="#434564" id="id-male-6.8_face_2-109">
+</path>
+<path d="M 44 126 C 46 129 47 130 49 130 C 51 130 53 128 56 126 C 53 125 51 125 49 125 C 48 125 46 125 44 126 Z" fill="#220f0f" id="id-male-6.8_face_2-110">
+</path>
+<polygon points="43 129 45 130 47 129 46 128" fill="#b3a2a0" id="id-male-6.8_face_2-111">
+</polygon>
+<polygon points="83 161 100 165 103 158 99 150 97 124 86 125 86 155" fill="url(#id-male-6.8_face_2-25)" id="id-male-6.8_face_2-112">
+</polygon>
+<polygon points="93 191 98 185 100 191 97 194" fill="#baa193" id="id-male-6.8_face_2-113">
+</polygon>
+<polygon points="64 132 66 130 69 131" fill="#72473c" id="id-male-6.8_face_2-114">
+</polygon>
+<polygon points="84 193 92 197 98 193 92 190 91 184 88 184" fill="#985c49" id="id-male-6.8_face_2-115">
+</polygon>
+<polygon points="19 159 15 148 70 133 52 148" fill="url(#id-male-6.8_face_2-26)" id="id-male-6.8_face_2-116">
+</polygon>
+<polygon points="67 179 75 186 83 182 88 184 92 184 100 181 114 185 119 178 90 167" fill="#490b11" id="id-male-6.8_face_2-117">
+</polygon>
+<polygon points="74 171 89 162 81 160" fill="#bfb3a1" id="id-male-6.8_face_2-118">
+</polygon>
+<path d="M 68 174 L 78 154 L 85 146 C 85 153 83 158 80 163 C 78 168 73 172 68 174 Z" fill="url(#id-male-6.8_face_2-27)" id="id-male-6.8_face_2-119">
+</path>
+<polygon points="88 162 101 164 91 167 83 165" fill="#ba9b78" id="id-male-6.8_face_2-120">
+</polygon>
+<polygon points="99 166 103 158 99 150 113 167 108 172" fill="#914f3b" id="id-male-6.8_face_2-121">
+</polygon>
+<polygon points="117 175 108 172 113 167" fill="#9e654d" id="id-male-6.8_face_2-122">
+</polygon>
+<polygon points="84 127 86 131 99 123 86 122" fill="#c4ac85" id="id-male-6.8_face_2-123">
+</polygon>
+<path d="M 79 181 L 75 183 L 67 179 L 66 177 L 84 165 L 91 167 L 99 165 L 117 175 L 119 178 L 112 182 L 107 182 C 108 180 108 178 105 177 C 103 176 100 177 96 181 L 89 181 C 86 178 84 176 82 176 C 81 176 76 177 75 179 C 75 179 76 180 79 181 Z" fill="#7a332d" id="id-male-6.8_face_2-124">
+</path>
+<path d="M 98 179 C 97 180 96 180 96 181 L 89 181 C 88 180 87 179 87 179 L 90 180 L 98 179 Z" fill="#8b5056" id="id-male-6.8_face_2-124">
+</path>
+<polygon points="117 175 119 178 112 182 107 182 108 179" fill="#884d4f" id="id-male-6.8_face_2-126">
+</polygon>
+<path d="M 67 179 L 66 177 L 84 165 L 89 167 L 84 176 C 80 176 77 175 75 176 C 72 176 70 177 67 179 Z" fill="#965646" id="id-male-6.8_face_2-124">
+</path>
+<polygon points="90 178 98 178 101 176 107 170 105 169" fill="#6d2923" id="id-male-6.8_face_2-128">
+</polygon>
+<polygon points="110 223 107 228 111 239 75 236 66 221 115 218" fill="url(#id-male-6.8_face_2-28)" id="id-male-6.8_face_2-129">
+</polygon>
+<polygon points="66 221 88 233 107 224 77 223" fill="#341d27" id="id-male-6.8_face_2-130">
+</polygon>
+<path d="M 52 251 L 74 236 L 90 231 L 110 237 L 132 249 C 117 258 103 263 90 263 C 76 263 64 259 52 251 Z" fill="url(#id-male-6.8_face_2-29)" id="id-male-6.8_face_2-131">
+</path>
+<polygon points="87 253 71 244 74 241 69 239 74 236 90 231 93 232 88 239" fill="#b69f8e" opacity="0.481" id="id-male-6.8_face_2-131">
+</polygon>
+<polygon points="59 213 64 205 96 201 120 205 126 211 121 215 63 215" fill="#410409" id="id-male-6.8_face_2-133">
+</polygon>
+<path d="M 64 205 C 73 199 79 196 81 196 C 83 195 87 196 93 199 L 102 195 C 106 196 109 198 112 199 C 114 200 117 202 120 205 L 111 208 L 96 205 L 76 208 L 68 208 L 64 205 Z" fill="url(#id-male-6.8_face_2-30)" id="id-male-6.8_face_2-134">
+</path>
+<polygon points="149 148 115 136 108 140 133 164" fill="url(#id-male-6.8_face_2-31)" id="id-male-6.8_face_2-135">
+</polygon>
+<path d="M 72 200 C 77 197 80 196 81 196 C 83 195 87 196 93 199 L 90 205 L 76 208 L 72 200 Z" fill="#78152e" id="id-male-6.8_face_2-134">
+</path>
+<path d="M 98 197 L 102 195 C 106 196 109 198 112 199 C 114 200 115 201 117 202 L 112 205 L 102 203 L 98 197 Z" fill="#7c1831" id="id-male-6.8_face_2-134">
+</path>
+<path d="M 62 215 C 71 212 77 211 81 210 C 84 210 89 211 91 211 C 93 211 98 210 100 210 C 104 210 112 212 122 215 C 113 223 103 227 91 226 C 79 226 70 222 62 215 Z" fill="url(#id-male-6.8_face_2-32)" id="id-male-6.8_face_2-138">
+</path>
+<path d="M 112 213 C 104 216 100 218 98 219 C 96 219 94 220 93 222 L 92 214 C 93 216 94 217 97 216 C 99 216 105 215 112 213 Z" fill="#d7709a" opacity="0.667" id="id-male-6.8_face_2-139">
+</path>
+<path d="M 91 216 L 91 222 C 84 219 78 217 74 216 C 70 216 66 215 64 215 C 70 213 74 213 77 214 C 80 216 85 217 91 216 Z" fill="url(#id-male-6.8_face_2-33)" id="id-male-6.8_face_2-140">
+</path>
+<polygon points="104 129 106 136 111 129 111 124" fill="url(#id-male-6.8_face_2-34)" id="id-male-6.8_face_2-141">
+</polygon>
+<path d="M 181 144 C 178 177 162 232 160 235 C 158 239 124 261 119 264 C 113 266 74 267 69 264 C 67 263 59 258 51 253 C 69 259 83 262 93 261 C 107 259 128 246 137 242 C 141 241 144 232 149 215 L 163 207 L 170 172 L 154 183 L 181 144 Z" fill="url(#id-male-6.8_face_2-35)" id="id-male-6.8_face_2-61">
+</path>
+<path d="M 133 228 C 130 202 130 187 133 180 C 137 173 146 166 160 157 L 181 144 L 171 162 L 163 207 L 133 228 Z" fill="url(#id-male-6.8_face_2-36)" id="id-male-6.8_face_2-143">
+</path>
+<polygon points="133 228 133 244 140 242 152 215" fill="#722c2c" id="id-male-6.8_face_2-143">
+</polygon>
+<polygon points="172 159 143 191 164 205" fill="url(#id-male-6.8_face_2-37)" id="id-male-6.8_face_2-145">
+</polygon>
+<path d="M 102 259 L 104 235 L 110 237 L 128 247 C 115 253 107 257 102 259 Z" fill="#954a3d" id="id-male-6.8_face_2-146">
+</path>
+<path d="M 20 231 C 20 230 19 228 18 225 C 30 234 39 240 45 243 C 57 248 70 255 82 255 C 94 255 108 246 117 241 C 123 238 129 233 133 228 L 163 207 L 169 204 C 165 221 161 233 160 235 C 158 239 124 261 119 264 C 113 266 74 267 69 264 C 64 261 22 235 20 231 Z" fill="#501517" opacity="0.375" id="id-male-6.8_face_2-61">
+</path>
+<path d="M 157 157 C 157 146 153 139 145 136 L 158 130 C 162 129 164 128 164 128 C 165 123 168 115 170 105 C 170 103 170 91 170 69 C 165 63 160 57 155 51 C 154 36 148 22 136 8 C 167 21 179 47 181 51 C 183 57 183 111 181 144 C 180 156 172 166 157 177 C 157 166 157 159 157 157 Z" fill="url(#id-male-6.8_face_2-38)" id="id-male-6.8_face_2-61">
+</path>
+<path d="M 4 66 C 5 59 7 54 8 49 C 9 46 16 35 16 34 C 26 24 42 11 65 5 C 55 10 50 15 47 18 C 40 28 28 50 13 83 L 4 66 Z" fill="url(#id-male-6.8_face_2-39)" id="id-male-6.8_face_2-61">
+</path>
+<path d="M 4 145 C 3 135 2 126 1 117 C 0 97 2 76 5 61 C 9 60 11 58 13 56 C 16 53 23 47 35 38 C 25 59 18 74 17 83 C 14 98 9 119 4 145 Z" fill="url(#id-male-6.8_face_2-40)" id="id-male-6.8_face_2-61">
+</path>
+</g>
+</g>
+<defs>
+<linearGradient x1="76%" y1="50%" x2="0%" y2="50%" id="id-male-12_puzzlemaster_pants-0">
+<stop stop-color="#a7add1" offset="0%">
+</stop>
+<stop stop-color="#c79ed1" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="25%" x2="50%" y2="100%" id="id-male-12_puzzlemaster_pants-1">
+<stop stop-color="#b7bcdb" offset="0%">
+</stop>
+<stop stop-color="#d6a5d5" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="53%" x2="50%" y2="100%" id="id-male-12_puzzlemaster_pants-2">
+<stop stop-color="#adbcd9" offset="0%">
+</stop>
+<stop stop-color="#c8afd8" offset="100%">
+</stop>
+</linearGradient>
+</defs>
+<g transform="translate(432,992)" id="id-male-12_puzzlemaster_pants-3">
+<path d="M 166 768 L 40 768 C 39 729 38 709 38 709 C 29 688 24 678 24 678 C 29 660 32 651 32 651 C -5 466 -9 325 21 226 C 32 176 42 130 55 83 C 57 58 61 31 66 2 C 286 1 395 0 395 0 C 405 34 410 51 410 51 C 410 75 411 88 411 88 C 417 113 423 138 429 164 C 478 318 490 350 496 524 C 491 576 485 631 483 685 L 495 768 C 394 768 343 768 343 768 C 342 734 339 711 325 694 C 309 606 287 527 262 451 C 255 421 248 391 243 361 C 190 570 194 590 179 730 C 170 741 167 754 166 768 Z" fill="url(#id-male-12_puzzlemaster_pants-0)" id="id-male-12_puzzlemaster_pants-4">
+</path>
+<path d="M 103 768 C 106 671 107 597 104 546 C 107 319 119 151 138 45 C 180 44 201 44 201 44 C 206 141 208 190 208 190 C 220 198 226 202 226 202 C 226 241 226 260 226 260 C 248 170 259 125 259 125 C 260 131 261 135 261 135 C 246 262 238 325 238 325 C 235 301 234 289 234 289 L 209 503 C 192 577 187 653 179 730 C 167 747 167 757 166 768 C 124 768 103 768 103 768 Z" fill="url(#id-male-12_puzzlemaster_pants-1)" id="id-male-12_puzzlemaster_pants-5">
+</path>
+<path d="M 103 768 C 104 718 105 693 105 693 C 121 716 129 728 129 728 L 155 711 L 116 768 C 107 768 103 768 103 768 Z" fill="#e1b3e0" id="id-male-12_puzzlemaster_pants-6">
+</path>
+<path d="M 179 730 C 169 742 167 755 166 768 L 131 768 C 147 754 164 740 180 726 L 179 730 Z" fill="#c785c9" id="id-male-12_puzzlemaster_pants-7">
+</path>
+<path d="M 67 768 C 62 754 55 742 46 731 L 39 734 L 38 709 L 24 678 C 29 660 32 651 32 651 C 23 614 16 575 10 530 C 34 624 47 671 47 671 C 34 675 27 676 27 676 C 44 706 77 718 77 767 C 70 768 67 768 67 768 Z" fill="#b04fc4" id="id-male-12_puzzlemaster_pants-8">
+</path>
+<path d="M 46 669 C 66 687 76 695 76 695 L 4 453 L 10 530 C 34 623 46 669 46 669 Z" fill="#c88aca" id="id-male-12_puzzlemaster_pants-9">
+</path>
+<path d="M 209 503 L 234 289 C 237 313 238 325 238 325 L 281 512 L 262 451 C 255 422 249 392 243 361 C 231 407 220 454 209 503 Z" fill="#6c5c8f" id="id-male-12_puzzlemaster_pants-10">
+</path>
+<path d="M 242 298 L 324 567 L 256 178 C 247 258 242 298 242 298 Z" fill="#a2a3cc" id="id-male-12_puzzlemaster_pants-11">
+</path>
+<path d="M 435 767 C 423 632 385 467 372 332 C 362 296 357 277 357 277 C 327 120 313 42 313 42 L 406 40 L 410 51 L 411 88 L 429 163 C 486 334 491 387 496 524 C 490 577 484 630 483 685 L 495 768 C 455 768 435 767 435 767 Z" fill="url(#id-male-12_puzzlemaster_pants-2)" id="id-male-12_puzzlemaster_pants-12">
+</path>
+<path d="M 447 768 C 454 714 457 686 457 686 L 421 656 C 427 692 431 730 435 767 C 443 768 447 768 447 768 Z" fill="#d4c1e6" id="id-male-12_puzzlemaster_pants-13">
+</path>
+<path d="M 492 748 C 482 761 478 768 478 768 C 469 768 465 768 465 768 L 491 568 C 487 610 485 649 483 685 L 492 748 Z" fill="#ab9aca" id="id-male-12_puzzlemaster_pants-14">
+</path>
+<path d="M 372 768 L 342 740 C 339 724 336 708 325 694 C 314 630 299 569 281 512 C 302 560 311 611 322 661 C 340 698 358 735 381 768 C 375 768 372 768 372 768 Z" fill="#9866c4" id="id-male-12_puzzlemaster_pants-15">
+</path>
+<path d="M 406 40 C 397 40 393 40 393 40 C 416 170 441 297 466 424 L 445 258 L 486 381 C 481 326 456 247 429 163 L 411 88 L 410 51 C 408 44 406 40 406 40 Z" fill="#bbcbe4" id="id-male-12_puzzlemaster_pants-16">
+</path>
+<path d="M 369 41 C 389 110 398 144 398 144 C 395 116 393 101 393 101 C 416 141 428 160 428 160 C 421 131 418 116 418 116 C 398 89 389 76 389 76 L 384 41 C 374 41 369 41 369 41 Z" fill="#040c24" id="id-male-12_puzzlemaster_pants-17">
+</path>
+<path d="M 366 41 C 368 88 369 112 369 112 L 338 42 C 357 41 366 41 366 41 Z" fill="#1f3155" id="id-male-12_puzzlemaster_pants-18">
+</path>
+<path d="M 313 41 C 302 42 296 42 296 42 L 343 199 C 323 94 313 41 313 41 Z" fill="#829ec6" id="id-male-12_puzzlemaster_pants-19">
+</path>
+<path d="M 248 24 C 236 34 230 39 230 39 C 218 29 212 24 212 24 L 229 9 C 242 19 248 24 248 24 Z" fill="#010c23" id="id-male-12_puzzlemaster_pants-20">
+</path>
+<path d="M 194 2 L 202 1 C 202 30 202 44 202 44 C 204 107 206 138 206 138 L 194 44 C 194 16 194 2 194 2 Z" fill="#000000" fill-opacity="0.281" id="id-male-12_puzzlemaster_pants-21">
+</path>
+<path d="M 108 42 C 108 84 108 105 108 105 L 133 45 C 117 43 108 42 108 42 Z" fill="#142341" id="id-male-12_puzzlemaster_pants-22">
+</path>
+<path d="M 95 41 C 104 40 109 39 109 39 C 95 103 88 134 88 134 C 90 99 92 82 92 82 C 57 125 40 147 40 147 C 45 124 47 113 47 113 L 94 62 C 94 48 95 41 95 41 Z" fill="#040c24" id="id-male-12_puzzlemaster_pants-23">
+</path>
+<path d="M 60 41 C 88 41 102 40 102 40 L 104 2 L 66 2 C 62 28 60 41 60 41 Z" fill="#051228" id="id-male-12_puzzlemaster_pants-24">
+</path>
+<path d="M 261 42 C 336 41 374 40 374 40 C 369 14 367 1 367 1 L 262 4 C 261 29 261 42 261 42 Z" fill="#162342" id="id-male-12_puzzlemaster_pants-25">
+</path>
+<path d="M 123 152 C 152 211 167 240 167 240 C 132 377 115 445 115 445 C 115 564 114 624 114 624 C 122 691 126 724 126 724 L 105 693 C 104 625 103 576 104 546 C 107 333 116 202 123 152 Z" fill="#d1cdee" fill-opacity="0.729" id="id-male-12_puzzlemaster_pants-26">
+</path>
+<path d="M 329 125 C 362 158 379 175 379 175 C 380 291 381 349 381 349 C 408 484 421 552 421 552 C 421 621 421 656 421 656 C 404 542 383 444 372 332 C 365 308 360 290 357 277 C 346 225 338 173 329 125 Z" fill="#bbc8e5" id="id-male-12_puzzlemaster_pants-27">
+</path>
+<path d="M 6 302 C 5 303 5 304 5 304 C 9 284 17 264 26 248 C 17 345 12 393 12 393 L 7 370 L 8 505 C -1 424 -2 356 6 302 Z" fill="#977fb1" id="id-male-12_puzzlemaster_pants-28">
+</path>
+<path d="M 216 271 C 225 285 229 292 229 292 L 214 364 C 215 302 216 271 216 271 Z" fill="#a39ac2" id="id-male-12_puzzlemaster_pants-29">
+</path>
+<g transform="translate(33,127)" fill="#ffffff" opacity="0.802" id="id-male-12_puzzlemaster_pants-30">
+<ellipse cx="44" cy="612" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="3">
+</ellipse>
+<ellipse cx="14" cy="596" id="id-male-12_puzzlemaster_pants-31" rx="1" ry="2">
+</ellipse>
+<ellipse cx="6" cy="551" id="id-male-12_puzzlemaster_pants-31" rx="5" ry="4">
+</ellipse>
+<ellipse cx="71" cy="548" id="id-male-12_puzzlemaster_pants-31" rx="5" ry="5">
+</ellipse>
+<ellipse cx="99" cy="513" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="4">
+</ellipse>
+<ellipse cx="134" cy="514" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="3">
+</ellipse>
+<ellipse cx="48" cy="495" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="2">
+</ellipse>
+<ellipse cx="52" cy="444" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="2">
+</ellipse>
+<ellipse cx="66" cy="448" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="4">
+</ellipse>
+<ellipse cx="97" cy="458" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="3">
+</ellipse>
+<ellipse cx="110" cy="458" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="3">
+</ellipse>
+<ellipse cx="108" cy="411" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="2">
+</ellipse>
+<ellipse cx="120" cy="398" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="4">
+</ellipse>
+<ellipse cx="131" cy="387" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="3">
+</ellipse>
+<ellipse cx="76" cy="364" id="id-male-12_puzzlemaster_pants-31" rx="6" ry="5">
+</ellipse>
+<ellipse cx="97" cy="354" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="1">
+</ellipse>
+<ellipse cx="50" cy="383" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="4">
+</ellipse>
+<ellipse cx="56" cy="400" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="2">
+</ellipse>
+<ellipse cx="21" cy="402" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="2">
+</ellipse>
+<ellipse cx="29" cy="410" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="3">
+</ellipse>
+<ellipse cx="41" cy="339" id="id-male-12_puzzlemaster_pants-31" rx="5" ry="4">
+</ellipse>
+<ellipse cx="109" cy="289" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="4">
+</ellipse>
+<ellipse cx="103" cy="275" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="2">
+</ellipse>
+<ellipse cx="187" cy="302" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="4">
+</ellipse>
+<ellipse cx="152" cy="256" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="2">
+</ellipse>
+<ellipse cx="107" cy="226" id="id-male-12_puzzlemaster_pants-31" rx="6" ry="5">
+</ellipse>
+<ellipse cx="47" cy="179" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="3">
+</ellipse>
+<ellipse cx="15" cy="162" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="4">
+</ellipse>
+<ellipse cx="69" cy="164" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="2">
+</ellipse>
+<ellipse cx="99" cy="183" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="3">
+</ellipse>
+<ellipse cx="151" cy="192" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="2">
+</ellipse>
+<ellipse cx="118" cy="150" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="3">
+</ellipse>
+<ellipse cx="132" cy="149" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="4">
+</ellipse>
+<ellipse cx="158" cy="142" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="5">
+</ellipse>
+<ellipse cx="173" cy="148" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="3">
+</ellipse>
+<ellipse cx="118" cy="99" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="2">
+</ellipse>
+<ellipse cx="113" cy="78" id="id-male-12_puzzlemaster_pants-31" rx="5" ry="5">
+</ellipse>
+<ellipse cx="21" cy="83" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="4">
+</ellipse>
+<ellipse cx="169" cy="83" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="4">
+</ellipse>
+<ellipse cx="144" cy="46" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="5">
+</ellipse>
+<ellipse cx="133" cy="41" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="4">
+</ellipse>
+<ellipse cx="207" cy="84" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="3">
+</ellipse>
+<ellipse cx="214" cy="65" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="3">
+</ellipse>
+<ellipse cx="207" cy="51" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="4">
+</ellipse>
+<ellipse cx="254" cy="92" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="5">
+</ellipse>
+<ellipse cx="288" cy="110" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="3">
+</ellipse>
+<ellipse cx="288" cy="189" id="id-male-12_puzzlemaster_pants-31" rx="5" ry="6">
+</ellipse>
+<ellipse cx="300" cy="197" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="4">
+</ellipse>
+<ellipse cx="309" cy="332" id="id-male-12_puzzlemaster_pants-31" rx="6" ry="4">
+</ellipse>
+<ellipse cx="271" cy="379" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="2">
+</ellipse>
+<ellipse cx="277" cy="432" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="4">
+</ellipse>
+<ellipse cx="326" cy="376" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="3">
+</ellipse>
+<ellipse cx="362" cy="384" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="3">
+</ellipse>
+<ellipse cx="425" cy="285" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="3">
+</ellipse>
+<ellipse cx="398" cy="262" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="3">
+</ellipse>
+<ellipse cx="354" cy="271" id="id-male-12_puzzlemaster_pants-31" rx="6" ry="5">
+</ellipse>
+<ellipse cx="371" cy="216" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="2">
+</ellipse>
+<ellipse cx="406" cy="180" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="3">
+</ellipse>
+<ellipse cx="417" cy="191" id="id-male-12_puzzlemaster_pants-31" rx="5" ry="4">
+</ellipse>
+<ellipse cx="328" cy="151" id="id-male-12_puzzlemaster_pants-31" rx="2" ry="2">
+</ellipse>
+<ellipse cx="331" cy="88" id="id-male-12_puzzlemaster_pants-31" rx="6" ry="5">
+</ellipse>
+<ellipse cx="248" cy="9" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="3">
+</ellipse>
+<ellipse cx="233" cy="5" id="id-male-12_puzzlemaster_pants-31" rx="4" ry="4">
+</ellipse>
+<ellipse cx="120" cy="6" id="id-male-12_puzzlemaster_pants-31" rx="3" ry="3">
+</ellipse>
+</g>
+</g>
+<defs>
+<linearGradient x1="52%" y1="33%" x2="50%" y2="99%" id="id-male-17_puzzlemaster_jacket-0">
+<stop stop-color="#a3b1d3" offset="0%">
+</stop>
+<stop stop-color="#d298d1" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="22%" x2="50%" y2="77%" id="id-male-17_puzzlemaster_jacket-1">
+<stop stop-color="#acc2dd" offset="0%">
+</stop>
+<stop stop-color="#b9bbdc" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="64%" x2="50%" y2="100%" id="id-male-17_puzzlemaster_jacket-2">
+<stop stop-color="#95bcdd" offset="0%">
+</stop>
+<stop stop-color="#a792c9" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-17_puzzlemaster_jacket-3">
+<stop stop-color="#90a8d0" offset="0%">
+</stop>
+<stop stop-color="#9f8fc8" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-17_puzzlemaster_jacket-4">
+<stop stop-color="#adcbea" offset="0%">
+</stop>
+<stop stop-color="#afcdee" offset="46%">
+</stop>
+<stop stop-color="#c7bbe2" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="30%" x2="50%" y2="89%" id="id-male-17_puzzlemaster_jacket-5">
+<stop stop-color="#accae8" offset="0%">
+</stop>
+<stop stop-color="#beb5da" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-17_puzzlemaster_jacket-6">
+<stop stop-color="#acc8e5" offset="0%">
+</stop>
+<stop stop-color="#cbd8f6" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="41%" y1="51%" x2="34%" y2="50%" id="id-male-17_puzzlemaster_jacket-7">
+<stop stop-color="#7da1e0" offset="0%">
+</stop>
+<stop stop-color="#4c98de" offset="100%">
+</stop>
+</linearGradient>
+</defs>
+<g transform="translate(303,511)" id="id-male-17_puzzlemaster_jacket-8">
+<g id="id-male-17_puzzlemaster_jacket-9">
+<path d="M 67 805 C 22 810 0 813 0 813 C 9 789 13 777 13 777 C 68 775 96 774 96 774 C 97 796 97 807 97 807 C 91 807 88 807 88 807 L 79 783 C 71 798 67 805 67 805 Z" fill="#393839" id="id-male-17_puzzlemaster_jacket-10">
+</path>
+<path d="M 41 808 L 41 778 L 13 777 L 0 813 C 28 810 41 808 41 808 Z" fill="#191d2b" id="id-male-17_puzzlemaster_jacket-11">
+</path>
+<path d="M 629 794 C 625 793 624 793 624 793 C 627 778 629 770 629 770 C 683 774 710 775 710 775 C 713 789 714 796 714 796 C 670 799 649 800 649 800 L 637 777 C 632 788 629 794 629 794 Z" fill="#1e212d" id="id-male-17_puzzlemaster_jacket-12">
+</path>
+<path d="M 676 798 L 674 773 L 710 775 L 714 796 C 688 798 676 798 676 798 Z" fill="#393839" id="id-male-17_puzzlemaster_jacket-13">
+</path>
+<path d="M 284 9 C 273 81 268 118 268 118 C 288 257 298 326 298 326 C 381 327 422 327 422 327 C 443 182 453 109 453 109 C 436 39 427 5 427 5 C 421 2 418 0 418 0 C 413 22 410 33 410 33 C 390 72 379 91 378 91 C 345 91 329 91 329 91 L 298 40 C 289 19 284 9 284 9 Z" fill="#0f1627" id="id-male-17_puzzlemaster_jacket-14">
+</path>
+<path d="M 293 28 C 289 30 287 31 287 31 C 282 68 280 86 280 86 C 289 99 293 105 293 105 C 306 96 313 92 313 92 C 323 94 327 95 327 95 C 339 95 344 95 344 95 L 346 91 L 329 91 L 298 40 C 294 32 293 28 293 28 Z" fill="#393839" id="id-male-17_puzzlemaster_jacket-15">
+</path>
+<path d="M 293 28 C 289 30 287 31 287 31 C 293 46 296 54 296 54 C 306 72 311 81 311 81 C 317 77 319 75 319 75 L 307 56 L 298 40 L 293 28 Z" fill="#4e5d6a" id="id-male-17_puzzlemaster_jacket-16">
+</path>
+<path d="M 293 105 L 316 82 L 327 95 L 313 92 C 300 101 293 105 293 105 Z" fill="#01040c" id="id-male-17_puzzlemaster_jacket-17">
+</path>
+<path d="M 407 39 C 412 38 414 37 414 37 C 425 59 430 70 430 70 L 417 106 C 401 97 392 92 392 92 C 385 95 381 96 381 96 C 380 103 380 107 380 107 C 416 133 435 146 435 146 C 383 206 357 237 357 237 C 356 155 356 114 356 114 C 353 107 352 104 352 104 L 356 91 L 378 91 C 397 57 407 39 407 39 Z" fill="#393839" id="id-male-17_puzzlemaster_jacket-18">
+</path>
+<path d="M 407 39 C 412 38 414 37 414 37 C 401 66 394 80 394 80 L 385 79 C 399 53 407 39 407 39 Z" fill="#506170" id="id-male-17_puzzlemaster_jacket-19">
+</path>
+<path d="M 356 114 C 371 115 379 116 379 116 C 379 153 380 172 380 172 L 357 198 C 356 142 356 114 356 114 Z" fill="#49535e" id="id-male-17_puzzlemaster_jacket-20">
+</path>
+<path d="M 294 124 C 326 122 342 122 342 122 L 348 197 C 312 148 294 124 294 124 Z" fill="#393839" id="id-male-17_puzzlemaster_jacket-21">
+</path>
+</g>
+<g transform="translate(271,66)" id="id-male-17_puzzlemaster_jacket-22">
+<path d="M 169 0 C 169 0 179 48 179 48 C 153 275 140 388 140 388 C 79 389 48 390 48 390 C 41 352 37 333 37 333 C 12 144 0 49 0 49 C 3 33 4 24 4 24 C 62 107 92 148 92 148 L 151 42 C 163 14 169 0 169 0 Z" fill="#007ede" id="id-male-17_puzzlemaster_jacket-23">
+</path>
+<path d="M 169 0 C 175 32 179 48 179 48 C 175 79 173 95 173 95 C 82 240 36 313 36 313 L 30 246 L 92 148 L 151 42 L 169 0 Z" fill="#7da1e0" id="id-male-17_puzzlemaster_jacket-24">
+</path>
+<path d="M 28 240 L 85 140 L 5 24 L 2 50 C 19 177 28 240 28 240 Z" fill="#5899de" id="id-male-17_puzzlemaster_jacket-25">
+</path>
+<path d="M 9 103 L 62 181 L 85 140 L 5 24 L 2 50 C 7 85 9 103 9 103 Z" fill="#7da1e0" id="id-male-17_puzzlemaster_jacket-26">
+</path>
+<path d="M 32 137 C 43 119 40 90 23 51 C 63 108 83 137 83 137 C 71 144 61 153 57 173 C 40 149 32 137 32 137 Z" fill="#87a2fe" id="id-male-17_puzzlemaster_jacket-27">
+</path>
+<path d="M 70 182 C 90 167 100 194 92 223 C 133 159 153 127 153 127 C 132 138 124 121 125 90 C 104 127 86 158 70 182 Z" fill="#83a1f5" id="id-male-17_puzzlemaster_jacket-28">
+</path>
+<path d="M 86 156 C 103 144 111 138 111 138 L 108 119 C 93 144 86 156 86 156 Z" fill="#c2d7ff" id="id-male-17_puzzlemaster_jacket-29">
+</path>
+<path d="M 79 244 C 56 288 45 310 45 310 C 48 322 52 337 58 356 C 87 359 101 360 101 360 C 110 386 114 398 114 398 C 127 394 133 392 133 392 C 125 364 117 344 108 332 C 90 309 80 279 79 244 Z" fill="#6a9be6" id="id-male-17_puzzlemaster_jacket-30">
+</path>
+<path d="M 58 286 C 72 258 79 244 79 244 C 72 293 108 337 128 395 L 114 398 C 109 354 89 317 58 286 Z" fill="#7b9ee7" id="id-male-17_puzzlemaster_jacket-31">
+</path>
+<path d="M 173 95 C 155 124 146 139 146 139 C 150 146 152 149 152 149 L 136 350 L 128 395 L 139 388 C 162 193 173 95 173 95 Z" fill="#006acb" id="id-male-17_puzzlemaster_jacket-32">
+</path>
+<path d="M 94 360 L 42 360 L 37 333 C 36 320 36 313 36 313 L 78 245 C 56 288 45 310 45 310 C 50 329 53 338 53 338 L 45 355 C 77 358 94 360 94 360 Z" fill="#005dca" id="id-male-17_puzzlemaster_jacket-33">
+</path>
+<polygon points="85 140 91 148 30 246 28 240" fill="#3c8ccf" id="id-male-17_puzzlemaster_jacket-34">
+</polygon>
+</g>
+<g transform="translate(4,0)" id="id-male-17_puzzlemaster_jacket-35">
+<path d="M 130 785 C 141 728 183 672 236 619 C 294 597 323 586 323 586 C 399 583 437 581 437 581 C 512 653 550 688 550 688 C 569 714 579 727 579 727 C 590 764 595 783 595 783 C 600 766 602 757 602 757 C 595 729 591 716 591 716 C 594 736 595 746 595 746 C 565 705 549 684 549 684 C 466 602 424 561 424 561 C 328 561 280 561 280 561 C 199 629 140 696 118 762 C 126 777 130 785 130 785 Z" fill="#000000" fill-opacity="0.29" id="id-male-17_puzzlemaster_jacket-36">
+</path>
+<path d="M 94 773 C 89 778 87 780 87 780 C 29 779 0 778 0 778 C 9 682 14 634 14 634 C 15 529 15 477 15 477 C 25 450 39 415 56 371 C 64 316 73 255 79 186 C 82 162 91 138 100 116 C 145 97 191 77 240 55 C 248 39 265 24 280 9 C 278 44 273 79 268 114 L 308 425 L 280 561 C 183 643 138 707 118 762 C 148 633 163 568 163 568 C 168 564 170 562 170 562 C 182 469 187 423 187 423 C 180 414 177 410 177 410 C 170 386 166 374 166 374 C 158 411 154 429 154 429 C 139 455 139 456 147 490 C 142 499 139 503 139 503 C 138 508 137 516 136 527 C 115 588 102 637 95 674 C 94 740 94 773 94 773 Z" fill="url(#id-male-17_puzzlemaster_jacket-0)" id="id-male-17_puzzlemaster_jacket-37">
+</path>
+<path d="M 46 779 L 0 779 L 14 634 L 15 477 C 42 407 56 371 56 371 C 69 272 76 223 76 223 C 88 340 94 399 94 399 C 91 429 90 444 90 444 C 81 439 77 437 77 437 C 54 469 43 486 43 486 C 39 546 42 608 48 672 L 46 779 Z" fill="#c687c9" id="id-male-17_puzzlemaster_jacket-38">
+</path>
+<path d="M 29 740 C 22 743 19 745 19 745 C 20 756 20 761 20 761 L 28 757 C 29 745 29 740 29 740 Z" fill="#1e212d" id="id-male-17_puzzlemaster_jacket-39">
+</path>
+<path d="M 18 735 C 18 724 18 718 18 718 C 24 715 27 713 27 713 L 29 730 C 22 734 18 735 18 735 Z" fill="#1e212d" id="id-male-17_puzzlemaster_jacket-40">
+</path>
+<path d="M 79 780 C 84 780 87 780 87 780 C 90 777 91 776 91 776 C 69 681 81 596 85 509 C 89 507 93 505 101 506 C 103 508 103 510 103 510 C 125 482 135 469 135 469 C 96 448 77 437 77 437 C 83 452 86 459 86 459 L 76 465 C 90 530 55 619 79 780 Z" fill="#dea9dc" id="id-male-17_puzzlemaster_jacket-41">
+</path>
+<path d="M 95 441 C 104 376 118 310 131 244 C 131 228 131 220 131 220 C 118 173 112 149 112 149 C 115 152 117 153 117 153 C 129 182 139 213 149 245 L 149 302 C 123 342 105 389 95 441 Z" fill="#c0b7dc" id="id-male-17_puzzlemaster_jacket-42">
+</path>
+<path d="M 161 358 C 152 276 148 235 148 235 L 163 296 C 162 337 161 358 161 358 Z" fill="#998fc5" id="id-male-17_puzzlemaster_jacket-43">
+</path>
+<path d="M 172 256 L 166 375 L 177 410 C 184 419 187 423 187 423 C 205 423 213 423 213 423 L 180 355 L 172 256 Z" fill="#a18cc4" id="id-male-17_puzzlemaster_jacket-44">
+</path>
+<path d="M 246 295 C 266 344 276 369 276 369 L 292 426 L 308 426 C 287 378 266 334 246 295 Z" fill="#9493c7" id="id-male-17_puzzlemaster_jacket-45">
+</path>
+<path d="M 299 398 C 226 248 190 173 190 173 L 263 121 C 287 306 299 398 299 398 Z" fill="#c1cce9" id="id-male-17_puzzlemaster_jacket-46">
+</path>
+<path d="M 166 294 C 166 240 166 213 166 213 C 187 221 198 225 198 225 C 188 188 182 170 182 170 L 220 138 C 209 135 203 134 203 134 L 197 118 C 226 76 240 55 240 55 L 105 114 C 132 177 153 237 166 294 Z" fill="url(#id-male-17_puzzlemaster_jacket-1)" id="id-male-17_puzzlemaster_jacket-47">
+</path>
+<path d="M 108 113 C 118 131 123 140 123 140 C 123 134 124 130 128 128 L 225 77 L 240 55 C 152 93 108 113 108 113 Z" fill="#d4e5ff" id="id-male-17_puzzlemaster_jacket-48">
+</path>
+<path d="M 197 118 C 227 126 242 130 242 130 C 257 120 264 115 264 115 C 269 80 268 48 277 12 C 251 35 247 43 197 118 Z" fill="#acc3dd" id="id-male-17_puzzlemaster_jacket-49">
+</path>
+<path d="M 277 12 C 273 29 272 37 272 37 L 217 88 C 235 57 255 31 277 12 Z" fill="#f1fcff" id="id-male-17_puzzlemaster_jacket-50">
+</path>
+<path d="M 100 116 C 109 136 113 146 113 146 C 111 146 110 146 110 146 C 94 173 86 186 86 186 C 77 263 69 343 55 413 C 53 406 52 401 49 403 L 15 484 L 15 477 C 28 442 42 406 56 371 L 76 223 C 77 185 85 150 100 116 Z" fill="#f3d8ff" id="id-male-17_puzzlemaster_jacket-51">
+</path>
+<path d="M 176 664 C 190 595 197 561 197 561 C 224 560 238 560 238 560 C 237 572 238 584 242 595 C 217 618 195 640 176 664 Z" fill="#d4a9d8" id="id-male-17_puzzlemaster_jacket-52">
+</path>
+<path d="M 602 757 L 595 747 C 565 705 549 684 549 684 C 450 587 401 538 401 538 C 404 462 405 424 405 424 C 416 325 421 276 421 276 C 436 168 444 115 444 115 C 427 43 419 7 419 7 C 415 5 413 3 413 3 C 414 1 414 0 414 0 C 422 2 427 4 427 4 C 434 19 449 34 468 47 C 477 57 481 63 481 63 C 526 83 572 101 618 120 C 637 191 644 282 658 371 C 664 404 683 439 696 473 C 702 550 701 628 704 706 C 705 729 708 752 707 776 C 651 773 622 771 622 771 C 621 704 620 671 620 671 C 593 577 579 524 577 513 C 575 494 573 475 573 454 C 564 436 560 428 560 428 C 548 373 542 346 542 346 C 537 389 537 432 537 475 C 561 554 575 635 591 716 L 602 757 Z" fill="url(#id-male-17_puzzlemaster_jacket-2)" id="id-male-17_puzzlemaster_jacket-53">
+</path>
+<path d="M 642 772 C 630 604 624 519 624 519 C 621 534 616 550 611 568 C 602 538 598 523 598 523 C 599 502 600 491 600 491 L 580 525 C 593 577 607 624 620 671 L 622 771 C 636 772 642 772 642 772 Z" fill="url(#id-male-17_puzzlemaster_jacket-3)" id="id-male-17_puzzlemaster_jacket-54">
+</path>
+<path d="M 642 772 C 679 774 698 776 698 776 C 656 675 635 568 674 443 L 696 473 C 680 432 665 403 660 380 C 644 290 639 192 618 120 C 604 129 596 133 596 133 C 599 133 601 133 601 133 C 600 137 599 139 599 139 C 601 138 602 138 602 138 C 584 188 576 214 576 214 C 585 205 590 201 590 201 C 626 332 644 398 644 398 C 661 428 648 470 631 498 C 640 568 641 621 634 660 C 640 735 642 772 642 772 Z" fill="url(#id-male-17_puzzlemaster_jacket-4)" id="id-male-17_puzzlemaster_jacket-55">
+</path>
+<path d="M 684 761 C 690 763 693 764 693 764 C 694 751 694 744 694 744 L 687 742 C 685 755 684 761 684 761 Z" fill="#1e212d" id="id-male-17_puzzlemaster_jacket-56">
+</path>
+<path d="M 694 732 C 689 730 686 729 686 729 C 687 717 687 711 687 711 L 696 714 C 695 726 694 732 694 732 Z" fill="#1e212d" id="id-male-17_puzzlemaster_jacket-57">
+</path>
+<path d="M 580 525 C 595 501 610 479 625 459 C 592 446 575 440 575 440 C 584 410 589 395 589 395 C 577 277 572 218 572 218 L 543 300 L 542 346 L 558 428 L 568 456 C 572 483 576 506 580 525 Z" fill="#75a3ce" id="id-male-17_puzzlemaster_jacket-58">
+</path>
+<path d="M 543 673 C 494 621 469 594 469 594 C 426 556 404 537 404 537 C 407 463 409 427 409 427 C 426 412 435 405 435 405 C 463 324 476 283 476 283 C 511 217 528 184 528 184 C 531 174 533 169 533 169 C 507 152 494 143 494 143 C 510 136 518 133 518 133 C 519 123 519 119 519 119 C 486 127 469 131 469 131 C 509 160 528 175 528 175 C 478 268 453 315 453 315 C 421 387 405 423 405 423 C 419 316 435 212 451 110 L 427 4 C 434 18 447 33 468 47 L 481 63 C 551 92 586 107 586 107 C 568 202 558 249 558 249 C 554 264 552 271 552 271 C 549 225 547 201 547 201 C 532 301 524 350 524 350 L 520 366 C 509 523 516 626 543 673 Z" fill="url(#id-male-17_puzzlemaster_jacket-5)" id="id-male-17_puzzlemaster_jacket-59">
+</path>
+<path d="M 519 648 C 508 613 502 572 499 528 C 495 552 485 573 466 591 C 501 629 519 648 519 648 Z" fill="#cdc8eb" id="id-male-17_puzzlemaster_jacket-60">
+</path>
+<path d="M 423 536 C 417 534 414 534 414 534 C 415 521 416 515 416 515 L 423 523 C 423 532 423 536 423 536 Z" fill="#1e212d" id="id-male-17_puzzlemaster_jacket-61">
+</path>
+<path d="M 418 457 C 424 457 427 457 427 457 C 427 446 427 440 427 440 L 418 437 C 418 450 418 457 418 457 Z" fill="#1e212d" id="id-male-17_puzzlemaster_jacket-62">
+</path>
+<path d="M 465 299 C 431 372 415 408 415 408 C 413 418 412 423 412 423 L 436 395 C 455 331 465 299 465 299 Z" fill="#7c94be" id="id-male-17_puzzlemaster_jacket-63">
+</path>
+<path d="M 444 153 C 471 185 484 200 484 200 L 521 190 L 453 315 L 405 423 C 424 280 437 190 444 153 Z" fill="url(#id-male-17_puzzlemaster_jacket-6)" id="id-male-17_puzzlemaster_jacket-64">
+</path>
+<path d="M 489 205 C 488 176 487 162 487 162 L 523 178 C 500 196 489 205 489 205 Z" fill="#1e212d" id="id-male-17_puzzlemaster_jacket-65">
+</path>
+<path d="M 558 173 L 488 65 C 575 102 618 120 618 120 L 619 123 L 596 133 C 571 159 558 173 558 173 Z" fill="#c4e0fc" id="id-male-17_puzzlemaster_jacket-66">
+</path>
+<path d="M 446 86 C 455 77 460 72 460 72 L 509 107 L 468 47 C 450 35 436 21 427 4 C 439 59 446 86 446 86 Z" fill="#d0eaff" id="id-male-17_puzzlemaster_jacket-67">
+</path>
+<path d="M 469 131 C 499 123 514 120 514 120 L 487 144 C 475 135 469 131 469 131 Z" fill="#76a0cb" id="id-male-17_puzzlemaster_jacket-68">
+</path>
+<path d="M 570 465 C 591 465 602 466 602 466 L 574 494 C 571 475 570 465 570 465 Z" fill="#5882ac" id="id-male-17_puzzlemaster_jacket-69">
+</path>
+<path d="M 197 118 C 221 127 232 132 232 132 L 210 159 L 249 131 C 215 122 197 118 197 118 Z" fill="#135072" id="id-male-17_puzzlemaster_jacket-70">
+</path>
+<path d="M 514 120 L 469 131 C 481 140 487 144 487 144 L 481 133 L 514 120 Z" fill="#135072" id="id-male-17_puzzlemaster_jacket-71">
+</path>
+<path d="M 130 785 C 122 770 118 762 118 762 C 138 700 195 634 278 562 C 286 562 289 562 289 562 C 225 617 178 669 142 720 C 135 753 131 775 130 785 Z" fill="#c578c4" id="id-male-17_puzzlemaster_jacket-72">
+</path>
+</g>
+<g transform="translate(175,368)" id="id-male-17_puzzlemaster_jacket-73">
+<path d="M 0 195 C 11 195 17 195 17 195 C 174 194 253 193 253 193 L 230 171 C 231 145 231 132 231 132 C 233 102 235 87 235 87 C 219 91 211 93 211 93 C 203 70 198 58 198 58 C 77 56 17 55 17 55 C 14 75 13 84 13 84 C 10 84 9 84 9 84 C 5 118 4 134 4 134 L 7 136 C 2 175 0 195 0 195 Z" fill="url(#id-male-17_puzzlemaster_jacket-7)" id="id-male-17_puzzlemaster_jacket-74">
+</path>
+<path d="M 7 136 C 19 135 25 135 25 135 C 18 139 11 143 5 152 C 6 142 7 136 7 136 Z" fill="#005ec1" id="id-male-17_puzzlemaster_jacket-75">
+</path>
+<path d="M 217 135 C 190 132 177 130 177 130 L 131 137 C 71 136 40 135 40 135 C 101 134 131 134 131 134 C 154 128 166 125 166 125 C 166 119 166 115 166 115 L 206 115 C 210 122 212 126 212 126 C 226 130 232 132 232 132 C 232 135 231 148 230 170 C 245 185 253 193 253 193 C 245 190 239 187 230 183 L 217 135 Z" fill="#3079b8" id="id-male-17_puzzlemaster_jacket-76">
+</path>
+<path d="M 81 137 C 75 175 71 194 71 194 C 97 194 109 194 109 194 C 105 175 102 156 101 137 L 81 137 Z" fill="#83a1f5" id="id-male-17_puzzlemaster_jacket-77">
+</path>
+<path d="M 30 128 L 131 134 L 166 125 L 166 115 L 206 115 L 212 126 L 232 132 L 233 87 L 211 93 L 198 92 C 198 69 198 58 198 58 C 114 57 71 56 71 56 C 77 66 79 76 81 86 L 27 85 C 29 98 30 112 30 128 Z" fill="#689be5" id="id-male-17_puzzlemaster_jacket-78">
+</path>
+<path d="M 9 84 C 8 95 7 101 7 101 C 13 96 20 94 29 96 C 34 90 37 88 37 88 C 57 88 67 89 67 89 C 83 93 99 111 100 132 L 131 134 C 154 128 166 125 166 125 C 166 113 166 107 166 107 C 142 105 129 104 129 104 C 154 101 166 99 166 99 C 166 95 166 93 166 93 C 137 89 122 87 122 87 C 116 87 112 88 112 88 C 117 78 123 68 133 57 C 92 56 72 56 72 56 C 77 65 79 75 81 85 C 33 85 9 84 9 84 Z" fill="#83a1f5" id="id-male-17_puzzlemaster_jacket-79">
+</path>
+<path d="M 70 87 L 112 87 L 123 87 C 152 91 166 93 166 93 C 164 94 164 95 164 95 L 111 94 L 70 87 Z" fill="#c0d7ff" id="id-male-17_puzzlemaster_jacket-80">
+</path>
+<path d="M 124 116 C 152 113 166 111 166 111 L 163 120 C 137 117 124 116 124 116 Z" fill="#0b82de" id="id-male-17_puzzlemaster_jacket-81">
+</path>
+<path d="M 211 91 L 211 91 C 211 91 211 103 212 126 L 212 126 L 212 126 C 211 126 196 126 166 125 L 166 125 L 166 125 C 166 125 165 113 164 91 L 164 91 L 211 91 L 211 91 Z M 206 95 C 183 96 172 96 172 96 C 172 113 171 121 171 122 L 171 122 L 171 122 C 194 123 206 123 206 123 L 206 95 Z" fill="#06022c" id="id-male-17_puzzlemaster_jacket-82">
+</path>
+<path d="M 233 88 C 220 92 213 93 213 93 L 213 105 C 227 94 233 88 233 88 Z" fill="#a0bdff" id="id-male-17_puzzlemaster_jacket-83">
+</path>
+<path d="M 139 0 C 134 8 132 11 132 11 L 138 57 C 174 58 192 58 192 58 C 159 54 142 53 142 53 L 149 36 C 142 12 139 0 139 0 Z" fill="#005ec1" id="id-male-17_puzzlemaster_jacket-84">
+</path>
+</g>
+<path d="M 94 444 C 95 458 95 465 95 465 L 128 462 C 105 450 94 444 94 444 Z" fill="#a68ab9" id="id-male-17_puzzlemaster_jacket-85">
+</path>
+<path d="M 155 436 C 151 443 148 449 147 454 C 142 458 139 460 139 460 L 111 442 C 140 438 155 436 155 436 Z" fill="#a68ab9" id="id-male-17_puzzlemaster_jacket-86">
+</path>
+<path d="M 175 273 C 172 341 170 375 170 375 C 178 398 181 410 181 410 C 188 419 192 423 192 423 C 193 423 194 423 194 423 L 177 366 C 176 304 175 273 175 273 Z" fill="#6c5b8f" id="id-male-17_puzzlemaster_jacket-87">
+</path>
+<path d="M 254 424 C 282 423 297 422 297 422 C 303 418 307 417 307 417 L 312 425 C 273 424 254 424 254 424 Z" fill="#6c5b8f" id="id-male-17_puzzlemaster_jacket-88">
+</path>
+<g transform="translate(32,77)" fill="#ffffff" opacity="0.849" id="id-male-17_puzzlemaster_jacket-89">
+<ellipse cx="33" cy="695" id="id-male-17_puzzlemaster_jacket-90" rx="4" ry="2">
+</ellipse>
+<ellipse cx="31" cy="681" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="3">
+</ellipse>
+<ellipse cx="51" cy="584" id="id-male-17_puzzlemaster_jacket-90" rx="4" ry="6">
+</ellipse>
+<ellipse cx="40" cy="579" id="id-male-17_puzzlemaster_jacket-90" rx="3" ry="3">
+</ellipse>
+<ellipse cx="9" cy="565" id="id-male-17_puzzlemaster_jacket-90" rx="4" ry="3">
+</ellipse>
+<ellipse cx="3" cy="493" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="4">
+</ellipse>
+<ellipse cx="46" cy="473" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="61" cy="488" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="68" cy="490" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="3">
+</ellipse>
+<ellipse cx="87" cy="484" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="55" cy="469" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="57" cy="461" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="53" cy="453" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="69" cy="457" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="76" cy="461" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="84" cy="461" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="87" cy="465" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="97" cy="462" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="101" cy="449" id="id-male-17_puzzlemaster_jacket-90" rx="3" ry="2">
+</ellipse>
+<ellipse cx="72" cy="444" id="id-male-17_puzzlemaster_jacket-90" rx="3" ry="2">
+</ellipse>
+<ellipse cx="50" cy="446" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="43" cy="430" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="46" cy="423" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="53" cy="424" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="59" cy="426" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="65" cy="437" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="76" cy="440" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="61" cy="468" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="37" cy="347" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="3">
+</ellipse>
+<ellipse cx="23" cy="346" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="71" cy="241" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="73" cy="225" id="id-male-17_puzzlemaster_jacket-90" rx="4" ry="4">
+</ellipse>
+<ellipse cx="124" cy="246" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="142" cy="190" id="id-male-17_puzzlemaster_jacket-90" rx="3" ry="3">
+</ellipse>
+<ellipse cx="144" cy="152" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="3">
+</ellipse>
+<ellipse cx="179" cy="220" id="id-male-17_puzzlemaster_jacket-90" rx="5" ry="6">
+</ellipse>
+<ellipse cx="201" cy="111" id="id-male-17_puzzlemaster_jacket-90" rx="4" ry="4">
+</ellipse>
+<ellipse cx="217" cy="113" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="165" cy="43" id="id-male-17_puzzlemaster_jacket-90" rx="4" ry="4">
+</ellipse>
+<ellipse cx="128" cy="44" id="id-male-17_puzzlemaster_jacket-90" rx="4" ry="3">
+</ellipse>
+<ellipse cx="220" cy="61" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="193" cy="5" id="id-male-17_puzzlemaster_jacket-90" rx="5" ry="5">
+</ellipse>
+<ellipse cx="419" cy="152" id="id-male-17_puzzlemaster_jacket-90" rx="3" ry="4">
+</ellipse>
+<ellipse cx="425" cy="136" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="415" cy="123" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="420" cy="121" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="457" cy="136" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="458" cy="131" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="463" cy="138" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="444" cy="151" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="436" cy="244" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="431" cy="263" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="434" cy="269" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="451" cy="252" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="469" cy="244" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="476" cy="251" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="468" cy="269" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="450" cy="285" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="454" cy="289" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="474" cy="283" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="531" cy="158" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="543" cy="156" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="3">
+</ellipse>
+<ellipse cx="546" cy="167" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="565" cy="159" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="572" cy="145" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="579" cy="150" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="571" cy="170" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="552" cy="183" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="549" cy="188" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="569" cy="199" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="575" cy="193" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="565" cy="292" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="565" cy="314" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="573" cy="288" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="588" cy="272" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="594" cy="279" id="id-male-17_puzzlemaster_jacket-90" rx="3" ry="2">
+</ellipse>
+<ellipse cx="586" cy="293" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="584" cy="312" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="3">
+</ellipse>
+<ellipse cx="578" cy="318" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="596" cy="322" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="602" cy="322" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="596" cy="331" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="490" cy="69" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="496" cy="72" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="508" cy="66" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="514" cy="69" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="524" cy="81" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="520" cy="93" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="514" cy="93" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="537" cy="100" id="id-male-17_puzzlemaster_jacket-90" rx="3" ry="2">
+</ellipse>
+<ellipse cx="547" cy="92" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="546" cy="100" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="555" cy="91" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="542" cy="72" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="537" cy="65" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="524" cy="64" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="522" cy="49" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="514" cy="45" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="506" cy="36" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="496" cy="28" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="500" cy="33" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="508" cy="15" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="512" cy="19" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="517" cy="28" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="479" cy="11" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="527" cy="27" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="533" cy="42" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="3">
+</ellipse>
+<ellipse cx="522" cy="39" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="3">
+</ellipse>
+<ellipse cx="543" cy="37" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="540" cy="30" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="550" cy="33" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="561" cy="38" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="563" cy="53" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="539" cy="46" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="530" cy="52" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="566" cy="61" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="575" cy="63" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="3">
+</ellipse>
+<ellipse cx="581" cy="60" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="585" cy="52" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="3">
+</ellipse>
+<ellipse cx="567" cy="38" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="587" cy="61" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="591" cy="54" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="407" cy="421" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="410" cy="427" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="412" cy="435" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="413" cy="442" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="434" cy="411" id="id-male-17_puzzlemaster_jacket-90" rx="3" ry="2">
+</ellipse>
+<ellipse cx="442" cy="429" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="449" cy="442" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="451" cy="411" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="453" cy="418" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="3">
+</ellipse>
+<ellipse cx="427" cy="395" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="425" cy="411" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="435" cy="437" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="611" cy="456" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="620" cy="441" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="626" cy="446" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="626" cy="411" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="632" cy="407" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="635" cy="420" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="643" cy="427" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="643" cy="440" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="3">
+</ellipse>
+<ellipse cx="646" cy="455" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="3">
+</ellipse>
+<ellipse cx="658" cy="442" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="616" cy="463" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="623" cy="464" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="604" cy="582" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="607" cy="590" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="612" cy="612" id="id-male-17_puzzlemaster_jacket-90" rx="3" ry="2">
+</ellipse>
+<ellipse cx="623" cy="586" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="627" cy="582" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="643" cy="573" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="1">
+</ellipse>
+<ellipse cx="646" cy="580" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="649" cy="592" id="id-male-17_puzzlemaster_jacket-90" rx="2" ry="2">
+</ellipse>
+<ellipse cx="634" cy="603" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="2">
+</ellipse>
+<ellipse cx="632" cy="611" id="id-male-17_puzzlemaster_jacket-90" rx="3" ry="1">
+</ellipse>
+<ellipse cx="636" cy="618" id="id-male-17_puzzlemaster_jacket-90" rx="1" ry="1">
+</ellipse>
+<ellipse cx="643" cy="626" id="id-male-17_puzzlemaster_jacket-90" rx="3" ry="1">
+</ellipse>
+</g>
+</g>
+<defs>
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-male-27_eye_shields-0">
+<stop stop-color="#6af17a" offset="0%">
+</stop>
+<stop stop-color="#009987" offset="5%">
+</stop>
+<stop stop-color="#44006d" offset="17%">
+</stop>
+<stop stop-color="#225a7d" offset="29%">
+</stop>
+<stop stop-color="#45006d" offset="50%">
+</stop>
+<stop stop-color="#430272" offset="68%">
+</stop>
+<stop stop-color="#26547b" offset="82%">
+</stop>
+<stop stop-color="#019586" offset="97%">
+</stop>
+<stop stop-color="#6af17a" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="6%" x2="50%" y2="100%" id="id-male-27_eye_shields-1">
+<stop stop-color="#c700bd" offset="0%">
+</stop>
+<stop stop-color="#4d0072" offset="34%">
+</stop>
+<stop stop-color="#a07db0" offset="69%" stop-opacity="0">
+</stop>
+<stop stop-color="#0471ba" offset="79%">
+</stop>
+<stop stop-color="#009bd6" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="104%" y1="93%" x2="9%" y2="6%" id="id-male-27_eye_shields-2">
+<stop stop-color="#00ad8a" offset="0%">
+</stop>
+<stop stop-color="#56e180" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="100%" y1="9%" x2="13%" y2="90%" id="id-male-27_eye_shields-3">
+<stop stop-color="#56e180" offset="0%">
+</stop>
+<stop stop-color="#00ad8a" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-male-27_eye_shields-4">
+<stop stop-color="#9001ad" offset="0%">
+</stop>
+<stop stop-color="#45006d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-male-27_eye_shields-5">
+<stop stop-color="#45006d" offset="0%">
+</stop>
+<stop stop-color="#9001ad" offset="100%">
+</stop>
+</linearGradient>
+</defs>
+<g transform="translate(469,188)" id="id-male-27_eye_shields-6">
+<path d="M 87 221 C 93 226 96 228 96 228 C 119 229 137 235 149 246 C 145 282 144 305 146 316 C 147 257 162 260 167 221 C 183 214 180 200 192 198 C 204 198 196 213 213 225 C 221 272 238 265 232 320 C 238 315 240 295 239 260 C 235 256 232 252 230 246 C 249 229 274 233 278 224 C 254 221 232 215 212 208 C 202 206 204 192 192 190 C 192 190 192 190 191 190 C 180 191 173 208 167 208 C 164 216 160 225 154 235 C 128 225 106 220 87 221 Z" fill="#000000" fill-opacity="0.5" id="id-male-27_eye_shields-7">
+</path>
+<path d="M 147 321 C 146 321 145 321 143 318 C 137 297 140 272 139 250 C 143 249 146 248 150 244 C 123 210 12 240 0 155 L 2 154 C 22 236 92 193 154 234 C 159 225 161 213 158 195 C 133 168 102 155 95 133 L 85 131 C 68 104 105 25 126 1 C 128 5 81 77 103 126 C 117 161 161 174 166 200 L 170 206 C 177 193 183 187 190 187 C 203 185 207 209 211 206 C 214 206 209 195 220 184 C 237 166 266 152 278 122 C 290 77 268 41 252 1 C 316 92 293 130 293 130 C 290 132 286 133 283 133 C 269 162 225 182 219 201 C 218 211 219 222 223 234 C 283 194 357 233 376 155 C 377 154 377 154 378 155 C 370 238 254 210 229 244 C 230 248 234 250 239 250 C 240 283 238 323 232 321 C 238 265 213 244 213 219 C 203 219 199 193 190 193 C 181 193 179 216 166 219 C 160 256 140 268 147 321 Z" fill="url(#id-male-27_eye_shields-0)" id="id-male-27_eye_shields-8">
+</path>
+<path d="M 147 321 C 146 321 145 321 143 318 C 137 297 140 272 139 250 C 143 249 146 248 150 244 C 123 210 12 240 0 155 L 2 154 C 22 236 92 193 154 234 C 159 225 161 213 158 195 C 133 168 102 155 95 133 L 85 131 C 68 104 105 25 126 1 C 128 5 81 77 103 126 C 117 161 161 174 166 200 L 170 206 C 177 193 184 187 191 187 C 204 185 207 209 211 206 C 214 206 209 195 220 184 C 237 166 266 152 278 122 C 290 77 268 41 252 1 C 316 92 293 130 293 130 C 290 132 286 133 283 133 C 269 162 225 182 219 201 C 218 211 219 222 223 234 C 283 194 357 233 376 155 C 377 154 377 154 378 155 C 370 238 254 210 229 244 C 230 248 234 250 239 250 C 240 283 238 323 232 321 C 238 265 213 244 213 219 C 203 219 200 193 191 193 C 182 193 179 216 166 219 C 160 256 140 268 147 321 Z" fill="url(#id-male-27_eye_shields-1)" id="id-male-27_eye_shields-9">
+</path>
+<path d="M 101 123 C 80 78 104 37 126 1 C 126 7 104 42 100 71 C 95 90 96 108 101 123 Z" fill="#bc00b6" id="id-male-27_eye_shields-10">
+</path>
+<path d="M 220 229 C 218 224 216 216 216 202 L 218 202 C 218 210 219 219 220 229 Z" fill="#893aaf" id="id-male-27_eye_shields-11">
+</path>
+<path d="M 285 110 L 287 111 C 286 115 285 119 284 122 L 285 110 Z" fill="#b85cd8" id="id-male-27_eye_shields-12">
+</path>
+<path d="M 293 130 L 292 131 C 294 85 276 42 252 1 C 291 56 304 100 293 130 Z" fill="#b600b4" id="id-male-27_eye_shields-13">
+</path>
+<path d="M 293 106 C 291 83 282 55 266 22 C 272 31 278 42 283 54 C 291 72 294 90 293 106 Z" fill="#dd7bfa" id="id-male-27_eye_shields-14">
+</path>
+<path d="M 293 116 L 295 116 C 295 123 294 121 293 122 C 293 121 293 119 293 116 Z" fill="#d766ef" id="id-male-27_eye_shields-15">
+</path>
+<path d="M 153 248 C 153 248 154 247 154 248 C 155 248 155 249 155 249 C 146 270 143 293 147 319 C 147 320 147 321 146 321 C 146 321 145 320 145 320 C 141 293 144 270 153 248 Z" fill="#57c4f9" id="id-male-27_eye_shields-16" fill-rule="nonzero">
+</path>
+<path d="M 236 252 C 237 252 237 252 237 253 L 237 256 L 237 259 L 238 261 L 238 263 L 238 266 L 238 268 L 238 270 L 238 272 L 238 274 L 238 276 C 238 277 238 277 238 277 L 238 279 L 238 280 L 238 283 L 238 284 L 238 286 L 238 287 L 238 289 L 237 290 L 237 292 L 237 293 L 237 295 L 237 296 L 237 298 L 237 299 L 237 300 L 237 301 L 237 303 L 237 304 L 236 305 L 236 306 L 236 307 L 236 308 L 236 309 C 236 309 236 309 236 310 L 236 311 L 235 312 L 235 313 L 235 313 L 235 314 L 235 315 C 235 315 235 316 235 316 L 234 317 L 234 317 L 234 318 C 234 318 234 319 234 319 L 234 320 C 234 320 234 320 234 320 L 233 321 C 233 321 233 321 233 321 C 233 322 233 322 232 322 C 232 322 231 321 231 321 L 232 320 L 232 319 L 232 318 C 232 318 232 318 232 318 L 232 317 L 233 316 L 233 315 C 233 315 233 315 233 315 L 233 314 L 233 313 L 233 312 L 234 311 L 234 310 L 234 309 L 234 308 L 234 307 L 234 306 L 234 305 L 234 304 L 235 303 L 235 302 L 235 300 L 235 299 L 235 298 L 235 297 L 235 296 L 235 294 L 235 292 L 235 291 L 235 289 L 236 287 L 236 286 L 236 284 L 236 282 L 236 280 L 236 277 C 236 277 236 276 236 276 L 236 274 L 236 272 L 236 270 L 236 268 L 236 265 L 236 263 L 236 261 L 235 258 L 235 256 L 235 253 C 235 253 236 252 236 252 Z" fill="#57c4f9" id="id-male-27_eye_shields-17" fill-rule="nonzero">
+</path>
+<circle cx="237" cy="255" r="2" fill="#5bbaf2" id="id-male-27_eye_shields-18">
+</circle>
+<path d="M 156 233 C 157 233 157 233 158 234 C 158 234 158 235 157 235 C 157 235 157 235 157 235 L 157 235 C 157 235 157 235 157 235 L 157 235 L 156 236 C 155 237 153 237 149 236 C 149 236 149 235 149 234 C 149 234 150 234 150 234 C 153 235 154 235 155 234 L 155 234 C 156 233 156 233 156 233 Z" fill="#0078bd" id="id-male-27_eye_shields-19" fill-rule="nonzero">
+</path>
+<path d="M 62 210 L 69 211 L 75 212 L 79 212 L 82 213 L 85 213 L 87 213 L 89 214 L 91 214 L 92 214 L 94 215 L 96 215 L 98 215 L 99 215 L 101 216 L 102 216 L 104 216 L 104 216 L 105 217 C 106 217 106 217 107 217 C 122 220 134 225 145 232 C 145 232 145 233 145 234 C 145 234 144 234 143 234 C 133 227 121 222 106 219 C 106 219 105 219 104 218 L 104 218 C 103 218 102 218 102 218 L 100 218 L 100 217 L 98 217 L 96 217 L 94 216 L 92 216 L 91 216 L 88 216 L 86 215 L 85 215 L 83 215 L 80 215 L 77 214 L 73 214 L 62 212 C 61 212 61 212 61 211 C 61 211 61 210 62 210 L 62 210 Z" fill="#9137c0" id="id-male-27_eye_shields-20" fill-rule="nonzero">
+</path>
+<path d="M 1 153 C 1 153 2 153 2 154 C 9 187 27 204 55 208 C 56 208 56 209 56 209 C 56 210 55 210 55 210 C 26 205 7 188 0 154 C 0 154 0 153 1 153 Z" fill="url(#id-male-27_eye_shields-2)" id="id-male-27_eye_shields-21" fill-rule="nonzero">
+</path>
+<path d="M 138 170 C 138 169 139 169 139 170 C 148 176 155 183 161 191 C 161 192 161 192 160 192 C 160 193 159 193 159 192 C 154 184 147 178 138 171 C 138 171 138 170 138 170 Z" fill="#a14ac2" id="id-male-27_eye_shields-22" fill-rule="nonzero">
+</path>
+<circle cx="160" cy="191" r="2" fill="#c868e7" id="id-male-27_eye_shields-18">
+</circle>
+<path d="M 164 198 C 164 198 165 198 165 199 C 166 211 165 222 162 230 C 162 231 162 231 161 231 C 161 231 160 230 161 230 C 163 222 164 211 163 199 C 163 199 163 198 164 198 Z" fill="#b358d3" id="id-male-27_eye_shields-24" fill-rule="nonzero">
+</path>
+<path d="M 126 0 C 127 0 127 1 127 1 L 125 4 L 124 6 L 123 8 L 122 10 L 121 12 L 120 14 L 120 16 L 119 18 L 118 19 L 117 21 L 116 23 L 115 25 C 115 25 115 26 114 26 L 114 28 L 113 30 L 112 31 C 112 32 112 32 112 32 L 111 34 L 110 35 L 110 37 L 109 39 L 108 40 C 108 40 108 41 108 41 L 107 42 L 107 44 L 106 45 C 106 46 106 46 106 46 L 105 48 C 105 48 105 49 105 49 L 104 51 L 104 52 C 103 54 103 55 102 56 L 102 58 C 101 60 101 61 101 63 L 100 64 C 100 65 100 66 100 66 L 99 68 C 99 68 99 69 99 69 L 99 70 C 99 71 98 71 97 71 C 97 71 97 71 97 70 C 97 69 97 69 97 68 L 98 67 C 98 65 98 64 98 63 L 99 62 C 99 61 99 61 99 60 L 100 59 C 100 58 100 58 100 57 L 100 56 C 101 55 101 53 102 52 L 102 51 C 102 51 102 50 102 50 L 103 49 C 103 48 103 48 103 48 L 104 46 C 104 46 104 46 104 46 L 105 44 L 105 42 C 105 42 105 42 106 42 L 106 40 L 107 39 C 107 38 107 38 107 38 L 108 36 C 108 36 108 36 108 35 L 109 34 L 110 32 L 110 31 L 111 29 L 112 27 C 112 27 112 27 112 26 L 113 25 L 114 23 L 115 21 L 115 19 L 116 18 L 117 16 L 118 14 L 119 12 L 120 10 L 121 8 L 122 6 L 123 4 L 124 3 L 125 1 C 125 0 126 0 126 0 Z" fill="#dc75f8" id="id-male-27_eye_shields-25" fill-rule="nonzero">
+</path>
+<path d="M 97 56 C 97 56 98 55 98 55 C 99 56 99 56 99 57 C 92 74 91 89 94 105 C 94 106 94 107 94 107 C 93 107 92 106 92 106 C 89 89 90 74 97 56 Z" fill="#c55ee0" id="id-male-27_eye_shields-26" fill-rule="nonzero">
+</path>
+<path d="M 93 110 C 94 110 94 110 94 111 C 102 133 115 151 134 165 C 134 165 134 166 134 166 C 133 167 133 167 132 167 C 113 153 100 134 92 111 C 92 111 92 110 93 110 Z" fill="#c464e3" id="id-male-27_eye_shields-27" fill-rule="nonzero">
+</path>
+<path d="M 191 190 C 191 189 192 189 192 189 C 196 190 198 192 201 195 L 201 196 L 201 196 C 201 197 201 197 201 197 L 202 197 L 202 198 L 203 199 L 203 200 L 204 201 L 204 201 C 204 202 204 202 204 202 L 205 202 L 205 203 C 206 205 207 206 208 207 C 209 207 209 208 208 208 C 208 208 207 209 207 208 C 206 207 205 207 204 206 L 204 205 C 204 205 203 204 203 204 L 203 203 C 203 203 203 203 203 203 L 202 202 L 202 201 L 201 200 L 200 199 C 200 199 200 199 200 198 L 200 198 L 199 197 C 199 197 199 197 199 196 L 199 196 C 197 193 195 192 192 191 C 191 191 191 190 191 190 Z" fill="#8400a2" id="id-male-27_eye_shields-28" fill-rule="nonzero">
+</path>
+<circle cx="196" cy="191" r="2" fill="#c867e6" id="id-male-27_eye_shields-18">
+</circle>
+<path d="M 280 129 C 280 128 281 128 281 128 C 282 129 282 129 282 130 C 281 133 279 136 277 139 L 277 140 L 276 141 C 276 141 276 141 276 141 L 275 142 C 275 143 274 143 274 144 L 273 145 C 273 145 272 146 272 146 L 271 147 C 271 147 271 147 271 147 L 270 148 C 270 148 270 148 270 148 L 269 149 C 269 149 269 150 269 150 L 268 151 C 268 151 268 151 268 151 L 267 152 L 266 153 C 266 153 266 153 266 153 L 265 154 C 265 154 264 154 264 154 L 263 155 C 263 155 263 155 263 156 L 262 156 L 261 157 C 261 157 261 158 260 158 L 259 159 L 258 160 C 258 160 258 160 258 160 L 257 161 L 256 162 L 255 163 L 253 164 L 252 165 L 250 166 L 240 175 L 238 177 L 236 178 L 235 179 L 233 180 L 233 181 L 232 182 L 231 182 L 230 183 C 230 183 230 183 230 183 L 229 184 C 224 188 221 192 219 195 C 219 195 218 195 218 195 C 217 195 217 194 217 194 C 220 190 224 186 230 181 L 231 179 L 232 178 L 234 177 L 235 177 L 236 175 L 238 174 L 248 166 L 250 164 L 251 163 L 253 162 L 254 160 L 256 159 L 257 159 L 258 158 C 258 157 258 157 258 157 L 259 156 C 259 156 259 156 260 156 L 261 155 L 262 154 L 262 153 C 263 153 263 153 263 153 L 264 152 L 265 151 L 265 150 L 266 149 C 267 149 268 148 269 147 L 269 146 C 270 146 270 145 270 145 L 271 144 L 272 144 C 272 143 272 143 273 142 L 273 141 C 276 137 279 133 280 129 Z" fill="#b356d3" id="id-male-27_eye_shields-30" fill-rule="nonzero">
+</path>
+<path d="M 377 154 C 378 154 378 154 378 155 C 373 186 352 206 314 213 C 313 213 313 213 313 212 C 313 212 313 211 314 211 C 351 204 371 185 376 155 C 376 154 376 154 377 154 L 377 154 Z" fill="url(#id-male-27_eye_shields-3)" id="id-male-27_eye_shields-31" fill-rule="nonzero">
+</path>
+<path d="M 307 213 C 307 213 308 214 308 214 C 308 215 307 215 307 215 L 304 216 C 304 216 304 216 303 216 L 301 216 L 299 216 C 299 216 298 216 298 216 L 296 216 C 296 216 295 216 295 216 L 293 216 L 291 217 L 289 217 L 287 217 L 285 217 L 283 217 C 283 217 283 217 283 218 L 281 218 C 275 218 270 219 265 220 L 264 221 C 250 224 240 228 233 233 C 233 234 232 234 232 233 C 231 233 231 232 232 232 C 241 224 255 220 273 217 L 275 216 L 277 216 C 277 216 277 216 278 216 L 279 216 C 280 216 280 216 280 216 L 282 216 C 282 215 283 215 283 215 L 285 215 C 285 215 286 215 286 215 L 288 215 L 290 215 L 292 215 C 292 215 292 214 293 214 L 295 214 L 297 214 L 299 214 L 301 214 L 303 214 L 305 214 C 306 214 306 214 307 213 Z" fill="#b357d4" id="id-male-27_eye_shields-32" fill-rule="nonzero">
+</path>
+<path d="M 219 235 C 219 234 220 234 220 234 C 221 234 221 234 222 234 L 222 235 C 222 235 223 235 224 235 L 225 235 C 225 235 226 235 226 236 C 226 236 226 237 225 237 C 223 237 222 237 221 236 L 221 236 C 220 236 220 236 220 236 C 219 236 219 235 219 235 Z" fill="#027bbf" id="id-male-27_eye_shields-33" fill-rule="nonzero">
+</path>
+<path d="M 223 234 C 234 227 251 220 274 215 C 292 191 291 162 283 132 C 268 162 223 183 219 201 C 218 212 219 223 223 234 Z" fill="url(#id-male-27_eye_shields-4)" id="id-male-27_eye_shields-34">
+</path>
+<path d="M 154 234 C 140 225 123 219 104 215 C 87 196 86 167 94 133 L 95 133 C 106 156 141 173 158 195 C 163 212 162 225 154 234 Z" fill="url(#id-male-27_eye_shields-5)" id="id-male-27_eye_shields-35">
+</path>
+<path d="M 97 205 C 107 194 111 178 109 156 C 114 161 116 164 116 164 C 108 178 108 196 112 217 L 104 215 C 101 212 99 209 97 205 Z" fill="#ffffff" fill-opacity="0.256" id="id-male-27_eye_shields-36">
+</path>
+<path d="M 266 216 L 275 215 L 277 211 C 268 205 270 186 273 166 L 263 158 L 262 159 C 268 173 270 191 266 216 Z" fill="#ffffff" fill-opacity="0.256" id="id-male-27_eye_shields-37">
+</path>
+<polygon points="109 156 116 164 110 178" fill="#d96efb" id="id-male-27_eye_shields-38">
+</polygon>
+<path d="M 263 158 L 262 159 C 266 166 267 175 269 183 L 273 166 L 263 158 Z" fill="#d96efb" id="id-male-27_eye_shields-39">
+</path>
+<g transform="translate(97,144)" fill="#0d0c13" id="id-male-27_eye_shields-40">
+<path d="M 3 16 C 4 16 5 15 5 14 C 5 13 4 12 3 12 C 1 12 0 13 0 14 C 0 15 1 16 3 16 Z M 3 39 C 4 39 5 38 5 37 C 5 36 4 35 3 35 C 1 35 0 36 0 37 C 0 38 1 39 3 39 Z M 3 27 C 4 27 5 26 5 25 C 5 24 4 23 3 23 C 1 23 0 24 0 25 C 0 26 1 27 3 27 Z M 3 52 C 4 52 5 51 5 50 C 5 49 4 48 3 48 C 1 48 0 49 0 50 C 0 51 1 52 3 52 Z M 9 22 C 10 22 11 21 11 20 C 11 19 10 18 9 18 C 8 18 7 19 7 20 C 7 21 8 22 9 22 Z M 9 33 C 10 33 11 32 11 31 C 11 30 10 29 9 29 C 8 29 7 30 7 31 C 7 32 8 33 9 33 Z M 9 45 C 10 45 11 44 11 43 C 11 42 10 41 9 41 C 8 41 7 42 7 43 C 7 44 8 45 9 45 Z M 9 58 C 10 58 11 57 11 56 C 11 55 10 54 9 54 C 8 54 7 55 7 56 C 7 57 8 58 9 58 Z M 21 69 C 22 69 23 68 23 67 C 23 66 22 65 21 65 C 20 65 19 66 19 67 C 19 68 20 69 21 69 Z M 15 63 C 16 63 17 62 17 61 C 17 60 16 59 15 59 C 14 59 13 60 13 61 C 13 62 14 63 15 63 Z M 15 52 C 16 52 17 51 17 50 C 17 49 16 48 15 48 C 14 48 13 49 13 50 C 13 51 14 52 15 52 Z M 15 39 C 16 39 17 38 17 37 C 17 36 16 35 15 35 C 14 35 13 36 13 37 C 13 38 14 39 15 39 Z M 15 27 C 16 27 17 26 17 25 C 17 24 16 23 15 23 C 14 23 13 24 13 25 C 13 26 14 27 15 27 Z M 21 33 C 22 33 23 32 23 31 C 23 30 22 29 21 29 C 20 29 19 30 19 31 C 19 32 20 33 21 33 Z M 21 45 C 22 45 23 44 23 43 C 23 42 22 41 21 41 C 20 41 19 42 19 43 C 19 44 20 45 21 45 Z M 21 57 C 22 57 23 56 23 55 C 23 54 22 53 21 53 C 20 53 19 54 19 55 C 19 56 20 57 21 57 Z M 26 63 C 27 63 28 62 28 61 C 28 60 27 59 26 59 C 25 59 24 60 24 61 C 24 62 25 63 26 63 Z M 26 51 C 27 51 28 50 28 49 C 28 48 27 47 26 47 C 25 47 24 48 24 49 C 24 50 25 51 26 51 Z M 26 39 C 27 39 28 38 28 37 C 28 36 27 35 26 35 C 25 35 24 36 24 37 C 24 38 25 39 26 39 Z M 32 45 C 33 45 34 44 34 43 C 34 42 33 41 32 41 C 31 41 30 42 30 43 C 30 44 31 45 32 45 Z M 32 58 C 33 58 34 57 34 56 C 34 55 33 54 32 54 C 31 54 30 55 30 56 C 30 57 31 58 32 58 Z M 32 69 C 33 69 34 68 34 67 C 34 66 33 65 32 65 C 31 65 30 66 30 67 C 30 68 31 69 32 69 Z M 38 75 C 39 75 40 74 40 73 C 40 72 39 71 38 71 C 37 71 36 72 36 73 C 36 74 37 75 38 75 Z M 38 64 C 39 64 40 63 40 62 C 40 61 39 60 38 60 C 37 60 36 61 36 62 C 36 63 37 64 38 64 Z M 38 52 C 39 52 40 51 40 50 C 40 49 39 48 38 48 C 37 48 36 49 36 50 C 36 51 37 52 38 52 Z M 44 45 C 45 45 46 44 46 43 C 46 42 45 41 44 41 C 43 41 42 42 42 43 C 42 44 43 45 44 45 Z M 38 39 C 39 39 40 38 40 37 C 40 36 39 35 38 35 C 37 35 36 36 36 37 C 36 38 37 39 38 39 Z M 51 52 C 52 52 53 51 53 50 C 53 49 52 48 51 48 C 50 48 49 49 49 50 C 49 51 50 52 51 52 Z M 44 58 C 45 58 46 57 46 56 C 46 55 45 54 44 54 C 43 54 42 55 42 56 C 42 57 43 58 44 58 Z M 51 63 C 52 63 53 62 53 61 C 53 60 52 59 51 59 C 50 59 49 60 49 61 C 49 62 50 63 51 63 Z M 44 69 C 45 69 46 68 46 67 C 46 66 45 65 44 65 C 43 65 42 66 42 67 C 42 68 43 69 44 69 Z M 51 75 C 52 75 53 74 53 73 C 53 72 52 71 51 71 C 50 71 49 72 49 73 C 49 74 50 75 51 75 Z M 57 81 C 58 81 59 80 59 79 C 59 78 58 77 57 77 C 56 77 55 78 55 79 C 55 80 56 81 57 81 Z M 57 69 C 58 69 59 68 59 67 C 59 66 58 65 57 65 C 56 65 55 66 55 67 C 55 68 56 69 57 69 Z M 57 58 C 58 58 59 57 59 56 C 59 55 58 54 57 54 C 56 54 55 55 55 56 C 55 57 56 58 57 58 Z M 128 57 C 129 57 130 56 130 55 C 130 54 129 53 128 53 C 127 53 126 54 126 55 C 126 56 127 57 128 57 Z M 128 69 C 129 69 130 68 130 67 C 130 66 129 65 128 65 C 127 65 126 66 126 67 C 126 68 127 69 128 69 Z M 128 81 C 129 81 130 80 130 79 C 130 78 129 77 128 77 C 127 77 126 78 126 79 C 126 80 127 81 128 81 Z M 133 75 C 134 75 135 74 135 73 C 135 72 134 71 133 71 C 132 71 131 72 131 73 C 131 74 132 75 133 75 Z M 133 63 C 134 63 135 62 135 61 C 135 60 134 59 133 59 C 132 59 131 60 131 61 C 131 62 132 63 133 63 Z M 133 51 C 134 51 135 50 135 49 C 135 48 134 47 133 47 C 132 47 131 48 131 49 C 131 50 132 51 133 51 Z M 139 46 C 140 46 141 45 141 44 C 141 42 140 41 139 41 C 138 41 137 42 137 44 C 137 45 138 46 139 46 Z M 152 46 C 153 46 154 45 154 44 C 154 42 153 41 152 41 C 151 41 150 42 150 44 C 150 45 151 46 152 46 Z M 164 46 C 165 46 166 45 166 44 C 166 42 165 41 164 41 C 163 41 162 42 162 44 C 162 45 163 46 164 46 Z M 176 46 C 177 46 178 45 178 44 C 178 42 177 41 176 41 C 175 41 174 42 174 44 C 174 45 175 46 176 46 Z M 139 57 C 140 57 141 56 141 55 C 141 54 140 53 139 53 C 138 53 137 54 137 55 C 137 56 138 57 139 57 Z M 139 69 C 140 69 141 68 141 67 C 141 66 140 65 139 65 C 138 65 137 66 137 67 C 137 68 138 69 139 69 Z M 152 69 C 153 69 154 68 154 67 C 154 66 153 65 152 65 C 151 65 150 66 150 67 C 150 68 151 69 152 69 Z M 164 69 C 165 69 166 68 166 67 C 166 66 165 65 164 65 C 163 65 162 66 162 67 C 162 68 163 69 164 69 Z M 158 64 C 159 64 160 63 160 62 C 160 61 159 60 158 60 C 157 60 156 61 156 62 C 156 63 157 64 158 64 Z M 152 58 C 153 58 154 57 154 56 C 154 55 153 54 152 54 C 151 54 150 55 150 56 C 150 57 151 58 152 58 Z M 158 52 C 159 52 160 51 160 50 C 160 49 159 48 158 48 C 157 48 156 49 156 50 C 156 51 157 52 158 52 Z M 164 58 C 165 58 166 57 166 56 C 166 55 165 54 164 54 C 163 54 162 55 162 56 C 162 57 163 58 164 58 Z M 170 64 C 171 64 172 63 172 62 C 172 61 171 60 170 60 C 169 60 168 61 168 62 C 168 63 169 64 170 64 Z M 170 52 C 171 52 172 51 172 50 C 172 49 171 48 170 48 C 169 48 168 49 168 50 C 168 51 169 52 170 52 Z M 158 39 C 159 39 160 38 160 37 C 160 36 159 35 158 35 C 157 35 156 36 156 37 C 156 38 157 39 158 39 Z M 152 33 C 153 33 154 32 154 31 C 154 30 153 29 152 29 C 151 29 150 30 150 31 C 150 32 151 33 152 33 Z M 158 28 C 159 28 160 27 160 26 C 160 25 159 24 158 24 C 157 24 156 25 156 26 C 156 27 157 28 158 28 Z M 164 33 C 165 33 166 32 166 31 C 166 30 165 29 164 29 C 163 29 162 30 162 31 C 162 32 163 33 164 33 Z M 164 22 C 165 22 166 21 166 20 C 166 19 165 18 164 18 C 163 18 162 19 162 20 C 162 21 163 22 164 22 Z M 170 39 C 171 39 172 38 172 37 C 172 36 171 35 170 35 C 169 35 168 36 168 37 C 168 38 169 39 170 39 Z M 176 58 C 177 58 178 57 178 56 C 178 55 177 54 176 54 C 175 54 174 55 174 56 C 174 57 175 58 176 58 Z M 181 51 C 182 51 183 50 183 49 C 183 48 182 47 181 47 C 180 47 179 48 179 49 C 179 50 180 51 181 51 Z M 181 39 C 182 39 183 38 183 37 C 183 36 182 35 181 35 C 180 35 179 36 179 37 C 179 38 180 39 181 39 Z M 176 33 C 177 33 178 32 178 31 C 178 30 177 29 176 29 C 175 29 174 30 174 31 C 174 32 175 33 176 33 Z M 181 28 C 182 28 183 27 183 26 C 183 25 182 24 181 24 C 180 24 179 25 179 26 C 179 27 180 28 181 28 Z M 176 21 C 177 21 178 20 178 19 C 178 18 177 17 176 17 C 175 17 174 18 174 19 C 174 20 175 21 176 21 Z M 182 15 C 183 15 184 14 184 13 C 184 12 183 11 182 11 C 181 11 180 12 180 13 C 180 14 181 15 182 15 Z M 170 28 C 171 28 172 27 172 26 C 172 25 171 24 170 24 C 169 24 168 25 168 26 C 168 27 169 28 170 28 Z M 170 16 C 171 16 172 15 172 14 C 172 13 171 12 170 12 C 169 12 168 13 168 14 C 168 15 169 16 170 16 Z M 176 10 C 177 10 178 9 178 8 C 178 7 177 6 176 6 C 175 6 174 7 174 8 C 174 9 175 10 176 10 Z M 182 3 C 182 3 183 2 183 2 C 183 1 182 0 182 0 C 181 0 180 1 180 2 C 180 2 181 3 182 3 Z M 146 75 C 147 75 148 74 148 73 C 148 72 147 71 146 71 C 144 71 143 72 143 73 C 143 74 144 75 146 75 Z M 146 63 C 147 63 148 62 148 61 C 148 60 147 59 146 59 C 144 59 143 60 143 61 C 143 62 144 63 146 63 Z M 146 52 C 147 52 148 51 148 50 C 148 49 147 48 146 48 C 144 48 143 49 143 50 C 143 51 144 52 146 52 Z M 146 39 C 147 39 148 38 148 37 C 148 36 147 35 146 35 C 144 35 143 36 143 37 C 143 38 144 39 146 39 Z" id="id-male-27_eye_shields-41">
+</path>
+</g>
+</g>
+<defs>
+</defs>
+<g transform="translate(952,1378)" id="id-male-29_vape-0">
+<path d="M 81 68 C 56 50 43 40 42 39 L 54 26 C 62 32 75 42 92 55 C 84 64 81 68 81 68 Z" fill="#10100e" id="id-male-29_vape-1">
+</path>
+<path d="M 86 62 C 64 45 51 35 48 33 L 52 28 C 60 35 73 44 91 58 C 88 60 86 62 86 62 Z" fill="#554d3c" id="id-male-29_vape-2">
+</path>
+<path d="M 50 45 C 57 36 60 31 60 31 L 63 33 C 54 41 50 45 50 45 Z" fill="#766f60" id="id-male-29_vape-3">
+</path>
+<path d="M 57 50 C 55 49 54 48 54 48 C 62 39 65 35 65 35 L 67 36 C 60 46 57 50 57 50 Z" fill="#726c5d" id="id-male-29_vape-4">
+</path>
+<path d="M 24 24 C 15 20 10 17 10 17 C 11 13 11 12 11 12 C 5 8 1 6 1 6 C 5 3 6 2 6 2 C 11 4 13 5 13 5 C 18 3 20 2 20 2 C 24 4 27 6 29 7 L 28 13 L 24 24 Z" transform="translate(15,13) rotate(7) translate(-15,-13)" fill="#10100e" id="id-male-29_vape-5">
+</path>
+<path d="M 22 13 C 19 10 18 9 18 9 C 21 7 23 6 23 6 L 25 7 C 23 11 22 13 22 13 Z" fill="#2e2b23" id="id-male-29_vape-6">
+</path>
+<path d="M 26 15 C 24 14 23 13 23 13 C 26 10 27 8 27 8 L 28 9 C 27 13 26 15 26 15 Z" fill="#4a4335" id="id-male-29_vape-7">
+</path>
+<path d="M 8 7 C 6 6 5 5 5 5 C 7 3 8 2 8 2 L 11 3 C 9 6 8 7 8 7 Z" fill="#494233" id="id-male-29_vape-8">
+</path>
+<path d="M 58 33 C 60 34 61 35 61 35 C 58 38 56 39 56 39 L 55 38 C 57 35 58 33 58 33 Z" fill="#b2b3be" id="id-male-29_vape-9">
+</path>
+<path d="M 62 43 C 60 42 60 42 60 42 C 62 39 64 37 64 37 L 65 38 C 63 42 62 43 62 43 Z" fill="#a8a8ae" id="id-male-29_vape-10">
+</path>
+<path d="M 84 70 C 82 69 81 68 81 68 C 88 60 92 55 92 55 C 93 58 94 59 94 59 L 91 66 C 87 68 84 70 84 70 Z" fill="#00a608" id="id-male-29_vape-11">
+</path>
+<path d="M 91 66 C 88 63 86 62 86 62 C 89 59 90 57 90 57 C 90 57 91 58 93 61 C 92 64 91 66 91 66 Z" fill="#02d82d" id="id-male-29_vape-12">
+</path>
+</g>
+<defs>
+</defs>
+
+</svg>

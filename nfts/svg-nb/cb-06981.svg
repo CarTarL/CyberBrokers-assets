@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1">
+<defs>
+</defs>
+
+<defs>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="99%" id="id-rat-4-rat-cans-filter-0">
+<stop stop-color="#6da302" offset="0%">
+</stop>
+<stop stop-color="#84c00e" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="56%" y1="68%" x2="41%" y2="96%" id="id-rat-4-rat-cans-filter-1">
+<stop stop-color="#8c4c56" offset="0%">
+</stop>
+<stop stop-color="#444049" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="43%" y1="18%" x2="47%" y2="93%" id="id-rat-4-rat-cans-filter-2">
+<stop stop-color="#34373d" offset="0%">
+</stop>
+<stop stop-color="#3b3f47" offset="10%">
+</stop>
+<stop stop-color="#35373d" offset="41%">
+</stop>
+<stop stop-color="#35373d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="45%" y1="27%" x2="47%" y2="93%" id="id-rat-4-rat-cans-filter-3">
+<stop stop-color="#35383e" offset="0%" stop-opacity="0">
+</stop>
+<stop stop-color="#5c6377" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="40%" y1="0%" x2="47%" y2="93%" id="id-rat-4-rat-cans-filter-4">
+<stop stop-color="#34373d" offset="0%">
+</stop>
+<stop stop-color="#3b3e46" offset="76%">
+</stop>
+<stop stop-color="#434955" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="34%" x2="51%" y2="92%" id="id-rat-4-rat-cans-filter-5">
+<stop stop-color="#4c5260" offset="0%">
+</stop>
+<stop stop-color="#636e83" offset="32%">
+</stop>
+<stop stop-color="#6b768c" offset="100%" stop-opacity="0">
+</stop>
+<stop stop-color="#6b768c" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="42%" y1="40%" x2="63%" y2="96%" id="id-rat-4-rat-cans-filter-6">
+<stop stop-color="#9e5965" offset="0%" stop-opacity="0.602">
+</stop>
+<stop stop-color="#9d5a65" offset="100%" stop-opacity="0">
+</stop>
+<stop stop-color="#6b768c" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="64%" y1="55%" x2="37%" y2="94%" id="id-rat-4-rat-cans-filter-7">
+<stop stop-color="#9e5965" offset="0%" stop-opacity="0.602">
+</stop>
+<stop stop-color="#9d5a65" offset="100%" stop-opacity="0">
+</stop>
+<stop stop-color="#6b768c" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<radialGradient cx="43%" cy="45%" r="51%" id="id-rat-4-rat-cans-filter-8" fx="43%" fy="45%" gradientTransform="translate(0.427,0.453) scale(0.873,1) rotate(90) scale(1,1) translate(-0.427,-0.453)">
+<stop stop-color="#c67587" offset="0%">
+</stop>
+<stop stop-color="#4d5361" offset="100%" stop-opacity="0">
+</stop>
+</radialGradient>
+<linearGradient x1="33%" y1="34%" x2="34%" y2="36%" id="id-rat-4-rat-cans-filter-9">
+<stop stop-color="#c13b9a" offset="0%">
+</stop>
+<stop stop-color="#970176" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="53%" y1="33%" x2="58%" y2="45%" id="id-rat-4-rat-cans-filter-10">
+<stop stop-color="#e6bb0c" offset="0%">
+</stop>
+<stop stop-color="#cf8200" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="52%" y1="82%" x2="50%" y2="100%" id="id-rat-4-rat-cans-filter-11">
+<stop stop-color="#323431" offset="0%">
+</stop>
+<stop stop-color="#5d6b6c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="33%" y1="34%" x2="34%" y2="36%" id="id-rat-4-rat-cans-filter-9">
+<stop stop-color="#c13b9a" offset="0%">
+</stop>
+<stop stop-color="#970176" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="53%" y1="33%" x2="58%" y2="45%" id="id-rat-4-rat-cans-filter-10">
+<stop stop-color="#e6bb0c" offset="0%">
+</stop>
+<stop stop-color="#cf8200" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="52%" y1="82%" x2="50%" y2="100%" id="id-rat-4-rat-cans-filter-11">
+<stop stop-color="#323431" offset="0%">
+</stop>
+<stop stop-color="#5d6b6c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="83%" y1="63%" x2="37%" y2="63%" id="id-rat-4-rat-cans-filter-15">
+<stop stop-color="#24262f" offset="0%">
+</stop>
+<stop stop-color="#111217" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="100%" y1="17%" x2="54%" y2="73%" id="id-rat-4-rat-cans-filter-16">
+<stop stop-color="#03040a" offset="0%">
+</stop>
+<stop stop-color="#1f2129" offset="76%">
+</stop>
+<stop stop-color="#181920" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="47%" y1="85%" x2="47%" y2="38%" id="id-rat-4-rat-cans-filter-17">
+<stop stop-color="#323337" offset="0%">
+</stop>
+<stop stop-color="#3f4044" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="61%" y1="48%" x2="34%" y2="50%" id="id-rat-4-rat-cans-filter-18">
+<stop stop-color="#ffaf2f" offset="0%">
+</stop>
+<stop stop-color="#dc700f" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="63%" y1="69%" x2="17%" y2="46%" id="id-rat-4-rat-cans-filter-19">
+<stop stop-color="#22191c" offset="0%">
+</stop>
+<stop stop-color="#be6585" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="58%" y1="51%" x2="35%" y2="50%" id="id-rat-4-rat-cans-filter-20">
+<stop stop-color="#2e6cfd" offset="0%">
+</stop>
+<stop stop-color="#0159de" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="54%" y1="67%" x2="16%" y2="42%" id="id-rat-4-rat-cans-filter-21">
+<stop stop-color="#18211e" offset="0%">
+</stop>
+<stop stop-color="#67c2a8" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="61%" y1="52%" x2="34%" y2="50%" id="id-rat-4-rat-cans-filter-22">
+<stop stop-color="#ff31ba" offset="0%">
+</stop>
+<stop stop-color="#dd01a9" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="71%" x2="29%" y2="50%" id="id-rat-4-rat-cans-filter-23">
+<stop stop-color="#181c22" offset="0%">
+</stop>
+<stop stop-color="#6686bf" offset="100%">
+</stop>
+</linearGradient>
+</defs>
+<g transform="translate(143,645)" id="id-rat-4-rat-cans-filter-24">
+<g transform="translate(0,901)" fill="#0a0c11" opacity="0.295" id="id-rat-4-rat-cans-filter-25">
+<path d="M 0 33 L 141 41 L 105 50 C 270 46 352 44 352 44 C 425 28 498 21 571 13 C 511 5 481 0 481 0 L 332 6 L 0 33 Z" id="id-rat-4-rat-cans-filter-26">
+</path>
+<path d="M 821 18 C 812 24 808 28 808 28 L 753 27 C 775 50 786 62 786 62 L 787 70 C 780 69 777 69 777 69 C 773 68 771 67 771 67 C 767 67 763 66 759 64 C 755 70 752 74 752 74 C 752 77 751 78 751 78 C 732 72 723 69 723 69 C 721 70 721 70 721 70 C 706 81 699 86 699 86 C 684 73 677 66 677 66 C 654 75 642 79 642 79 C 638 80 636 81 636 81 C 465 78 379 76 379 76 C 507 53 571 42 571 42 C 546 38 534 36 534 36 C 613 29 653 26 653 26 C 617 25 599 24 599 24 C 649 18 673 15 673 15 L 767 4 C 803 13 821 18 821 18 Z" id="id-rat-4-rat-cans-filter-27">
+</path>
+</g>
+<g transform="translate(249,559)" id="id-rat-4-rat-cans-filter-28">
+<path d="M 0 400 C 3 397 11 395 22 394 C 23 393 23 392 23 392 C 33 393 44 395 41 399 C 38 402 -1 406 0 400 Z" fill="#7ab309" id="id-rat-4-rat-cans-filter-29">
+</path>
+<path d="M 154 402 C 154 404 158 406 164 406 C 168 406 191 406 191 405 C 191 404 180 397 175 397 C 170 397 154 401 154 402 Z" fill="#7ab309" id="id-rat-4-rat-cans-filter-30">
+</path>
+<path d="M 18 68 L 149 60 L 154 15 C 111 9 89 6 89 6 C 45 6 23 6 23 6 L 18 68 Z" fill="#6ca200" id="id-rat-4-rat-cans-filter-31">
+</path>
+<path d="M 147 58 C 146 64 145 67 145 67 C 144 66 144 66 144 66 C 108 67 87 68 80 69 L 71 69 L 73 67 L 71 67 L 61 66 L 42 62 L 55 57 L 150 37 C 148 51 147 58 147 58 Z" fill="url(#id-rat-4-rat-cans-filter-0)" id="id-rat-4-rat-cans-filter-32">
+</path>
+<path d="M 73 34 L 89 6 L 144 5 L 145 1 C 149 17 151 25 151 25 L 151 28 L 73 34 Z" fill="#92dc04" id="id-rat-4-rat-cans-filter-33">
+</path>
+<path d="M 163 33 C 156 12 152 1 152 1 C 147 1 145 1 145 1 L 150 25 L 145 65 L 145 69 L 153 69 L 163 33 Z" fill="#485879" id="id-rat-4-rat-cans-filter-31">
+</path>
+</g>
+<g transform="translate(219,0)" id="id-rat-4-rat-cans-filter-35">
+<g transform="translate(413,843)" id="id-rat-4-rat-cans-filter-36">
+<path d="M 76 22 C 76 28 77 31 77 31 C 79 35 80 37 80 37 C 80 47 89 52 93 60 C 127 84 122 95 153 99 C 157 101 157 105 158 112 C 155 119 154 123 154 123 C 152 122 149 124 145 127 C 140 128 135 122 130 118 C 128 118 127 118 127 118 C 124 124 122 131 108 130 C 101 128 100 123 94 121 C 92 122 90 123 89 129 C 87 134 83 138 76 142 C 64 140 58 132 54 122 C 40 114 43 132 17 125 C 7 120 2 117 2 117 C -3 107 9 94 22 93 C 31 86 39 77 46 67 C 46 61 46 54 45 48 C 45 41 46 38 46 38 C 44 31 43 27 43 27 L 58 0 C 70 14 76 22 76 22 Z" fill="#914e58" id="id-rat-4-rat-cans-filter-37">
+</path>
+<path d="M 2 117 C 22 106 33 101 33 101 C 31 98 30 96 30 96 C 37 96 40 96 40 96 C 58 74 67 63 67 63 C 66 83 66 93 66 93 C 56 102 52 111 57 121 C 70 137 77 134 81 118 C 77 106 75 100 75 100 C 79 98 80 97 80 97 C 81 91 81 88 81 88 C 89 97 93 101 93 101 C 104 105 106 117 106 129 C 101 128 99 122 94 121 C 91 121 90 124 89 129 C 87 134 83 139 76 142 C 66 140 59 133 54 122 C 41 113 43 133 17 125 L 2 117 Z" fill="#7c3743" id="id-rat-4-rat-cans-filter-37">
+</path>
+<path d="M 127 118 C 120 101 112 96 103 93 C 88 71 80 60 80 60 C 97 74 105 81 105 81 C 90 65 82 57 82 57 L 78 37 L 80 37 C 80 45 90 54 93 60 C 120 78 125 97 153 99 C 157 102 158 106 158 112 L 154 123 C 152 123 149 124 145 127 C 139 127 135 122 130 118 L 127 118 Z" fill="#7c3843" id="id-rat-4-rat-cans-filter-37">
+</path>
+<path d="M 19 105 L 30 95 C 25 94 22 93 22 93 C 12 94 5 99 1 108 C 8 105 14 104 19 105 Z" fill="#9e627e" id="id-rat-4-rat-cans-filter-40">
+</path>
+<path d="M 63 98 C 56 105 52 112 51 118 L 79 115 L 75 98 C 67 98 63 98 63 98 Z" fill="#9e627e" id="id-rat-4-rat-cans-filter-41">
+</path>
+<path d="M 124 111 L 110 100 C 110 100 107 101 99 103 C 102 106 104 110 105 113 L 124 111 Z" fill="#9e627e" id="id-rat-4-rat-cans-filter-42">
+</path>
+<path d="M 15 119 L 18 124 C 11 131 10 138 10 146 C 5 139 -7 125 6 112 C 10 112 13 115 15 119 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-43">
+</path>
+<path d="M 71 122 C 61 125 68 149 73 156 C 77 146 80 125 72 123 C 71 122 71 122 71 122 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-44">
+</path>
+<path d="M 122 112 C 122 113 121 113 121 113 C 117 114 115 121 116 124 C 119 130 124 132 123 144 C 127 136 129 127 127 118 C 127 114 125 112 122 112 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-45">
+</path>
+<path d="M 155 109 L 154 107 C 143 117 160 122 155 137 C 166 125 163 112 155 109 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-46">
+</path>
+</g>
+<g transform="translate(49,821)" id="id-rat-4-rat-cans-filter-47">
+<path d="M 198 50 C 205 58 208 61 208 61 C 209 69 218 80 210 88 C 202 87 199 100 191 103 C 182 107 173 106 164 106 C 152 108 147 109 147 109 C 140 108 136 107 136 107 C 129 111 119 111 109 112 C 107 108 105 106 105 106 C 98 105 87 107 77 108 C 70 114 61 118 49 118 C 39 99 18 119 10 108 C 7 95 21 88 55 89 C 76 80 86 76 86 76 C 104 75 121 72 138 66 C 143 66 150 65 158 63 C 161 58 162 56 162 54 C 163 44 162 34 159 25 L 159 11 L 158 5 C 164 2 191 -6 201 11 L 198 27 C 198 43 198 50 198 50 Z" fill="#7c3743" id="id-rat-4-rat-cans-filter-48">
+</path>
+<path d="M 189 47 C 189 62 192 74 193 87 C 155 96 135 100 135 100 C 122 100 116 99 116 99 C 112 103 110 104 110 104 C 109 103 108 102 108 102 C 111 99 112 97 112 97 C 131 93 141 91 141 91 C 166 81 179 76 179 76 C 157 76 131 81 102 87 C 81 96 71 100 71 100 C 52 103 43 104 43 104 C 41 100 40 98 40 98 C 61 95 72 93 72 93 C 83 88 89 85 89 85 C 111 81 131 77 140 71 C 109 77 79 84 51 93 C 42 95 36 96 31 97 C 27 98 20 100 10 102 C 13 91 31 88 55 89 L 86 76 C 103 75 120 72 138 66 C 144 65 151 65 158 63 C 160 60 162 57 162 54 C 165 42 166 36 166 36 C 168 39 169 46 170 52 L 187 55 C 188 49 189 47 189 47 Z" fill="#8d4d56" id="id-rat-4-rat-cans-filter-49">
+</path>
+<path d="M 140 91 C 135 89 132 88 132 88 C 117 94 110 97 110 97 L 125 100 C 135 94 140 91 140 91 Z" fill="#9e617d" id="id-rat-4-rat-cans-filter-50">
+</path>
+<path d="M 113 111 C 107 113 104 117 102 122 C 100 122 100 122 100 122 C 101 115 102 107 107 101 L 110 102 C 112 108 113 111 113 111 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-51">
+</path>
+<path d="M 43 104 C 36 105 32 109 30 117 C 25 113 29 96 39 95 C 42 101 43 104 43 104 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-52">
+</path>
+<path d="M 14 108 C 9 107 4 110 0 116 C -2 106 7 96 13 96 C 14 104 14 108 14 108 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-53">
+</path>
+</g>
+<g transform="translate(98,0)" id="id-rat-4-rat-cans-filter-54">
+<path d="M 408 733 C 500 751 516 668 487 606 C 455 531 402 468 440 388 C 475 307 541 288 592 372 C 615 417 616 462 596 508 C 591 501 605 438 594 411 C 566 324 501 321 472 386 C 430 464 501 529 533 622 C 561 726 506 807 410 782 L 408 733 Z" fill="url(#id-rat-4-rat-cans-filter-1)" id="id-rat-4-rat-cans-filter-37">
+</path>
+<path d="M 151 833 C 150 833 145 836 135 842 C 130 823 127 814 127 814 C 127 814 105 815 105 815 C 104 816 104 816 104 816 C 83 792 73 780 73 780 C 62 742 56 723 56 723 C 74 657 84 624 84 624 C 89 613 92 608 92 608 C 97 567 99 547 99 547 C 103 540 104 536 104 536 C 98 510 95 497 95 497 C 92 498 102 397 113 289 C 121 208 163 168 240 167 C 247 164 251 163 251 163 C 253 181 256 198 260 208 C 272 227 284 242 295 253 C 303 259 314 264 331 269 C 325 274 323 276 323 276 C 328 280 330 281 330 281 C 330 282 330 283 324 283 C 346 314 370 343 389 375 C 402 392 409 400 409 400 C 401 399 398 398 398 398 C 399 404 400 407 400 407 C 396 403 395 401 395 401 C 386 423 369 447 351 476 C 359 476 363 476 363 476 C 357 480 352 485 347 491 C 356 490 361 490 361 490 C 352 493 342 496 334 503 C 336 522 340 540 345 559 C 348 560 349 560 349 560 C 356 591 359 607 359 607 C 370 639 376 655 376 655 C 398 704 409 728 409 728 C 409 732 409 778 412 788 C 401 819 396 835 396 835 C 394 842 394 846 393 849 L 355 861 C 345 850 340 845 340 845 C 282 817 254 802 254 802 L 155 821 L 151 833 Z" fill="url(#id-rat-4-rat-cans-filter-2)" id="id-rat-4-rat-cans-filter-37">
+</path>
+<path d="M 149 839 L 143 846 L 140 839 L 135 848 L 129 826 L 109 856 C 106 829 105 815 105 815 C 105 815 102 822 102 822 C 102 822 73 780 73 780 C 62 742 56 723 56 723 L 83 773 L 119 801 L 127 794 L 135 839 L 155 818 L 162 765 L 234 746 L 288 773 L 340 843 L 355 859 L 363 845 L 376 813 L 380 782 C 390 817 396 835 396 835 C 392 855 390 865 390 865 L 385 871 L 380 858 L 376 871 L 372 866 L 370 870 L 363 861 L 360 886 C 358 875 357 870 357 870 C 345 853 340 845 340 845 C 282 817 254 802 254 802 L 155 821 L 149 839 Z" fill="#2a2b30" id="id-rat-4-rat-cans-filter-37">
+</path>
+<polygon points="337 827 354 865 356 837 372 783 320 762" fill="url(#id-rat-4-rat-cans-filter-3)" id="id-rat-4-rat-cans-filter-37">
+</polygon>
+<polygon points="130 727 241 722 285 735 254 708 316 713 334 688 285 650 256 554 234 552 242 511 215 423 198 380 172 291 111 363 87 408 111 503 83 643 79 704 96 733 143 754" fill="url(#id-rat-4-rat-cans-filter-4)" id="id-rat-4-rat-cans-filter-37">
+</polygon>
+<path d="M 93 301 C 97 286 99 275 101 267 C 99 247 99 237 99 237 C 104 225 106 220 106 220 C 98 232 93 238 93 238 C 96 226 97 220 97 220 C 93 185 92 167 92 167 C 91 166 144 135 251 74 L 250 87 L 246 92 C 253 119 257 134 257 138 C 257 143 251 152 240 167 C 247 164 251 163 251 163 C 253 181 256 198 260 208 C 266 218 275 230 286 244 C 234 369 104 308 93 301 Z" fill="#3b3f47" id="id-rat-4-rat-cans-filter-60">
+</path>
+<path d="M 103 531 C 97 505 95 497 95 497 C 89 499 85 501 85 501 C 85 505 85 507 85 507 C 81 506 77 506 74 506 C 75 509 76 511 76 511 C 73 510 69 510 65 511 C 50 517 42 520 42 520 C 14 516 0 514 0 514 C 12 507 22 499 32 490 C 33 485 34 480 37 473 C 37 477 38 478 38 478 C 48 476 57 460 57 460 C 57 461 58 462 58 462 C 60 460 62 455 63 451 C 64 453 64 455 64 457 C 73 451 77 447 77 447 L 75 359 L 70 364 L 93 301 L 101 267 L 99 237 L 106 220 C 98 232 93 238 93 238 C 94 231 95 228 95 228 C 115 198 125 182 125 182 C 135 192 140 196 140 196 C 141 218 140 242 147 256 C 151 250 154 244 158 244 C 175 298 183 325 183 325 C 169 324 154 327 139 335 C 120 383 116 448 117 518 L 103 531 Z" fill="#2f3238" id="id-rat-4-rat-cans-filter-37">
+</path>
+<path d="M 76 511 C 74 511 73 510 73 510 C 69 501 67 497 67 497 C 79 493 85 492 85 492 C 79 492 73 491 67 489 C 74 487 78 486 78 486 C 87 468 92 459 92 459 L 97 506 L 95 497 L 85 501 L 85 507 C 82 506 78 506 74 506 C 75 509 76 511 76 511 Z" fill="#191c21" id="id-rat-4-rat-cans-filter-62">
+</path>
+<path d="M 324 437 C 300 496 288 525 288 525 C 272 525 254 496 246 474 C 227 389 218 346 218 346 C 229 359 234 365 234 365 C 238 363 241 362 241 362 C 236 341 233 320 239 300 C 244 317 246 326 246 326 C 251 320 253 317 253 317 C 283 358 298 378 298 378 C 299 366 300 360 300 360 C 314 392 321 408 321 408 C 335 394 342 387 342 387 C 332 411 328 423 328 423 C 343 419 350 417 350 417 L 338 428 L 346 428 C 331 434 324 437 324 437 Z" fill="#2e3037" id="id-rat-4-rat-cans-filter-63">
+</path>
+<path d="M 220 357 C 270 396 295 416 295 416 L 228 390 C 223 368 220 357 220 357 Z" fill="#20242a" id="id-rat-4-rat-cans-filter-64">
+</path>
+<path d="M 296 419 L 328 436 C 325 437 324 437 324 437 C 303 487 293 512 293 512 C 286 501 282 496 282 496 L 300 476 C 297 438 296 419 296 419 Z" fill="#191c21" id="id-rat-4-rat-cans-filter-65">
+</path>
+<path d="M 26 495 L 65 483 C 50 496 43 503 43 503 L 18 521 C 8 522 3 519 1 514 C 15 504 24 498 26 495 Z" fill="#453a3f" id="id-rat-4-rat-cans-filter-66">
+</path>
+<path d="M 167 209 C 173 203 176 200 176 200 C 182 198 185 197 185 197 C 191 203 194 206 194 206 C 191 198 189 194 189 194 C 196 183 199 178 199 178 C 202 179 204 180 204 180 L 231 173 L 240 167 C 248 160 257 148 267 128 C 264 132 261 135 256 138 C 251 144 248 147 248 147 C 247 138 246 134 246 134 C 233 116 227 107 227 107 C 237 111 242 113 242 113 C 236 96 234 87 234 87 C 240 89 244 90 244 90 L 250 87 C 260 69 272 50 260 29 C 253 23 242 10 226 40 C 221 45 214 47 204 46 C 201 42 199 39 196 39 L 187 47 L 185 42 C 172 41 159 39 147 41 C 145 39 143 37 140 37 C 137 42 132 45 131 50 C 128 48 125 47 120 47 C 99 48 102 19 79 10 C 80 27 66 42 70 60 C 73 70 80 80 96 92 L 98 75 L 99 90 L 101 89 C 96 102 92 117 89 133 L 73 153 L 66 156 L 82 150 L 76 161 L 86 159 L 92 167 C 95 202 97 220 97 220 C 109 202 116 194 116 194 C 112 184 111 180 111 180 C 117 183 123 185 132 186 L 140 196 C 141 215 140 239 147 256 C 151 251 151 246 158 244 L 183 325 C 172 248 167 209 167 209 Z" fill="url(#id-rat-4-rat-cans-filter-5)" id="id-rat-4-rat-cans-filter-67">
+</path>
+<path d="M 120 47 C 99 48 102 19 79 10 C 80 36 48 57 96 92 L 98 75 C 116 56 124 47 120 47 Z" fill="url(#id-rat-4-rat-cans-filter-6)" id="id-rat-4-rat-cans-filter-68">
+</path>
+<path d="M 234 87 C 240 89 244 90 244 90 L 250 87 C 260 69 272 50 260 29 C 253 23 244 7 226 40 C 221 45 214 47 204 46 C 201 42 234 87 234 87 Z" fill="url(#id-rat-4-rat-cans-filter-7)" id="id-rat-4-rat-cans-filter-69">
+</path>
+<path d="M 163 214 C 157 205 154 200 154 200 L 140 199 C 140 197 140 196 140 196 C 134 191 131 189 131 189 C 131 183 130 180 130 180 C 133 176 135 174 135 174 C 128 180 124 184 124 184 C 132 173 135 168 135 168 C 151 150 159 142 159 142 L 193 164 L 204 180 L 199 178 L 189 194 L 185 197 L 176 200 C 167 209 163 214 163 214 Z" fill="#737f96" id="id-rat-4-rat-cans-filter-70">
+</path>
+<path d="M 192 170 C 177 177 170 180 170 180 C 167 177 166 176 166 176 C 166 180 166 183 166 183 C 161 181 159 180 159 180 C 160 177 160 176 160 176 C 154 174 152 173 152 173 C 149 175 148 176 148 176 C 141 173 137 171 137 171 C 154 162 162 158 162 158 L 187 167 C 190 169 192 170 192 170 Z" fill="#5f677b" id="id-rat-4-rat-cans-filter-71">
+</path>
+<path d="M 142 168 C 145 168 146 168 146 168 C 150 166 151 165 151 165 C 161 168 165 169 165 169 C 174 167 179 166 179 166 C 183 166 185 166 185 166 C 171 160 164 157 164 157 C 163 148 162 143 162 143 L 160 157 C 148 164 142 168 142 168 Z" fill="#3a3e46" id="id-rat-4-rat-cans-filter-72">
+</path>
+<path d="M 172 159 C 178 161 182 162 182 162 C 180 147 180 140 180 140 C 174 135 172 133 172 133 L 165 149 C 170 156 172 159 172 159 Z" fill="#8192b3" id="id-rat-4-rat-cans-filter-73">
+</path>
+<path d="M 123 178 C 117 170 111 161 108 153 C 106 153 104 155 102 160 C 101 152 102 144 105 137 C 102 139 100 140 97 143 C 99 134 102 124 107 113 C 117 116 126 123 136 131 C 131 131 126 131 121 135 L 135 141 C 126 157 122 170 123 178 Z" fill="#697084" id="id-rat-4-rat-cans-filter-74">
+</path>
+<path d="M 104 137 L 106 137 C 106 137 105 143 103 155 C 103 155 117 146 117 146 C 112 144 109 143 109 143 C 114 139 117 137 117 137 C 121 137 122 137 122 137 C 124 132 124 129 124 129 L 110 119 L 104 137 Z" fill="#7c8caa" id="id-rat-4-rat-cans-filter-75">
+</path>
+<path d="M 69 155 C 77 149 81 139 86 130 C 88 117 91 104 96 92 L 98 75 L 99 90 L 101 89 C 95 104 92 119 89 133 L 73 154 C 70 155 69 155 69 155 Z" fill="#e4e5e7" id="id-rat-4-rat-cans-filter-76">
+</path>
+<path d="M 99 100 C 114 90 122 85 122 85 C 118 97 115 103 115 103 C 129 78 136 65 136 65 C 123 75 116 80 116 80 C 110 76 108 71 106 66 C 101 89 99 100 99 100 Z" fill="#373c45" id="id-rat-4-rat-cans-filter-77">
+</path>
+<path d="M 96 86 C 87 78 82 74 82 74 C 89 72 93 71 93 71 C 90 66 88 63 88 63 C 92 58 94 55 94 55 C 95 56 96 57 96 57 L 97 54 L 97 74 C 97 82 96 86 96 86 Z" fill="#35363e" id="id-rat-4-rat-cans-filter-78">
+</path>
+<path d="M 141 77 C 134 77 130 77 130 77 L 138 64 C 140 73 141 77 141 77 Z" fill="#6e768f" id="id-rat-4-rat-cans-filter-79">
+</path>
+<path d="M 116 80 C 128 71 134 67 134 67 C 137 59 138 54 138 54 L 138 40 C 135 43 132 46 131 50 C 128 48 126 48 126 48 C 118 50 111 57 107 71 C 110 76 113 79 116 80 Z" fill="#677085" id="id-rat-4-rat-cans-filter-80">
+</path>
+<path d="M 207 172 C 216 169 219 155 229 162 C 227 158 226 155 226 155 C 233 155 236 155 236 155 C 234 149 231 144 228 140 C 231 139 233 139 233 139 C 229 129 225 120 218 111 C 217 113 217 115 217 115 L 182 127 C 199 151 207 166 207 172 Z" fill="#6a7489" id="id-rat-4-rat-cans-filter-81">
+</path>
+<ellipse cx="166" cy="112" fill="url(#id-rat-4-rat-cans-filter-8)" id="id-rat-4-rat-cans-filter-82" rx="47" ry="41">
+</ellipse>
+<path d="M 142 106 C 143 79 150 65 162 63 C 171 63 177 74 177 103 C 161 101 150 102 142 106 Z" fill="#716b7e" id="id-rat-4-rat-cans-filter-83">
+</path>
+<path d="M 143 103 C 153 100 158 99 158 99 L 147 80 C 144 95 143 103 143 103 Z" fill="#818dac" id="id-rat-4-rat-cans-filter-84">
+</path>
+<path d="M 142 106 C 145 113 146 116 146 116 C 146 118 146 120 146 120 C 151 124 153 126 153 126 C 159 144 162 153 162 153 C 166 134 168 125 168 125 C 172 121 174 119 174 119 C 175 114 176 112 176 112 C 175 111 174 110 174 110 C 176 108 178 106 178 103 C 161 101 149 102 142 106 Z" fill="#9f5966" id="id-rat-4-rat-cans-filter-85">
+</path>
+<path d="M 153 126 C 157 123 159 122 159 122 C 158 117 157 114 157 114 C 158 107 158 104 158 104 C 161 109 162 112 162 112 L 162 121 L 168 125 L 162 153 C 156 135 153 126 153 126 Z" fill="#883d4f" id="id-rat-4-rat-cans-filter-86">
+</path>
+<path d="M 166 118 C 165 114 165 112 165 112 C 172 109 175 108 175 108 C 175 110 175 111 175 111 C 172 112 170 112 170 112 L 171 118 C 168 118 166 118 166 118 Z" fill="#621a2f" id="id-rat-4-rat-cans-filter-87">
+</path>
+<path d="M 157 111 C 153 111 151 111 151 111 L 143 106 L 142 106 L 146 116 L 146 120 L 153 126 L 159 122 L 157 114 C 157 112 157 111 157 111 Z" fill="#90515c" id="id-rat-4-rat-cans-filter-88">
+</path>
+<path d="M 153 119 C 154 115 154 113 154 113 C 147 112 144 111 144 111 C 144 112 144 113 144 113 C 145 114 145 114 145 114 C 146 116 146 117 146 117 C 147 116 147 115 147 115 C 149 115 149 114 149 114 L 149 118 C 152 119 153 119 153 119 Z" fill="#5c152a" id="id-rat-4-rat-cans-filter-89">
+</path>
+<path d="M 143 106 C 149 107 152 107 152 107 L 158 102 C 150 103 145 104 143 106 Z" fill="#df8195" id="id-rat-4-rat-cans-filter-90">
+</path>
+<path d="M 91 124 C 105 117 111 113 111 113 C 94 134 86 145 86 145 L 76 149 L 89 133 C 90 127 91 124 91 124 Z" fill="#393e47" id="id-rat-4-rat-cans-filter-91">
+</path>
+<path d="M 131 67 C 127 68 114 85 109 72 C 106 60 112 53 125 51 C 129 54 131 60 131 67 Z" fill="#000000" id="id-rat-4-rat-cans-filter-92">
+</path>
+<path d="M 113 58 C 116 60 118 61 118 61 C 120 58 122 56 122 56 L 118 54 C 115 57 113 58 113 58 Z" fill="#e9dccf" id="id-rat-4-rat-cans-filter-93">
+</path>
+<path d="M 131 50 C 129 49 128 48 123 47 C 126 47 127 46 127 46 L 137 37 L 140 37 C 134 43 131 47 131 50 Z" fill="#ffffff" id="id-rat-4-rat-cans-filter-94">
+</path>
+<path d="M 142 49 C 142 49 142 50 142 50 C 132 33 124 22 114 7 C 120 12 129 26 142 49 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-95">
+</path>
+<path d="M 147 54 L 154 40 C 149 41 147 41 147 41 C 145 39 143 38 141 37 C 145 48 147 54 147 54 Z" fill="#626b7e" id="id-rat-4-rat-cans-filter-96">
+</path>
+<path d="M 145 57 C 146 57 147 56 147 56 C 145 38 141 20 134 4 L 133 5 C 141 26 145 43 145 57 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-97">
+</path>
+<path d="M 148 48 C 149 48 150 48 150 48 C 151 34 152 27 152 27 L 151 27 C 150 41 149 48 148 48 Z" fill="#c7cbd5" id="id-rat-4-rat-cans-filter-98">
+</path>
+<path d="M 187 47 C 193 41 196 39 196 39 C 194 37 191 38 188 40 C 157 35 155 39 148 41 L 185 42 L 187 47 Z" fill="#ffffff" id="id-rat-4-rat-cans-filter-99">
+</path>
+<path d="M 178 60 C 177 59 177 59 177 59 C 195 30 206 12 210 7 L 212 6 C 199 24 188 42 178 60 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-100">
+</path>
+<path d="M 190 76 C 197 75 201 74 201 74 C 195 70 189 63 185 53 L 182 58 C 188 70 190 76 190 76 Z" fill="#6c768f" id="id-rat-4-rat-cans-filter-101">
+</path>
+<path d="M 177 49 C 176 49 176 49 176 49 C 173 35 172 28 172 28 L 172 28 C 175 42 177 49 177 49 Z" fill="#c7cbd5" id="id-rat-4-rat-cans-filter-102">
+</path>
+<path d="M 176 58 C 177 57 177 57 177 57 C 186 22 191 4 191 4 L 190 4 C 181 34 177 52 176 58 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-103">
+</path>
+<path d="M 221 62 L 223 75 C 207 83 193 69 187 47 L 196 39 C 203 56 212 64 221 62 Z" fill="#687084" id="id-rat-4-rat-cans-filter-104">
+</path>
+<path d="M 204 46 C 206 49 207 51 207 51 L 202 51 C 200 47 198 43 196 39 C 198 38 201 41 204 46 Z" fill="#7c758a" id="id-rat-4-rat-cans-filter-105">
+</path>
+<path d="M 257 198 C 247 186 242 180 242 180 C 240 183 240 185 240 185 C 234 177 231 173 231 173 L 239 167 L 251 163 C 253 180 255 192 257 198 Z" fill="#4b515e" id="id-rat-4-rat-cans-filter-106">
+</path>
+<path d="M 204 46 L 207 51 C 220 57 234 41 248 9 L 251 1 C 244 8 235 22 226 40 C 221 44 215 46 204 46 Z" fill="#c67587" id="id-rat-4-rat-cans-filter-107">
+</path>
+<path d="M 247 66 C 246 75 245 79 245 79 C 239 83 236 85 236 85 C 230 71 227 63 227 63 C 231 47 232 39 232 39 C 233 43 232 46 235 50 C 240 47 243 46 243 46 L 236 67 C 244 66 247 66 247 66 Z" fill="#34363d" id="id-rat-4-rat-cans-filter-108">
+</path>
+<path d="M 265 51 C 253 57 245 59 242 55 C 243 46 244 41 244 41 C 240 42 238 43 238 43 L 233 41 L 248 9 C 252 18 256 27 260 29 C 264 36 266 43 265 51 Z" fill="#8f545f" id="id-rat-4-rat-cans-filter-109">
+</path>
+<path d="M 197 126 C 197 126 197 126 197 126 C 209 121 216 118 218 118 L 218 117 C 214 118 207 121 197 126 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-110">
+</path>
+<path d="M 186 134 C 186 135 186 135 186 135 C 217 134 248 138 279 144 L 279 144 C 246 137 215 133 186 134 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-111">
+</path>
+<path d="M 189 141 C 189 141 189 141 189 141 C 206 141 251 164 269 182 C 266 182 264 181 264 181 C 266 183 268 184 270 184 C 274 182 224 144 189 141 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-112">
+</path>
+<path d="M 101 34 C 95 35 90 27 85 23 C 78 28 73 39 71 62 C 65 44 80 22 79 10 C 88 13 95 21 101 34 Z" fill="#e28398" id="id-rat-4-rat-cans-filter-113">
+</path>
+<path d="M 108 256 C 125 222 134 205 134 205 L 141 221 L 140 196 C 134 189 132 186 132 186 C 122 184 115 182 110 179 C 111 186 113 192 116 194 L 95 228 C 94 234 93 238 93 238 L 119 201 C 111 237 108 256 108 256 Z" fill="#4a515e" id="id-rat-4-rat-cans-filter-114">
+</path>
+<path d="M 330 281 C 317 283 310 284 310 284 L 290 248 L 295 253 C 307 261 318 266 330 269 L 323 276 C 328 280 330 281 330 281 Z" fill="#313439" id="id-rat-4-rat-cans-filter-115">
+</path>
+<path d="M 192 144 C 192 145 192 145 192 145 C 215 168 227 179 227 179 C 225 178 224 178 224 178 C 226 180 227 181 227 181 L 228 180 C 229 178 217 166 192 144 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-116">
+</path>
+<path d="M 1 514 C 17 501 24 494 24 494 C 29 487 34 480 37 472 L 37 474 C 35 476 33 485 32 490 L 27 495 C 20 501 12 508 1 514 Z" fill="#d1d2d4" id="id-rat-4-rat-cans-filter-117">
+</path>
+<path d="M 38 478 L 54 457 L 57 460 C 50 471 44 477 38 478 Z" fill="#d1d2d4" id="id-rat-4-rat-cans-filter-118">
+</path>
+<path d="M 76 448 L 78 450 C 76 389 75 359 75 359 L 74 362 C 75 419 76 448 76 448 Z" fill="#d1d2d5" id="id-rat-4-rat-cans-filter-119">
+</path>
+<path d="M 69 366 L 70 363 L 93 301 C 99 278 101 267 101 267 C 92 290 84 316 75 345 L 69 360 L 69 366 Z" fill="#d1d2d5" id="id-rat-4-rat-cans-filter-120">
+</path>
+<path d="M 149 196 C 154 185 157 179 157 179 C 153 181 151 182 151 182 C 143 176 139 174 139 174 L 134 184 C 144 192 149 196 149 196 Z" fill="#818ea5" id="id-rat-4-rat-cans-filter-121">
+</path>
+<path d="M 92 167 C 97 171 103 176 110 179 L 116 194 L 100 216 L 100 185 L 94 190 L 92 167 Z" fill="#4b525f" id="id-rat-4-rat-cans-filter-122">
+</path>
+<path d="M 92 167 C 90 164 89 163 89 163 L 93 165 C 103 175 120 180 124 185 C 121 184 116 183 109 179 C 100 174 97 172 92 167 Z" fill="#515969" id="id-rat-4-rat-cans-filter-123">
+</path>
+<path d="M 58 729 C 56 724 55 722 55 722 C 68 676 75 653 75 653 L 76 653 C 64 704 58 729 58 729 Z" fill="#d1d2d5" id="id-rat-4-rat-cans-filter-124">
+</path>
+<path d="M 217 70 C 209 75 198 71 193 59 C 195 55 199 48 206 49 C 216 53 219 60 217 70 Z" fill="#000000" id="id-rat-4-rat-cans-filter-125">
+</path>
+<path d="M 201 58 C 200 58 199 58 197 56 C 199 53 201 51 201 51 L 206 52 C 203 54 202 56 201 58 Z" fill="#e9dccf" id="id-rat-4-rat-cans-filter-126">
+</path>
+<path d="M 141 147 C 141 148 141 148 141 148 C 126 156 101 173 77 188 C 98 173 119 159 141 147 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-127">
+</path>
+<path d="M 125 145 C 125 145 125 146 125 147 C 85 154 69 160 48 169 C 58 162 84 154 125 145 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-128">
+</path>
+<path d="M 121 139 C 120 138 120 139 120 139 L 103 134 C 109 135 115 136 121 139 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-129">
+</path>
+<path d="M 136 139 C 136 140 136 140 136 141 C 107 123 83 114 69 111 C 78 111 101 120 136 139 Z" fill="#e1e4e9" id="id-rat-4-rat-cans-filter-130">
+</path>
+</g>
+<g transform="translate(0,503)" id="id-rat-4-rat-cans-filter-131">
+<path d="M 21 122 C 41 134 50 140 50 140 C 55 139 57 139 57 139 C 68 143 74 146 74 146 C 80 140 83 137 83 137 C 91 132 96 129 96 129 L 92 124 L 60 119 L 64 88 L 68 75 C 78 75 83 75 83 75 C 89 87 92 94 92 94 L 96 82 L 88 47 C 62 56 40 65 22 74 C 18 79 16 81 16 81 L 22 108 C 21 117 21 122 21 122 Z" fill="#571424" id="id-rat-4-rat-cans-filter-132">
+</path>
+<path d="M 94 103 C 88 92 90 85 90 75 C 87 72 77 70 72 63 C 64 64 57 64 49 66 C 44 71 35 73 22 74 C 18 80 17 82 17 82 C 19 92 21 100 15 108 C 10 104 7 102 7 102 C 3 91 -2 80 1 71 C 17 62 26 57 26 57 C 38 46 52 36 62 24 C 87 16 100 11 100 11 C 104 8 107 6 107 6 C 95 23 123 11 141 0 C 141 11 141 17 141 17 C 117 28 105 33 105 33 C 100 47 98 54 98 54 C 98 62 100 69 104 75 L 100 91 C 99 98 97 102 94 103 Z" fill="#7c3743" id="id-rat-4-rat-cans-filter-133">
+</path>
+<path d="M 81 70 C 83 50 85 40 85 40 C 75 39 70 39 70 39 C 52 54 42 62 42 62 C 25 67 16 69 16 69 L 7 68 L 26 57 C 38 47 51 36 62 24 L 98 11 C 104 8 107 6 107 6 C 102 12 102 17 113 13 C 95 21 86 25 86 25 C 94 24 99 23 99 23 L 99 52 L 98 54 C 98 62 100 69 104 75 L 100 91 C 99 96 98 101 94 103 C 90 97 89 87 90 75 C 86 73 83 71 81 70 Z" fill="#894b55" id="id-rat-4-rat-cans-filter-134">
+</path>
+<path d="M 92 81 C 95 78 99 76 103 74 C 93 71 87 62 86 45 L 83 51 C 89 64 92 74 92 81 Z" fill="#a2698c" id="id-rat-4-rat-cans-filter-135">
+</path>
+<path d="M 63 24 C 59 31 57 35 57 35 C 77 29 88 26 88 26 L 99 11 C 75 20 63 24 63 24 Z" fill="#a2688c" id="id-rat-4-rat-cans-filter-136">
+</path>
+<path d="M 1 71 C 11 71 16 71 16 71 L 32 52 L 26 57 C 9 67 1 71 1 71 Z" fill="#9c617e" id="id-rat-4-rat-cans-filter-137">
+</path>
+<path d="M 39 133 C 63 127 74 123 74 123 C 77 128 78 130 78 130 C 68 132 58 135 49 140 C 43 135 39 133 39 133 Z" fill="#7c3743" id="id-rat-4-rat-cans-filter-138">
+</path>
+<path d="M 73 127 C 72 130 73 132 76 135 C 82 133 87 128 90 122 C 81 127 75 128 73 127 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-139">
+</path>
+<path d="M 91 126 C 89 127 89 129 91 130 C 99 128 100 125 103 123 C 95 125 91 126 91 126 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-140">
+</path>
+<path d="M 14 129 C 4 117 7 109 6 100 L 14 108 C 13 115 13 122 14 129 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-141">
+</path>
+<path d="M 92 95 C 97 91 100 89 100 89 C 101 100 99 107 93 112 C 94 104 93 99 92 95 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-142">
+</path>
+<path d="M 61 140 C 71 137 76 135 76 135 C 78 134 79 133 79 133 L 72 145 L 61 140 Z" fill="#7c3743" id="id-rat-4-rat-cans-filter-143">
+</path>
+</g>
+<g transform="translate(142,77)" id="id-rat-4-rat-cans-filter-144">
+<path d="M 60 114 C 72 139 78 151 78 151 C 88 141 93 136 93 136 C 126 125 143 119 143 119 C 155 122 161 123 161 123 C 180 117 190 114 190 114 C 169 105 159 100 159 100 L 78 102 C 66 110 60 114 60 114 Z" fill="#000000" fill-opacity="0.503" id="id-rat-4-rat-cans-filter-145">
+</path>
+<path d="M 81 29 C 104 10 116 0 116 0 L 122 0 L 157 29 L 147 59 L 92 59 L 92 54 L 81 39 C 81 32 81 29 81 29 Z" fill="#68786e" id="id-rat-4-rat-cans-filter-146">
+</path>
+<path d="M 53 39 C 54 37 55 37 55 37 C 63 45 67 49 67 49 C 68 48 69 47 69 47 C 67 44 66 43 66 43 C 73 37 76 34 76 34 C 79 37 81 39 81 39 C 88 49 92 54 92 54 C 92 57 92 59 92 59 C 94 59 95 59 95 59 C 94 53 94 50 94 50 C 97 43 98 40 98 40 C 103 34 106 30 106 30 C 110 27 112 25 112 25 C 121 24 126 24 126 24 C 131 29 133 31 133 31 C 138 38 141 41 141 41 C 143 47 144 50 144 50 C 144 56 144 59 144 59 C 146 59 147 59 147 59 C 147 55 147 54 147 54 C 154 44 157 39 157 39 C 160 36 162 35 162 35 C 168 40 172 42 172 42 C 170 46 169 47 169 47 C 170 48 171 49 171 49 C 179 41 183 37 183 37 C 185 39 185 39 185 39 C 170 55 162 62 162 62 C 162 92 162 107 162 107 C 165 109 167 110 167 110 C 160 116 157 118 157 118 C 152 114 150 111 150 111 C 145 114 142 115 142 115 C 127 117 119 118 119 118 C 104 116 97 115 97 115 L 88 111 C 84 115 82 117 82 117 C 74 112 71 110 71 110 C 77 105 80 102 80 102 L 77 62 C 61 46 53 39 53 39 Z" fill="#1e1d1b" id="id-rat-4-rat-cans-filter-147">
+</path>
+<g transform="translate(0,25)" id="id-rat-4-rat-cans-filter-148">
+<path d="M 23 5 C 16 6 12 7 12 7 C 11 9 10 12 10 15 C 3 21 0 25 0 25 C 3 59 5 76 5 76 C 7 81 12 85 18 88 C 20 89 21 91 23 95 C 32 96 36 96 36 96 C 50 94 56 93 56 93 C 62 90 64 88 64 88 C 65 75 63 55 59 37 C 55 27 43 16 23 5 Z" fill="#780751" id="id-rat-4-rat-cans-filter-149">
+</path>
+<path d="M 10 15 C 22 21 29 24 29 24 C 37 31 41 35 41 35 C 44 41 45 44 45 44 C 37 45 33 45 33 45 C 32 49 32 51 32 51 C 28 38 12 32 1 23 C 7 18 10 15 10 15 Z" fill="#8d0162" id="id-rat-4-rat-cans-filter-150">
+</path>
+<path d="M 26 42 L 42 37 L 45 44 L 33 45 C 28 43 26 42 26 42 Z" fill="#c43e9d" id="id-rat-4-rat-cans-filter-151">
+</path>
+<path d="M 26 42 C 29 44 30 47 32 51 L 33 45 C 32 43 29 41 26 42 Z" fill="#ef6ac5" id="id-rat-4-rat-cans-filter-152">
+</path>
+<path d="M 26 42 L 24 40 L 41 35 L 42 37 C 31 40 26 42 26 42 Z" fill="#a31180" id="id-rat-4-rat-cans-filter-153">
+</path>
+<path d="M 47 41 L 59 38 L 53 25 C 44 8 36 13 23 5 C 16 6 12 7 12 7 L 44 34 C 46 39 47 41 47 41 Z" fill="url(#id-rat-4-rat-cans-filter-9)" id="id-rat-4-rat-cans-filter-154">
+</path>
+<path d="M 43 31 C 46 32 48 33 48 33 C 53 31 55 31 55 31 C 58 34 59 36 59 36 L 46 38 C 44 33 43 31 43 31 Z" fill="#c1409c" id="id-rat-4-rat-cans-filter-155">
+</path>
+<path d="M 43 33 C 47 35 49 36 49 36 L 48 42 C 45 36 43 33 43 33 Z" fill="#f069c5" id="id-rat-4-rat-cans-filter-156">
+</path>
+<path d="M 49 43 C 56 41 60 41 60 41 C 63 55 64 70 64 85 L 53 87 C 53 70 52 56 49 43 Z" fill="#7b1b75" id="id-rat-4-rat-cans-filter-157">
+</path>
+<path d="M 64 87 C 71 85 74 84 74 84 C 77 81 75 59 72 37 C 68 29 59 19 37 5 L 27 7 C 40 14 51 24 59 37 C 63 58 64 74 64 87 Z" fill="url(#id-rat-4-rat-cans-filter-10)" id="id-rat-4-rat-cans-filter-158">
+</path>
+<path d="M 64 43 C 69 42 71 42 71 42 C 71 51 71 56 71 56 L 66 57 C 65 47 64 43 64 43 Z" fill="#2d2d2b" id="id-rat-4-rat-cans-filter-159">
+</path>
+<path d="M 65 67 C 65 76 65 80 65 80 C 72 78 75 77 75 77 L 74 68 C 68 67 65 67 65 67 Z" fill="#4b3d23" id="id-rat-4-rat-cans-filter-160">
+</path>
+<path d="M 64 82 L 76 80 L 75 84 L 64 87 C 64 84 64 82 64 82 Z" fill="#d7978e" id="id-rat-4-rat-cans-filter-161">
+</path>
+<path d="M 60 41 C 68 38 72 37 72 37 C 71 36 71 35 71 35 L 58 35 L 59 37 L 60 41 Z" fill="#dfceb2" id="id-rat-4-rat-cans-filter-162">
+</path>
+<path d="M 57 23 C 56 25 56 26 56 26 C 45 16 38 11 34 9 L 37 8 C 51 18 57 23 57 23 Z" fill="#2b302a" id="id-rat-4-rat-cans-filter-163">
+</path>
+<path d="M 0 25 L 17 36 C 25 44 29 48 30 49 L 30 49 C 30 49 30 49 30 49 L 30 49 L 30 49 L 32 86 L 18 88 C 13 86 8 84 5 76 C 2 45 0 28 0 25 L 0 25 C 0 25 0 25 0 25 Z M 9 39 C 6 37 6 48 10 71 C 11 72 12 73 13 73 L 13 74 C 13 74 14 74 14 74 L 14 75 C 18 77 21 79 23 78 L 23 78 L 23 78 C 23 78 23 68 22 49 C 18 44 14 43 9 39 Z" fill="#812592" id="id-rat-4-rat-cans-filter-164">
+</path>
+<path d="M 8 43 C 10 62 11 71 11 71 C 18 74 21 76 21 76 L 20 50 C 12 45 8 43 8 43 Z" fill="#822592" id="id-rat-4-rat-cans-filter-165">
+</path>
+<path d="M 18 88 C 38 88 49 88 49 88 C 42 91 39 92 39 92 L 21 92 C 21 90 20 89 18 88 Z" fill="#6f54b1" id="id-rat-4-rat-cans-filter-166">
+</path>
+<path d="M 23 95 L 36 96 C 50 94 56 93 56 93 C 58 92 59 91 59 91 C 55 91 53 91 53 91 C 42 93 37 94 37 94 L 23 94 L 23 95 Z" fill="#7154b1" id="id-rat-4-rat-cans-filter-167">
+</path>
+<path d="M 47 12 C 53 14 56 14 56 14 C 71 29 78 36 78 36 L 82 78 L 75 82 C 76 73 74 58 72 37 C 68 30 59 22 47 12 Z" fill="#41464c" id="id-rat-4-rat-cans-filter-168">
+</path>
+<path d="M 78 36 C 78 40 78 42 78 42 L 72 39 C 72 38 72 37 72 37 L 69 33 C 73 33 76 34 78 36 Z" fill="#6c7d77" id="id-rat-4-rat-cans-filter-169">
+</path>
+<path d="M 69 17 C 74 13 76 11 76 11 C 85 22 90 28 90 28 C 90 48 90 58 90 58 C 85 58 83 58 83 58 L 81 32 C 73 22 69 17 69 17 Z" fill="url(#id-rat-4-rat-cans-filter-11)" id="id-rat-4-rat-cans-filter-170">
+</path>
+<path d="M 90 69 C 85 77 83 80 83 80 C 86 83 88 85 88 85 L 96 74 L 90 69 Z" fill="#3d4140" id="id-rat-4-rat-cans-filter-171">
+</path>
+<path d="M 80 29 C 84 33 86 35 86 35 C 88 31 90 28 90 28 L 85 23 C 81 27 80 29 80 29 Z" fill="#0c0a0f" id="id-rat-4-rat-cans-filter-172">
+</path>
+<path d="M 76 8 C 80 5 81 4 81 4 C 85 7 87 9 87 9 L 90 27 C 81 14 76 8 76 8 Z" fill="#47574c" id="id-rat-4-rat-cans-filter-173">
+</path>
+<path d="M 85 26 C 83 28 82 29 82 29 C 85 31 86 32 86 32 L 88 29 C 86 27 85 26 85 26 Z" fill="#8aa7ad" id="id-rat-4-rat-cans-filter-174">
+</path>
+<path d="M 56 13 C 57 11 58 10 58 10 C 66 5 69 2 69 2 C 72 1 73 0 73 0 C 79 7 82 11 82 11 L 81 14 L 76 9 L 66 18 L 69 22 L 67 24 C 60 16 56 13 56 13 Z" fill="#7c9192" id="id-rat-4-rat-cans-filter-175">
+</path>
+<path d="M 66 18 C 60 12 57 9 57 9 L 68 1 L 76 9 C 69 15 66 18 66 18 Z" fill="#8da5af" id="id-rat-4-rat-cans-filter-176">
+</path>
+<path d="M 72 5 L 70 14 L 76 9 C 73 6 72 5 72 5 Z" fill="#bbc1c1" id="id-rat-4-rat-cans-filter-177">
+</path>
+<path d="M 97 49 C 105 49 109 49 109 49 L 101 55 C 98 51 97 49 97 49 Z" fill="#4c5456" id="id-rat-4-rat-cans-filter-178">
+</path>
+</g>
+<g transform="translate(183,74) scale(-1,1) translate(-183,-74) translate(129,25)" id="id-rat-4-rat-cans-filter-179">
+<path d="M 23 5 C 16 6 12 7 12 7 C 11 9 10 12 10 15 C 3 21 0 25 0 25 C 3 59 5 76 5 76 C 7 81 12 85 18 88 C 20 89 21 91 23 95 C 32 96 36 96 36 96 C 50 94 56 93 56 93 C 62 90 64 88 64 88 C 65 75 63 55 59 37 C 55 27 43 16 23 5 Z" fill="#7b0754" id="id-rat-4-rat-cans-filter-149">
+</path>
+<path d="M 10 15 C 22 21 29 24 29 24 C 37 31 41 35 41 35 C 44 41 45 44 45 44 C 37 45 33 45 33 45 C 32 49 32 51 32 51 C 28 38 12 32 1 23 C 7 18 10 15 10 15 Z" fill="#8d0162" id="id-rat-4-rat-cans-filter-150">
+</path>
+<path d="M 26 42 L 42 37 L 45 44 L 33 45 C 28 43 26 42 26 42 Z" fill="#c43f9c" id="id-rat-4-rat-cans-filter-151">
+</path>
+<path d="M 26 42 C 29 44 30 47 32 51 L 33 45 C 32 43 29 41 26 42 Z" fill="#f06ac3" id="id-rat-4-rat-cans-filter-152">
+</path>
+<path d="M 26 42 L 24 40 L 41 35 L 42 37 C 31 40 26 42 26 42 Z" fill="#a51181" id="id-rat-4-rat-cans-filter-153">
+</path>
+<path d="M 47 41 L 59 38 L 59 37 C 50 20 36 13 23 5 C 16 6 12 7 12 7 L 44 34 C 46 39 47 41 47 41 Z" fill="url(#id-rat-4-rat-cans-filter-9)" id="id-rat-4-rat-cans-filter-154">
+</path>
+<path d="M 43 31 C 46 32 48 33 48 33 C 53 31 55 31 55 31 C 58 34 59 36 59 36 L 46 38 C 44 33 43 31 43 31 Z" fill="#c2409c" id="id-rat-4-rat-cans-filter-155">
+</path>
+<path d="M 43 33 C 47 35 49 36 49 36 L 48 42 C 45 36 43 33 43 33 Z" fill="#ee69c4" id="id-rat-4-rat-cans-filter-156">
+</path>
+<path d="M 49 43 C 56 41 60 41 60 41 C 63 55 64 70 64 85 L 53 87 C 53 70 52 56 49 43 Z" fill="#7b1b77" id="id-rat-4-rat-cans-filter-157">
+</path>
+<path d="M 64 87 C 71 85 74 84 74 84 C 77 81 75 59 72 37 C 68 29 59 19 37 5 L 27 7 C 42 17 51 24 59 37 C 63 58 64 74 64 87 Z" fill="url(#id-rat-4-rat-cans-filter-10)" id="id-rat-4-rat-cans-filter-158">
+</path>
+<path d="M 64 43 C 69 42 71 42 71 42 C 71 51 71 56 71 56 L 66 57 C 65 47 64 43 64 43 Z" fill="#2c2e2b" id="id-rat-4-rat-cans-filter-159">
+</path>
+<path d="M 65 67 C 65 76 65 80 65 80 C 72 78 75 77 75 77 L 74 68 C 68 67 65 67 65 67 Z" fill="#43484e" id="id-rat-4-rat-cans-filter-160">
+</path>
+<path d="M 64 82 L 76 80 L 75 84 L 64 87 C 64 84 64 82 64 82 Z" fill="#d7978e" id="id-rat-4-rat-cans-filter-161">
+</path>
+<path d="M 60 41 C 68 38 72 37 72 37 C 71 36 71 35 71 35 L 58 35 L 59 37 L 60 41 Z" fill="#dfcfb6" id="id-rat-4-rat-cans-filter-162">
+</path>
+<path d="M 57 23 C 56 25 56 26 56 26 C 45 16 38 11 34 9 L 37 8 C 51 18 57 23 57 23 Z" fill="#2e2d29" id="id-rat-4-rat-cans-filter-163">
+</path>
+<path d="M 0 25 L 17 36 C 25 44 29 48 30 49 L 30 49 C 30 49 30 49 30 49 L 30 49 L 30 49 L 32 86 L 18 88 C 14 86 8 84 5 76 C 2 45 0 28 0 25 L 0 25 C 0 25 0 25 0 25 Z M 9 39 C 6 37 6 48 10 71 C 11 72 12 73 13 73 L 13 74 C 13 74 14 74 14 74 L 14 75 C 18 77 21 79 23 78 L 23 78 L 23 78 C 23 78 23 68 22 49 C 18 44 14 43 9 39 Z" fill="#822693" id="id-rat-4-rat-cans-filter-164">
+</path>
+<path d="M 8 43 C 10 62 11 71 11 71 C 18 74 21 76 21 76 L 20 50 C 12 45 8 43 8 43 Z" fill="#812592" id="id-rat-4-rat-cans-filter-165">
+</path>
+<path d="M 18 88 C 38 88 49 88 49 88 C 42 91 39 92 39 92 L 21 92 C 21 90 19 89 18 88 Z" fill="#6f54b1" id="id-rat-4-rat-cans-filter-166">
+</path>
+<path d="M 23 95 L 36 96 C 50 94 56 93 56 93 L 59 91 C 55 91 53 91 53 91 C 42 93 37 94 37 94 L 23 94 L 23 95 Z" fill="#7154b1" id="id-rat-4-rat-cans-filter-167">
+</path>
+<path d="M 47 12 C 53 14 56 14 56 14 C 71 29 78 36 78 36 L 82 78 L 76 82 C 76 73 74 58 72 37 C 68 29 60 21 47 12 Z" fill="#41464c" id="id-rat-4-rat-cans-filter-168">
+</path>
+<path d="M 78 36 C 78 40 78 42 78 42 L 72 39 C 72 38 72 37 72 37 L 69 33 C 73 33 76 34 78 36 Z" fill="#6c7d77" id="id-rat-4-rat-cans-filter-169">
+</path>
+<path d="M 69 17 C 74 13 76 11 76 11 C 85 22 90 28 90 28 C 90 48 90 58 90 58 C 85 58 83 58 83 58 L 81 32 C 73 22 69 17 69 17 Z" fill="url(#id-rat-4-rat-cans-filter-11)" id="id-rat-4-rat-cans-filter-170">
+</path>
+<path d="M 90 69 C 85 77 83 80 83 80 C 86 83 88 85 88 85 L 96 74 L 90 69 Z" fill="#3d4140" id="id-rat-4-rat-cans-filter-171">
+</path>
+<path d="M 80 29 C 84 33 86 35 86 35 C 88 31 90 28 90 28 L 85 23 C 81 27 80 29 80 29 Z" fill="#0c0a0f" id="id-rat-4-rat-cans-filter-172">
+</path>
+<path d="M 76 7 C 79 5 80 4 80 4 C 84 7 86 8 86 8 L 90 27 C 81 14 76 7 76 7 Z" fill="#47574c" id="id-rat-4-rat-cans-filter-173">
+</path>
+<path d="M 85 26 C 83 28 82 29 82 29 C 85 31 86 32 86 32 L 88 29 C 86 27 85 26 85 26 Z" fill="#8aa7ad" id="id-rat-4-rat-cans-filter-174">
+</path>
+<path d="M 56 13 C 57 11 58 10 58 10 C 66 5 69 2 69 2 C 72 1 73 0 73 0 C 79 7 82 11 82 11 L 81 14 L 76 9 L 66 18 L 69 22 L 67 24 C 60 16 56 13 56 13 Z" fill="#798d8b" id="id-rat-4-rat-cans-filter-175">
+</path>
+<path d="M 66 18 C 60 12 57 9 57 9 L 68 1 L 76 9 C 69 15 66 18 66 18 Z" fill="#8ea6b0" id="id-rat-4-rat-cans-filter-176">
+</path>
+<path d="M 72 5 L 70 14 L 76 9 C 73 6 72 5 72 5 Z" fill="#bbc1c1" id="id-rat-4-rat-cans-filter-177">
+</path>
+<path d="M 97 49 C 105 49 109 49 109 49 L 101 55 C 98 51 97 49 97 49 Z" fill="#4c5456" id="id-rat-4-rat-cans-filter-178">
+</path>
+</g>
+<path d="M 95 59 L 92 59 C 92 56 92 54 92 54 C 94 43 100 32 112 23 L 116 0 C 120 0 122 0 122 0 L 126 23 C 135 30 144 37 147 59 L 144 59 L 144 51 L 141 41 L 133 31 L 126 24 L 112 25 C 106 30 104 33 98 40 L 94 50 L 95 59 Z" fill="#83948e" id="id-rat-4-rat-cans-filter-210">
+</path>
+<path d="M 81 29 C 82 29 83 28 83 28 C 103 12 113 4 113 4 C 121 4 124 5 124 5 L 131 6 L 122 0 L 116 0 C 107 6 95 16 81 29 Z" fill="#9ab1b7" id="id-rat-4-rat-cans-filter-211">
+</path>
+<path d="M 112 25 C 102 54 97 69 97 69 C 112 66 127 66 142 68 L 125 25 C 117 25 112 25 112 25 Z" fill="#323431" id="id-rat-4-rat-cans-filter-212">
+</path>
+<path d="M 100 69 C 111 68 122 68 138 69 C 132 71 126 73 120 73 C 111 73 100 69 100 69 Z" fill="#4c5457" id="id-rat-4-rat-cans-filter-213">
+</path>
+<path d="M 111 29 C 116 25 122 26 127 28 C 126 26 125 25 125 25 L 113 25 C 112 28 111 29 111 29 Z" fill="#646f67" id="id-rat-4-rat-cans-filter-214">
+</path>
+<ellipse cx="119" cy="95" fill="#0c0a0d" id="id-rat-4-rat-cans-filter-82" rx="23" ry="19">
+</ellipse>
+<circle cx="119" cy="95" r="15" fill="#323431" id="id-rat-4-rat-cans-filter-82">
+</circle>
+<path d="M 122 85 L 122 87 C 129 87 129 94 125 94 C 130 95 130 103 123 103 L 122 103 L 122 106 L 120 106 L 120 104 C 118 104 118 103 118 103 C 118 105 118 106 118 106 L 115 106 L 115 106 L 115 103 C 113 103 112 103 112 103 L 112 103 L 112 103 L 112 101 L 112 101 L 114 101 L 114 101 C 114 95 114 91 114 90 L 114 89 C 114 89 114 89 114 89 L 114 89 C 114 89 114 89 114 89 L 114 89 L 114 89 L 112 89 L 112 89 L 112 87 C 113 87 114 87 115 87 L 115 85 L 118 85 L 118 87 L 119 87 L 119 87 L 119 85 L 122 85 Z M 119 96 C 119 99 119 101 119 101 L 119 101 C 119 101 119 101 119 101 C 122 101 123 100 123 99 C 123 96 119 96 119 96 Z M 119 89 C 119 92 119 93 119 93 L 119 94 C 119 94 119 94 119 94 C 122 94 123 93 123 91 C 123 89 119 89 119 89 Z" fill="#4e5658" id="id-rat-4-rat-cans-filter-164">
+</path>
+</g>
+</g>
+<g transform="translate(371,226)" id="id-rat-4-rat-cans-filter-218">
+<g id="id-rat-4-rat-cans-filter-219">
+<path d="M 18 440 C 14 454 12 461 12 461 C 13 464 14 466 14 466 C 44 456 59 451 59 451 C 128 457 163 459 163 459 C 240 451 279 446 279 446 C 316 453 335 457 335 457 L 321 428 L 152 452 C 63 444 18 440 18 440 Z" fill="#000000" fill-opacity="0.219" id="id-rat-4-rat-cans-filter-220">
+</path>
+<path d="M 11 441 C 105 448 152 452 152 452 C 258 437 318 429 332 427 L 268 239 L 341 165 L 348 164 L 357 152 L 355 151 C 347 141 335 129 323 118 C 279 60 257 30 257 30 C 249 28 245 27 245 27 C 228 9 220 0 220 0 C 185 74 65 102 46 43 C 44 38 43 36 43 36 C 22 105 12 140 12 140 L 13 188 L 31 311 L 11 441 Z" fill="url(#id-rat-4-rat-cans-filter-15)" id="id-rat-4-rat-cans-filter-221">
+</path>
+<path d="M 209 236 C 209 242 209 246 209 246 C 192 299 183 326 183 326 L 227 325 L 228 427 C 301 415 338 409 338 409 L 312 318 L 299 299 L 290 248 L 342 165 C 346 165 348 164 348 164 C 344 160 342 157 342 157 C 316 163 291 179 268 207 L 272 211 L 270 215 L 251 220 L 201 146 C 206 108 208 86 209 80 C 210 76 210 74 210 74 C 221 58 236 44 259 34 L 257 30 L 252 30 C 237 40 221 51 210 74 L 199 148 L 180 184 C 199 218 209 236 209 236 Z" fill="#101016" id="id-rat-4-rat-cans-filter-222">
+</path>
+<path d="M 13 427 C 33 428 43 429 43 429 L 43 444 L 11 441 C 12 431 13 427 13 427 Z" fill="#06070c" id="id-rat-4-rat-cans-filter-223">
+</path>
+<path d="M 26 354 L 82 401 C 50 311 35 265 35 265 C 35 265 29 186 29 186 C 17 158 12 145 12 145 C 15 140 16 138 16 138 C 31 95 38 73 38 73 L 53 59 C 85 90 139 78 183 45 C 137 80 64 91 47 43 L 47 41 L 47 35 C 44 36 43 36 43 36 L 0 153 L 13 189 L 31 310 C 28 339 26 354 26 354 Z" fill="#0a0b10" id="id-rat-4-rat-cans-filter-224">
+</path>
+<path d="M 17 440 C 21 440 23 440 23 440 C 23 432 23 427 23 427 C 25 426 26 425 26 425 C 27 401 36 348 40 324 C 46 317 49 313 49 313 L 30 284 C 30 303 30 313 30 313 C 28 328 27 335 27 335 L 34 325 C 22 402 17 440 17 440 Z" fill="#567b1f" id="id-rat-4-rat-cans-filter-225">
+</path>
+<path d="M 70 445 C 69 436 68 431 68 431 C 94 434 107 436 107 436 L 108 449 L 70 445 Z" fill="#06070c" id="id-rat-4-rat-cans-filter-226">
+</path>
+<path d="M 154 430 C 151 416 150 409 150 409 C 147 414 146 417 146 417 C 143 409 142 405 142 405 C 140 393 139 387 139 387 C 153 383 160 381 160 381 C 165 388 167 392 167 392 L 156 406 C 155 422 154 430 154 430 Z" fill="#4b7224" id="id-rat-4-rat-cans-filter-227">
+</path>
+<path d="M 158 453 C 157 443 156 438 156 438 C 277 419 338 409 338 409 L 340 425 C 240 442 179 451 158 453 Z" fill="#000003" id="id-rat-4-rat-cans-filter-228">
+</path>
+<path d="M 316 414 L 315 430 L 340 425 L 338 409 C 323 413 316 414 316 414 Z" fill="#1b1d24" id="id-rat-4-rat-cans-filter-229">
+</path>
+<path d="M 262 422 C 239 425 228 427 228 427 C 241 359 248 325 248 325 C 224 268 213 240 213 240 C 191 202 180 184 180 184 L 199 148 C 206 99 210 74 210 74 C 219 54 235 40 252 30 L 257 30 L 259 35" fill="#03040a" id="id-rat-4-rat-cans-filter-230">
+</path>
+<path d="M 65 69 C 58 81 55 86 55 86 C 75 94 89 96 101 96 C 58 125 36 139 36 139 L 28 145 L 11 145 L 16 138 L 27 107 L 38 73 L 53 59 C 56 64 60 67 65 69 Z" fill="#111218" id="id-rat-4-rat-cans-filter-231">
+</path>
+<path d="M 180 183 L 199 148 L 210 74 C 217 59 230 44 252 30 L 245 27 C 228 9 220 0 220 0 C 197 38 171 62 122 76 C 87 81 80 76 65 70 L 55 86 C 69 92 84 96 101 96 L 28 145 L 11 145 L 14 197 C 33 195 43 194 43 194 C 100 167 129 153 129 153 L 161 153 L 180 183 Z" fill="url(#id-rat-4-rat-cans-filter-16)" id="id-rat-4-rat-cans-filter-232">
+</path>
+<path d="M 183 64 C 177 55 174 51 174 51 C 188 42 198 34 203 26 L 212 39 C 193 55 183 64 183 64 Z" fill="#555b67" id="id-rat-4-rat-cans-filter-233">
+</path>
+<path d="M 193 158 C 184 153 180 150 180 150 C 188 133 193 125 193 125 L 197 151 C 194 156 193 158 193 158 Z" fill="#07080d" id="id-rat-4-rat-cans-filter-234">
+</path>
+<path d="M 213 41 C 209 46 206 48 206 48 C 213 51 216 52 216 52 C 211 67 208 74 208 74 C 219 58 226 50 230 47 C 219 43 213 41 213 41 Z" fill="#555b67" id="id-rat-4-rat-cans-filter-235">
+</path>
+<path d="M 298 300 C 275 328 264 343 264 343 L 310 318 C 302 306 298 300 298 300 Z" fill="#1a1b20" id="id-rat-4-rat-cans-filter-236">
+</path>
+<path d="M 0 153 C 3 152 5 152 5 152 C 25 95 35 66 35 66 C 38 66 39 66 39 66 L 44 51 L 43 36 C 37 49 34 58 32 64 C 10 123 0 153 0 153 Z" fill="#797d87" id="id-rat-4-rat-cans-filter-237">
+</path>
+<polygon points="13 193 14 170 19 194 19 235" fill="#797d87" id="id-rat-4-rat-cans-filter-238">
+</polygon>
+</g>
+<g transform="translate(21,129)" id="id-rat-4-rat-cans-filter-239">
+<path d="M 30 144 C 37 139 47 134 51 128 C 63 132 69 134 69 134 C 81 133 87 132 87 132 C 104 144 112 150 112 150 C 125 150 134 142 139 128 C 148 109 143 99 128 97 C 125 97 123 98 122 100 C 120 98 119 98 119 98 C 120 95 121 93 121 93 C 114 89 111 87 111 87 C 101 86 95 85 95 85 C 95 82 92 80 88 80 C 78 67 73 61 73 61 C 68 60 66 60 66 60 C 52 74 45 81 45 81 C 41 83 36 78 30 77 C 23 81 20 82 20 82 C 21 84 21 86 21 86 C 19 87 17 88 17 88 C 14 85 13 83 13 83 C 6 86 3 87 3 87 C -2 89 -1 100 7 121 C 19 142 30 144 30 144 Z" fill="#323337" id="id-rat-4-rat-cans-filter-240">
+</path>
+<path d="M 114 119 C 120 107 130 99 136 102 C 142 105 142 118 136 130 C 129 142 120 149 114 146 C 108 143 108 131 114 119 Z M 127 116 C 127 116 125 118 120 122 C 120 122 120 122 120 122 L 120 122 C 120 123 120 127 119 134 C 119 134 119 134 119 134 L 119 134 C 119 133 123 131 129 125 L 129 125 Z" fill="#d58831" id="id-rat-4-rat-cans-filter-164">
+</path>
+<path d="M 5 89 C 9 87 17 97 24 111 C 31 125 33 137 29 139 C 25 141 16 132 10 118 C 3 104 1 91 5 89 Z M 10 103 C 10 103 12 108 14 118 C 14 118 16 121 21 125 L 21 125 L 21 125 C 21 125 20 121 19 113 L 19 113 Z" fill="#d58831" id="id-rat-4-rat-cans-filter-164">
+</path>
+<path d="M 41 122 C 35 108 33 100 33 100 C 26 91 23 86 23 86 L 34 98 C 39 114 41 122 41 122 Z" fill="#656668" id="id-rat-4-rat-cans-filter-243">
+</path>
+<path d="M 22 94 L 26 91 L 21 86 L 17 88 C 21 92 22 94 22 94 Z" fill="#44474b" id="id-rat-4-rat-cans-filter-244">
+</path>
+<path d="M 57 125 C 56 126 55 126 55 126 C 49 120 48 113 49 104 C 55 96 60 91 64 87 C 65 88 65 88 65 88 C 60 94 54 100 51 106 C 50 113 52 119 57 125 Z" fill="#656668" id="id-rat-4-rat-cans-filter-245">
+</path>
+<path d="M 78 89 C 76 89 75 89 75 89 C 83 99 88 105 88 108 C 89 113 89 116 89 118 C 88 123 85 127 85 127 C 86 128 86 129 86 129 C 91 128 93 121 92 107 C 82 95 78 89 78 89 Z" fill="#656668" id="id-rat-4-rat-cans-filter-246">
+</path>
+<path d="M 71 101 C 71 101 72 102 73 103 C 78 104 80 109 77 111 C 81 116 77 120 74 120 C 74 120 74 121 74 121 C 74 121 73 121 71 121 C 71 121 71 121 71 119 L 71 119 L 71 119 C 71 119 70 119 70 119 L 70 119 L 70 119 C 70 119 70 120 70 121 L 70 121 L 66 121 C 66 121 66 120 66 119 L 66 119 L 66 119 C 66 119 65 119 63 118 L 63 118 L 63 115 L 66 115 L 66 115 L 66 115 C 66 115 66 115 66 115 L 66 115 C 66 114 66 111 66 105 L 66 105 L 64 105 L 64 105 L 64 103 L 64 103 L 64 103 C 64 103 64 103 64 103 L 65 103 C 65 103 65 103 65 103 L 65 103 C 65 103 65 103 65 103 L 66 103 C 66 103 66 103 66 103 L 66 103 L 66 103 C 66 103 66 103 66 103 L 66 102 C 66 102 66 102 66 101 C 66 101 67 101 69 102 C 69 102 69 102 69 103 C 69 103 70 104 70 104 C 70 104 70 103 71 101 Z M 74 106 C 70 106 68 106 68 106 L 68 110 L 68 110 C 72 110 74 110 74 110 C 76 109 76 108 74 106 Z M 68 113 C 68 116 68 117 68 117 C 73 117 75 117 75 117 C 76 116 76 115 74 113 C 70 113 68 113 68 113 Z" fill="#bab9b9" id="id-rat-4-rat-cans-filter-164">
+</path>
+<path d="M 35 141 C 38 154 39 161 39 161 C 40 159 41 158 41 158 C 46 168 49 173 49 173 C 49 158 49 151 49 151 C 55 161 58 166 58 166 C 66 160 70 158 70 158 C 80 165 85 168 85 168 C 86 178 86 182 86 182 C 90 174 92 170 92 170 C 98 178 101 181 101 181 L 104 161 L 112 150 L 87 132 L 51 128 C 40 137 35 141 35 141 Z" fill="#3c3e47" id="id-rat-4-rat-cans-filter-248">
+</path>
+<path d="M 53 131 C 65 159 71 173 71 173 L 90 135 L 85 132 L 68 134 L 55 128 L 53 131 Z" fill="#7c7d81" id="id-rat-4-rat-cans-filter-249">
+</path>
+<path d="M 91 153 C 96 148 99 145 99 145 L 100 155 L 86 182 C 89 163 91 153 91 153 Z" fill="#65666a" id="id-rat-4-rat-cans-filter-250">
+</path>
+<path d="M 46 165 C 46 165 46 164 47 164 C 48 160 48 158 48 158 L 44 143" fill="#65666a" id="id-rat-4-rat-cans-filter-251">
+</path>
+<path d="M 104 163 C 101 159 100 158 100 158 L 99 180 L 101 181 C 103 169 104 163 104 163 Z" fill="#65666a" id="id-rat-4-rat-cans-filter-252">
+</path>
+<path d="M 118 102 C 118 102 117 101 117 101 C 109 109 105 116 105 122 C 108 114 113 107 118 102 Z" fill="#656668" id="id-rat-4-rat-cans-filter-253">
+</path>
+<path d="M 118 94 C 115 94 113 94 113 94 L 104 108 C 110 100 114 95 118 94 Z" fill="#656668" id="id-rat-4-rat-cans-filter-254">
+</path>
+<path d="M 145 124 C 142 130 141 133 141 133 L 147 129 C 145 125 145 124 145 124 Z" fill="#3f4146" id="id-rat-4-rat-cans-filter-255">
+</path>
+<path d="M 114 70 C 117 41 119 26 119 26 C 115 33 113 37 113 37 C 110 30 107 23 101 14 C 93 9 85 3 73 0 C 70 2 68 3 68 3 C 62 1 58 0 58 0 C 45 3 39 5 39 5 C 31 13 26 23 24 34 L 24 60 L 24 59 L 30 65 L 109 70 L 114 70 Z" fill="#43494d" id="id-rat-4-rat-cans-filter-37">
+</path>
+<path d="M 23 81 C 21 78 20 76 20 76 C 19 66 18 62 18 62 C 22 60 24 59 24 59 C 28 63 30 65 30 65 C 31 45 32 35 32 35 C 39 22 51 15 68 16 C 85 18 97 25 103 40 C 106 48 106 58 109 69 C 115 70 119 71 119 71 C 121 75 122 77 122 77 L 116 90 L 23 81 Z" fill="#cecfd3" id="id-rat-4-rat-cans-filter-37">
+</path>
+<path d="M 20 82 L 22 86 L 121 93 L 112 87 L 95 86 C 95 83 94 80 88 80 L 73 61 L 66 60 L 45 81 C 43 82 38 81 31 76 C 24 80 20 82 20 82 Z" fill="url(#id-rat-4-rat-cans-filter-17)" id="id-rat-4-rat-cans-filter-258">
+</path>
+<path d="M 50 19 C 52 37 54 46 54 46 C 44 45 40 45 40 45 C 39 52 39 56 39 56 C 37 60 35 61 35 61 L 44 82 C 41 82 37 80 30 77 L 28 63 C 29 64 30 64 30 64 L 32 36 C 36 27 42 21 50 19 Z" fill="#a2a3a7" id="id-rat-4-rat-cans-filter-259">
+</path>
+<path d="M 34 50 C 39 46 41 43 41 43 C 53 46 59 48 59 48 C 60 52 60 54 60 54 L 43 48 C 37 50 34 50 34 50 Z" fill="#3f4044" id="id-rat-4-rat-cans-filter-260">
+</path>
+<path d="M 78 51 C 75 56 74 58 74 58 L 83 58 L 92 56 L 90 54 C 82 52 78 51 78 51 Z" fill="#9b9fa2" id="id-rat-4-rat-cans-filter-261">
+</path>
+<path d="M 76 50 C 79 48 80 47 80 47 C 92 48 98 48 98 48 C 102 54 105 57 105 57 C 100 54 96 53 93 54 C 99 59 102 61 102 61 C 99 65 98 67 98 67 C 93 67 90 67 90 67 C 93 65 95 64 95 64 C 93 63 92 62 92 62 C 91 65 91 66 91 66 C 88 66 87 66 87 66 C 85 63 84 61 84 61 C 82 62 81 63 81 63 C 79 63 78 62 78 62 C 82 59 84 57 84 57 C 90 57 92 56 92 56 C 90 55 89 55 89 55 L 82 55 C 78 52 76 50 76 50 Z" fill="#5a5b5e" id="id-rat-4-rat-cans-filter-262">
+</path>
+<path d="M 48 50 C 48 50 51 53 59 60 C 59 60 59 61 58 61 L 58 61 L 54 58 C 54 58 53 59 50 62 C 50 62 51 62 52 63 C 52 63 51 63 49 65 C 49 65 45 63 39 61 C 39 61 37 61 34 61 C 34 61 35 59 37 57 L 37 57 L 37 57 C 37 57 37 57 37 57 L 37 56 C 37 56 37 56 37 56 L 37 56 C 37 56 37 56 37 56 L 37 55 C 37 55 37 54 37 54 C 37 54 41 52 48 50 Z M 45 57 C 43 59 42 60 42 60 L 46 62 C 48 62 49 62 49 62 C 47 59 45 57 45 57 Z" fill="#3f4044" id="id-rat-4-rat-cans-filter-164">
+</path>
+<path d="M 60 54 C 60 55 61 56 61 56 C 53 56 49 56 49 56 L 49 50 C 57 52 60 54 60 54 Z" fill="#9b9fa0" id="id-rat-4-rat-cans-filter-264">
+</path>
+<path d="M 58 4 C 64 8 66 9 66 9 C 67 14 67 16 67 16 C 67 16 67 16 67 16 C 68 14 69 13 69 13 C 73 13 74 13 74 13 C 71 11 69 10 69 10 C 69 8 69 8 69 8 C 71 7 73 7 73 7 C 69 5 68 4 68 4 L 68 6 C 61 5 58 4 58 4 Z" fill="#c4c5c9" id="id-rat-4-rat-cans-filter-265">
+</path>
+<path d="M 25 16 C 22 23 21 26 21 26 L 19 18 C 23 16 25 16 25 16 Z" fill="#606465" id="id-rat-4-rat-cans-filter-266">
+</path>
+</g>
+<g transform="translate(201,34)" id="id-rat-4-rat-cans-filter-267">
+<path d="M 50 186 C 77 158 91 143 94 142 C 118 126 138 118 154 117 C 155 118 156 119 156 119 C 150 127 147 130 147 130 C 128 132 110 138 92 154 C 99 152 102 151 102 151 C 91 159 80 166 69 181 C 56 184 50 186 50 186 Z" fill="#000000" id="id-rat-4-rat-cans-filter-268">
+</path>
+<path d="M 50 186 C 17 137 0 112 0 112 C 6 64 9 40 9 40 C 23 21 39 7 58 0 L 122 84 C 133 96 144 103 154 117 C 134 119 114 128 94 142 C 78 157 63 172 50 186 Z" fill="#111117" id="id-rat-4-rat-cans-filter-269">
+</path>
+<path d="M 71 164 C 64 154 60 149 60 149 C 72 137 77 131 77 131 L 13 95 L 9 40 C 21 25 34 10 58 0 L 122 84 C 131 94 144 104 154 117 C 131 120 112 130 94 142 C 78 157 71 164 71 164 Z" fill="#20222b" id="id-rat-4-rat-cans-filter-270">
+</path>
+<path d="M 153 115 C 140 116 133 116 133 116 L 45 7 C 49 4 53 2 58 0 L 76 8 L 79 23 L 122 84 C 141 102 151 112 153 115 Z" fill="#0b0c0e" id="id-rat-4-rat-cans-filter-271">
+</path>
+<path d="M 125 124 C 118 117 114 113 114 113 C 100 121 93 124 93 124 L 101 136 C 110 131 118 127 125 124 Z" fill="#313743" id="id-rat-4-rat-cans-filter-272">
+</path>
+<path d="M 77 131 L 10 48 L 13 95 C 56 119 77 131 77 131 Z" fill="#1a1b22" id="id-rat-4-rat-cans-filter-273">
+</path>
+</g>
+</g>
+<g transform="translate(568,384)" id="id-rat-4-rat-cans-filter-274">
+<path d="M 71 50 C 72 51 75 50 73 57 C 80 50 88 46 95 44 C 88 45 85 45 85 45 C 100 33 107 27 107 27 L 94 32 C 109 16 128 7 150 7 L 144 1 C 115 8 91 24 71 50 Z" fill="#1b2323" id="id-rat-4-rat-cans-filter-275">
+</path>
+<path d="M 45 124 C 54 103 64 81 73 58 C 91 32 112 8 150 7 C 155 13 158 16 158 16 C 150 15 147 14 147 14 C 148 19 149 22 149 22 C 145 19 143 17 143 17 C 132 41 118 66 99 91 C 98 93 105 93 113 92 C 100 103 94 108 94 108 C 105 107 110 106 110 106 C 103 106 92 113 81 119 C 77 128 75 133 75 133 C 73 129 73 127 73 127 C 68 130 66 132 66 132 C 65 128 65 126 65 126 C 52 137 46 142 46 142 L 48 121 C 46 123 45 124 45 124 Z" fill="#313439" id="id-rat-4-rat-cans-filter-276">
+</path>
+<path d="M 68 247 L 64 227 L 51 177 L 88 148 L 85 137 L 83 120 L 48 171 C 33 220 26 244 26 244 C 25 286 24 307 24 307 C 26 315 28 320 32 322 C 29 315 27 310 30 305 C 36 309 39 310 39 310 C 40 315 41 320 46 323 C 45 313 45 308 45 308 C 49 311 51 312 51 312 C 55 317 58 323 64 322 C 60 316 59 313 59 313 C 64 300 50 287 48 276 C 49 270 49 267 49 267 C 64 291 72 303 72 303 C 75 303 77 304 77 304 C 73 297 71 294 71 294 C 72 283 67 277 64 269 C 67 254 68 247 68 247 Z" fill="#000000" opacity="0.202" id="id-rat-4-rat-cans-filter-277">
+</path>
+<path d="M 24 308 C 21 306 19 305 19 305 C 18 300 15 294 11 289 C 4 266 0 255 0 255 C 23 183 35 147 35 147 C 44 130 48 122 48 122 C 47 135 47 142 47 142 C 59 132 65 126 65 126 C 66 130 66 132 66 132 C 71 129 73 127 73 127 C 74 131 75 132 75 132 C 66 150 61 158 61 158 C 63 164 60 171 57 178 C 62 210 64 226 64 226 C 61 234 59 237 59 237 C 61 240 62 243 62 246 C 61 262 60 270 60 270 C 66 278 69 287 65 294 C 60 290 58 288 58 288 C 51 274 48 267 48 267 C 45 255 44 250 44 250 C 43 265 42 273 42 273 C 47 282 51 290 56 304 C 53 310 52 314 52 314 C 49 314 46 312 43 308 C 39 313 36 316 36 316 L 25 294 C 27 302 27 306 24 308 Z" fill="#833549" id="id-rat-4-rat-cans-filter-278">
+</path>
+<path d="M 11 289 L 13 284 L 7 256 C 11 264 15 271 17 283 C 21 287 23 290 25 294 C 26 300 27 305 25 308 L 18 304 C 18 300 14 294 11 289 Z" fill="#692333" id="id-rat-4-rat-cans-filter-279">
+</path>
+<polygon points="28 284 19 263 19 253 24 258" fill="#692333" id="id-rat-4-rat-cans-filter-280">
+</polygon>
+<path d="M 52 314 C 52 305 52 301 52 301 L 39 271 L 44 250 L 42 273 C 47 281 52 290 56 304 L 52 314 Z" fill="#692333" id="id-rat-4-rat-cans-filter-281">
+</path>
+<path d="M 56 255 C 52 257 50 258 50 258 C 45 249 42 245 42 245 C 40 248 38 249 38 249 C 37 249 36 248 36 248 C 29 255 26 258 26 258 C 22 251 20 247 20 247 C 12 253 9 257 9 257 L 7 246 L 0 256 L 35 147 L 48 122 L 47 142 L 65 126 C 66 130 66 132 66 132 C 57 144 53 151 53 151 C 53 161 53 166 53 166 C 45 176 42 182 42 182 C 47 179 50 177 50 177 L 58 237 C 56 249 56 255 56 255 Z" fill="#914e58" id="id-rat-4-rat-cans-filter-282">
+</path>
+<path d="M 44 248 C 45 244 45 242 45 242 C 50 238 53 236 53 236 L 51 257 L 50 258 C 46 251 44 248 44 248 Z" fill="#a3627a" id="id-rat-4-rat-cans-filter-283">
+</path>
+<path d="M 26 258 C 29 244 31 237 31 237 L 20 248 C 24 255 26 258 26 258 Z" fill="#a3627a" id="id-rat-4-rat-cans-filter-284">
+</path>
+<path d="M 7 245 C 8 252 9 255 9 255 C 15 250 17 248 17 248 L 24 199 C 13 229 7 245 7 245 Z" fill="#a66580" id="id-rat-4-rat-cans-filter-285">
+</path>
+<path d="M 13 213 C 22 197 26 189 26 189 C 34 164 37 152 37 152 L 38 177 C 44 160 52 143 65 126 L 47 142 C 48 129 48 122 48 122 C 44 126 42 127 42 127 L 34 143 L 22 187 C 16 204 13 213 13 213 Z" fill="#a0627b" id="id-rat-4-rat-cans-filter-286">
+</path>
+<path d="M 70 303 C 61 301 57 296 58 288 L 65 289 C 65 295 66 300 70 303 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-287">
+</path>
+<path d="M 52 312 C 48 309 46 307 46 307 C 43 322 48 324 56 323 C 52 317 51 314 52 312 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-288">
+</path>
+<path d="M 39 311 C 34 308 32 307 32 307 C 35 319 38 324 42 324 C 39 315 38 311 39 311 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-289">
+</path>
+<path d="M 28 319 C 24 320 21 315 18 304 L 25 306 C 26 314 27 319 28 319 Z" fill="#19211f" id="id-rat-4-rat-cans-filter-290">
+</path>
+</g>
+<g transform="translate(760,732)" id="id-rat-4-rat-cans-filter-291">
+<path d="M 5 188 C 28 207 55 207 86 188 C 87 182 87 178 85 178 C 84 177 84 177 84 177 C 82 93 82 51 82 51 C 86 49 88 48 88 48 C 87 44 87 41 87 41 C 74 44 77 27 58 27 C 56 25 54 23 51 20 C 39 20 32 20 32 20 C 30 23 28 25 26 29 C 17 30 13 37 6 42 C 4 42 3 42 3 42 C 1 43 0 44 0 44 L 0 48 L 3 54 L 5 188 Z" fill="#22191c" id="id-rat-4-rat-cans-filter-292">
+</path>
+<path d="M 5 182 C 34 209 78 195 85 178 L 84 177 L 82 51 C 60 60 28 60 0 48 C 2 66 3 76 3 76 C 24 81 34 83 34 83 C 52 82 61 81 61 81 C 61 126 61 149 61 149 C 43 152 34 154 34 154 L 5 154 L 5 182 Z" fill="url(#id-rat-4-rat-cans-filter-18)" id="id-rat-4-rat-cans-filter-293">
+</path>
+<path d="M 54 152 L 52 82 C 40 83 34 83 34 83 C 31 82 29 82 29 82 L 32 155 L 34 156 C 48 153 54 152 54 152 Z" fill="#26344e" id="id-rat-4-rat-cans-filter-294">
+</path>
+<path d="M 82 51 C 75 53 71 54 71 54 L 71 189 C 76 187 81 184 85 178 L 84 177 C 82 93 82 51 82 51 Z" fill="#f7a224" id="id-rat-4-rat-cans-filter-295">
+</path>
+<path d="M 4 42 L 6 42 C 10 38 14 34 19 31 C 21 29 24 29 26 29 L 12 46 C 9 45 7 43 4 42 Z" fill="url(#id-rat-4-rat-cans-filter-19)" id="id-rat-4-rat-cans-filter-296">
+</path>
+<path d="M 37 28 C 34 28 32 28 32 28 C 27 35 24 39 24 39 C 27 44 29 43 31 41 C 35 33 37 28 37 28 Z" fill="#ffae2f" id="id-rat-4-rat-cans-filter-297">
+</path>
+<path d="M 32 49 C 48 50 55 50 55 50 C 65 48 70 47 70 47 L 55 49 C 40 49 32 49 32 49 Z" fill="#6d3a4c" id="id-rat-4-rat-cans-filter-298">
+</path>
+<path d="M 38 26 C 38 34 38 39 38 39 C 39 45 40 49 40 49 C 50 49 55 48 55 48 C 68 46 75 45 75 45 C 66 41 62 39 62 39 L 49 25 C 42 26 38 26 38 26 Z" fill="#4c2636" id="id-rat-4-rat-cans-filter-299">
+</path>
+<path d="M 48 25 C 44 27 43 27 43 27 C 50 41 53 48 53 48 C 51 50 49 51 49 51 C 49 55 49 57 49 57 C 57 56 61 56 61 56 L 61 49 C 52 33 48 25 48 25 Z" fill="#ffaf30" id="id-rat-4-rat-cans-filter-300">
+</path>
+<path d="M 31 21 C 38 28 50 27 51 21 C 52 10 52 4 52 4 C 43 -2 35 -1 29 6 L 30 7 C 31 16 31 21 31 21 Z" fill="#fdfbfc" id="id-rat-4-rat-cans-filter-301">
+</path>
+<path d="M 31 7 C 36 8 41 9 45 9 C 40 14 38 17 38 17 C 43 21 45 22 45 22 L 47 21 L 47 25 C 44 26 42 26 39 26 C 36 25 33 23 31 21 C 31 11 31 7 31 7 Z" fill="#dd98b0" id="id-rat-4-rat-cans-filter-302">
+</path>
+<path d="M 32 7 C 32 15 32 18 32 18 L 34 23 C 33 23 31 22 31 21 L 29 6 C 31 7 32 7 32 7 Z" fill="#c0829d" id="id-rat-4-rat-cans-filter-303">
+</path>
+<path d="M 36 22 C 33 18 31 16 31 16 C 32 13 33 11 33 11 L 39 15 C 37 19 36 22 36 22 Z" fill="#191b21" id="id-rat-4-rat-cans-filter-304">
+</path>
+<path d="M 36 90 C 38 91 39 95 39 101 L 39 101 C 39 102 39 102 39 103 L 39 104 C 40 107 40 111 41 113 C 39 115 37 115 34 115 L 34 115 L 34 115 C 36 116 39 116 41 118 L 41 118 C 42 121 42 133 42 138 L 42 138 C 42 139 42 140 42 140 C 42 140 37 141 26 142 L 26 142 C 26 142 26 142 26 142 L 26 142 C 25 142 22 143 19 143 L 19 143 L 19 143 C 19 142 19 126 19 96 L 19 96 L 22 93 L 22 93 L 22 93 C 23 93 27 92 36 90 Z M 26 135 C 32 134 35 133 36 132 C 37 130 36 121 35 120 C 34 120 31 121 26 122 L 26 135 Z M 33 108 C 34 97 31 96 26 99 C 26 99 26 99 26 99 L 26 99 C 26 100 26 103 26 110 C 29 110 31 110 33 108 Z" fill="#95addd" id="id-rat-4-rat-cans-filter-164">
+</path>
+<polygon points="22 89 27 88 27 94 22 94" fill="#95addd" id="id-rat-4-rat-cans-filter-306">
+</polygon>
+<polygon points="29 88 34 87 34 93 29 93" fill="#95addd" id="id-rat-4-rat-cans-filter-306">
+</polygon>
+<polygon points="25 141 29 141 30 146 25 147" fill="#95addd" id="id-rat-4-rat-cans-filter-306">
+</polygon>
+<polygon points="33 140 37 139 37 145 33 146" fill="#95addd" id="id-rat-4-rat-cans-filter-306">
+</polygon>
+<polygon points="0 48 5 183 8 186 5 50" fill="#ffd02f" id="id-rat-4-rat-cans-filter-310">
+</polygon>
+</g>
+<g transform="translate(234,567)" id="id-rat-4-rat-cans-filter-311">
+<path d="M 54 27 C 63 27 68 27 68 27 L 67 12 C 58 8 53 6 53 6 L 52 13 C 54 22 54 27 54 27 Z" fill="#94de00" id="id-rat-4-rat-cans-filter-312">
+</path>
+<path d="M 50 61 L 51 53 L 87 59 L 80 61 L 74 61 C 74 60 75 59 75 58 C 74 58 72 59 69 61 L 50 61 Z" fill="#557f00" id="id-rat-4-rat-cans-filter-313">
+</path>
+<path d="M 50 61 C 32 68 25 63 18 58 C 9 53 -5 19 33 6 C 33 4 33 3 33 3 C 37 2 38 1 38 1 L 45 0 C 48 11 50 18 51 21 C 57 30 51 52 50 61 Z" fill="#191c21" id="id-rat-4-rat-cans-filter-314">
+</path>
+<path d="M 14 27 C 17 32 18 35 18 35 C 21 33 29 34 41 38 C 38 30 35 20 35 9 C 30 12 26 15 23 15 C 17 23 14 27 14 27 Z" fill="#283853" id="id-rat-4-rat-cans-filter-315">
+</path>
+<path d="M 19 28 C 18 39 18 45 18 45 C 6 43 0 43 0 43 C 3 39 3 34 3 29 C 7 30 9 30 9 30 L 9 28 C 15 28 19 28 19 28 Z" fill="#7a8aa6" id="id-rat-4-rat-cans-filter-316">
+</path>
+<path d="M 6 31 C 6 35 6 37 6 37 C 13 36 17 36 17 36 L 16 30 C 10 31 6 31 6 31 Z" fill="#d3d9e0" id="id-rat-4-rat-cans-filter-317">
+</path>
+<path d="M 42 64 C 46 38 44 19 38 1 L 45 0 L 51 21 C 56 29 51 47 50 61 L 42 64 Z" fill="#45597a" id="id-rat-4-rat-cans-filter-318">
+</path>
+<path d="M 44 36 C 45 35 46 35 46 35 C 46 32 46 30 46 30 L 52 29 C 51 24 51 21 51 21 C 48 13 47 8 47 8 L 41 9 C 43 22 44 31 44 36 Z" fill="#6a8cc7" id="id-rat-4-rat-cans-filter-319">
+</path>
+<path d="M 40 11 C 46 17 48 20 48 20 L 45 30 C 42 17 40 11 40 11 Z" fill="#d2d7e7" id="id-rat-4-rat-cans-filter-320">
+</path>
+</g>
+<g transform="translate(228,722)" id="id-rat-4-rat-cans-filter-321">
+<path d="M 7 178 C 5 178 4 179 4 179 C 4 181 4 183 4 187 C 5 202 64 211 86 189 C 86 182 87 178 87 178 C 87 178 86 178 86 178 L 84 177 L 84 140 L 83 76 C 83 59 82 50 82 50 C 86 49 87 48 87 48 C 87 43 87 41 87 41 C 73 44 79 28 58 27 C 54 21 49 17 43 14 C 32 18 30 23 27 28 C 21 30 18 31 18 31 C 11 38 7 41 7 41 C 5 41 2 42 0 43 C 0 47 0 50 0 50 L 3 51 L 7 178 Z" fill="#18211e" id="id-rat-4-rat-cans-filter-37">
+</path>
+<path d="M 7 178 C 12 191 25 196 47 194 C 80 191 85 178 85 178 C 84 177 84 177 84 177 C 84 153 84 140 84 140 C 72 143 66 145 66 145 C 46 143 36 143 36 143 C 34 105 33 87 33 87 C 51 89 67 87 83 76 C 83 59 82 50 82 50 C 59 59 34 59 8 52 C 8 136 7 178 7 178 Z" fill="url(#id-rat-4-rat-cans-filter-20)" id="id-rat-4-rat-cans-filter-323">
+</path>
+<path d="M 9 181 L 10 177 L 8 52 L 3 51 L 7 178 C 8 180 9 181 9 181 Z" fill="#71eaf9" id="id-rat-4-rat-cans-filter-324">
+</path>
+<path d="M 7 190 C 5 188 4 186 4 186 C 4 182 4 180 4 180 C 6 179 8 179 8 179 C 9 181 10 182 10 182 L 7 184 C 7 188 7 190 7 190 Z" fill="#40c293" id="id-rat-4-rat-cans-filter-325">
+</path>
+<path d="M 63 192 C 65 193 66 194 66 194 C 66 197 66 199 66 199 C 75 195 79 193 79 193 C 80 189 80 188 80 188 L 77 186 C 74 188 69 190 63 192 Z" fill="#275043" id="id-rat-4-rat-cans-filter-326">
+</path>
+<path d="M 51 144 C 51 107 50 88 50 88 C 60 87 67 85 74 82 L 74 143 L 66 145 C 56 144 51 144 51 144 Z" fill="#254d42" id="id-rat-4-rat-cans-filter-327">
+</path>
+<path d="M 42 95 C 42 102 42 105 42 105 C 49 105 52 104 52 104 L 50 95 C 45 95 42 95 42 95 Z" fill="#fdfbfc" id="id-rat-4-rat-cans-filter-328">
+</path>
+<path d="M 74 89 C 76 89 76 95 77 102 L 77 103 L 77 103 L 77 104 C 77 108 77 112 78 114 C 76 117 74 117 70 117 C 70 117 73 124 79 138 C 79 138 78 138 75 139 C 75 139 71 132 64 119 L 64 119 L 64 119 C 64 119 64 120 64 120 L 64 122 C 64 122 64 122 64 122 L 64 125 C 64 125 64 125 64 125 L 64 127 C 64 127 64 127 64 128 L 64 130 C 64 130 64 130 64 130 L 64 133 C 64 133 64 133 64 133 L 64 135 C 64 136 64 136 64 136 L 64 138 C 64 138 64 138 64 138 L 64 140 C 64 140 64 140 63 140 L 63 141 C 62 141 60 141 57 141 L 57 141 L 57 141 C 57 140 57 125 56 94 L 56 94 L 60 92 L 60 92 L 60 92 C 60 92 65 91 74 89 Z M 70 110 C 71 97 68 94 63 98 C 63 98 63 102 63 111 C 66 112 68 112 70 110 Z" fill="#fdfafc" id="id-rat-4-rat-cans-filter-164">
+</path>
+<path d="M 71 189 L 71 143 L 84 140 L 84 177 L 85 178 C 83 182 79 186 71 189 Z" fill="#1758e6" id="id-rat-4-rat-cans-filter-330">
+</path>
+<path d="M 83 84 C 81 86 80 87 80 87 C 81 93 81 96 81 96 L 84 97 C 83 88 83 84 83 84 Z" fill="#fdfbfc" id="id-rat-4-rat-cans-filter-331">
+</path>
+<path d="M 84 116 C 81 121 80 123 80 123 L 84 126 C 84 120 84 116 84 116 Z" fill="#fdfbfc" id="id-rat-4-rat-cans-filter-332">
+</path>
+<path d="M 7 41 C 6 42 5 42 5 42 L 12 46 L 27 28 L 18 31 C 11 38 7 41 7 41 Z" fill="url(#id-rat-4-rat-cans-filter-21)" id="id-rat-4-rat-cans-filter-333">
+</path>
+<path d="M 42 51 C 38 45 38 36 39 26 L 75 45 C 62 49 51 51 42 51 Z" fill="#254d41" id="id-rat-4-rat-cans-filter-334">
+</path>
+<path d="M 32 49 C 46 50 54 50 54 50 L 70 47 C 45 49 32 49 32 49 Z" fill="#509f94" id="id-rat-4-rat-cans-filter-335">
+</path>
+<path d="M 39 26 C 35 39 33 46 33 46 C 39 50 42 32 44 36 C 44 45 44 50 44 50 C 42 51 41 51 41 51 C 41 54 41 56 41 56 C 45 56 48 57 52 55 L 51 50 C 43 34 39 26 39 26 Z" fill="#2f6dfe" id="id-rat-4-rat-cans-filter-336">
+</path>
+<path d="M 51 50 C 58 48 49 37 51 35 C 53 33 57 35 61 39 C 63 38 64 36 62 33 C 60 28 52 28 50 23 L 41 12 L 40 26 C 47 42 51 50 51 50 Z" fill="#0099ff" id="id-rat-4-rat-cans-filter-337">
+</path>
+<path d="M 31 20 C 35 25 49 26 51 21 C 52 10 52 4 52 4 C 47 -2 34 -1 30 5 C 31 15 31 20 31 20 Z" fill="#fdfbfc" id="id-rat-4-rat-cans-filter-338">
+</path>
+<path d="M 30 5 C 32 8 38 8 44 8 C 42 12 41 13 41 13 C 41 16 41 17 41 17 L 48 24 C 41 25 35 24 31 20 C 30 10 30 5 30 5 Z" fill="#98dccb" id="id-rat-4-rat-cans-filter-339">
+</path>
+<path d="M 39 26 C 37 26 35 25 34 23 C 34 16 33 13 33 13 C 37 9 39 10 41 12 C 40 21 39 26 39 26 Z" fill="#2f6dfe" id="id-rat-4-rat-cans-filter-340">
+</path>
+</g>
+<g transform="translate(266,933) rotate(93) translate(-266,-933) translate(213,805)" id="id-rat-4-rat-cans-filter-341">
+<path d="M 83 0 C 80 1 79 46 78 95 C 75 164 73 245 85 242 C 93 197 97 158 97 126 C 97 116 106 133 106 125 C 107 66 92 -3 83 0 Z" fill="#ab0171" id="id-rat-4-rat-cans-filter-342">
+</path>
+<path d="M 8 232 C 5 233 4 233 4 233 C 4 238 4 241 4 241 C 10 253 25 256 47 256 C 62 257 75 252 87 244 C 87 239 89 234 86 232 C 85 231 84 231 84 231 C 83 147 83 105 83 105 C 86 103 88 102 88 102 C 88 98 88 95 88 95 C 75 98 77 80 59 82 C 57 79 56 77 52 74 C 39 74 33 75 33 75 C 30 77 29 80 27 82 C 21 85 18 86 18 86 C 14 89 11 93 6 96 C 4 95 2 96 1 98 C 1 102 1 104 1 104 L 3 105 C 6 190 8 232 8 232 Z" fill="#191c21" id="id-rat-4-rat-cans-filter-343">
+</path>
+<path d="M 6 198 C 13 202 16 204 16 204 C 32 204 40 204 40 204 C 38 157 37 134 37 134 C 27 132 14 130 4 123 C 4 111 3 105 3 105 C 36 114 61 113 83 105 L 84 231 C 85 232 86 232 86 232 C 80 242 65 246 47 248 C 29 249 14 247 8 232 C 7 209 6 198 6 198 Z" fill="url(#id-rat-4-rat-cans-filter-22)" id="id-rat-4-rat-cans-filter-344">
+</path>
+<path d="M 6 198 C 9 199 10 200 10 200 C 11 220 11 231 11 231 L 9 235 L 8 232 C 7 209 6 198 6 198 Z" fill="#6688c2" id="id-rat-4-rat-cans-filter-345">
+</path>
+<path d="M 9 126 L 9 106 L 3 105 L 4 123 C 7 125 9 126 9 126 Z" fill="#6688c2" id="id-rat-4-rat-cans-filter-346">
+</path>
+<path d="M 72 243 L 72 108 L 83 105 L 84 231 L 86 232 C 84 236 79 240 72 243 Z" fill="#ff61cd" id="id-rat-4-rat-cans-filter-347">
+</path>
+<path d="M 7 246 C 8 241 8 238 8 238 L 10 237 L 7 232 L 4 233 L 4 241 C 5 243 6 244 7 246 Z" fill="#3f77c2" id="id-rat-4-rat-cans-filter-348">
+</path>
+<path d="M 63 246 C 65 247 66 248 66 248 C 67 252 67 253 67 253 C 72 252 77 250 80 247 C 80 244 80 242 80 242 L 78 240 C 74 243 69 245 63 246 Z" fill="#273751" id="id-rat-4-rat-cans-filter-349">
+</path>
+<path d="M 6 198 C 10 200 12 201 12 201 C 10 182 9 173 9 173 L 9 126 L 4 123 C 6 173 6 198 6 198 Z" fill="#3f5c8e" id="id-rat-4-rat-cans-filter-350">
+</path>
+<path d="M 6 96 C 8 98 10 99 13 100 L 27 82 L 18 85 C 12 92 8 95 6 96 Z" fill="url(#id-rat-4-rat-cans-filter-23)" id="id-rat-4-rat-cans-filter-351">
+</path>
+<path d="M 41 103 C 39 96 38 92 38 92 C 38 83 39 79 39 79 C 46 79 49 79 49 79 C 58 89 63 93 63 93 L 75 99 C 62 101 50 103 41 103 Z" fill="#26344e" id="id-rat-4-rat-cans-filter-352">
+</path>
+<path d="M 53 58 C 49 54 36 52 30 59 C 30 59 31 64 31 75 C 38 82 51 80 52 75 L 53 58 Z" fill="#f8f9fa" id="id-rat-4-rat-cans-filter-353">
+</path>
+<path d="M 30 59 C 31 62 36 63 44 63 L 48 79 C 41 81 35 79 31 75 C 31 64 30 59 30 59 Z" fill="#98b0de" id="id-rat-4-rat-cans-filter-354">
+</path>
+<path d="M 34 78 C 33 72 32 67 34 62 L 30 59 L 31 75 C 32 76 33 77 34 78 Z" fill="#7a97c8" id="id-rat-4-rat-cans-filter-355">
+</path>
+<path d="M 31 63 C 34 66 36 67 36 67 L 31 74 L 31 63 Z" fill="#181d21" id="id-rat-4-rat-cans-filter-356">
+</path>
+<path d="M 33 103 C 43 104 50 104 54 104 C 63 103 68 102 71 100 C 55 102 42 104 33 103 Z" fill="#435980" id="id-rat-4-rat-cans-filter-357">
+</path>
+<polygon points="8 129 25 159 9 176 8 141" fill="#96aedc" id="id-rat-4-rat-cans-filter-358">
+</polygon>
+<polygon points="18 147 25 159 19 165" fill="#6e8bc3" id="id-rat-4-rat-cans-filter-358">
+</polygon>
+<polygon points="8 129 4 146 5 171 9 176" fill="#f6f7f9" id="id-rat-4-rat-cans-filter-358">
+</polygon>
+<polygon points="9 182 19 171 25 164 9 194" fill="#96aedc" id="id-rat-4-rat-cans-filter-361">
+</polygon>
+<polygon points="19 171 25 164 19 175" fill="#6e8bc3" id="id-rat-4-rat-cans-filter-361">
+</polygon>
+<polygon points="9 182 6 175 6 187 9 194" fill="#f6f7f9" id="id-rat-4-rat-cans-filter-361">
+</polygon>
+</g>
+</g>
+<defs>
+</defs>
+
+</svg>

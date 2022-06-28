@@ -1,0 +1,1504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1">
+<defs>
+
+</defs>
+
+<defs>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-spectre-15-spectre-0">
+<stop stop-color="#8db0dd" offset="0%">
+</stop>
+<stop stop-color="#b2cae9" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="100%" y1="46%" x2="12%" y2="47%" id="id-spectre-15-spectre-1">
+<stop stop-color="#bdcff1" offset="0%">
+</stop>
+<stop stop-color="#cbdaf7" offset="21%">
+</stop>
+<stop stop-color="#cbdaf7" offset="46%">
+</stop>
+<stop stop-color="#d1dffb" offset="80%">
+</stop>
+<stop stop-color="#cbdaf7" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="46%" y1="43%" x2="15%" y2="43%" id="id-spectre-15-spectre-2">
+<stop stop-color="#abc1e7" offset="0%">
+</stop>
+<stop stop-color="#a5bae4" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="54%" y1="37%" x2="12%" y2="72%" id="id-spectre-15-spectre-3">
+<stop stop-color="#6283c2" offset="0%">
+</stop>
+<stop stop-color="#98b0de" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="27%" y1="47%" x2="91%" y2="49%" id="id-spectre-15-spectre-4">
+<stop stop-color="#f5feff" offset="0%">
+</stop>
+<stop stop-color="#dae7ff" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="29%" y1="56%" x2="69%" y2="53%" id="id-spectre-15-spectre-5">
+<stop stop-color="#96aedd" offset="0%">
+</stop>
+<stop stop-color="#aac0e8" offset="8%">
+</stop>
+<stop stop-color="#cbdaf8" offset="18%">
+</stop>
+<stop stop-color="#b9cbee" offset="38%">
+</stop>
+<stop stop-color="#adc1e8" offset="65%">
+</stop>
+<stop stop-color="#bdcff1" offset="81%">
+</stop>
+<stop stop-color="#a8bde6" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="47%" y1="45%" x2="54%" y2="46%" id="id-spectre-15-spectre-6">
+<stop stop-color="#c9d9f7" offset="0%">
+</stop>
+<stop stop-color="#9fb7e2" offset="62%">
+</stop>
+<stop stop-color="#a5bae4" offset="77%">
+</stop>
+<stop stop-color="#c1d1f2" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="51%" y1="7%" x2="50%" y2="100%" id="id-spectre-15-spectre-7">
+<stop stop-color="#b4c7ec" offset="0%">
+</stop>
+<stop stop-color="#ceddf9" offset="75%">
+</stop>
+<stop stop-color="#c7d8f6" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="51%" y1="11%" x2="49%" y2="93%" id="id-spectre-15-spectre-8">
+<stop stop-color="#acc0e7" offset="0%">
+</stop>
+<stop stop-color="#bdcff1" offset="73%">
+</stop>
+<stop stop-color="#c3d4f4" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="51%" y1="-5%" x2="48%" y2="96%" id="id-spectre-15-spectre-9">
+<stop stop-color="#b8caed" offset="0%">
+</stop>
+<stop stop-color="#aac0e7" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="19%" x2="50%" y2="69%" id="id-spectre-15-spectre-10">
+<stop stop-color="#93addb" offset="0%">
+</stop>
+<stop stop-color="#7291cb" offset="45%">
+</stop>
+<stop stop-color="#8fa9d9" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="46%" y1="74%" x2="39%" y2="35%" id="id-spectre-15-spectre-11">
+<stop stop-color="#9db4e1" offset="0%">
+</stop>
+<stop stop-color="#8aa5d7" offset="51%">
+</stop>
+<stop stop-color="#b7caed" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="45%" y1="12%" x2="50%" y2="54%" id="id-spectre-15-spectre-12">
+<stop stop-color="#7794ce" offset="0%" stop-opacity="0">
+</stop>
+<stop stop-color="#7794ce" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="41%" y1="19%" x2="50%" y2="100%" id="id-spectre-15-spectre-13">
+<stop stop-color="#abc0e7" offset="0%">
+</stop>
+<stop stop-color="#b7caed" offset="37%">
+</stop>
+<stop stop-color="#809dd3" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="31%" x2="45%" y2="50%" id="id-spectre-15-spectre-14">
+<stop stop-color="#a8bee6" offset="0%">
+</stop>
+<stop stop-color="#a9bee6" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="51%" y1="22%" x2="50%" y2="100%" id="id-spectre-15-spectre-15">
+<stop stop-color="#94addb" offset="0%">
+</stop>
+<stop stop-color="#97b0dc" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="49%" y1="0%" x2="50%" y2="100%" id="id-spectre-15-spectre-16">
+<stop stop-color="#c2d3f4" offset="0%">
+</stop>
+<stop stop-color="#c3d4f4" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="44%" y1="15%" x2="50%" y2="100%" id="id-spectre-15-spectre-17">
+<stop stop-color="#91aada" offset="0%">
+</stop>
+<stop stop-color="#9ab2de" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="52%" y1="21%" x2="49%" y2="83%" id="id-spectre-15-spectre-18">
+<stop stop-color="#c7d7f6" offset="0%">
+</stop>
+<stop stop-color="#ccdbf9" offset="48%">
+</stop>
+<stop stop-color="#c9d9f9" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="85%" y1="60%" x2="16%" y2="60%" id="id-spectre-15-spectre-19">
+<stop stop-color="#c9d8f6" offset="0%">
+</stop>
+<stop stop-color="#a5bae4" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="48%" y1="-20%" x2="59%" y2="91%" id="id-spectre-15-spectre-20">
+<stop stop-color="#bed0f1" offset="0%">
+</stop>
+<stop stop-color="#a5bae4" offset="59%">
+</stop>
+<stop stop-color="#a5bae4" offset="72%">
+</stop>
+<stop stop-color="#b2c6eb" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="55%" y1="48%" x2="46%" y2="33%" id="id-spectre-15-spectre-21">
+<stop stop-color="#b7caed" offset="0%">
+</stop>
+<stop stop-color="#bed0f1" offset="57%">
+</stop>
+<stop stop-color="#b6c9ed" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="19%" x2="50%" y2="78%" id="id-spectre-15-spectre-22">
+<stop stop-color="#829ed3" offset="0%">
+</stop>
+<stop stop-color="#9db4e1" offset="50%">
+</stop>
+<stop stop-color="#9cb3df" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="44%" y1="70%" x2="86%" y2="30%" id="id-spectre-15-spectre-23">
+<stop stop-color="#ccdbf9" offset="0%">
+</stop>
+<stop stop-color="#cbdaf7" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="10%" x2="50%" y2="43%" id="id-spectre-15-spectre-24">
+<stop stop-color="#cfddf9" offset="0%">
+</stop>
+<stop stop-color="#8ea7d9" offset="16%">
+</stop>
+<stop stop-color="#a5bbe4" offset="68%">
+</stop>
+<stop stop-color="#a4b9e3" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="89%" y1="50%" x2="9%" y2="52%" id="id-spectre-15-spectre-25">
+<stop stop-color="#8ba6d7" offset="0%">
+</stop>
+<stop stop-color="#8ea7d8" offset="53%" stop-opacity="0.2">
+</stop>
+<stop stop-color="#85a0d4" offset="75%">
+</stop>
+<stop stop-color="#97afde" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="19%" y1="86%" x2="73%" y2="32%" id="id-spectre-15-spectre-26">
+<stop stop-color="#a6bbe5" offset="0%">
+</stop>
+<stop stop-color="#d3e0fc" offset="40%">
+</stop>
+<stop stop-color="#c4d5f4" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="35%" y1="94%" x2="47%" y2="12%" id="id-spectre-15-spectre-27">
+<stop stop-color="#a8bde6" offset="0%">
+</stop>
+<stop stop-color="#cddcf6" offset="31%">
+</stop>
+<stop stop-color="#ccdbf8" offset="44%">
+</stop>
+<stop stop-color="#cfdefa" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="54%" x2="27%" y2="9%" id="id-spectre-15-spectre-28">
+<stop stop-color="#c1d1f0" offset="0%">
+</stop>
+<stop stop-color="#d6e3fe" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="20%" y1="36%" x2="93%" y2="61%" id="id-spectre-15-spectre-29">
+<stop stop-color="#e7f1ff" offset="0%">
+</stop>
+<stop stop-color="#c2d2f3" offset="70%">
+</stop>
+<stop stop-color="#aec2e8" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="36%" y1="84%" x2="25%" y2="44%" id="id-spectre-15-spectre-30">
+<stop stop-color="#abc0e7" offset="0%">
+</stop>
+<stop stop-color="#a4b9e3" offset="35%">
+</stop>
+<stop stop-color="#e6f1ff" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="63%" y1="95%" x2="43%" y2="20%" id="id-spectre-15-spectre-31">
+<stop stop-color="#b8caee" offset="0%">
+</stop>
+<stop stop-color="#c2d3f4" offset="46%">
+</stop>
+<stop stop-color="#b4c6ec" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="40%" y1="0%" x2="50%" y2="86%" id="id-spectre-15-spectre-32">
+<stop stop-color="#b3c6eb" offset="0%">
+</stop>
+<stop stop-color="#c1d1f2" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="92%" id="id-spectre-15-spectre-33">
+<stop stop-color="#dbe8ff" offset="0%">
+</stop>
+<stop stop-color="#c2d3f4" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="33%" y1="79%" x2="21%" y2="44%" id="id-spectre-15-spectre-34">
+<stop stop-color="#b7c9ed" offset="0%">
+</stop>
+<stop stop-color="#a3bae3" offset="28%">
+</stop>
+<stop stop-color="#d7e4fe" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="4%" y1="47%" x2="92%" y2="45%" id="id-spectre-15-spectre-35">
+<stop stop-color="#89a4d6" offset="0%">
+</stop>
+<stop stop-color="#afc4e9" offset="17%">
+</stop>
+<stop stop-color="#aec2e8" offset="48%" stop-opacity="0.39">
+</stop>
+<stop stop-color="#87a2d5" offset="78%" stop-opacity="0.76">
+</stop>
+<stop stop-color="#9db4e1" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="60%" y1="45%" x2="67%" y2="53%" id="id-spectre-15-spectre-36">
+<stop stop-color="#e3efff" offset="0%">
+</stop>
+<stop stop-color="#f3fbff" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="48%" y1="15%" x2="54%" y2="81%" id="id-spectre-15-spectre-37">
+<stop stop-color="#cbdaf7" offset="0%">
+</stop>
+<stop stop-color="#d5e3fc" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="47%" y1="44%" x2="50%" y2="61%" id="id-spectre-15-spectre-38">
+<stop stop-color="#7693cc" offset="0%" stop-opacity="0">
+</stop>
+<stop stop-color="#7693cc" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="26%" y1="-7%" x2="50%" y2="96%" id="id-spectre-15-spectre-39">
+<stop stop-color="#37373f" offset="0%">
+</stop>
+<stop stop-color="#19191d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="12%" x2="59%" y2="82%" id="id-spectre-15-spectre-40">
+<stop stop-color="#252525" offset="0%">
+</stop>
+<stop stop-color="#101010" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="25%" y1="-16%" x2="50%" y2="98%" id="id-spectre-15-spectre-41">
+<stop stop-color="#37373f" offset="0%">
+</stop>
+<stop stop-color="#19191d" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="75%" y1="39%" x2="50%" y2="93%" id="id-spectre-15-spectre-42">
+<stop stop-color="#252525" offset="0%">
+</stop>
+<stop stop-color="#000000" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="85%" id="id-spectre-15-spectre-43">
+<stop stop-color="#6e82a4" offset="0%">
+</stop>
+<stop stop-color="#46618c" offset="100%">
+</stop>
+</linearGradient>
+<radialGradient cx="50%" cy="55%" r="79%" id="id-spectre-15-spectre-44" fx="50%" fy="55%" gradientTransform="translate(0.5,0.55) scale(1,0.697) rotate(-90) scale(1,0.712) translate(-0.5,-0.55)">
+<stop stop-color="#a7b3c8" offset="0%">
+</stop>
+<stop stop-color="#b1c0da" offset="21%">
+</stop>
+<stop stop-color="#345181" offset="100%">
+</stop>
+</radialGradient>
+<linearGradient x1="11%" y1="60%" x2="57%" y2="52%" id="id-spectre-15-spectre-45">
+<stop stop-color="#667b9d" offset="0%">
+</stop>
+<stop stop-color="#8e9eb8" offset="40%">
+</stop>
+<stop stop-color="#8f9fba" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="49%" y1="41%" x2="22%" y2="61%" id="id-spectre-15-spectre-46">
+<stop stop-color="#7789a5" offset="0%">
+</stop>
+<stop stop-color="#516a92" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="48%" y1="50%" x2="57%" y2="65%" id="id-spectre-15-spectre-47">
+<stop stop-color="#8799b5" offset="0%">
+</stop>
+<stop stop-color="#4d6790" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="82%" y1="42%" x2="17%" y2="50%" id="id-spectre-15-spectre-48">
+<stop stop-color="#94a2b9" offset="0%">
+</stop>
+<stop stop-color="#8092b1" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="47%" y1="27%" x2="48%" y2="50%" id="id-spectre-15-spectre-49">
+<stop stop-color="#3b5786" offset="0%">
+</stop>
+<stop stop-color="#677da0" offset="100%">
+</stop>
+</linearGradient>
+<radialGradient cx="50%" cy="58%" r="75%" id="id-spectre-15-spectre-50" fx="50%" fy="58%" gradientTransform="translate(0.5,0.575) scale(0.592,1) rotate(-78) scale(1,1) translate(-0.5,-0.575)">
+<stop stop-color="#abbdd9" offset="0%">
+</stop>
+<stop stop-color="#334f80" offset="100%">
+</stop>
+</radialGradient>
+<linearGradient x1="40%" y1="66%" x2="56%" y2="19%" id="id-spectre-15-spectre-51">
+<stop stop-color="#5a6c8c" offset="0%">
+</stop>
+<stop stop-color="#576b8d" offset="54%">
+</stop>
+<stop stop-color="#395685" offset="100%">
+</stop>
+</linearGradient>
+<radialGradient cx="45%" cy="79%" r="79%" id="id-spectre-15-spectre-52" fx="45%" fy="79%" gradientTransform="translate(0.447,0.79) scale(0.833,1) rotate(-85) scale(1,1) translate(-0.447,-0.79)">
+<stop stop-color="#acb8cc" offset="0%">
+</stop>
+<stop stop-color="#59729c" offset="100%">
+</stop>
+</radialGradient>
+<radialGradient cx="50%" cy="2%" r="279%" id="id-spectre-15-spectre-53" fx="50%" fy="2%" gradientTransform="translate(0.501,0.022) scale(1,0.772) rotate(90) scale(1,1) translate(-0.501,-0.022)">
+<stop stop-color="#687fa5" offset="0%">
+</stop>
+<stop stop-color="#ced5e1" offset="29%">
+</stop>
+<stop stop-color="#a6b3c9" offset="100%">
+</stop>
+</radialGradient>
+<linearGradient x1="52%" y1="22%" x2="51%" y2="6%" id="id-spectre-15-spectre-54">
+<stop stop-color="#95a3bb" offset="0%">
+</stop>
+<stop stop-color="#586b8e" offset="100%">
+</stop>
+</linearGradient>
+<radialGradient cx="45%" cy="76%" r="51%" id="id-spectre-15-spectre-55" fx="45%" fy="76%" gradientTransform="translate(0.455,0.761) scale(0.673,1) scale(1,0.612) translate(-0.455,-0.761)">
+<stop stop-color="#899ab7" offset="0%">
+</stop>
+<stop stop-color="#5d759b" offset="100%">
+</stop>
+</radialGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="72%" id="id-spectre-15-spectre-56">
+<stop stop-color="#cad2df" offset="0%">
+</stop>
+<stop stop-color="#8d9eb8" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="25%" y1="52%" x2="67%" y2="55%" id="id-spectre-15-spectre-57">
+<stop stop-color="#a5b1c7" offset="0%">
+</stop>
+<stop stop-color="#6d81a3" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="71%" y1="52%" x2="18%" y2="50%" id="id-spectre-15-spectre-58">
+<stop stop-color="#7386a7" offset="0%">
+</stop>
+<stop stop-color="#506890" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="94%" y1="63%" x2="50%" y2="63%" id="id-spectre-15-spectre-59">
+<stop stop-color="#576f96" offset="0%">
+</stop>
+<stop stop-color="#8495b4" offset="100%">
+</stop>
+</linearGradient>
+<radialGradient cx="50%" cy="0%" r="98%" id="id-spectre-15-spectre-60" fx="50%" fy="0%" gradientTransform="translate(0.5,0) scale(0.396,1) rotate(90) translate(-0.5,0)">
+<stop stop-color="#a3b1c6" offset="0%">
+</stop>
+<stop stop-color="#6c7fa3" offset="100%">
+</stop>
+</radialGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="84%" id="id-spectre-15-spectre-61">
+<stop stop-color="#4e6991" offset="0%">
+</stop>
+<stop stop-color="#465977" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="75%" y1="46%" x2="36%" y2="49%" id="id-spectre-15-spectre-62">
+<stop stop-color="#587096" offset="0%">
+</stop>
+<stop stop-color="#899bb6" offset="46%">
+</stop>
+<stop stop-color="#304e7f" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="84%" id="id-spectre-15-spectre-63">
+<stop stop-color="#4e6991" offset="0%">
+</stop>
+<stop stop-color="#465977" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="10%" y1="50%" x2="42%" y2="53%" id="id-spectre-15-spectre-64">
+<stop stop-color="#677c9d" offset="0%">
+</stop>
+<stop stop-color="#4a638b" offset="100%">
+</stop>
+</linearGradient>
+<radialGradient cx="50%" cy="28%" r="98%" id="id-spectre-15-spectre-65" fx="50%" fy="28%" gradientTransform="translate(0.5,0.278) scale(0.259,1) rotate(90) scale(1,1) translate(-0.5,-0.278)">
+<stop stop-color="#bfc7d8" offset="0%">
+</stop>
+<stop stop-color="#405a82" offset="100%">
+</stop>
+</radialGradient>
+<linearGradient x1="13%" y1="50%" x2="90%" y2="50%" id="id-spectre-15-spectre-66">
+<stop stop-color="#4e678f" offset="0%">
+</stop>
+<stop stop-color="#b8c2d3" offset="54%">
+</stop>
+<stop stop-color="#5d759b" offset="100%">
+</stop>
+</linearGradient>
+<radialGradient cx="48%" cy="82%" r="121%" id="id-spectre-15-spectre-67" fx="48%" fy="82%" gradientTransform="translate(0.483,0.816) scale(0.316,1) rotate(-95) translate(-0.483,-0.816)">
+<stop stop-color="#778aaa" offset="0%">
+</stop>
+<stop stop-color="#405a83" offset="100%">
+</stop>
+</radialGradient>
+<linearGradient x1="32%" y1="49%" x2="64%" y2="50%" id="id-spectre-15-spectre-68">
+<stop stop-color="#8294b2" offset="0%">
+</stop>
+<stop stop-color="#d5e6ff" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-spectre-15-spectre-69">
+<stop stop-color="#273d62" offset="0%">
+</stop>
+<stop stop-color="#788496" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-spectre-15-spectre-70">
+<stop stop-color="#273d62" offset="0%">
+</stop>
+<stop stop-color="#788496" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="81%" y1="45%" x2="17%" y2="63%" id="id-spectre-15-spectre-71">
+<stop stop-color="#94a3bb" offset="0%">
+</stop>
+<stop stop-color="#6e82a4" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="14%" x2="50%" y2="87%" id="id-spectre-15-spectre-72">
+<stop stop-color="#94a3bc" offset="0%">
+</stop>
+<stop stop-color="#8d9db8" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="29%" x2="50%" y2="100%" id="id-spectre-15-spectre-73">
+<stop stop-color="#7f91b1" offset="0%">
+</stop>
+<stop stop-color="#5b6d91" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="2%" x2="50%" y2="100%" id="id-spectre-15-spectre-74">
+<stop stop-color="#e2e8f1" offset="0%">
+</stop>
+<stop stop-color="#dee5ef" offset="18%">
+</stop>
+<stop stop-color="#c4d0e3" offset="43%">
+</stop>
+<stop stop-color="#718ebc" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="86%" y1="50%" x2="13%" y2="50%" id="id-spectre-15-spectre-75">
+<stop stop-color="#e2e8f1" offset="0%">
+</stop>
+<stop stop-color="#f5f9fe" offset="16%" stop-opacity="0.037">
+</stop>
+<stop stop-color="#d2dbea" offset="46%" stop-opacity="0">
+</stop>
+<stop stop-color="#ffffff" offset="75%" stop-opacity="0">
+</stop>
+<stop stop-color="#c6d2e4" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-spectre-15-spectre-76">
+<stop stop-color="#728fbc" offset="0%" stop-opacity="0">
+</stop>
+<stop stop-color="#728fbc" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-spectre-15-spectre-77">
+<stop stop-color="#90a6ca" offset="0%">
+</stop>
+<stop stop-color="#5577af" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="53%" y1="89%" x2="45%" y2="82%" id="id-spectre-15-spectre-78">
+<stop stop-color="#6282b5" offset="0%">
+</stop>
+<stop stop-color="#6282b5" offset="100%" stop-opacity="0">
+</stop>
+</linearGradient>
+<linearGradient x1="35%" y1="49%" x2="32%" y2="49%" id="id-spectre-15-spectre-79">
+<stop stop-color="#f2f5f9" offset="0%">
+</stop>
+<stop stop-color="#e2e8f1" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-spectre-15-spectre-80">
+<stop stop-color="#819bc3" offset="0%">
+</stop>
+<stop stop-color="#8fa5c9" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-spectre-15-spectre-81">
+<stop stop-color="#ced7e7" offset="0%">
+</stop>
+<stop stop-color="#cfd9e8" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="73%" y1="50%" x2="39%" y2="50%" id="id-spectre-15-spectre-82">
+<stop stop-color="#6282b4" offset="0%">
+</stop>
+<stop stop-color="#82431a" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-spectre-15-spectre-83">
+<stop stop-color="#e2bf87" offset="0%">
+</stop>
+<stop stop-color="#9a693b" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="53%" y1="60%" x2="52%" y2="64%" id="id-spectre-15-spectre-84">
+<stop stop-color="#fad490" offset="0%">
+</stop>
+<stop stop-color="#d6b17c" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="99%" id="id-spectre-15-spectre-85">
+<stop stop-color="#e1be81" offset="0%">
+</stop>
+<stop stop-color="#9b6937" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-spectre-15-spectre-86">
+<stop stop-color="#c5d9f2" offset="0%">
+</stop>
+<stop stop-color="#c5d9f2" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-spectre-15-spectre-87">
+<stop stop-color="#c5d9f2" offset="0%">
+</stop>
+<stop stop-color="#c5d9f2" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-spectre-15-spectre-88">
+<stop stop-color="#a2bee1" offset="0%">
+</stop>
+<stop stop-color="#b6cdeb" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="54%" y1="16%" x2="46%" y2="91%" id="id-spectre-15-spectre-89">
+<stop stop-color="#c5d9f2" offset="0%">
+</stop>
+<stop stop-color="#6c8cbc" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="47%" y1="14%" x2="53%" y2="81%" id="id-spectre-15-spectre-90">
+<stop stop-color="#c5d9f2" offset="0%">
+</stop>
+<stop stop-color="#8db0dd" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="50%" y1="0%" x2="49%" y2="61%" id="id-spectre-15-spectre-91">
+<stop stop-color="#8db0dd" offset="0%">
+</stop>
+<stop stop-color="#b4cbe9" offset="100%">
+</stop>
+</linearGradient>
+<linearGradient x1="48%" y1="14%" x2="50%" y2="59%" id="id-spectre-15-spectre-92">
+<stop stop-color="#9db0c9" offset="0%">
+</stop>
+<stop stop-color="#607da4" offset="100%">
+</stop>
+</linearGradient>
+</defs>
+<g stroke="none" stroke-width="1" fill="none" opacity="0.858" id="id-spectre-15-spectre-93" fill-rule="evenodd">
+<g transform="translate(333,157)">
+<polygon points="258 445 276 440 377 443 398 449 405 482 413 488 382 1505 265 1505 230 488" fill="url(#id-spectre-15-spectre-0)" id="id-spectre-15-spectre-94">
+</polygon>
+<g transform="translate(1,175)" id="id-spectre-15-spectre-95">
+<g transform="translate(0,218)" id="id-spectre-15-spectre-96">
+<polygon points="561 754 565 870 565 880 537 892 533 897 535 901 531 908 542 909 597 863" fill="#405272" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="536 282 539 245 535 195 528 157 521 137 484 117 440 110 212 110 188 113 156 122 120 138 111 185 107 220 109 289" fill="url(#id-spectre-15-spectre-1)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="467 393 474 506 502 589 536 671 555 727 561 754 546 793 552 851 551 860 552 873 555 885 566 881 567 866 570 859 570 842 571 833 576 842 576 858 579 863 573 873 571 883 544 902 541 916 582 900 597 863 606 852 599 821 597 715 589 694 582 655 568 522 544 424" fill="#7286a9" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="546 793 552 851 551 860 552 873 555 885 566 881 567 866 570 859 570 842 571 833 576 842 576 858 579 863 573 873 571 883 544 902 541 916 582 900 597 863 583 870 588 854 573 814 560 822" fill="#667a9e" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="552 851 551 860 552 873 555 886 566 884 567 866 570 859 558 859" fill="#536e98" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="543 905 541 916 582 900 571 889" fill="#536e98" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="561 754 547 788 566 818 585 806" fill="#7286a9" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="485 647 477 598 453 528 440 504 437 489 438 459 449 401 455 339 188 342 198 410 202 493 162 596 152 637 265 692 319 721 386 692" fill="url(#id-spectre-15-spectre-2)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="485 647 477 598 453 528 440 504 437 489 438 459 449 401 455 339 296 352 376 634" fill="#b4c7ec" id="id-spectre-15-spectre-97">
+</polygon>
+<g transform="translate(188,0)" id="id-spectre-15-spectre-106">
+<polygon points="273 114 252 110 231 99 200 76 188 58 184 0 92 0 87 63 24 110 0 113 102 122 120 134 133 138 148 120 160 116 186 118 224 114" fill="#b7caed" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="200 76 188 58 184 12 174 57 154 111 184 72" fill="#7e96c0" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="148 0 92 0 87 63 107 126 120 134 132 137" fill="#a9bee6" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="115 101 119 113 117 115 135 134 149 119 164 71 124 108" fill="#9fb5e1" id="id-spectre-15-spectre-110">
+</polygon>
+<polygon points="120 126 132 137 144 124" fill="#91aada" id="id-spectre-15-spectre-111">
+</polygon>
+<polygon points="135 97 164 70 174 57 185 16 133 50" fill="#879ec8" id="id-spectre-15-spectre-112">
+</polygon>
+<polygon points="96 95 115 79 163 60 177 47 185 17 184 0 92 0 87 63 45 95" fill="#2c4772" opacity="0.654" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="185 17 184 0 92 0 87 63 45 95 65 95" fill="url(#id-spectre-15-spectre-3)" opacity="0.467" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="122 58 175 23 185 17 184 0 92 0 90 21 107 54" fill="#040507" opacity="0.434" id="id-spectre-15-spectre-97">
+</polygon>
+</g>
+<polygon points="41 843 33 855 36 895 64 914 84 911 82 902 71 897 72 891 62 883 52 848" fill="#374764" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="314 151 285 173 320 187 357 165" fill="#d5e3fc" id="id-spectre-15-spectre-117">
+</polygon>
+<polygon points="327 150 370 129 342 126" fill="#b9cbef" id="id-spectre-15-spectre-118">
+</polygon>
+<polygon points="301 141 303 148 243 131 240 118 276 118" fill="#b8caed" id="id-spectre-15-spectre-119">
+</polygon>
+<polygon points="159 148 205 122 269 122 302 143 296 117 188 113 156 122 120 138" fill="url(#id-spectre-15-spectre-4)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="156 122 120 138 152 167 195 134" fill="#f7feff" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="89 583 77 541 62 551 45 657 34 712 25 740 25 761 9 816 0 844 14 869 25 900 57 919 71 919 68 912 60 905 50 899 37 873 37 852 43 844 51 854 50 886 56 900 63 905 66 900 66 881 71 835 71 799 68 780 63 773 66 734 85 683 120 598 162 510" fill="#7085a9" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="89 583 77 541 62 551 45 657 48 714 120 598 162 510" fill="#b8caed" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="54 842 45 827 37 847 16 852 8 836 4 851 0 844 14 869 25 900 57 919 71 919 68 912 60 905 50 899 37 873 37 852 43 844 51 854 50 886 56 900 63 905 66 900 66 881 71 835" fill="#577096" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="52 881 52 891 56 900 63 905 66 900 66 881 66 875" fill="#4e5f82" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="25 900 57 919 71 919 61 909 37 894" fill="#4e5f82" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="160 466 145 487 107 577 45 777 48 796 63 773 66 734 85 683 120 598 162 510" fill="#577096" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="169 1210 277 1210 282 1182 281 1150 283 1126 286 1114 285 1062 292 972 306 866 310 791 308 767 323 771 337 767 333 816 333 854 338 923 345 1008 348 1112 351 1129 353 1176 361 1210 461 1210 458 1191 456 1170 460 1132 461 1081 505 905 516 838 517 825 512 761 502 705 485 647 482 628 386 689 317 717 265 689 183 628 153 637 131 730 119 780 117 812 122 861 130 916 165 1093 176 1179" fill="url(#id-spectre-15-spectre-5)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="462 663 416 771 399 818 392 1124 358 1178 398 1203 441 1152 461 1081 505 905 516 838 517 825 514 789 490 713" fill="url(#id-spectre-15-spectre-6)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="422 1160 395 1199 365 1171 400 1149 383 1120 391 982 411 785 416 771 448 696 454 1012 445 1116 406 1149" fill="url(#id-spectre-15-spectre-7)" id="id-spectre-15-spectre-130">
+</polygon>
+<polygon points="120 138 111 185 107 220 109 289 95 438 88 463 68 510 88 584 162 510 167 424 162 240" fill="url(#id-spectre-15-spectre-8)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="101 465 103 488 105 510 159 446 179 359 164 231 187 183 186 179 132 181 160 234 160 320 149 375 151 383 123 460 114 465" fill="url(#id-spectre-15-spectre-9)" id="id-spectre-15-spectre-132">
+</polygon>
+<polygon points="95 438 88 463 68 510 50 620 101 519 95 476" fill="#dbe8ff" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="95 451 127 364 133 315 120 138 111 185 107 220 109 289 95 438" fill="#adc1e8" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="184 241 176 248 162 225 138 289 161 320 169 374 161 420 151 410 162 510 167 424 188 342" fill="url(#id-spectre-15-spectre-10)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="283 1126 286 1114 285 1062 292 972 306 866 310 791 308 767 323 771 337 767 333 816 333 854 338 923 345 1008 374 889 416 771 462 663 490 713 514 789 512 761 502 705 485 647 477 598 471 583 420 649 316 719 200 653 244 741 264 823 274 993" fill="url(#id-spectre-15-spectre-11)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="298 929 306 866 310 791 308 767 323 771 337 767 333 816 333 854 336 893 347 825 359 783 378 733 388 687 321 739 254 687 267 735 290 821" fill="url(#id-spectre-15-spectre-12)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="347 1092 348 1112 351 1129 353 1176 361 1210 461 1210 438 1154 422 1135 403 1147 428 1167 399 1202 370 1170 382 1124" fill="url(#id-spectre-15-spectre-13)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="10 854 8 836 4 851 0 844 14 869" fill="#586b8d" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="519 499 516 519 544 628 473 499 489 398" fill="url(#id-spectre-15-spectre-14)" id="id-spectre-15-spectre-140">
+</polygon>
+<polygon points="461 1210 458 1191 456 1170 460 1132 461 1081 438 1154 450 1210" fill="url(#id-spectre-15-spectre-15)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="220 1149 259 1114 239 1062 231 973 265 818 239 712 201 660 157 649 201 783 182 924 169 1083" fill="url(#id-spectre-15-spectre-16)" id="id-spectre-15-spectre-142">
+</polygon>
+<polygon points="169 1210 277 1210 282 1182 281 1150 283 1126 286 1114 285 1097 225 1210 207 1210 195 1120 172 1077 149 1014 165 1093 176 1179" fill="url(#id-spectre-15-spectre-17)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="172 1077 182 923 149 1014" fill="#9ab2de" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="169 1210 239 1210 230 1196 204 1174 172 1149 176 1179" fill="#87a2d5" opacity="0.574" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="221 1129 239 1096 224 1062 224 982 239 803 217 697 189 668 211 770 211 910 189 997 181 1093" fill="url(#id-spectre-15-spectre-18)" id="id-spectre-15-spectre-142">
+</polygon>
+<polygon points="216 794 220 691 200 667 168 657 200 736" fill="#cbdaf7" id="id-spectre-15-spectre-147">
+</polygon>
+<polygon points="510 475 491 418 481 446 484 356 520 273 533 417" fill="url(#id-spectre-15-spectre-19)" id="id-spectre-15-spectre-148">
+</polygon>
+<polygon points="568 522 544 424 542 345 536 282 539 245 535 195 528 157 521 137 494 160 419 157 470 211 516 289 525 410 510 476 518 506 535 461 561 542" fill="url(#id-spectre-15-spectre-20)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="486 389 533 242 500 167 463 206 450 247 462 264" fill="url(#id-spectre-15-spectre-21)" id="id-spectre-15-spectre-150">
+</polygon>
+<polygon points="473 489 474 506 502 589 536 671 555 727 561 754 567 712 543 622" fill="#98b0de" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="460 328 466 378 474 506 489 424 486 391 468 273 479 230 461 259 454 251" fill="url(#id-spectre-15-spectre-22)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="286 327 306 310 330 274 452 251 464 204 420 155 317 203 219 164 210 153 187 180" fill="url(#id-spectre-15-spectre-23)" id="id-spectre-15-spectre-153">
+</polygon>
+<polygon points="440 504 437 489 438 459 449 401 455 339 458 328 324 281 188 342 198 410 202 493 162 596 156 620 161 632 168 598 172 570 204 506 202 458 217 401 286 365 321 351 353 359 422 401 430 493 437 519" fill="url(#id-spectre-15-spectre-24)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="451 384 455 339 458 328 363 339 330 307 267 342 188 342 193 378 262 367 311 342 335 339 380 367" fill="url(#id-spectre-15-spectre-25)" id="id-spectre-15-spectre-97">
+</polygon>
+<path d="M 421 194 L 404 189 C 377 189 356 197 342 213 C 328 229 322 249 322 275 C 324 301 331 320 345 332 C 365 350 384 355 404 355 C 425 355 444 346 450 341 C 453 338 457 334 460 328 C 463 323 466 316 467 307 C 469 293 465 275 457 254 L 421 194 Z" fill="url(#id-spectre-15-spectre-26)" id="id-spectre-15-spectre-156">
+</path>
+<path d="M 421 194 L 417 175 C 386 187 366 196 358 200 C 354 203 351 205 348 207 C 347 208 380 253 447 341 C 454 338 459 332 463 323 C 469 310 469 301 468 292 C 468 286 465 274 459 256 L 421 194 Z" fill="url(#id-spectre-15-spectre-27)" id="id-spectre-15-spectre-156">
+</path>
+<path d="M 375 225 C 337 252 343 276 343 283 C 343 290 353 318 370 334 C 378 342 422 348 446 331 C 468 315 471 293 457 264 C 427 220 399 207 375 225 Z" fill="url(#id-spectre-15-spectre-28)" opacity="0.282" id="id-spectre-15-spectre-156">
+</path>
+<path d="M 272 204 C 260 198 243 200 220 209 C 186 226 169 258 167 302 C 167 318 183 341 190 346 C 196 350 212 355 238 352 C 256 351 271 344 283 332 C 303 311 312 287 309 259 C 305 217 290 213 272 204 Z" fill="url(#id-spectre-15-spectre-29)" id="id-spectre-15-spectre-159">
+</path>
+<path d="M 339 284 C 333 251 328 239 326 248 C 324 253 323 262 322 275 C 324 301 331 320 345 332 C 365 350 382 355 403 355 C 425 355 443 346 450 341 C 456 336 465 324 468 307 C 471 290 465 276 462 268 C 461 263 459 258 458 254 L 442 289 L 398 304 L 366 299 L 339 284 Z" fill="url(#id-spectre-15-spectre-30)" id="id-spectre-15-spectre-156">
+</path>
+<path d="M 153 637 L 149 654 L 131 730 L 129 738 C 133 729 135 722 137 718 C 140 708 146 690 149 679 C 151 670 155 654 161 632 L 172 570 L 162 596 L 153 637 Z" fill="#8ea7d9" id="id-spectre-15-spectre-97">
+</path>
+<path d="M 259 202 C 254 198 240 185 217 163 L 210 152 L 186 179 C 192 210 192 230 186 238 C 174 255 167 276 167 302 C 167 307 170 321 179 333 C 190 343 211 348 238 343 C 251 341 274 216 259 202 Z" fill="#ccdbf8" id="id-spectre-15-spectre-159">
+</path>
+<polygon points="175 564 203 550 234 557 241 519 203 454 203 506" fill="#9fb5e1" id="id-spectre-15-spectre-163">
+</polygon>
+<polygon points="240 441 241 517 228 555 233 628 265 656 316 707 380 658 395 628 364 503 350 503 300 379" fill="url(#id-spectre-15-spectre-31)" id="id-spectre-15-spectre-164">
+</polygon>
+<polygon points="431 625 426 588 407 517 414 504 449 567 469 618" fill="url(#id-spectre-15-spectre-32)" id="id-spectre-15-spectre-165">
+</polygon>
+<polygon points="302 376 254 441 254 546 302 590 364 567 364 503 350 503 375 454 345 400" fill="url(#id-spectre-15-spectre-33)" opacity="0.599" id="id-spectre-15-spectre-164">
+</polygon>
+<polygon points="313 479 338 436 315 412 297 446" fill="#bdcff1" id="id-spectre-15-spectre-167">
+</polygon>
+<polygon points="297 541 311 507 322 541 306 548" fill="#b3c6eb" id="id-spectre-15-spectre-168">
+</polygon>
+<polygon points="299 542 309 577 322 541" fill="#c7d8f6" id="id-spectre-15-spectre-169">
+</polygon>
+<path d="M 178 332 C 183 339 186 343 189 345 C 190 346 197 350 206 352 C 214 354 226 354 238 352 C 256 351 271 344 283 332 C 292 322 299 313 302 305 C 304 300 307 293 309 277 C 310 273 310 267 309 259 L 228 277 L 207 294 L 178 332 Z" fill="url(#id-spectre-15-spectre-34)" id="id-spectre-15-spectre-159">
+</path>
+<polygon points="299 542 301 550 316 556 322 541" fill="#d7e4fe" id="id-spectre-15-spectre-169">
+</polygon>
+<polygon points="301 542 310 524 316 541 307 547" fill="#86a1d5" id="id-spectre-15-spectre-172">
+</polygon>
+<polygon points="152 640 162 596 176 560 185 616 213 601 246 627 323 689 404 627 422 605 454 605 469 576 477 598 482 628 388 688 337 767 323 771 308 767 259 687 175 638 141 687" fill="url(#id-spectre-15-spectre-35)" opacity="0.442" id="id-spectre-15-spectre-173">
+</polygon>
+<polygon points="489 153 521 137 484 117 412 122" fill="url(#id-spectre-15-spectre-36)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="573 784 588 828 602 857 606 852 599 821 597 715 576 762" fill="#8ea2bf" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="574 721 589 694 582 655 533 541" fill="url(#id-spectre-15-spectre-37)" id="id-spectre-15-spectre-97">
+</polygon>
+<polygon points="171 640 241 689 308 767 323 771 337 767 395 705 468 660 403 649 313 705 216 628" fill="url(#id-spectre-15-spectre-38)" opacity="0.571" id="id-spectre-15-spectre-177">
+</polygon>
+<g transform="translate(187,269)" id="id-spectre-15-spectre-178">
+<polygon points="207 13 207 10 217 2 220 2 239 21 258 39 260 42 250 51 246 52 226 33" fill="url(#id-spectre-15-spectre-39)" id="id-spectre-15-spectre-179">
+</polygon>
+<polygon points="208 40 218 50 222 50 240 33 257 13 257 9 247 0 244 1 230 19 209 36" fill="url(#id-spectre-15-spectre-40)" id="id-spectre-15-spectre-180">
+</polygon>
+<polygon points="1 13 1 10 10 2 15 2 32 21 50 39 52 42 42 52 38 52 19 33" fill="url(#id-spectre-15-spectre-41)" id="id-spectre-15-spectre-179">
+</polygon>
+<polygon points="0 43 10 53 14 53 33 35 50 15 50 11 40 3 36 4 19 23 1 39" fill="url(#id-spectre-15-spectre-42)" id="id-spectre-15-spectre-180">
+</polygon>
+</g>
+</g>
+<g transform="translate(227,0)" id="id-spectre-15-spectre-183">
+<g transform="translate(172,115)" id="id-spectre-15-spectre-184">
+<polygon points="14 1 18 0 25 8 27 21 24 41 14 66 0 68" fill="url(#id-spectre-15-spectre-43)" id="id-spectre-15-spectre-185">
+</polygon>
+<polygon points="12 48 19 50 23 42 26 24 20 12 12 22" fill="#4b658f" id="id-spectre-15-spectre-186">
+</polygon>
+<polygon points="11 21 17 10 20 5 24 7 26 24 20 36 18 31 20 16 9 29" fill="#45608b" id="id-spectre-15-spectre-187">
+</polygon>
+<polygon points="10 28 11 38 8 45 13 49 19 38 13 24" fill="#7487a8" id="id-spectre-15-spectre-188">
+</polygon>
+<polygon points="17 51 9 52 7 51 4 62 11 64 13 62" fill="#46618c" id="id-spectre-15-spectre-189">
+</polygon>
+</g>
+<g transform="translate(0,113)" id="id-spectre-15-spectre-190">
+<polygon points="13 0 5 0 0 13 4 36 13 63 25 67" fill="#395585" id="id-spectre-15-spectre-191">
+</polygon>
+<polygon points="5 9 0 13 4 36 13 63 25 67 13 24" fill="#4e678f" id="id-spectre-15-spectre-191">
+</polygon>
+<polygon points="18 46 14 47 7 32 11 26 4 9 6 5 16 20 17 29" fill="#5f779c" id="id-spectre-15-spectre-193">
+</polygon>
+<polygon points="13 62 20 62 18 49 11 53" fill="#5e749a" id="id-spectre-15-spectre-194">
+</polygon>
+<polygon points="25 68 13 63 20 62 17 46 14 47 13 44 14 29 17 26 14 22 10 19 10 11 17 20" fill="#344d73" id="id-spectre-15-spectre-195">
+</polygon>
+<polygon points="13 9 4 3 5 0 12 0" fill="#7487a8" id="id-spectre-15-spectre-196">
+</polygon>
+</g>
+<path d="M 29 199 C 21 165 17 151 15 130 C 4 43 33 0 103 0 C 180 0 191 63 186 119 C 183 157 173 191 170 201 C 169 205 167 213 164 217 C 155 229 135 242 119 249 C 112 251 89 251 79 249 C 65 240 47 234 36 218 C 33 213 32 209 29 199 Z" fill="url(#id-spectre-15-spectre-44)" id="id-spectre-15-spectre-197">
+</path>
+<polygon points="122 166 151 182 171 155 113 120 77 124 20 147 51 190 66 182 86 155" fill="url(#id-spectre-15-spectre-45)" id="id-spectre-15-spectre-198">
+</polygon>
+<polygon points="115 139 139 166 156 148 121 130 119 139" fill="#c5cddb" id="id-spectre-15-spectre-199">
+</polygon>
+<polygon points="169 156 153 147 164 131 174 151" fill="#99a7c0" id="id-spectre-15-spectre-200">
+</polygon>
+<path d="M 29 199 C 24 176 20 162 18 148 C 18 148 33 157 51 182 C 54 186 57 195 59 208 C 110 231 130 244 119 249 C 112 251 89 251 79 249 C 65 240 47 234 36 218 C 33 213 32 209 29 199 Z" fill="url(#id-spectre-15-spectre-46)" id="id-spectre-15-spectre-197">
+</path>
+<path d="M 119 249 C 112 251 89 251 79 249 C 77 247 74 245 70 242 L 80 234 L 131 223 C 125 240 121 248 119 249 Z" fill="#577096" id="id-spectre-15-spectre-197">
+</path>
+<path d="M 135 207 L 136 195 L 171 151 L 164 130 L 171 125 C 178 143 181 152 181 154 C 177 176 172 195 170 201 C 169 205 167 213 164 217 C 155 229 135 242 119 249 L 135 207 Z" fill="url(#id-spectre-15-spectre-47)" id="id-spectre-15-spectre-197">
+</path>
+<polygon points="179 117 171 125 177 143" fill="#677da0" id="id-spectre-15-spectre-197">
+</polygon>
+<polygon points="89 188 91 177 110 176 113 191 99 195" fill="url(#id-spectre-15-spectre-48)" id="id-spectre-15-spectre-205">
+</polygon>
+<polygon points="87 187 87 181 78 175 104 155 123 176 113 180 106 181 101 184 95 182 91 181 89 187" fill="#6c7fa2" opacity="0.297" id="id-spectre-15-spectre-206">
+</polygon>
+<path d="M 119 249 C 112 251 89 251 79 249 C 65 240 47 234 36 218 L 79 247 L 119 249 Z" fill="#597199" id="id-spectre-15-spectre-197">
+</path>
+<polygon points="23 119 31 133 45 120 34 110" fill="#526b92" id="id-spectre-15-spectre-208">
+</polygon>
+<polygon points="23 119 23 141 31 133" fill="#60799d" id="id-spectre-15-spectre-208">
+</polygon>
+<path d="M 18 148 C 17 143 15 136 15 130 C 14 120 13 111 13 103 L 21 70 L 32 111 L 23 119 L 23 145 L 35 163 L 18 148 Z" fill="url(#id-spectre-15-spectre-49)" id="id-spectre-15-spectre-197">
+</path>
+<path d="M 30 111 L 24 83 C 36 49 59 29 92 24 C 126 19 155 33 180 67 L 186 98 L 183 119 L 99 103 L 30 111 Z" fill="url(#id-spectre-15-spectre-50)" id="id-spectre-15-spectre-211">
+</path>
+<path d="M 180 58 L 186 98 L 183 119 L 171 104 L 164 65 L 154 82 C 147 53 146 38 149 36 C 160 43 170 50 180 58 Z" fill="url(#id-spectre-15-spectre-51)" id="id-spectre-15-spectre-211">
+</path>
+<polygon points="56 102 62 49 99 32 135 45 149 102 99 109" fill="url(#id-spectre-15-spectre-52)" id="id-spectre-15-spectre-213">
+</polygon>
+<polygon points="92 39 75 62 99 99 122 62 103 39" fill="url(#id-spectre-15-spectre-53)" id="id-spectre-15-spectre-214">
+</polygon>
+<path d="M 149 226 L 167 206 L 178 150 L 174 144 L 178 121 L 167 106 L 174 75 L 184 97 L 181 113 L 184 132 C 180 165 172 192 170 201 C 169 205 167 213 164 217 L 149 226 Z" fill="url(#id-spectre-15-spectre-54)" id="id-spectre-15-spectre-197">
+</path>
+<polygon points="135 207 121 244 84 244 79 234 86 230" fill="url(#id-spectre-15-spectre-55)" id="id-spectre-15-spectre-197">
+</polygon>
+<polygon points="70 104 102 90 136 107 109 132 81 126" fill="url(#id-spectre-15-spectre-56)" id="id-spectre-15-spectre-217">
+</polygon>
+<polygon points="39 152 62 169 82 140 75 133" fill="#98a5be" id="id-spectre-15-spectre-218">
+</polygon>
+<polygon points="76 140 55 151 39 153 25 147 23 145 23 140 26 129 29 126" fill="#687ea1" id="id-spectre-15-spectre-219">
+</polygon>
+<polygon points="120 140 133 148 153 147 164 132" fill="url(#id-spectre-15-spectre-57)" id="id-spectre-15-spectre-220">
+</polygon>
+<polygon points="39 135 33 139 43 147 59 148 76 140" fill="url(#id-spectre-15-spectre-58)" id="id-spectre-15-spectre-221">
+</polygon>
+<polygon points="117 135 127 129 169 127 177 120 169 111 146 101 112 121 115 127" fill="url(#id-spectre-15-spectre-59)" id="id-spectre-15-spectre-222">
+</polygon>
+<polygon points="124 126 118 119 146 104 167 113 158 123" fill="#6c80a2" id="id-spectre-15-spectre-223">
+</polygon>
+<polygon points="131 124 144 107 161 107 147 121" fill="#bac4d5" id="id-spectre-15-spectre-224">
+</polygon>
+<path d="M 120 136 L 120 132 C 127 124 134 119 142 118 C 149 118 157 121 165 128 L 120 136 Z" fill="url(#id-spectre-15-spectre-60)" id="id-spectre-15-spectre-225">
+</path>
+<path d="M 130 129 C 130 123 134 120 142 119 C 149 119 154 121 157 128 L 130 129 Z" fill="#aebacd" id="id-spectre-15-spectre-225">
+</path>
+<polygon points="138 126 142 119 144 119 148 126" fill="#e2e6ee" id="id-spectre-15-spectre-227">
+</polygon>
+<polygon points="125 137 148 138 158 132 148 125 137 127 124 134" fill="#e4ecf7" id="id-spectre-15-spectre-228">
+</polygon>
+<polygon points="127 137 124 133 120 137" fill="#5d769a" id="id-spectre-15-spectre-229">
+</polygon>
+<path d="M 132 130 C 132 134 133 136 134 137 C 137 138 142 139 146 137 C 148 136 149 133 149 128 C 145 127 142 127 140 127 C 138 128 135 129 132 130 Z" fill="#465977" id="id-spectre-15-spectre-230">
+</path>
+<path d="M 134 131 C 134 134 135 135 136 136 C 138 137 140 137 144 136 C 146 135 147 133 147 130 C 146 130 145 129 145 129 C 143 129 144 134 140 134 C 135 134 138 130 137 130 C 136 131 135 131 134 131 Z" fill="url(#id-spectre-15-spectre-61)" id="id-spectre-15-spectre-230">
+</path>
+<polygon points="74 135 82 129 69 114 44 105 34 110 52 129" fill="#5c749a" id="id-spectre-15-spectre-232">
+</polygon>
+<polygon points="51 121 48 109 62 113 68 119 68 125" fill="#8193b1" id="id-spectre-15-spectre-233">
+</polygon>
+<path d="M 32 127 C 39 121 46 118 55 120 C 64 121 71 126 76 134 L 32 127 Z" fill="url(#id-spectre-15-spectre-62)" id="id-spectre-15-spectre-234">
+</path>
+<path d="M 32 127 C 37 122 42 120 48 119 C 44 121 41 124 39 128 L 32 127 Z" fill="#304e7f" id="id-spectre-15-spectre-234">
+</path>
+<polygon points="47 128 54 120 61 129" fill="#b8c2d2" id="id-spectre-15-spectre-236">
+</polygon>
+<polygon points="49 137 76 137 73 133 62 128 42 128 38 131" fill="#e4ecf7" id="id-spectre-15-spectre-237">
+</polygon>
+<polygon points="72 133 73 135 72 137 77 137 75 135" fill="#5d769a" id="id-spectre-15-spectre-238">
+</polygon>
+<path d="M 49 129 C 51 136 54 138 60 138 C 65 137 68 134 68 130 L 58 128 L 49 129 Z" fill="#465977" id="id-spectre-15-spectre-239">
+</path>
+<path d="M 51 131 C 53 136 56 138 60 137 C 64 136 66 134 66 131 L 62 130 C 62 132 61 133 58 133 C 56 133 55 132 55 130 L 51 131 Z" fill="url(#id-spectre-15-spectre-63)" id="id-spectre-15-spectre-239">
+</path>
+<polygon points="50 139 65 138 78 138 77 137 65 137 49 137" fill="#2f4770" id="id-spectre-15-spectre-241">
+</polygon>
+<polygon points="141 130 153 134 158 131 148 126 135 128 126 133" fill="#314a74" opacity="0.4" id="id-spectre-15-spectre-242">
+</polygon>
+<polygon points="45 134 51 132 68 132 73 134 68 128 48 127 40 132" fill="#000000" opacity="0.4" id="id-spectre-15-spectre-243">
+</polygon>
+<polygon points="77 137 76 137 75 135 67 130 49 129 43 132 49 138 53 139 48 139 41 135 38 135 28 126 41 126 56 125 67 128" fill="#2f4770" id="id-spectre-15-spectre-244">
+</polygon>
+<path d="M 121 136 C 129 132 135 129 139 128 C 143 127 149 128 155 132 C 154 134 151 136 147 139 C 150 139 154 136 160 132 L 162 133 L 171 126 C 166 126 162 126 160 126 C 153 125 147 123 143 124 C 136 125 128 129 121 136 Z" fill="#2f4770" id="id-spectre-15-spectre-245">
+</path>
+<polygon points="135 133 138 133 138 130 136 130 136 132 135 132" fill="#ebf1f8" id="id-spectre-15-spectre-246">
+</polygon>
+<polygon points="53 131 53 133 55 133 55 132 57 132 56 130" fill="#ebf1f8" id="id-spectre-15-spectre-247">
+</polygon>
+<g transform="translate(59,186)" id="id-spectre-15-spectre-248">
+<polygon points="6 20 0 22 19 31" fill="#6b80a1" id="id-spectre-15-spectre-249">
+</polygon>
+<polygon points="10 24 27 44 56 44 71 25" fill="url(#id-spectre-15-spectre-64)" id="id-spectre-15-spectre-250">
+</polygon>
+<polygon points="7 22 41 28 73 23 76 20 69 17 11 16 5 20" fill="#273d62" id="id-spectre-15-spectre-251">
+</polygon>
+<path d="M 7 22 C 18 32 30 38 41 38 C 52 38 62 33 73 23 L 56 22 C 49 22 43 22 39 22 C 35 22 30 21 22 21 L 7 22 Z" fill="url(#id-spectre-15-spectre-65)" id="id-spectre-15-spectre-251">
+</path>
+<path d="M 7 22 C 18 32 30 38 41 38 C 52 38 62 33 73 23 L 66 23 C 58 31 49 35 41 35 C 33 35 25 30 15 21 L 7 22 Z" fill="url(#id-spectre-15-spectre-66)" opacity="0.651" id="id-spectre-15-spectre-251">
+</path>
+<path d="M 7 22 C 8 23 9 24 10 25 C 10 22 20 22 39 22 C 59 22 69 24 71 25 C 71 25 72 24 73 23 L 56 22 C 49 22 43 22 39 22 C 35 22 30 21 22 21 L 7 22 Z" fill="#273d62" id="id-spectre-15-spectre-251">
+</path>
+<path d="M 15 21 L 23 20 C 30 19 36 18 41 19 C 46 19 51 20 58 21 L 75 21 C 68 12 60 6 53 2 C 50 2 46 3 41 5 C 36 3 32 1 29 0 C 22 5 15 11 8 18 L 15 21 Z" fill="url(#id-spectre-15-spectre-67)" id="id-spectre-15-spectre-255">
+</path>
+<path d="M 21 9 C 25 6 28 5 30 5 C 33 5 37 7 43 11 L 52 9 L 60 9 C 63 10 60 8 53 4 C 50 4 47 5 42 7 C 36 4 32 3 29 2 C 22 6 19 9 19 9 L 21 9 Z" fill="url(#id-spectre-15-spectre-68)" opacity="0.485" id="id-spectre-15-spectre-255">
+</path>
+<path d="M 19 24 L 33 30 C 30 28 30 27 34 27 C 37 27 44 28 54 28 L 58 30 L 58 26 L 60 23 L 55 26 L 30 26 L 19 24 Z" fill="#bfc7d8" id="id-spectre-15-spectre-257">
+</path>
+<path d="M 31 20 C 30 20 30 21 31 21 C 31 21 34 21 40 21 C 40 20 40 20 40 19 C 38 19 35 19 31 20 Z" fill="url(#id-spectre-15-spectre-69)" id="id-spectre-15-spectre-258">
+</path>
+<path d="M 42 20 C 42 20 42 21 42 21 C 46 22 49 22 51 21 L 51 20 C 46 19 43 19 42 20 Z" fill="url(#id-spectre-15-spectre-70)" id="id-spectre-15-spectre-259">
+</path>
+</g>
+<polygon points="99 121 114 127 111 135 121 161 126 169 74 169 81 157 87 129" fill="url(#id-spectre-15-spectre-71)" id="id-spectre-15-spectre-260">
+</polygon>
+<polygon points="72 118 83 131 96 146 96 131 82 109" fill="#677da0" id="id-spectre-15-spectre-261">
+</polygon>
+<polygon points="72 118 83 131 82 109" fill="#5e769b" id="id-spectre-15-spectre-261">
+</polygon>
+<polygon points="96 132 96 153 84 165 81 161 77 167 78 174 124 174 124 169 121 162 110 161 104 153 104 132" fill="url(#id-spectre-15-spectre-72)" id="id-spectre-15-spectre-263">
+</polygon>
+<polygon points="78 163 74 169 76 177 87 181 81 176 92 177 95 181 100 182 106 181 106 178 120 175 113 180 118 180 124 179 126 176 126 168 121 160 123 169 123 173 112 169 98 174 89 169 84 173 78 170" fill="url(#id-spectre-15-spectre-73)" id="id-spectre-15-spectre-264">
+</polygon>
+<polygon points="93 127 100 140 106 127 100 122" fill="#c8d0dc" id="id-spectre-15-spectre-265">
+</polygon>
+<polygon points="93 167 99 170 105 167 99 161" fill="#b6c0d2" id="id-spectre-15-spectre-266">
+</polygon>
+<polygon points="80 170 84 173 89 170 84 165" fill="#8092b0" id="id-spectre-15-spectre-267">
+</polygon>
+<polygon points="113 169 119 171 120 166 116 164" fill="#acb8cc" id="id-spectre-15-spectre-268">
+</polygon>
+<polygon points="115 159 117 152 121 160" fill="#798cac" id="id-spectre-15-spectre-269">
+</polygon>
+<polygon points="93 178 81 176 81 173 89 173" fill="#354c72" id="id-spectre-15-spectre-270">
+</polygon>
+<polygon points="106 178 112 173 118 173 120 175 117 177" fill="#354c72" id="id-spectre-15-spectre-271">
+</polygon>
+<polygon points="124 137 145 138 147 139 125 138 120 137" fill="#2f4770" id="id-spectre-15-spectre-272">
+</polygon>
+<polygon points="124 140 137 141 147 140" fill="#8697b5" id="id-spectre-15-spectre-273">
+</polygon>
+<polygon points="49 139 60 141 74 139" fill="#8697b5" id="id-spectre-15-spectre-274">
+</polygon>
+</g>
+</g>
+<g transform="translate(24,0)" id="id-spectre-15-spectre-275">
+<path d="M 146 1608 C 146 1589 146 1580 146 1580 C 143 1574 141 1572 141 1572 C 146 1562 149 1552 141 1545 C 143 1541 144 1539 144 1539 C 140 1510 137 1489 135 1477 C 108 1350 98 1282 98 1282 C 93 1241 90 1201 95 1168 C 121 1055 135 999 135 999 C 148 963 155 945 155 945 C 155 939 155 936 155 936 C 169 917 168 909 166 902 C 171 895 173 891 173 891 C 173 844 174 820 174 820 C 166 814 162 811 162 811 C 163 796 163 788 163 788 C 154 829 150 850 150 850 C 147 887 146 905 146 905 C 137 920 133 927 133 927 C 83 1055 58 1119 58 1119 C 52 1143 49 1155 49 1155 C 45 1148 42 1145 42 1145 C 16 1146 3 1146 3 1146 C 3 1150 3 1152 3 1152 C 1 1151 0 1150 0 1150 C 6 1127 12 1100 16 1071 C 23 1020 33 974 38 920 C 44 903 47 894 47 894 C 45 891 44 889 44 889 C 45 883 45 880 45 880 C 53 881 59 878 58 861 C 62 857 65 850 67 837 C 75 786 80 729 81 667 C 83 637 84 615 86 600 C 89 578 94 556 96 533 C 120 521 143 511 168 504 C 167 499 167 496 167 496 C 185 488 194 485 194 485 C 207 483 215 481 219 477 C 228 469 229 451 235 440 C 280 451 303 456 304 456 C 351 448 374 444 374 444 C 379 466 382 477 382 477 C 407 491 419 499 419 499 C 473 517 500 526 500 526 C 509 546 515 571 520 597 C 522 744 523 818 523 818 C 530 825 534 829 534 829 C 529 834 527 836 527 836 C 531 850 534 857 534 857 C 540 862 542 865 542 865 C 540 874 538 878 538 878 C 547 914 552 932 552 932 C 564 1039 570 1092 570 1092 C 576 1109 580 1118 580 1118 C 582 1147 583 1162 583 1162 C 578 1163 576 1164 576 1164 C 572 1161 570 1159 570 1159 C 549 1156 538 1154 538 1154 C 534 1157 532 1158 532 1158 C 529 1138 527 1128 527 1128 C 474 979 447 904 447 904 C 447 869 447 852 447 852 C 443 847 441 844 441 844 C 445 837 448 831 448 827 C 448 810 442 791 442 775 C 439 759 437 751 437 751 C 434 770 433 789 433 809 C 427 818 424 822 424 822 C 423 853 421 889 428 893 C 430 900 433 906 436 912 C 427 920 447 951 453 979 C 460 1006 465 1037 471 1067 C 482 1105 487 1124 487 1124 C 492 1163 495 1182 495 1182 C 496 1216 496 1232 496 1232 C 481 1344 460 1407 440 1488 C 443 1540 432 1574 444 1584 L 439 1589 L 442 1608 C 370 1608 334 1608 334 1608 C 333 1600 332 1597 332 1597 C 327 1591 325 1589 325 1589 C 334 1571 326 1531 324 1498 C 323 1419 319 1341 311 1263 C 311 1202 312 1171 312 1171 C 304 1178 296 1178 289 1172 C 287 1236 286 1268 286 1268 C 274 1324 277 1384 269 1441 C 268 1474 272 1518 264 1537 L 267 1584 L 260 1608 C 184 1608 146 1608 146 1608 Z" fill="url(#id-spectre-15-spectre-74)" id="id-spectre-15-spectre-276">
+</path>
+<path d="M 146 1608 C 146 1589 146 1580 146 1580 C 143 1574 141 1572 141 1572 C 146 1562 149 1552 141 1545 C 143 1541 144 1539 144 1539 C 140 1510 137 1489 135 1477 C 108 1350 98 1282 98 1282 C 93 1241 90 1201 95 1168 C 121 1055 135 999 135 999 C 148 963 155 945 155 945 C 155 939 155 936 155 936 C 169 917 168 909 166 902 C 171 895 173 891 173 891 C 173 844 174 820 174 820 C 166 814 162 811 162 811 C 163 796 163 788 163 788 C 154 829 150 850 150 850 C 147 887 146 905 146 905 C 137 920 133 927 133 927 C 83 1055 58 1119 58 1119 C 52 1143 49 1155 49 1155 C 45 1148 42 1145 42 1145 C 16 1146 3 1146 3 1146 C 3 1150 3 1152 3 1152 C 1 1151 0 1150 0 1150 C 6 1127 12 1100 16 1071 C 23 1020 33 974 38 920 C 44 903 47 894 47 894 C 45 891 44 889 44 889 C 45 883 45 880 45 880 C 53 881 59 878 58 861 C 62 857 65 850 67 837 C 75 786 80 729 81 667 C 83 637 84 615 86 600 C 89 578 94 556 96 533 C 120 521 143 511 168 504 C 167 499 167 496 167 496 C 185 488 194 485 194 485 C 207 483 215 481 219 477 C 228 469 229 451 235 440 C 280 451 303 456 304 456 C 351 448 374 444 374 444 C 379 466 382 477 382 477 C 407 491 419 499 419 499 C 473 517 500 526 500 526 C 509 546 515 571 520 597 C 522 744 523 818 523 818 C 530 825 534 829 534 829 C 529 834 527 836 527 836 C 531 850 534 857 534 857 C 540 862 542 865 542 865 C 540 874 538 878 538 878 C 547 914 552 932 552 932 C 564 1039 570 1092 570 1092 C 576 1109 580 1118 580 1118 C 582 1147 583 1162 583 1162 C 578 1163 576 1164 576 1164 C 572 1161 570 1159 570 1159 C 549 1156 538 1154 538 1154 C 534 1157 532 1158 532 1158 C 529 1138 527 1128 527 1128 C 474 979 447 904 447 904 C 447 869 447 852 447 852 C 443 847 441 844 441 844 C 445 837 448 831 448 827 C 448 810 442 791 442 775 C 439 759 437 751 437 751 C 434 770 433 789 433 809 C 427 818 424 822 424 822 C 423 853 421 889 428 893 C 430 900 433 906 436 912 C 427 920 447 951 453 979 C 460 1006 465 1037 471 1067 C 482 1105 487 1124 487 1124 C 492 1163 495 1182 495 1182 C 496 1216 496 1232 496 1232 C 481 1344 460 1407 440 1488 C 443 1540 432 1574 444 1584 L 439 1589 L 442 1608 C 370 1608 334 1608 334 1608 C 333 1600 332 1597 332 1597 C 327 1591 325 1589 325 1589 C 334 1571 326 1531 324 1498 C 323 1419 319 1341 311 1263 C 311 1218 311 1187 312 1171 C 304 1178 296 1178 289 1172 C 287 1236 286 1268 286 1268 C 274 1324 277 1384 269 1441 C 268 1474 272 1518 264 1537 L 267 1584 L 260 1608 C 184 1608 146 1608 146 1608 Z" fill="url(#id-spectre-15-spectre-75)" id="id-spectre-15-spectre-277">
+</path>
+<path d="M 267 1518 C 258 1528 254 1533 254 1533 C 211 1542 190 1546 190 1546 L 204 1526 C 246 1520 267 1518 267 1518 Z" fill="#adbed8" id="id-spectre-15-spectre-278">
+</path>
+<path d="M 450 738 C 486 727 504 721 504 721 C 490 718 483 717 483 717 C 465 657 456 627 456 627 C 463 611 467 595 471 580 C 461 593 450 606 446 618 C 443 610 442 606 442 606 C 441 590 440 582 440 582 C 437 586 434 589 434 594 L 416 566 L 410 610 C 417 645 421 663 421 663 C 411 711 408 741 413 752 C 397 752 390 752 390 752 C 389 780 380 811 388 834 L 433 809 C 433 789 434 770 437 751 L 442 775 L 443 741 C 448 739 450 738 450 738 Z" fill="#a6b8d5" id="id-spectre-15-spectre-279">
+</path>
+<path d="M 191 1608 C 172 1586 162 1575 162 1575 C 179 1578 187 1579 187 1579 L 143 1541 L 141 1545 C 149 1552 146 1562 141 1572 L 146 1580 L 146 1608 C 176 1608 191 1608 191 1608 Z" fill="#5d7eb2" id="id-spectre-15-spectre-280">
+</path>
+<path d="M 173 1556 L 143 1541 C 144 1540 144 1539 144 1539 C 141 1513 138 1492 135 1477 C 130 1451 122 1410 110 1353 L 98 1282 C 124 1357 148 1454 173 1556 Z" fill="url(#id-spectre-15-spectre-76)" id="id-spectre-15-spectre-281">
+</path>
+<path d="M 205 1608 C 202 1608 200 1608 200 1608 C 199 1593 201 1574 198 1562 C 188 1554 183 1549 183 1549 C 187 1533 189 1525 189 1525 C 183 1242 181 1101 181 1101 C 183 1094 181 1088 171 1085 C 183 1084 186 1091 187 1100 C 189 1352 191 1491 193 1518 C 192 1520 191 1521 192 1529 C 187 1533 189 1540 188 1546 L 203 1558 C 205 1569 200 1599 205 1608 Z" fill="url(#id-spectre-15-spectre-77)" id="id-spectre-15-spectre-282">
+</path>
+<path d="M 286 1268 C 266 1245 241 1365 217 1486 L 229 1518 L 268 1518 C 270 1498 269 1468 269 1441 C 273 1411 275 1380 276 1346 C 279 1310 283 1284 286 1268 Z" fill="url(#id-spectre-15-spectre-78)" id="id-spectre-15-spectre-283">
+</path>
+<path d="M 318 1289 C 337 1195 346 1149 346 1149 C 387 1111 408 1092 408 1092 C 350 1119 321 1132 321 1132 C 318 1131 316 1130 316 1130 C 330 1116 337 1109 337 1109 C 321 1105 312 1103 312 1103 C 342 1093 357 1088 357 1088 C 378 1073 389 1065 389 1065 C 321 1052 286 1045 286 1045 C 267 1060 257 1068 257 1068 C 225 1064 210 1062 210 1062 C 203 1065 200 1066 200 1066 C 225 1083 238 1091 238 1091 C 255 1105 264 1112 264 1112 L 216 1105 L 278 1160 C 287 1173 298 1183 312 1171 C 311 1202 309 1236 311 1263 C 316 1280 318 1289 318 1289 Z" fill="#91a6c8" id="id-spectre-15-spectre-284">
+</path>
+<path d="M 312 1171 C 305 1178 297 1178 289 1172 C 289 1175 289 1176 289 1176 C 276 1158 270 1149 270 1149 L 326 1149 L 312 1171 Z" fill="#6180b0" id="id-spectre-15-spectre-285">
+</path>
+<path d="M 311 1263 C 362 1448 392 1541 402 1544 C 400 1544 399 1544 399 1544 L 408 1568 L 439 1549 C 440 1561 435 1574 444 1584 L 439 1589 L 442 1608 L 334 1608 L 332 1597 L 324 1589 C 333 1577 329 1540 324 1500 C 322 1412 318 1334 311 1263 Z" fill="#718ebc" id="id-spectre-15-spectre-286">
+</path>
+<path d="M 211 1110 C 197 1122 189 1128 189 1128 L 131 1088 C 184 1103 211 1110 211 1110 Z" fill="#dbe2ee" id="id-spectre-15-spectre-287">
+</path>
+<path d="M 122 1054 C 136 1063 152 1067 171 1067 C 199 1067 208 1050 225 1049 C 233 1032 237 1023 237 1023 C 237 1000 236 988 236 988 L 184 898 L 173 891 L 166 902 C 171 917 162 926 155 936 L 155 945 L 135 999 C 126 1036 122 1054 122 1054 Z" fill="#dce3ee" id="id-spectre-15-spectre-288">
+</path>
+<path d="M 166 918 C 184 935 193 943 193 943 L 158 932 C 163 924 166 919 166 918 Z" fill="#cdd7e7" id="id-spectre-15-spectre-289">
+</path>
+<path d="M 230 1106 C 202 1078 188 1063 188 1063 L 145 1074 C 202 1096 230 1106 230 1106 Z" fill="#dae2ee" id="id-spectre-15-spectre-290">
+</path>
+<path d="M 198 945 L 262 940 L 173 891 L 166 902 C 187 931 198 945 198 945 Z" fill="#ced7e7" id="id-spectre-15-spectre-291">
+</path>
+<path d="M 339 1114 C 362 1090 374 1078 374 1078 L 417 1083 C 365 1104 339 1114 339 1114 Z" fill="#cdd7e7" id="id-spectre-15-spectre-292">
+</path>
+<path d="M 195 1061 C 248 1055 274 1052 274 1052 L 257 1064 L 257 1067 C 216 1063 195 1061 195 1061 Z" fill="#cbd6e6" id="id-spectre-15-spectre-293">
+</path>
+<path d="M 323 1035 C 352 1020 367 1013 367 1013 L 408 1023 C 351 1031 323 1035 323 1035 Z" fill="#ccd6e7" id="id-spectre-15-spectre-294">
+</path>
+<path d="M 360 1051 C 399 1052 419 1053 419 1053 L 409 1067 C 376 1056 360 1051 360 1051 Z" fill="#cdd7e7" id="id-spectre-15-spectre-295">
+</path>
+<path d="M 278 1035 C 305 1031 318 1029 318 1029 C 322 989 325 969 325 969 L 271 975 C 276 1015 278 1035 278 1035 Z" fill="#b1c1da" id="id-spectre-15-spectre-296">
+</path>
+<path d="M 243 871 C 240 859 238 846 236 836 C 300 834 332 833 332 833 C 332 861 332 875 332 875 C 313 876 293 874 275 877 L 270 870 C 252 870 243 871 243 871 Z" fill="url(#id-spectre-15-spectre-79)" id="id-spectre-15-spectre-297">
+</path>
+<path d="M 174 872 C 233 871 263 870 263 870 C 266 848 268 838 268 838 C 270 859 270 870 270 870 C 350 873 400 873 422 870 C 402 874 392 877 392 877 C 393 897 393 908 393 908 C 391 909 391 909 391 909 C 390 888 390 877 390 877 C 387 875 386 874 386 874 C 350 875 332 876 332 876 L 236 875 C 200 876 179 875 174 872 Z" fill="url(#id-spectre-15-spectre-80)" id="id-spectre-15-spectre-298">
+</path>
+<path d="M 233 875 C 196 875 177 874 177 874 C 188 877 201 879 208 884 C 213 881 222 878 233 875 Z" fill="#587ab0" id="id-spectre-15-spectre-299">
+</path>
+<path d="M 193 836 C 203 830 208 828 208 828 L 243 836 C 210 836 193 836 193 836 Z" fill="#5779af" id="id-spectre-15-spectre-300">
+</path>
+<path d="M 256 835 C 258 824 259 818 259 818 C 245 817 237 817 237 817 C 269 801 286 792 286 792 C 259 776 245 767 245 767 L 166 753 L 162 811 L 174 820 L 174 836 L 193 836 L 208 828 L 243 836 C 252 835 256 835 256 835 Z" fill="#adbed8" id="id-spectre-15-spectre-301">
+</path>
+<path d="M 255 808 C 323 787 357 777 357 777 L 357 769 L 279 769 L 255 808 Z" fill="#c2cee2" id="id-spectre-15-spectre-302">
+</path>
+<path d="M 302 813 C 294 804 290 800 290 800 C 298 785 301 777 301 777 L 313 794 C 306 806 302 813 302 813 Z" fill="#5779af" id="id-spectre-15-spectre-303">
+</path>
+<path d="M 286 792 L 295 772 C 336 772 357 772 357 772 C 360 758 362 751 362 751 C 355 751 351 751 351 751 C 393 734 414 725 414 725 C 407 689 404 671 404 671 C 352 668 326 667 326 667 C 359 686 375 695 375 695 C 264 676 208 666 208 666 C 169 675 150 680 150 680 C 166 652 175 638 175 638 C 172 621 171 612 171 612 L 157 612 L 140 700 L 166 753 L 245 767 C 272 784 286 792 286 792 Z" fill="#afbfd9" id="id-spectre-15-spectre-304">
+</path>
+<path d="M 166 753 C 252 736 295 728 295 728 L 215 728 L 140 700 C 157 735 166 753 166 753 Z" fill="#8099c2" id="id-spectre-15-spectre-305">
+</path>
+<path d="M 232 761 C 266 754 283 750 283 750 C 288 753 290 755 290 755 C 292 749 293 747 293 747 C 322 740 337 736 337 736 L 228 746 C 230 756 232 761 232 761 Z" fill="#859ec5" id="id-spectre-15-spectre-306">
+</path>
+<path d="M 290 737 C 293 736 294 736 294 736 C 288 723 284 716 284 716 C 302 718 311 718 311 718 C 346 712 364 709 364 709 C 311 710 285 710 285 710 C 289 695 292 688 292 688 C 288 669 286 659 286 659 C 289 627 290 611 290 611 C 291 570 291 549 291 549 C 331 528 351 517 351 517 C 335 510 326 506 326 506 C 318 499 313 495 313 495 C 301 495 295 495 295 495 C 284 504 279 508 279 508 C 270 512 266 515 266 515 C 280 511 287 510 287 510 C 288 574 288 606 288 606 C 285 642 283 660 283 660 C 287 680 289 689 289 689 C 279 703 273 710 273 710 C 260 710 254 710 254 710 L 279 716 C 287 730 290 737 290 737 Z" fill="#8da5ce" id="id-spectre-15-spectre-307">
+</path>
+<path d="M 239 705 L 304 694 L 364 709 C 282 709 240 708 239 705 Z" fill="#bbc9de" id="id-spectre-15-spectre-308">
+</path>
+<path d="M 312 709 C 312 699 311 694 311 694 C 293 692 284 691 284 691 L 284 708 C 303 709 312 709 312 709 Z" fill="#f2f5f9" id="id-spectre-15-spectre-309">
+</path>
+<path d="M 335 933 L 428 893 C 430 901 433 907 436 912 L 409 933 L 335 933 Z" fill="#d3dceb" id="id-spectre-15-spectre-310">
+</path>
+<path d="M 312 664 C 295 661 286 659 286 659 C 289 624 290 606 290 606 L 318 605 L 312 664 Z" fill="#f2f5f9" id="id-spectre-15-spectre-311">
+</path>
+<path d="M 301 659 C 307 649 310 644 310 644 C 304 634 301 629 301 629 L 290 645 C 297 654 301 659 301 659 Z" fill="#93b4df" id="id-spectre-15-spectre-312">
+</path>
+<path d="M 291 582 C 309 575 318 571 318 571 C 318 548 318 537 318 537 C 312 511 310 498 310 498 C 301 497 296 497 296 497 L 289 507 C 291 555 291 580 291 582 Z" fill="#f2f5f9" id="id-spectre-15-spectre-313">
+</path>
+<path d="M 304 586 C 296 575 292 570 292 570 C 299 560 302 555 302 555 L 314 569 C 307 580 304 586 304 586 Z" fill="#93b4df" id="id-spectre-15-spectre-314">
+</path>
+<path d="M 318 542 C 326 541 331 541 331 541 L 322 533 L 318 535 C 318 539 318 542 318 542 Z" fill="#c9d5e5" id="id-spectre-15-spectre-315">
+</path>
+<path d="M 166 496 L 192 482 C 214 592 224 647 224 647 C 228 762 229 819 229 819 C 211 819 202 819 202 819 C 199 739 198 700 198 700 L 194 643 L 168 504 L 166 496 Z" fill="url(#id-spectre-15-spectre-81)" id="id-spectre-15-spectre-316">
+</path>
+<path d="M 192 482 C 177 490 169 495 169 495 C 186 587 194 634 194 634 C 196 678 196 700 196 700 C 216 698 226 697 226 697 L 224 647 C 203 537 192 482 192 482 Z" fill="#f2f5f9" id="id-spectre-15-spectre-317">
+</path>
+<path d="M 199 810 L 199 819 C 221 819 232 819 232 819 L 232 809 C 210 810 199 810 199 810 Z" fill="#f2f5f9" id="id-spectre-15-spectre-318">
+</path>
+<path d="M 229 809 C 228 767 228 746 228 746 L 235 772 L 229 809 Z" fill="#5779af" id="id-spectre-15-spectre-319">
+</path>
+<path d="M 188 615 C 188 623 187 627 187 627 C 181 653 178 666 178 666 C 185 688 189 699 189 699 C 189 712 189 719 189 719 C 191 738 192 748 192 748 C 188 749 187 749 187 749 C 186 728 186 717 186 717 C 185 705 185 699 185 699 L 174 667 C 183 632 188 615 188 615 Z" fill="#88a0c7" id="id-spectre-15-spectre-320">
+</path>
+<polygon points="193 637 199 810 201 810 198 700" fill="#7792bf" id="id-spectre-15-spectre-321">
+</polygon>
+<path d="M 191 748 C 193 748 194 748 194 748 C 194 785 194 804 194 804 L 199 811 C 199 816 199 818 199 818 C 197 818 197 818 197 818 L 191 805 C 191 767 191 748 191 748 Z" fill="#6f8ebc" id="id-spectre-15-spectre-322">
+</path>
+<path d="M 153 836 C 138 826 130 821 130 821 C 144 810 151 804 151 804 C 135 670 126 603 126 603 C 135 609 139 612 139 612 L 155 652 L 140 700 L 161 744 L 162 794 C 156 822 153 836 153 836 Z" fill="#7d97c1" id="id-spectre-15-spectre-323">
+</path>
+<path d="M 130 821 C 107 833 96 839 96 839 C 128 845 144 848 144 848 C 113 855 97 858 97 858 C 127 863 141 865 141 865 C 142 896 142 912 142 912 C 137 919 135 923 135 923 C 99 932 80 936 80 936 C 53 978 34 1023 17 1068 C 23 1018 34 970 38 920 L 47 894 L 44 889 L 45 880 C 53 881 59 877 58 861 C 64 854 66 846 67 837 C 76 785 79 726 81 667 C 83 622 88 577 96 533 L 126 603 L 151 804 C 137 815 130 821 130 821 Z" fill="#a7b9d5" id="id-spectre-15-spectre-324">
+</path>
+<path d="M 85 881 C 117 900 133 910 133 910 L 126 879 C 99 880 85 881 85 881 Z" fill="#c1cde1" id="id-spectre-15-spectre-325">
+</path>
+<path d="M 58 861 C 93 854 111 851 111 851 L 65 848 C 64 852 62 857 58 861 Z" fill="#c2cee2" id="id-spectre-15-spectre-326">
+</path>
+<path d="M 104 973 L 25 1118 L 58 1118 C 89 1021 104 973 104 973 Z" fill="#d0dae9" id="id-spectre-15-spectre-327">
+</path>
+<path d="M 49 1155 C 51 1145 52 1141 52 1141 L 20 1139 L 0 1147 L 42 1145 C 47 1151 49 1155 49 1155 Z" fill="#5174ab" id="id-spectre-15-spectre-328">
+</path>
+<path d="M 155 652 L 140 612 C 131 606 126 603 126 603 C 127 601 127 599 127 599 C 135 607 139 611 139 611 C 156 585 164 572 164 572 L 169 607 L 155 652 Z" fill="#9cb0d0" id="id-spectre-15-spectre-329">
+</path>
+<path d="M 193 485 C 195 485 196 485 196 485 C 200 508 202 519 202 519 C 202 497 202 486 202 486 C 204 485 205 485 205 485 L 203 538 C 196 503 193 485 193 485 Z" fill="#b1c1d9" id="id-spectre-15-spectre-330">
+</path>
+<path d="M 353 519 L 326 506 L 314 495 L 295 495 C 284 504 279 508 279 508 C 262 516 253 520 253 520 C 247 500 244 490 244 490 C 246 465 246 452 246 452 C 256 453 261 453 261 453 C 277 458 285 461 285 461 C 292 469 295 473 295 473 C 308 472 318 467 326 458 C 338 452 350 451 363 451 L 364 495 C 360 501 356 509 353 519 Z" fill="#d6e2f2" id="id-spectre-15-spectre-331">
+</path>
+<path d="M 272 511 L 245 484 L 244 490 L 254 520 C 266 514 272 511 272 511 Z" fill="#e2edf3" id="id-spectre-15-spectre-332">
+</path>
+<path d="M 271 505 C 271 500 271 497 271 497 C 276 493 279 491 279 491 C 266 494 259 495 259 495 C 259 497 259 498 259 498 C 255 494 253 493 253 493 C 281 486 295 482 295 482 C 284 482 278 482 278 482 C 271 478 267 476 267 476 C 277 474 282 473 282 473 C 293 477 298 479 298 479 C 323 469 335 463 335 463 C 342 466 345 467 345 467 C 336 472 331 475 331 475 C 343 479 349 481 349 481 C 320 480 306 480 306 480 C 324 484 333 485 333 485 C 353 486 363 487 363 487 C 361 490 360 492 360 492 C 342 491 333 490 333 490 L 319 487 L 326 506 L 314 495 C 301 495 295 495 295 495 L 295 487 C 279 499 271 505 271 505 Z" fill="#8aa0c1" id="id-spectre-15-spectre-333">
+</path>
+<path d="M 295 481 C 306 480 311 480 311 480 L 311 469 C 306 472 301 472 295 473 C 295 478 295 481 295 481 Z" fill="#dae5f2" id="id-spectre-15-spectre-334">
+</path>
+<path d="M 295 473 C 296 460 296 454 296 454 C 307 454 313 454 313 454 L 313 468 C 309 471 303 472 295 473 Z" fill="#6282bc" id="id-spectre-15-spectre-335">
+</path>
+<path d="M 363 451 C 355 461 352 466 352 466 C 338 463 332 461 332 461 C 327 465 318 470 311 474 C 304 477 297 478 290 476 C 283 471 279 468 279 468 C 258 465 248 464 248 464 L 248 452 L 261 453 L 285 461 L 295 473 C 308 472 318 467 326 458 C 336 453 348 451 363 451 Z" fill="#e2edf3" id="id-spectre-15-spectre-336">
+</path>
+<path d="M 259 517 C 271 511 277 507 277 507 C 283 503 288 499 290 495 C 291 497 291 498 291 498 C 292 496 292 493 295 491 C 306 491 312 492 312 492 L 328 505 C 343 513 351 517 351 517 C 334 510 325 507 325 507 C 321 503 318 501 318 501 L 294 500 C 291 505 289 507 289 507 C 285 506 282 508 278 510 C 265 515 259 517 259 517 Z" fill="#455c81" id="id-spectre-15-spectre-337">
+</path>
+<path d="M 253 519 C 251 519 250 519 250 519 C 244 500 241 491 241 491 L 245 473 L 244 490 C 250 509 253 519 253 519 Z" fill="#59759b" id="id-spectre-15-spectre-338">
+</path>
+<path d="M 364 493 C 371 487 374 485 374 485 C 370 481 367 479 367 479 L 366 450 L 363 451 C 364 479 364 493 364 493 Z" fill="#a3b6d3" id="id-spectre-15-spectre-339">
+</path>
+<path d="M 421 663 C 414 628 410 610 410 610 C 425 652 432 673 432 673 C 446 693 453 702 453 702 C 456 697 457 695 457 695 C 452 664 449 649 449 649 C 427 594 416 566 416 566 L 434 594 C 435 567 435 554 435 554 L 466 514 L 424 500 L 392 489 L 364 493 L 350 517 L 322 533 C 388 620 421 663 421 663 Z" fill="#f2f5f9" id="id-spectre-15-spectre-340">
+</path>
+<path d="M 364 493 C 383 490 393 489 393 489 C 383 551 378 582 378 582 L 396 485 C 386 480 382 477 382 477 L 371 482 C 366 489 364 493 364 493 Z" fill="#aebfd9" id="id-spectre-15-spectre-341">
+</path>
+<path d="M 424 497 L 397 482 C 377 590 367 644 367 644 C 363 754 361 809 361 809 C 379 809 388 809 388 809 L 395 643 C 414 546 424 497 424 497 Z" fill="#d1dae9" id="id-spectre-15-spectre-342">
+</path>
+<path d="M 397 636 L 394 636 C 390 752 388 809 388 809 L 390 809 C 395 693 397 636 397 636 Z" fill="#7a94c0" id="id-spectre-15-spectre-343">
+</path>
+<path d="M 361 809 C 360 809 360 808 360 808 C 356 784 354 771 354 771 L 360 752" fill="#5779af" id="id-spectre-15-spectre-344">
+</path>
+<path d="M 394 636 L 367 644 C 387 536 397 482 397 482 L 420 495 L 394 636 Z" fill="#f2f5f9" id="id-spectre-15-spectre-345">
+</path>
+<path d="M 563 1158 L 561 1119 L 580 1118 C 573 1101 570 1092 570 1092 C 564 1039 561 1012 561 1012 C 500 935 469 896 469 896 C 477 862 481 845 481 845 C 490 837 494 833 494 833 C 486 828 481 825 481 825 C 485 757 487 723 487 723 L 443 741 L 442 781 C 444 803 453 826 441 844 L 447 852 L 447 904 L 527 1128 L 532 1158 L 538 1154 C 555 1156 563 1158 563 1158 Z" fill="#c6d2e4" id="id-spectre-15-spectre-346">
+</path>
+<path d="M 533 1158 C 536 1153 538 1151 538 1151 L 583 1158 L 576 1164 L 570 1159 L 538 1154 C 534 1157 533 1158 533 1158 Z" fill="#5174ab" id="id-spectre-15-spectre-347">
+</path>
+<path d="M 442 775 C 439 759 438 752 438 752 C 436 757 436 760 436 760 C 435 749 435 743 435 743 C 442 730 450 718 454 702 C 455 714 454 726 450 738 L 442 741 L 442 775 Z" fill="#5174ab" id="id-spectre-15-spectre-348">
+</path>
+<path d="M 424 836 L 384 837 L 388 834 L 433 809 L 424 822 C 424 831 424 836 424 836 Z" fill="#5779af" id="id-spectre-15-spectre-349">
+</path>
+<path d="M 428 893 C 406 902 396 907 396 907 L 405 1015 L 419 1094 C 427 1132 431 1151 431 1151 L 489 1144 L 487 1124 L 473 1074 L 463 1020 C 457 996 455 976 442 945 C 435 930 431 917 436 912 C 431 904 429 897 428 893 Z" fill="#e7ecf4" id="id-spectre-15-spectre-350">
+</path>
+<path d="M 403 817 C 397 817 395 818 395 818 C 397 812 399 809 399 809 C 398 780 398 765 398 765 C 405 757 409 753 409 753 L 402 768 C 403 800 403 817 403 817 Z" fill="#718ebc" id="id-spectre-15-spectre-351">
+</path>
+<path d="M 412 747 C 407 727 410 700 421 667 C 423 667 424 667 424 667 C 418 688 412 709 412 729 L 416 733 C 413 740 412 745 412 747 Z" fill="#8aa2c7" id="id-spectre-15-spectre-352">
+</path>
+<path d="M 450 715 C 424 735 408 747 401 749 C 411 751 422 752 436 752 L 435 743 C 445 724 450 715 450 715 Z" fill="#95aacc" id="id-spectre-15-spectre-353">
+</path>
+<polygon points="459 528 435 554 435 614" fill="#d4ddea" id="id-spectre-15-spectre-354">
+</polygon>
+<path d="M 500 526 C 486 536 474 549 463 562 C 457 581 454 590 454 590 C 468 581 475 576 475 576 C 496 620 507 641 507 641 C 512 631 514 625 514 625 C 500 670 493 693 493 693 L 522 710 L 520 597 C 515 568 508 544 500 526 Z" fill="#f3f5f9" id="id-spectre-15-spectre-355">
+</path>
+<path d="M 464 561 C 466 547 467 541 467 541 L 482 540 C 474 549 468 556 464 561 Z" fill="#b1c2da" id="id-spectre-15-spectre-356">
+</path>
+<path d="M 455 607 C 450 612 448 615 448 615 L 444 638 L 449 649 C 453 621 455 607 455 607 Z" fill="#5779af" id="id-spectre-15-spectre-357">
+</path>
+<path d="M 419 1073 C 422 1072 423 1072 423 1072 C 422 1078 423 1083 427 1085 C 423 1092 421 1095 421 1095 C 420 1167 420 1203 420 1203 C 417 1373 417 1458 418 1458 C 411 1515 407 1543 407 1543 C 413 1551 415 1555 415 1555 L 403 1571 L 403 1608 C 400 1608 398 1608 398 1608 C 398 1581 398 1568 398 1568 C 407 1559 411 1554 411 1554 C 407 1547 405 1544 405 1544 C 411 1491 414 1465 414 1465 C 410 1332 416 1216 419 1094 C 423 1090 423 1086 419 1083 C 419 1076 419 1073 419 1073 Z" fill="#5477ae" id="id-spectre-15-spectre-358">
+</path>
+<path d="M 473 1074 C 457 1085 441 1090 425 1090 C 412 1058 413 1032 415 1006 C 431 1005 447 1008 463 1020 C 470 1056 473 1074 473 1074 Z" fill="#e9edf5" id="id-spectre-15-spectre-359">
+</path>
+<path d="M 402 934 C 398 939 396 941 396 941 C 402 961 404 970 404 970 C 406 999 406 1013 406 1013 C 411 1029 414 1036 414 1036 C 406 1010 406 989 408 968 C 402 949 400 938 402 934 Z" fill="#b6c5dc" id="id-spectre-15-spectre-360">
+</path>
+<path d="M 211 850 C 218 849 221 849 221 849 L 220 825 L 229 819 C 209 819 199 819 199 819 L 211 827 C 211 842 211 850 211 850 Z" fill="#7591be" id="id-spectre-15-spectre-361">
+</path>
+<path d="M 357 809 C 379 809 390 809 390 809 C 390 816 390 820 390 820 L 358 819 L 357 809 Z" fill="#f2f5f9" id="id-spectre-15-spectre-362">
+</path>
+<path d="M 424 870 C 424 859 425 847 424 835 L 332 836 L 332 872 C 362 873 393 873 424 870 Z" fill="#b0c0da" id="id-spectre-15-spectre-363">
+</path>
+<path d="M 364 836 C 361 859 360 870 360 870 L 332 871 L 332 836 C 353 836 364 836 364 836 Z" fill="#e2e8f1" id="id-spectre-15-spectre-364">
+</path>
+<path d="M 131 455 C 131 471 132 480 132 480 L 145 468 C 136 459 131 455 131 455 Z" fill="#c5d9f2" id="id-spectre-15-spectre-365">
+</path>
+<path d="M 236 479 L 239 441 L 295 454 L 295 473 L 285 461 L 261 453 L 248 452 C 240 470 236 479 236 479 Z" fill="#c5d1e3" id="id-spectre-15-spectre-366">
+</path>
+<path d="M 242 487 C 237 485 235 484 235 484 L 206 483 C 228 482 229 448 236 440 L 239 441 L 236 479 L 248 452 C 246 472 244 484 242 487 Z" fill="#9fb2d1" id="id-spectre-15-spectre-367">
+</path>
+<path d="M 236 440 C 236 439 236 438 236 438 C 248 435 255 434 255 434 C 254 438 254 441 254 441 C 284 449 302 454 309 454 L 296 454 C 256 445 236 440 236 440 Z" fill="#364d71" id="id-spectre-15-spectre-368">
+</path>
+<path d="M 313 454 C 309 454 307 454 307 454 C 335 450 351 446 356 444 C 355 436 355 433 355 433 L 374 440 L 374 444 C 340 451 320 454 313 454 Z" fill="#364d71" id="id-spectre-15-spectre-369">
+</path>
+<path d="M 413 421 C 406 407 403 400 403 400 L 411 300 C 413 380 413 421 413 421 Z" fill="#c5d9f2" id="id-spectre-15-spectre-370">
+</path>
+<path d="M 282 167 C 270 171 265 173 265 173 L 278 141 C 281 158 282 167 282 167 Z" fill="#c5d9f2" id="id-spectre-15-spectre-371">
+</path>
+<path d="M 313 58 L 304 79 L 295 62 L 305 1 C 310 39 313 58 313 58 Z" fill="#c5d9f2" id="id-spectre-15-spectre-371">
+</path>
+<path d="M 343 184 C 342 151 341 135 341 135 L 351 173 C 345 180 343 184 343 184 Z" fill="#c5d9f2" id="id-spectre-15-spectre-373">
+</path>
+<path d="M 323 940 L 317 1031 L 285 1035 L 282 1049 L 210 1060 L 225 1049 C 238 1028 241 1007 235 986 L 213 945 L 323 940 Z" fill="#afbfd9" id="id-spectre-15-spectre-374">
+</path>
+<path d="M 377 584 C 373 579 372 577 372 577 C 351 588 340 593 340 593 L 376 593 C 377 587 377 584 377 584 Z" fill="#c8d3e5" id="id-spectre-15-spectre-375">
+</path>
+<path d="M 161 744 L 161 796 L 163 788 L 166 753 C 163 747 161 744 161 744 Z" fill="#5376ae" id="id-spectre-15-spectre-376">
+</path>
+<polygon points="157 776 166 753 140 700" fill="#5376ae" id="id-spectre-15-spectre-377">
+</polygon>
+<path d="M 360 818 C 366 823 368 825 368 825 C 368 841 368 849 368 849 C 375 849 378 849 378 849 L 378 828 L 388 820 C 369 819 360 818 360 818 Z" fill="#7591be" id="id-spectre-15-spectre-378">
+</path>
+<path d="M 268 1518 C 240 1549 226 1565 226 1565 L 265 1551 L 264 1537 C 267 1528 268 1522 268 1518 Z" fill="#5b7cb1" id="id-spectre-15-spectre-379">
+</path>
+</g>
+<g transform="translate(273,652)" id="id-spectre-15-spectre-380">
+<path d="M 36 232 C 36 230 35 229 35 229 C 26 229 21 222 19 212 C 20 207 23 203 27 200 C 39 197 49 198 57 202 C 60 206 61 211 62 215 C 61 221 57 226 51 229 L 51 232 C 41 232 36 232 36 232 Z" fill="#587297" id="id-spectre-15-spectre-381">
+</path>
+<path d="M 199 0 C 199 0 200 1 202 4 C 202 4 201 6 200 11 C 200 11 199 11 198 12 C 198 12 198 12 198 12 L 198 12 C 198 13 198 13 198 14 L 198 14 C 198 15 198 15 198 15 C 198 15 198 16 199 17 C 199 17 199 20 198 25 L 198 25 L 198 25 C 198 25 198 25 198 25 L 198 25 C 197 26 197 26 196 27 C 196 27 196 28 196 29 L 196 29 L 196 29 C 196 29 196 30 197 30 C 197 30 197 33 196 40 C 196 40 195 40 194 40 C 194 40 193 41 193 43 C 193 43 193 44 194 46 C 194 46 194 46 194 47 L 194 47 C 194 47 194 47 194 47 L 194 48 C 193 49 193 51 192 53 C 192 53 191 53 190 53 C 190 53 190 54 190 54 L 190 55 C 190 55 190 56 189 57 C 189 57 190 58 191 59 C 191 59 190 62 189 66 C 189 66 188 66 187 67 C 187 67 186 68 185 70 C 185 70 186 71 187 73 C 187 73 186 75 185 80 C 185 80 185 80 184 80 L 184 80 C 184 80 183 80 183 80 C 183 80 182 81 182 83 C 182 83 182 84 182 87 C 182 87 182 89 180 93 C 180 93 179 93 178 94 C 178 94 178 94 177 96 C 177 96 177 98 177 100 C 177 100 176 102 175 105 C 175 105 175 105 174 105 L 174 105 C 174 105 173 106 173 106 L 172 106 L 172 106 L 172 106 C 172 106 172 107 171 108 L 171 108 L 171 108 C 171 108 171 109 171 111 C 171 111 170 113 167 117 C 167 117 166 117 165 117 C 165 117 165 118 164 120 L 164 120 L 164 120 C 164 120 164 121 164 123 C 164 123 162 125 160 128 C 160 128 159 128 157 127 C 157 127 156 128 155 129 L 155 129 L 155 132 C 155 132 153 133 151 136 C 151 136 149 136 147 135 C 147 135 146 136 145 136 L 145 136 L 145 139 C 145 139 145 139 145 139 L 145 139 C 145 139 142 140 139 142 C 139 142 138 141 136 141 C 136 141 136 141 134 141 C 134 141 134 142 132 144 C 132 144 130 144 126 144 C 126 144 125 143 124 142 L 124 142 L 121 142 C 121 142 121 143 119 145 C 119 145 117 144 113 143 C 113 143 112 142 110 140 C 110 140 110 139 108 139 L 108 139 L 108 139 C 108 139 107 140 104 141 C 104 141 102 140 98 137 C 98 137 98 137 98 135 C 98 135 97 134 96 134 C 96 134 94 134 92 134 C 92 134 90 133 86 129 C 86 129 86 128 86 126 C 86 126 85 126 84 125 C 84 125 83 125 81 125 C 81 125 81 125 81 125 L 81 125 C 80 125 79 123 75 120 C 75 120 76 119 76 116 C 76 116 75 116 74 115 C 74 115 73 115 71 115 L 71 115 L 71 115 C 71 115 69 113 66 110 L 66 110 L 66 110 C 66 110 66 108 66 105 C 66 105 66 105 65 104 L 65 104 L 63 104 C 63 104 61 101 58 97 C 58 97 58 96 58 94 C 58 94 58 94 58 94 L 58 94 C 58 94 57 93 57 92 C 57 92 56 92 55 92 C 55 92 54 90 51 86 C 51 86 51 85 52 82 C 52 82 52 82 51 81 C 51 81 50 81 49 81 C 49 81 48 80 47 77 L 47 77 L 47 77 C 47 78 47 79 47 80 L 47 80 C 47 80 46 81 44 82 L 44 82 L 44 86 C 44 86 45 86 47 87 L 47 87 L 47 87 C 47 87 47 87 47 87 L 47 88 C 47 88 47 88 47 88 L 47 88 C 47 88 47 88 47 88 L 47 89 C 47 90 47 92 47 95 L 47 95 L 47 95 C 47 95 47 95 46 95 L 46 95 C 46 95 45 96 45 97 L 45 97 L 45 97 C 45 97 44 98 44 99 C 44 99 45 100 47 102 L 47 102 L 47 102 C 47 102 47 105 46 109 C 46 109 46 109 46 109 L 46 109 C 46 110 45 110 44 112 C 44 112 44 112 45 114 C 45 114 45 115 47 116 L 47 116 L 47 116 C 47 116 46 119 46 123 L 46 123 L 46 123 C 46 123 46 124 44 125 C 44 125 44 126 44 128 C 44 128 45 129 47 131 C 47 131 47 133 46 137 C 46 137 46 138 44 140 L 44 140 L 44 142 C 44 142 45 143 47 145 C 47 145 47 147 46 151 C 46 151 46 151 46 151 L 46 152 C 46 152 45 153 44 154 C 44 154 44 154 44 154 L 44 154 C 44 154 44 155 44 157 C 44 157 45 157 47 158 C 47 158 47 161 46 166 C 46 166 46 167 44 168 C 44 168 44 169 44 171 C 44 171 45 172 47 173 L 47 173 L 47 173 C 47 173 47 176 47 180 C 47 180 46 181 44 182 L 44 182 L 44 185 C 44 185 45 186 47 188 L 47 188 L 47 188 C 47 188 50 188 54 189 C 60 193 61 196 62 199 L 63 200 C 63 201 63 202 64 203 C 62 210 58 215 51 217 L 51 217 L 51 217 C 51 218 51 223 51 234 C 56 235 60 236 64 237 L 64 237 L 69 227 L 78 232 C 78 232 76 235 72 242 C 84 250 92 264 92 280 C 92 281 91 289 90 298 L 89 300 C 88 309 87 318 87 319 C 83 342 69 359 46 359 C 23 359 7 341 4 319 C 4 317 0 282 0 280 C 0 264 8 251 19 242 L 19 242 L 13 235 L 21 230 C 21 230 23 232 28 238 C 31 236 34 235 38 235 L 38 235 L 38 218 C 26 216 21 209 21 200 C 21 200 24 196 29 188 C 29 188 32 188 39 187 L 39 187 L 39 187 C 39 187 39 187 39 187 L 39 187 C 39 187 39 187 40 187 L 40 187 C 40 187 40 187 40 186 L 41 186 C 41 186 41 186 41 186 L 41 185 L 41 185 L 42 185 C 42 185 41 184 41 182 C 41 182 41 182 40 180 L 40 180 L 40 180 C 40 180 40 180 40 180 L 40 180 C 40 180 39 178 39 174 C 39 174 40 173 41 171 C 41 171 41 170 41 168 C 41 168 41 167 39 165 C 39 165 39 163 39 159 C 39 159 40 158 41 157 L 41 157 L 41 157 C 41 157 41 156 41 153 C 41 153 41 153 39 151 L 39 151 L 39 151 C 39 151 39 148 39 144 C 39 144 39 144 40 144 L 40 144 C 40 144 41 144 42 143 L 42 143 L 42 143 C 42 143 42 142 42 140 C 42 140 41 139 39 138 L 39 138 L 39 137 C 39 137 39 137 39 137 L 39 136 C 39 136 39 136 39 136 L 39 136 C 39 136 39 135 39 135 L 39 135 C 39 135 39 135 39 134 L 39 134 C 39 134 39 133 39 133 L 39 133 C 39 132 39 132 39 132 L 39 131 C 39 131 39 130 39 130 C 39 130 40 129 41 128 L 41 128 L 41 128 C 41 128 41 127 41 125 L 41 125 L 41 125 C 41 124 41 124 40 123 C 40 123 39 121 39 116 C 39 116 40 115 42 114 L 42 114 L 42 112 C 42 112 41 111 39 109 L 39 109 L 39 109 C 39 108 39 106 39 102 L 39 102 L 39 102 C 40 101 40 101 41 100 C 41 100 41 99 41 96 C 41 96 41 96 39 94 C 39 94 39 94 39 94 L 39 94 C 39 94 39 94 39 94 L 39 94 C 39 93 39 91 39 87 C 39 87 40 86 41 85 L 41 85 L 41 85 C 41 85 41 84 41 83 C 41 83 41 82 39 81 L 39 81 L 39 81 C 39 80 39 78 39 73 C 39 73 40 72 42 71 C 42 71 42 70 42 69 C 42 69 41 68 39 65 C 39 65 39 62 40 57 C 40 57 43 51 49 40 C 49 40 54 46 65 59 C 65 59 65 59 65 59 L 64 59 C 64 61 60 66 54 75 C 54 75 53 73 49 69 L 49 69 L 49 69 C 49 69 49 69 49 70 C 49 70 49 71 51 72 C 51 72 52 74 54 78 C 54 78 54 78 53 80 L 53 80 L 53 80 C 53 80 53 80 53 80 L 54 80 C 54 80 55 81 56 82 C 56 82 57 84 60 88 C 60 88 59 89 59 91 L 59 91 L 59 91 C 59 91 60 91 61 92 C 61 92 61 93 63 93 C 63 93 65 95 67 99 C 67 99 67 100 67 103 C 67 103 67 103 68 104 C 68 104 69 104 71 104 C 71 104 73 106 76 110 L 76 110 L 76 110 C 76 110 76 111 76 113 C 76 113 76 114 78 115 C 78 115 79 115 80 115 C 80 115 82 117 86 121 C 86 121 86 122 86 124 C 86 124 88 124 90 124 C 90 124 92 126 96 129 L 96 129 L 96 129 C 96 129 96 130 96 132 C 96 132 97 132 99 133 C 99 133 100 132 102 132 C 102 132 104 133 108 135 C 108 135 108 136 109 137 C 109 137 109 138 111 138 C 111 138 111 137 113 136 C 113 136 113 136 113 136 L 113 136 C 115 136 117 137 121 137 C 121 137 121 138 122 140 C 122 140 123 140 124 140 C 124 140 124 139 125 138 C 125 138 127 137 133 137 C 133 137 133 138 134 139 C 134 139 135 139 136 138 C 136 138 136 137 137 135 C 137 135 138 134 142 133 C 142 133 143 133 146 133 C 146 133 146 132 146 131 C 146 131 148 129 151 127 C 151 127 152 127 154 127 L 154 127 L 154 127 C 154 127 154 126 155 126 C 155 126 155 125 155 122 C 155 122 157 121 159 118 C 159 118 160 118 162 118 C 162 118 162 117 163 115 L 163 115 L 163 115 C 163 115 163 115 163 115 L 163 115 C 163 115 163 114 163 114 L 163 114 C 163 114 163 114 163 114 L 163 114 C 163 113 163 113 163 112 C 163 112 164 110 167 107 C 167 107 167 107 168 107 C 168 107 169 106 170 104 C 170 104 169 104 169 102 C 169 102 170 100 172 96 C 172 96 173 96 174 96 C 174 96 175 95 175 93 C 175 93 175 93 174 91 C 174 91 175 88 177 83 C 177 83 178 83 179 82 C 179 82 180 81 180 80 C 180 80 180 79 179 77 C 179 77 180 75 181 70 C 181 70 182 70 184 70 C 184 70 184 69 184 67 C 184 67 184 66 183 64 C 183 64 183 64 183 64 L 183 64 C 183 64 184 61 185 57 C 185 57 186 56 187 56 C 187 56 187 55 187 53 C 187 53 187 52 186 51 C 186 51 187 48 188 43 L 188 43 L 188 43 C 188 43 189 43 190 43 C 190 43 191 42 191 40 C 191 40 191 39 190 37 C 190 37 190 35 191 30 C 191 30 192 30 193 29 C 193 29 194 28 194 26 C 194 26 194 25 192 24 C 192 24 193 21 194 16 C 194 16 195 16 196 15 C 196 15 196 14 197 13 C 197 13 196 12 195 11 C 195 11 195 11 195 11 L 195 10 C 195 9 195 8 195 5 C 195 5 196 3 199 0 Z M 47 191 C 47 191 47 192 46 195 C 46 195 46 195 44 197 C 44 204 48 206 54 207 C 54 207 54 208 56 210 C 60 206 60 201 56 195 L 56 195 L 53 193 C 53 193 51 192 47 191 Z M 39 190 C 39 190 36 191 30 192 C 30 192 28 194 24 200 C 24 200 24 200 24 200 L 24 200 C 25 201 26 204 28 210 C 35 208 40 205 41 201 L 41 201 L 42 197 C 42 197 41 196 39 195 C 39 195 39 193 39 190 Z M 42 190 C 42 190 42 191 42 193 L 42 193 L 44 193 C 44 193 44 192 44 190 L 44 190 L 44 190 C 44 190 44 190 44 190 L 44 190 C 43 190 43 190 42 190 Z M 44 174 L 42 174 L 42 174 L 42 174 C 42 174 42 175 42 178 L 42 178 L 44 178 L 44 178 L 44 178 C 44 177 44 176 44 174 L 44 174 Z M 44 160 L 42 160 L 42 160 L 42 160 C 42 160 42 161 42 164 L 42 164 L 44 164 L 44 164 L 44 164 C 44 163 44 162 44 160 L 44 160 Z M 44 146 L 42 146 L 42 146 L 42 146 C 42 146 42 147 42 150 L 42 150 L 44 150 L 44 150 L 44 150 C 44 149 44 148 44 146 L 44 146 Z M 114 139 C 114 140 114 141 114 141 L 114 141 L 114 141 C 117 142 118 142 118 142 L 119 140 C 116 139 114 139 114 139 Z M 132 139 C 132 139 130 139 127 139 C 127 139 128 140 128 142 L 128 142 L 132 142 C 132 142 132 141 132 139 Z M 142 136 C 142 136 140 136 138 138 L 138 138 L 138 138 C 138 138 138 138 139 139 L 139 139 L 143 137 C 143 137 142 137 142 136 Z M 102 134 C 101 136 101 136 101 136 C 103 138 104 138 104 138 L 106 136 C 103 135 102 134 102 134 Z M 44 132 L 42 132 L 42 132 L 42 132 C 42 132 42 133 42 136 L 42 136 L 44 136 L 44 136 L 44 136 C 44 135 44 134 44 132 L 44 132 Z M 151 130 C 151 130 150 130 148 132 L 148 132 L 150 134 C 150 134 151 133 152 131 C 152 131 152 131 151 130 Z M 90 127 C 89 128 89 129 89 129 C 91 131 92 132 92 132 L 94 130 C 91 128 90 127 90 127 Z M 160 121 C 158 123 157 123 157 123 C 159 124 159 125 159 125 L 162 122 C 160 121 160 121 160 121 Z M 80 118 C 79 119 78 120 78 120 C 79 121 80 121 81 122 L 81 122 C 81 122 81 122 81 122 L 83 121 C 81 119 80 118 80 118 Z M 44 117 L 42 117 L 42 117 L 42 117 C 42 117 42 118 42 121 L 42 121 L 44 121 L 44 121 L 44 121 C 44 120 44 119 44 117 L 44 117 Z M 167 110 C 167 110 167 111 165 113 L 165 113 L 166 114 C 166 114 167 113 169 111 C 169 111 168 111 167 110 Z M 71 108 C 70 109 70 109 70 109 C 71 111 72 112 72 112 L 73 111 C 72 109 71 108 71 108 Z M 44 103 L 42 103 L 42 103 L 42 103 C 42 103 42 104 42 107 L 42 107 L 44 107 L 44 107 L 44 107 C 44 106 44 105 44 103 L 44 103 Z M 174 99 C 174 99 173 100 171 102 L 171 102 L 173 103 C 173 103 173 103 174 102 L 174 101 C 174 101 175 100 175 100 C 175 100 175 99 174 99 Z M 62 96 C 61 97 61 97 61 97 C 62 99 63 100 63 100 L 64 99 C 63 97 62 96 62 96 Z M 44 89 L 42 89 L 42 89 L 42 89 C 42 89 42 90 42 93 L 42 93 L 44 93 L 44 93 L 44 93 C 44 92 44 91 44 89 L 44 89 Z M 178 86 C 178 86 178 86 178 86 L 178 86 C 178 86 178 87 177 90 L 177 90 L 178 91 C 178 91 179 89 180 87 C 180 87 180 87 178 86 Z M 55 85 C 54 86 54 86 54 86 C 55 88 56 89 56 89 L 57 88 C 56 86 55 85 55 85 Z M 44 75 L 42 75 L 42 75 L 42 75 C 42 75 42 76 42 79 L 42 79 L 44 79 L 44 79 L 44 79 C 44 78 44 77 44 75 L 44 75 Z M 49 74 C 48 75 48 75 48 75 C 49 77 50 78 50 78 L 51 77 C 50 75 49 74 49 74 Z M 183 73 C 183 73 182 74 181 77 L 181 77 L 183 78 C 183 78 183 76 185 74 C 185 74 184 73 183 73 Z M 46 73 L 46 73 C 46 75 45 75 45 75 C 46 76 46 76 46 77 L 47 77 L 47 77 C 47 75 47 74 47 74 C 46 74 46 73 46 73 L 46 73 Z M 44 69 L 44 69 C 44 69 44 70 44 71 C 44 71 45 72 46 73 L 46 73 L 46 73 C 46 72 46 72 46 71 L 46 70 C 46 70 46 70 44 69 L 44 69 Z M 44 61 L 42 61 L 42 61 L 42 61 C 42 61 42 62 42 65 L 42 65 L 44 65 L 44 65 L 44 65 C 44 64 44 63 44 61 L 44 61 Z M 186 59 C 185 62 185 63 185 63 C 186 64 187 64 187 64 C 188 62 188 60 189 60 L 189 60 L 189 60 L 186 59 Z M 190 46 C 190 46 189 47 188 49 L 188 49 L 190 50 C 190 50 191 49 192 47 C 192 47 191 46 190 46 Z M 193 32 C 193 32 193 33 192 36 L 192 36 L 194 37 C 194 37 194 35 195 32 C 195 32 194 32 193 32 Z M 195 18 C 195 18 195 18 195 18 L 195 18 C 195 18 195 20 194 22 L 194 22 L 197 23 C 197 23 197 21 198 19 C 198 19 197 18 195 18 Z M 197 6 C 197 6 197 7 196 9 L 196 9 L 198 10 C 198 10 199 8 199 6 C 199 6 198 6 197 6 Z" fill="url(#id-spectre-15-spectre-82)" id="id-spectre-15-spectre-382">
+</path>
+<path d="M 24 241 L 28 246 C 13 260 5 278 7 301 C 9 335 18 355 47 356 C 84 351 83 325 84 299 C 84 277 78 261 68 250 L 69 243 C 84 259 93 277 91 299 C 88 338 73 362 47 364 C 24 362 5 345 1 300 C 1 272 10 254 24 241 Z" fill="url(#id-spectre-15-spectre-83)" id="id-spectre-15-spectre-383">
+</path>
+<path d="M 84 280 L 92 278 C 91 272 90 267 86 260 L 80 263 C 82 266 83 271 84 280 Z" fill="#fcf6e8" id="id-spectre-15-spectre-384">
+</path>
+<path d="M 45 242 C 25 242 10 260 10 283 C 10 284 11 324 11 326 C 17 344 29 353 45 353 C 63 353 78 339 81 323 C 81 321 82 280 82 278 C 82 260 69 242 45 242 Z" fill="#ced0d6" id="id-spectre-15-spectre-385">
+</path>
+<path d="M 46 352 C 64 352 79 342 81 316 C 81 315 81 291 81 289 C 81 262 65 252 46 252 C 27 252 11 262 11 289 C 11 290 11 315 11 316 C 12 342 28 352 46 352 Z" fill="#f2f5fb" id="id-spectre-15-spectre-386">
+</path>
+<path d="M 49 219 L 49 231 C 41 231 38 231 38 231 L 38 220 C 45 219 49 219 49 219 Z" fill="#cf7f2a" id="id-spectre-15-spectre-387">
+</path>
+<path d="M 72 241 L 69 240 L 72 233 C 70 231 69 230 69 230 L 71 228 L 78 232 C 74 238 72 241 72 241 Z" fill="#d6852c" id="id-spectre-15-spectre-388">
+</path>
+<path d="M 50 248 C 47 246 45 244 45 244 C 42 247 41 249 41 249 L 45 252 C 48 249 50 248 50 248 Z" fill="#aeb9ca" id="id-spectre-15-spectre-389">
+</path>
+<path d="M 19 244 C 14 238 12 235 12 235 C 14 233 16 232 16 232 L 23 242 C 20 243 19 244 19 244 Z" fill="#1e0f0e" id="id-spectre-15-spectre-390">
+</path>
+<path d="M 24 228 C 25 230 26 230 26 230 L 23 233 L 21 230 C 23 229 24 228 24 228 Z" fill="#be782f" id="id-spectre-15-spectre-391">
+</path>
+<path d="M 16 234 C 17 236 18 237 18 237 L 23 232 L 21 230 C 18 233 16 234 16 234 Z" fill="#f3e5cf" id="id-spectre-15-spectre-392">
+</path>
+<path d="M 34 242 C 31 238 30 235 30 235 C 34 232 37 231 41 231 C 41 229 41 229 41 229 C 39 227 39 226 39 226 C 41 220 42 218 44 217 C 45 218 46 217 50 226 C 49 228 48 229 48 229 C 48 231 48 232 48 232 C 51 230 56 231 63 236 C 65 232 66 230 66 230 C 66 228 65 227 65 227 C 66 226 66 225 66 225 C 69 226 71 227 71 227 C 69 230 69 231 69 231 C 71 232 72 233 72 233 L 65 245 C 55 240 45 239 34 242 Z" fill="#12090d" id="id-spectre-15-spectre-393">
+</path>
+<path d="M 31 211 C 46 212 54 212 54 212 C 54 211 54 210 54 210 C 51 208 47 206 42 205 C 39 206 36 206 31 209 C 31 211 31 211 31 211 Z" fill="#d2ac79" id="id-spectre-15-spectre-394">
+</path>
+<path d="M 42 205 C 43 209 43 211 43 211 L 51 211 C 51 208 48 206 42 205 Z" fill="#f2f5fb" id="id-spectre-15-spectre-395">
+</path>
+<path d="M 38 218 C 40 217 41 216 41 216 L 30 215 C 33 218 36 219 38 218 Z" fill="#2c1810" id="id-spectre-15-spectre-396">
+</path>
+<path d="M 47 216 L 55 216 L 51 218 C 48 217 47 216 47 216 Z" fill="#321a10" id="id-spectre-15-spectre-397">
+</path>
+<path d="M 29 188 L 32 188 C 27 196 24 200 24 200 L 21 203 L 21 200 C 26 192 29 188 29 188 Z" fill="#cfab78" id="id-spectre-15-spectre-398">
+</path>
+<path d="M 53 189 C 53 192 53 193 53 193 C 57 195 58 198 59 202 L 64 203 C 62 196 59 192 53 189 Z" fill="#d8b47e" id="id-spectre-15-spectre-399">
+</path>
+<path d="M 44 229 C 42 227 41 226 41 226 C 43 221 44 219 44 219 L 48 225 C 46 228 44 229 44 229 Z" fill="#00ffff" id="id-spectre-15-spectre-400">
+</path>
+<path d="M 34 237 C 34 238 35 238 35 238 C 39 236 48 235 61 237 L 61 235 C 46 233 37 233 34 237 Z" fill="#ebe8ea" id="id-spectre-15-spectre-401">
+</path>
+<path d="M 41 57 C 50 66 54 70 54 70 C 60 63 63 59 63 59 L 49 43 C 44 52 41 57 41 57 Z" fill="url(#id-spectre-15-spectre-84)" id="id-spectre-15-spectre-402">
+</path>
+<g transform="translate(2,235)" id="id-spectre-15-spectre-403">
+<rect fill="#000000" fill-opacity="0.2" width="90" height="139" x="0" y="0.511" id="id-spectre-15-spectre-404" rx="45">
+</rect>
+<path d="M 1 10 C 4 13 5 14 5 14 C 8 11 9 10 9 10 C 11 12 12 14 12 14 C 17 9 19 7 19 7 L 12 0 C 5 7 1 10 1 10 Z" fill="#000000" fill-opacity="0.2" id="id-spectre-15-spectre-405">
+</path>
+<path d="M 70 0 C 75 4 78 6 78 6 C 75 10 73 12 73 12 L 64 6 C 68 2 70 0 70 0 Z" fill="#000000" fill-opacity="0.2" id="id-spectre-15-spectre-406">
+</path>
+<rect fill="url(#id-spectre-15-spectre-85)" width="90" height="128" x="0" y="0.511" id="id-spectre-15-spectre-407" rx="45">
+</rect>
+<rect fill="#884819" width="77" height="119" x="6" y="5" id="id-spectre-15-spectre-408" rx="39">
+</rect>
+<rect fill="#f2f5fb" width="71" height="109" x="9" y="10" id="id-spectre-15-spectre-409" rx="35">
+</rect>
+<path d="M 78 35 C 72 19 61 10 44 9 C 25 11 15 21 10 36 C 18 22 31 15 44 16 C 61 15 70 24 78 35 Z" fill="#cecfd6" id="id-spectre-15-spectre-410">
+</path>
+<path d="M 35 53 C 26 45 19 44 14 51 L 13 43 C 25 38 33 42 35 53 Z" fill="#ccd9ee" id="id-spectre-15-spectre-411">
+</path>
+<path d="M 39 52 C 33 37 30 30 30 30 L 36 20 C 38 41 39 52 39 52 Z" fill="#ccd9ee" id="id-spectre-15-spectre-412">
+</path>
+<path d="M 42 50 C 40 33 39 24 39 24 C 39 20 38 18 38 18 C 41 13 43 10 43 10 C 45 14 46 15 46 15 L 44 20 C 43 40 42 50 42 50 Z" fill="#ccd9ee" id="id-spectre-15-spectre-413">
+</path>
+<path d="M 47 50 C 47 46 46 44 46 44 C 51 27 54 18 54 18 C 58 17 61 17 61 17 C 61 21 60 23 60 23 L 49 43 C 48 48 47 50 47 50 Z" fill="#ccd9ee" id="id-spectre-15-spectre-414">
+</path>
+<path d="M 51 51 C 54 42 59 34 66 28 L 70 36 C 60 39 54 44 51 51 Z" fill="#ccd9ee" id="id-spectre-15-spectre-415">
+</path>
+<path d="M 56 52 C 62 50 65 41 73 47 L 72 53 C 61 52 56 52 56 52 Z" fill="#ccd9ee" id="id-spectre-15-spectre-416">
+</path>
+<path d="M 64 49 C 68 49 70 48 70 48 L 71 58 C 66 52 64 49 64 49 Z" fill="#58729b" id="id-spectre-15-spectre-417">
+</path>
+<path d="M 17 50 C 17 56 18 59 18 59 L 25 52 C 20 51 17 50 17 50 Z" fill="#58719b" id="id-spectre-15-spectre-418">
+</path>
+<path d="M 17 22 C 17 36 17 42 17 42 C 53 42 71 42 71 42 L 71 22 C 35 22 17 22 17 22 Z" fill="#c9b29c" id="id-spectre-15-spectre-419">
+</path>
+<path d="M 19 25 C 19 35 19 40 19 40 C 52 39 68 39 68 39 L 68 26 C 36 25 19 25 19 25 Z" fill="#ffffff" id="id-spectre-15-spectre-420">
+</path>
+<path d="M 21 27 C 21 34 21 37 21 37 C 27 37 29 37 29 37 L 29 26 C 24 27 21 27 21 27 Z" fill="#57729b" id="id-spectre-15-spectre-421">
+</path>
+<path d="M 32 27 C 32 34 32 37 32 37 C 37 37 40 37 40 37 L 40 27 C 34 27 32 27 32 27 Z" fill="#57729b" id="id-spectre-15-spectre-422">
+</path>
+<path d="M 43 27 C 43 34 43 37 43 37 C 50 37 53 37 53 37 L 53 27 C 46 27 43 27 43 27 Z" fill="#57729b" id="id-spectre-15-spectre-423">
+</path>
+<path d="M 57 27 C 63 28 66 28 66 28 C 66 34 66 37 66 37 L 57 37 C 57 31 57 27 57 27 Z" fill="#57729b" id="id-spectre-15-spectre-424">
+</path>
+</g>
+<g transform="translate(18,281)" id="id-spectre-15-spectre-425">
+<circle cx="28" cy="37" r="28" fill="#59f400" id="id-spectre-15-spectre-426">
+</circle>
+<path d="M 47 16 C 35 16 8 20 1 31 C 3 24 7 18 12 14 C 32 2 47 16 47 16 Z" fill="#3db704" id="id-spectre-15-spectre-427">
+</path>
+<path d="M 13 59 C 30 59 39 58 39 58 C 48 51 53 48 53 48 C 49 55 44 60 36 62 C 24 67 13 59 13 59 Z" fill="#33c600" id="id-spectre-15-spectre-428">
+</path>
+<path d="M 28 33 C 33 37 35 40 35 40 C 32 45 30 47 30 47 L 22 41 C 26 36 28 33 28 33 Z" fill="#82421a" id="id-spectre-15-spectre-429">
+</path>
+<path d="M 29 24 C 28 24 27 24 27 24 C 27 9 27 1 27 1 C 27 0 28 0 28 0 L 29 1 C 29 16 29 24 29 24 Z" fill="#7d4721" id="id-spectre-15-spectre-430">
+</path>
+<path d="M 35 35 C 37 39 38 41 38 41 C 50 33 56 29 56 29 L 52 24 C 41 31 35 35 35 35 Z" fill="#82421a" id="id-spectre-15-spectre-431">
+</path>
+</g>
+<path d="M 7 237 C 9 240 10 241 10 241 C 21 233 27 229 27 229 L 24 225 C 12 233 7 237 7 237 Z" fill="#00c600" id="id-spectre-15-spectre-432">
+</path>
+<path d="M 65 223 C 64 227 63 228 63 228 C 73 234 78 237 78 237 L 81 233 C 70 226 65 223 65 223 Z" fill="#00c600" id="id-spectre-15-spectre-94">
+</path>
+<path d="M 17 230 C 19 229 20 228 20 228 L 20 232 C 18 231 17 230 17 230 Z" fill="#00e100" id="id-spectre-15-spectre-434">
+</path>
+<path d="M 75 230 C 77 231 77 231 77 231 L 75 233 C 75 231 75 230 75 230 Z" fill="#00e100" id="id-spectre-15-spectre-435">
+</path>
+</g>
+<g transform="translate(0,408)" id="id-spectre-15-spectre-436">
+<g transform="translate(163,70)" fill="#5a7cb1" fill-opacity="0.7" id="id-spectre-15-spectre-437">
+<path d="M 300 1021 L 283 1038 L 209 1077 L 215 947 L 215 694 C 205 669 200 656 200 656 C 208 598 211 569 211 569 C 212 499 213 463 213 463 C 199 415 193 391 193 391 C 204 389 209 388 209 388 C 208 365 208 353 208 353 C 203 351 200 349 200 349 C 204 342 206 338 206 338 C 204 317 203 307 203 307 C 205 289 206 280 206 280 C 199 272 195 269 195 269 C 203 255 206 248 206 248 C 210 223 216 217 218 183 C 225 144 229 124 229 124 C 225 74 223 50 223 50 L 253 9 L 300 1021 Z" id="id-spectre-15-spectre-434">
+</path>
+<path d="M 6 1072 C 23 1062 32 1056 32 1056 C 81 1049 105 1046 105 1046 C 107 826 107 716 107 716 C 117 676 122 656 122 656 C 113 557 108 508 108 508 C 115 415 118 368 118 368 C 115 332 113 313 113 313 C 106 225 102 180 102 180 C 88 104 80 65 80 65 C 102 35 113 19 113 19 C 96 8 87 3 87 3 C 69 1 60 0 60 0 C 20 676 0 1014 0 1014 C 3 1038 5 1049 5 1049 L 1 1056 C 5 1062 7 1067 6 1072 Z" id="id-spectre-15-spectre-435">
+</path>
+</g>
+<path d="M 280 1 L 235 11 L 206 63 L 133 114 L 117 112 L 99 166 L 76 399 L 60 423 L 68 460 L 49 484 L 36 597 L 21 627 L 15 700 C 5 740 0 761 0 761 C 33 752 64 754 92 766 L 100 711 L 118 684 C 122 667 123 658 123 658 L 76 1040 C 84 1053 95 1063 108 1071 C 145 1086 208 1103 264 1119 L 264 493 L 273 388 L 262 259 L 229 82 L 267 22 L 280 1 Z" fill="url(#id-spectre-15-spectre-86)" id="id-spectre-15-spectre-440">
+</path>
+<path d="M 379 1119 L 504 1083 C 516 1079 527 1074 537 1069 C 549 1061 559 1052 567 1040 L 532 766 C 558 755 588 753 623 760 L 612 701 L 609 626 L 597 597 L 590 483 L 573 460 C 578 435 581 422 581 422 C 572 406 567 398 567 398 C 561 322 554 245 545 168 L 527 112 L 511 114 C 483 97 456 80 437 63 L 408 11 L 373 1 L 389 28 L 397 41 L 404 72 L 413 82 C 403 142 392 201 381 259 C 377 305 374 348 369 390 L 377 494 C 379 702 380 911 379 1119 Z" fill="url(#id-spectre-15-spectre-87)" id="id-spectre-15-spectre-441">
+</path>
+<polygon points="133 576 102 511 154 471" fill="#a5c0e3" id="id-spectre-15-spectre-442">
+</polygon>
+<path d="M 0 761 L 20 768 L 23 756 C 16 757 9 758 0 761 Z" fill="#5779af" id="id-spectre-15-spectre-443">
+</path>
+<path d="M 92 766 L 69 772 C 65 763 63 759 63 759 L 31 756 C 55 754 75 758 92 766 Z" fill="#5779af" id="id-spectre-15-spectre-444">
+</path>
+<path d="M 100 713 C 77 705 53 706 30 705 L 44 688 L 120 677 L 118 684 L 100 711 L 100 713 Z" fill="#a4bfe2" id="id-spectre-15-spectre-445">
+</path>
+<path d="M 80 761 L 70 754 L 44 754 L 50 711 L 33 704 L 50 701 L 80 669 L 107 533 L 102 511 L 154 471 L 156 459 L 118 454 L 102 428 L 156 408 C 158 406 158 404 158 404 C 156 388 155 380 155 380 C 153 387 152 391 152 391 L 82 392 L 126 310 C 140 321 147 327 147 327 L 139 221 L 115 117 L 99 166 L 76 399 L 60 423 L 68 460 L 49 484 L 36 597 L 21 627 L 15 700 L 0 761 C 13 757 27 755 44 755 C 57 756 69 758 80 761 Z" fill="#e2e8f1" id="id-spectre-15-spectre-446">
+</path>
+<polygon points="49 484 83 531 36 597" fill="#cfdcec" id="id-spectre-15-spectre-447">
+</polygon>
+<polygon points="45 518 73 518 49 484" fill="#c6d6ea" id="id-spectre-15-spectre-448">
+</polygon>
+<polygon points="63 467 131 475 60 423 68 460" fill="#c8d7ea" id="id-spectre-15-spectre-449">
+</polygon>
+<path d="M 394 795 C 408 798 414 799 414 799 C 418 991 420 1087 420 1087 C 440 1092 450 1095 450 1095 L 396 1108 C 395 899 394 795 394 795 Z" fill="#b3c8e4" id="id-spectre-15-spectre-450">
+</path>
+<path d="M 379 1119 C 384 1118 386 1117 386 1117 C 387 726 387 530 387 530 C 384 431 382 382 382 382 C 395 355 407 325 418 292 C 447 242 461 217 461 217 C 427 184 409 167 409 167 L 488 199 L 437 63 L 408 11 C 385 4 373 1 373 1 C 373 3 373 4 373 4 C 395 11 406 14 406 14 C 416 47 420 64 420 64 C 410 104 401 150 393 197 L 369 390 L 377 494 C 379 911 379 1119 379 1119 Z" fill="#e2e8f1" id="id-spectre-15-spectre-451">
+</path>
+<path d="M 504 1083 L 537 1069 C 549 1061 560 1052 567 1040 L 532 766 L 512 676 L 493 508 L 463 345 C 461 351 460 354 460 354 C 461 382 462 396 462 396 L 461 401 L 469 730 L 477 632 L 504 1083 Z" fill="url(#id-spectre-15-spectre-88)" id="id-spectre-15-spectre-452">
+</path>
+<polygon points="427 669 415 450 388 483 393 389 440 354 446 386 429 428" fill="#e2e8f1" id="id-spectre-15-spectre-453">
+</polygon>
+<path d="M 381 680 L 384 678 L 386 678 L 405 660 L 412 550 L 452 533 C 459 526 463 523 463 523 L 464 531 L 454 538 L 416 554 L 409 660 L 387 681 L 381 680 Z" fill="#a5c0e2" id="id-spectre-15-spectre-454">
+</path>
+<path d="M 385 421 L 382 382 L 399 348 C 397 358 396 368 394 377 C 392 387 389 401 385 421 Z" fill="#6c8cbc" id="id-spectre-15-spectre-455">
+</path>
+<path d="M 397 356 L 424 302 C 453 257 467 234 467 234 L 460 228 L 461 217 L 418 292 L 394 354 L 397 356 Z" fill="#8db0dd" id="id-spectre-15-spectre-456">
+</path>
+<polygon points="493 508 462 349 475 304" fill="#5a7cb1" id="id-spectre-15-spectre-457">
+</polygon>
+<path d="M 483 394 C 508 358 520 340 520 340 C 508 304 502 285 502 285 L 502 220 L 475 304 L 483 394 Z" fill="#8db0dd" id="id-spectre-15-spectre-458">
+</path>
+<path d="M 527 714 C 546 707 569 704 596 704 C 577 685 546 680 514 678 L 527 714 Z" fill="#a3bfe2" id="id-spectre-15-spectre-459">
+</path>
+<path d="M 581 755 C 579 726 578 711 578 711 C 590 707 596 704 596 704 C 584 702 578 701 578 701 C 560 680 550 669 550 669 C 537 578 530 532 530 532 C 534 518 537 511 537 511 C 506 489 491 479 491 479 C 490 464 490 457 490 457 C 511 455 522 454 522 454 C 533 436 539 428 539 428 C 503 415 485 409 485 409 C 484 399 483 393 483 393 L 485 390 L 520 340 C 508 304 502 285 502 285 C 502 248 502 230 502 230 L 528 115 L 545 168 L 567 398 L 581 422 L 573 460 L 590 483 L 597 597 L 609 626 L 612 701 L 623 760 C 611 757 597 755 581 755 Z" fill="#e2e8f1" id="id-spectre-15-spectre-460">
+</path>
+<path d="M 532 766 C 534 768 535 769 537 769 C 542 771 544 771 549 773 L 557 759 L 594 756 C 573 754 553 758 532 766 Z" fill="#5779af" id="id-spectre-15-spectre-461">
+</path>
+<path d="M 623 760 L 599 769 L 599 757 C 612 758 620 760 623 760 Z" fill="#5779af" id="id-spectre-15-spectre-462">
+</path>
+<path d="M 530 757 C 529 726 528 710 528 710 L 512 674 C 524 729 530 756 530 757 Z" fill="#5a7cb1" id="id-spectre-15-spectre-463">
+</path>
+<path d="M 501 574 C 525 532 536 511 536 511 L 490 478 L 501 574 Z" fill="#a7c1e3" id="id-spectre-15-spectre-464">
+</path>
+<path d="M 495 504 L 489 512 L 512 674 C 501 561 495 504 495 504 Z" fill="#5a7cb1" id="id-spectre-15-spectre-465">
+</path>
+<polygon points="590 483 555 532 597 597" fill="#cfdbec" id="id-spectre-15-spectre-466">
+</polygon>
+<polygon points="590 483 565 518 592 518" fill="#c6d6ea" id="id-spectre-15-spectre-467">
+</polygon>
+<polygon points="578 467 507 475 581 422 573 460" fill="#c7d7ea" id="id-spectre-15-spectre-468">
+</polygon>
+<polygon points="485 390 561 390 516 309 512 314 520 340" fill="#cad9eb" id="id-spectre-15-spectre-469">
+</polygon>
+<path d="M 503 288 L 476 320 L 483 394 L 520 340 C 509 306 503 288 503 288 Z" fill="#96b6df" id="id-spectre-15-spectre-470">
+</path>
+<polygon points="490 257 479 247 465 217 499 228" fill="#aac5e7" id="id-spectre-15-spectre-471">
+</polygon>
+<polygon points="461 217 409 167 482 196 475 206 441 192" fill="#8db0dd" id="id-spectre-15-spectre-472">
+</polygon>
+<path d="M 437 63 L 478 179 C 469 145 460 110 444 69 L 437 63 Z" fill="#91b3de" id="id-spectre-15-spectre-473">
+</path>
+<path d="M 508 157 L 475 152 L 444 69 C 489 99 511 114 511 114 L 519 113 L 508 157 Z" fill="#e2e8f1" id="id-spectre-15-spectre-410">
+</path>
+<polygon points="373 4 397 11 397 42 390 35 375 22" fill="#8db0dd" id="id-spectre-15-spectre-411">
+</polygon>
+<path d="M 399 163 C 433 199 451 217 451 217 C 424 259 411 280 411 280 C 383 351 370 387 370 387 L 372 368 C 397 305 409 274 409 274 C 432 236 444 217 444 217 L 398 170 L 399 163 Z" fill="url(#id-spectre-15-spectre-89)" id="id-spectre-15-spectre-412">
+</path>
+<path d="M 280 0 L 279 5 L 236 15 L 222 64 L 262 259 L 273 388 L 264 493 L 264 1119 C 260 1118 258 1117 258 1117 C 257 726 256 531 256 531 C 258 432 259 382 259 382 C 234 324 222 294 222 294 C 195 243 182 217 182 217 C 216 184 233 168 233 168 L 155 199 L 206 64 L 235 11 L 280 0 Z" fill="#e2e8f1" id="id-spectre-15-spectre-413">
+</path>
+<path d="M 167 167 L 234 138 C 222 87 216 61 216 61 L 229 22 L 206 64 L 167 167 Z" fill="#c5d9f2" id="id-spectre-15-spectre-414">
+</path>
+<polygon points="125 113 133 144 186 102 165 178 206 63 133 114" fill="#91b3de" id="id-spectre-15-spectre-415">
+</polygon>
+<polygon points="238 129 222 64 236 15 246 11 250 49 246 69 229 82" fill="#7496c7" id="id-spectre-15-spectre-416">
+</polygon>
+<polygon points="246 69 246 11 279 3 278 26 263 32 270 35" fill="#8db0dd" id="id-spectre-15-spectre-417">
+</polygon>
+<path d="M 162 197 C 167 203 169 206 169 206 C 191 196 202 192 202 192 L 183 214 L 234 167 L 162 197 Z" fill="#8db0dd" id="id-spectre-15-spectre-418">
+</path>
+<path d="M 244 163 C 210 199 193 217 193 217 C 204 231 220 260 233 281 C 260 352 273 388 273 388 C 272 375 272 369 272 369 C 247 306 234 275 234 275 C 211 237 199 218 199 218 L 245 169 L 244 163 Z" fill="url(#id-spectre-15-spectre-90)" id="id-spectre-15-spectre-419">
+</path>
+<path d="M 182 217 C 182 225 183 228 183 228 C 178 232 176 234 176 234 C 205 281 220 305 220 305 C 245 354 257 379 257 379 L 225 292 C 196 242 182 217 182 217 Z" fill="#8db0dd" id="id-spectre-15-spectre-420">
+</path>
+<polygon points="143 228 179 217 164 247 152 258" fill="#aac5e8" id="id-spectre-15-spectre-421">
+</polygon>
+<polygon points="204 354 197 388 216 428 216 669 228 451 255 482 249 389" fill="#e2e8f1" id="id-spectre-15-spectre-423">
+</polygon>
+<path d="M 140 219 L 156 270 L 182 426 L 180 523 L 192 534 L 232 550 L 238 660 L 258 678 L 263 680 L 255 680 L 234 660 L 227 554 C 201 543 187 537 187 537 C 182 533 179 530 179 530 C 176 663 175 729 175 729 C 169 664 166 631 166 631 L 139 1082 L 108 1071 C 96 1063 85 1054 76 1040 L 123 658 L 145 518 L 161 417 L 155 380 C 149 345 147 327 147 327 C 144 304 142 291 139 288 L 140 219 Z" fill="url(#id-spectre-15-spectre-91)" id="id-spectre-15-spectre-422">
+</path>
+<polygon points="247 1108 195 1095 224 1086 229 800 249 795" fill="#b4c8e5" id="id-spectre-15-spectre-424">
+</polygon>
+<path d="M 126 655 L 123 658 L 120 677 C 118 677 117 677 117 677 C 125 618 129 588 129 588 C 133 568 138 548 138 531 C 154 492 160 407 170 360 L 173 377 L 170 382 C 162 425 154 496 145 519 L 126 655 Z" fill="#5a7cb1" id="id-spectre-15-spectre-489">
+</path>
+<polygon points="407 119 421 64 407 14 397 11 397 41 404 72 413 82" fill="#7597c8" id="id-spectre-15-spectre-432">
+</polygon>
+</g>
+<g transform="translate(187,165)" id="id-spectre-15-spectre-491">
+<g transform="translate(87,68)" id="id-spectre-15-spectre-492">
+<path d="M 0 14 C 25 24 43 32 53 39 C 59 35 78 27 109 14 L 107 2 L 57 17 L 2 0 L 0 14 Z" fill="#d7bfb8" id="id-spectre-15-spectre-389">
+</path>
+<polygon points="81 10 82 24 54 36 49 35 48 15 57 17" fill="#f8dece" id="id-spectre-15-spectre-494">
+</polygon>
+<polygon points="23 7 22 21 49 35 49 15" fill="#fee9d4" id="id-spectre-15-spectre-495">
+</polygon>
+<polygon points="54 16 54 36 61 33 63 16 57 17" fill="#fee8d3" id="id-spectre-15-spectre-390">
+</polygon>
+<polygon points="93 6 96 20 109 14 107 2" fill="#d7bfb7" id="id-spectre-15-spectre-497">
+</polygon>
+<polygon points="2 0 17 5 14 20 0 14" fill="#d7bfb7" id="id-spectre-15-spectre-391">
+</polygon>
+</g>
+<g transform="translate(0,0)" id="id-spectre-15-spectre-499">
+<path d="M 8 307 C 4 308 1 337 0 348 C 8 361 15 369 20 373 L 7 345 C 8 319 8 307 8 307 Z" fill="#617fa7" id="id-spectre-15-spectre-373">
+</path>
+<path d="M 171 1 C 195 14 213 34 226 59 L 243 138 C 239 171 232 200 223 224 C 229 289 251 325 262 337 C 267 343 276 342 287 337 C 289 341 292 343 294 345 C 248 365 221 339 213 267 C 205 210 209 149 191 61 C 191 61 194 60 200 58 L 174 55 L 176 44 L 154 55 L 171 21 L 142 62 L 136 38 L 137 57 L 117 57 L 105 48 L 111 54 L 93 59 C 93 63 92 72 91 85 C 56 201 15 291 73 338 C 66 351 66 372 73 402 L 23 346 L 21 285 C 14 303 12 322 15 342 C 10 328 10 308 15 281 C 25 240 34 208 41 185 C 44 175 46 169 47 168 L 38 142 L 47 59 C 65 30 88 10 117 0 C 128 1 135 2 140 5 C 155 0 165 -1 171 1 Z M 61 127 L 55 130 L 57 138 L 61 127 Z M 75 63 L 55 120 L 65 112 L 75 63 Z" fill="url(#id-spectre-15-spectre-92)" id="id-spectre-15-spectre-382">
+</path>
+</g>
+<g transform="translate(27,0)" id="id-spectre-15-spectre-502">
+<path d="M 199 71 C 188 65 186 66 173 64 C 187 108 180 171 193 214 C 191 197 186 162 188 101 C 187 99 185 96 183 92 L 184 78 L 188 96 L 190 85 L 195 109 L 193 78 L 197 87 C 199 79 200 74 199 71 Z" fill="#fdfdfd" id="id-spectre-15-spectre-503">
+</path>
+<path d="M 202 85 L 200 97 L 205 121 C 203 97 202 85 202 85 Z" fill="#aabcd0" id="id-spectre-15-spectre-504">
+</path>
+<path d="M 25 61 C 38 56 43 57 55 57 C 43 96 17 196 0 235 C 16 168 39 118 47 67 L 32 109 L 18 120 C 22 99 24 79 25 61 Z" fill="#c1cddc" id="id-spectre-15-spectre-505">
+</path>
+<path d="M 84 54 C 55 48 35 54 28 57 C 34 46 39 44 50 34 C 46 30 53 25 58 22 C 66 23 76 26 89 31 L 67 11 C 82 3 91 -1 93 1 L 104 36 L 104 2 C 107 2 110 3 113 5 C 120 3 128 1 132 1 C 123 33 126 34 125 39 C 129 24 136 8 142 1 C 163 5 195 44 199 60 C 186 57 169 51 142 56 C 142 55 144 53 144 53 C 158 47 171 42 182 40 C 183 38 173 40 153 45 L 158 33 L 139 48 L 132 51 L 144 26 L 117 60 L 112 11 C 111 36 111 51 110 57 C 95 50 75 45 50 42 C 70 47 82 51 84 54 Z" fill="#cad5e1" id="id-spectre-15-spectre-392">
+</path>
+<path d="M 196 106 C 198 127 198 159 196 201 L 198 202 L 207 172 C 202 136 199 113 196 106 Z" fill="#a6b7ce" id="id-spectre-15-spectre-507">
+</path>
+<polygon points="45 110 51 95 51 85 46 93" fill="#a0b3cb" id="id-spectre-15-spectre-508">
+</polygon>
+<polygon points="64 85 68 53 55 57 45 92 57 59 54 88 65 59" fill="#a0b3cb" id="id-spectre-15-spectre-509">
+</polygon>
+</g>
+<g transform="translate(84,2)" fill="#ffffff" id="id-spectre-15-spectre-510">
+<path d="M 0 36 C 5 38 8 38 14 39 C 16 37 20 34 24 32 L 24 27 C 19 25 15 23 12 23 C 6 28 2 32 0 36 Z" id="id-spectre-15-spectre-393">
+</path>
+<path d="M 39 16 C 31 19 27 21 25 24 C 22 21 20 19 18 18 C 23 16 32 16 39 16 Z" id="id-spectre-15-spectre-512">
+</path>
+<path d="M 61 34 C 61 25 62 14 66 1 C 67 1 68 0 70 0 C 67 15 73 26 100 21 C 103 26 106 32 110 40 C 92 26 76 24 61 34 Z" id="id-spectre-15-spectre-388">
+</path>
+</g>
+</g>
+</g>
+</g>
+<defs>
+</defs>
+
+</svg>
