@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs >
+<filter width="111%" height="300%" x="-6%" y="-100%" id="id-bg-12-Artboard-0" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="25">
+</feGaussianBlur >
+</filter >
+<linearGradient x1="51%" y1="99%" x2="51%" y2="0%" id="id-bg-12-Artboard-1">
+<stop stop-color="#8e007c" offset="0%">
+</stop >
+<stop stop-color="#a10089" offset="0%">
+</stop >
+<stop stop-color="#ff69f5" offset="35%">
+</stop >
+<stop stop-color="#ff18ee" offset="61%">
+</stop >
+<stop stop-color="#ff04ec" offset="79%">
+</stop >
+<stop stop-color="#ff3bf0" offset="100%">
+</stop >
+</linearGradient >
+<rect width="1328" height="24" x="12" y="26" id="id-bg-12-Artboard-2">
+</rect >
+<filter width="103%" height="288%" x="-2%" y="-94%" id="id-bg-12-Artboard-3" filterUnits="objectBoundingBox">
+<feOffset result="id-bg-12-Artboard-4" in="SourceAlpha" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-12-Artboard-5" in="id-bg-12-Artboard-4" stdDeviation="8">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-12-Artboard-5" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.577 0">
+</feColorMatrix >
+</filter >
+</defs >
+<g stroke="none" stroke-width="1" fill="none" id="id-bg-12-Artboard-8" fill-rule="evenodd">
+<g transform="translate(-11,0)" id="id-bg-12-Artboard-9">
+<rect fill="#311035" width="1320" height="1760" x="11" y="0" id="id-bg-12-Artboard-10">
+</rect >
+<g transform="translate(0,764)" id="id-bg-12-Artboard-11">
+<polygon points="0 0 1351 0 1351 75 0 75" fill="#d800f9" id="id-bg-12-Artboard-10" filter="url(#id-bg-12-Artboard-0)">
+</polygon >
+<g id="id-bg-12-Artboard-10">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-12-Artboard-2" filter="url(#id-bg-12-Artboard-3)">
+</use >
+<use fill="url(#id-bg-12-Artboard-1)" xlink:href="#id-bg-12-Artboard-2" fill-rule="evenodd">
+</use >
+</g >
+</g >
+</g >
+</g >
+<defs >
+</defs >
+<path d="M 558 405 C 558 424 557 425 548 442 L 557 449 L 567 437 L 571 449 L 554 477 L 564 485 L 580 461 L 587 469 L 579 503 L 591 508 L 597 485 C 601 488 752 437 751 472 L 760 468 L 755 447 L 761 446 L 755 431 L 558 405 Z" fill="#230c0a" id="id-male-5_25_hair_back-0">
+</path >
+<defs >
+<linearGradient x1="50%" y1="6%" x2="50%" y2="100%" id="id-male-6.6_base_4-0">
+<stop stop-color="#6f4a3f" offset="0%">
+</stop >
+<stop stop-color="#45191d" offset="8%">
+</stop >
+<stop stop-color="#54241c" offset="20%">
+</stop >
+<stop stop-color="#35100a" offset="34%">
+</stop >
+<stop stop-color="#4c1b14" offset="71%">
+</stop >
+<stop stop-color="#602521" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="-10%" x2="50%" y2="84%" id="id-male-6.6_base_4-1">
+<stop stop-color="#270702" offset="0%">
+</stop >
+<stop stop-color="#4d190d" offset="49%">
+</stop >
+<stop stop-color="#48150a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="57%" y1="50%" x2="47%" y2="56%" id="id-male-6.6_base_4-2">
+<stop stop-color="#290805" offset="0%">
+</stop >
+<stop stop-color="#2c0303" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="35%" x2="55%" y2="47%" id="id-male-6.6_base_4-3">
+<stop stop-color="#4b1b14" offset="0%">
+</stop >
+<stop stop-color="#2d0303" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="54%" y1="31%" x2="47%" y2="81%" id="id-male-6.6_base_4-4">
+<stop stop-color="#451a11" offset="0%">
+</stop >
+<stop stop-color="#320d07" offset="19%">
+</stop >
+<stop stop-color="#370404" offset="71%">
+</stop >
+<stop stop-color="#340505" offset="81%">
+</stop >
+<stop stop-color="#220000" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="43%" y1="38%" x2="54%" y2="44%" id="id-male-6.6_base_4-5">
+<stop stop-color="#2e0a04" offset="0%">
+</stop >
+<stop stop-color="#270701" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="8%" x2="58%" y2="82%" id="id-male-6.6_base_4-6">
+<stop stop-color="#4d1e18" offset="0%">
+</stop >
+<stop stop-color="#36100d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="41%" x2="49%" y2="66%" id="id-male-6.6_base_4-7">
+<stop stop-color="#592d1f" offset="0%">
+</stop >
+<stop stop-color="#480a09" offset="27%">
+</stop >
+<stop stop-color="#2f0b06" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="63%" y1="4%" x2="25%" y2="77%" id="id-male-6.6_base_4-8">
+<stop stop-color="#5a1821" offset="0%">
+</stop >
+<stop stop-color="#63271a" offset="55%">
+</stop >
+<stop stop-color="#3f1007" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="23%" x2="41%" y2="77%" id="id-male-6.6_base_4-9">
+<stop stop-color="#2c0c04" offset="0%">
+</stop >
+<stop stop-color="#190501" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="47%" y1="22%" x2="55%" y2="89%" id="id-male-6.6_base_4-10">
+<stop stop-color="#4a2318" offset="0%">
+</stop >
+<stop stop-color="#481f15" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="86%" y1="87%" x2="12%" y2="66%" id="id-male-6.6_base_4-11">
+<stop stop-color="#220401" offset="0%">
+</stop >
+<stop stop-color="#2c0903" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="71%" y1="11%" x2="50%" y2="100%" id="id-male-6.6_base_4-12">
+<stop stop-color="#320a06" offset="0%">
+</stop >
+<stop stop-color="#48160a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="46%" x2="56%" y2="43%" id="id-male-6.6_base_4-13">
+<stop stop-color="#1a0002" offset="0%">
+</stop >
+<stop stop-color="#140000" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="41%" x2="50%" y2="63%" id="id-male-6.6_base_4-14">
+<stop stop-color="#130000" offset="0%">
+</stop >
+<stop stop-color="#120000" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="69%" y1="20%" x2="50%" y2="100%" id="id-male-6.6_base_4-15">
+<stop stop-color="#2f0a04" offset="0%">
+</stop >
+<stop stop-color="#1e0200" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="36%" y1="20%" x2="57%" y2="81%" id="id-male-6.6_base_4-16">
+<stop stop-color="#59243c" offset="0%">
+</stop >
+<stop stop-color="#4b191e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="67%" x2="92%" y2="50%" id="id-male-6.6_base_4-17">
+<stop stop-color="#47120e" offset="0%">
+</stop >
+<stop stop-color="#525767" offset="100%" stop-opacity="0.348">
+</stop >
+</linearGradient >
+<linearGradient x1="17%" y1="24%" x2="78%" y2="69%" id="id-male-6.6_base_4-18">
+<stop stop-color="#6c3328" offset="0%">
+</stop >
+<stop stop-color="#3a140e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="26%" y1="42%" x2="80%" y2="75%" id="id-male-6.6_base_4-19">
+<stop stop-color="#662620" offset="0%">
+</stop >
+<stop stop-color="#6d6172" offset="100%" stop-opacity="0.068">
+</stop >
+</linearGradient >
+<linearGradient x1="29%" y1="56%" x2="77%" y2="50%" id="id-male-6.6_base_4-20">
+<stop stop-color="#622121" offset="0%">
+</stop >
+<stop stop-color="#61474d" offset="100%" stop-opacity="0.449">
+</stop >
+</linearGradient >
+<linearGradient x1="74%" y1="24%" x2="34%" y2="74%" id="id-male-6.6_base_4-21">
+<stop stop-color="#5d3325" offset="0%">
+</stop >
+<stop stop-color="#46140a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="100%" x2="40%" y2="0%" id="id-male-6.6_base_4-22">
+<stop stop-color="#3b0710" offset="0%">
+</stop >
+<stop stop-color="#70253e" offset="45%">
+</stop >
+<stop stop-color="#45130b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="52%" y1="13%" x2="59%" y2="75%" id="id-male-6.6_base_4-23">
+<stop stop-color="#3f0f09" offset="0%">
+</stop >
+<stop stop-color="#642a26" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="28%" y1="76%" x2="73%" y2="20%" id="id-male-6.6_base_4-24">
+<stop stop-color="#5e1d14" offset="0%">
+</stop >
+<stop stop-color="#470f09" offset="67%">
+</stop >
+<stop stop-color="#45130d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="59%" x2="24%" y2="66%" id="id-male-6.6_base_4-25">
+<stop stop-color="#230401" offset="0%">
+</stop >
+<stop stop-color="#400f07" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="41%" y1="11%" x2="61%" y2="81%" id="id-male-6.6_base_4-26">
+<stop stop-color="#541e13" offset="0%">
+</stop >
+<stop stop-color="#43130b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="19%" y1="58%" x2="66%" y2="43%" id="id-male-6.6_base_4-27">
+<stop stop-color="#602617" offset="0%">
+</stop >
+<stop stop-color="#46140a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="73%" y1="50%" x2="30%" y2="53%" id="id-male-6.6_base_4-28">
+<stop stop-color="#591531" offset="0%">
+</stop >
+<stop stop-color="#853542" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="31%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_4-29">
+<stop stop-color="#6a2c21" offset="0%">
+</stop >
+<stop stop-color="#61261c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="29%" y1="43%" x2="65%" y2="100%" id="id-male-6.6_base_4-30">
+<stop stop-color="#5f1c26" offset="0%">
+</stop >
+<stop stop-color="#4e1715" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="13%" y1="78%" x2="84%" y2="50%" id="id-male-6.6_base_4-31">
+<stop stop-color="#360808" offset="0%">
+</stop >
+<stop stop-color="#230401" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="36%" y2="100%" id="id-male-6.6_base_4-32">
+<stop stop-color="#61173b" offset="0%">
+</stop >
+<stop stop-color="#581f13" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="28%" x2="64%" y2="55%" id="id-male-6.6_base_4-33">
+<stop stop-color="#501021" offset="0%">
+</stop >
+<stop stop-color="#571626" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="40%" y1="55%" x2="62%" y2="71%" id="id-male-6.6_base_4-34">
+<stop stop-color="#421209" offset="0%">
+</stop >
+<stop stop-color="#39090a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="9%" y1="37%" x2="88%" y2="55%" id="id-male-6.6_base_4-35">
+<stop stop-color="#1f0301" offset="0%">
+</stop >
+<stop stop-color="#150000" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="62%" y1="19%" x2="50%" y2="100%" id="id-male-6.6_base_4-36">
+<stop stop-color="#47140a" offset="0%">
+</stop >
+<stop stop-color="#220301" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="18%" x2="51%" y2="67%" id="id-male-6.6_base_4-37">
+<stop stop-color="#6c2e20" offset="0%">
+</stop >
+<stop stop-color="#46140a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_4-38">
+<stop stop-color="#6a2b1e" offset="0%">
+</stop >
+<stop stop-color="#45130a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="50%" x2="58%" y2="50%" id="id-male-6.6_base_4-39">
+<stop stop-color="#220401" offset="0%">
+</stop >
+<stop stop-color="#40140b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="33%" y1="74%" x2="77%" y2="42%" id="id-male-6.6_base_4-40">
+<stop stop-color="#43140c" offset="0%">
+</stop >
+<stop stop-color="#551e11" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="63%" y1="59%" x2="38%" y2="59%" id="id-male-6.6_base_4-41">
+<stop stop-color="#551810" offset="0%">
+</stop >
+<stop stop-color="#5e2517" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_4-42">
+<stop stop-color="#512418" offset="0%">
+</stop >
+<stop stop-color="#3f0f0d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="47%" y1="47%" x2="53%" y2="50%" id="id-male-6.6_base_4-43">
+<stop stop-color="#5b291f" offset="0%">
+</stop >
+<stop stop-color="#42120d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_4-44">
+<stop stop-color="#350b08" offset="0%">
+</stop >
+<stop stop-color="#320706" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_4-45">
+<stop stop-color="#732a2a" offset="0%">
+</stop >
+<stop stop-color="#482115" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="55%" x2="100%" y2="55%" id="id-male-6.6_base_4-46">
+<stop stop-color="#4e1513" offset="0%">
+</stop >
+<stop stop-color="#2e0705" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_4-47">
+<stop stop-color="#5f251c" offset="0%">
+</stop >
+<stop stop-color="#3e0d0a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="49%" y1="20%" x2="52%" y2="96%" id="id-male-6.6_base_4-48">
+<stop stop-color="#441410" offset="0%">
+</stop >
+<stop stop-color="#3a0f0b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="33%" y1="47%" x2="59%" y2="56%" id="id-male-6.6_base_4-49">
+<stop stop-color="#3f150c" offset="0%">
+</stop >
+<stop stop-color="#2b0605" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(304,473)" id="id-male-6.6_base_4-50">
+<polygon points="174 662 139 824 137 906 146 1082 171 1154 176 1211 174 1230 175 1284 287 1284 284 1265 308 1195 306 1124 345 952 343 912 353 879 362 881 371 877 383 904 391 970 434 1079 457 1202 475 1252 475 1284 596 1284 600 1225 591 1146 609 1103 612 997 596 842 545 671 539 640 528 606 531 569 509 498 522 403 539 360 539 348 563 464 576 498 585 574 637 704 646 760 646 778 626 822 624 853 631 879 629 901 632 920 637 931 647 931 657 920 655 877 659 867 670 874 672 899 676 903 667 923 644 934 643 945 666 939 664 948 643 960 640 982 657 971 674 969 690 945 701 933 704 926 707 923 713 892 718 871 704 832 696 786 703 768 693 725 693 521 652 425 629 282 626 203 612 175 567 156 548 141 530 139 479 114 422 73 416 42 415 1 285 0 284 73 279 83 242 114 196 137 171 139 155 156 108 175 91 228 91 287 68 431 30 516 23 602 28 725 16 764 21 782 0 874 18 932 49 968 59 970 83 982 83 965 78 960 57 949 55 941 78 948 78 936 66 929 53 923 45 906 51 875 61 866 66 877 63 922 75 927 86 925 93 899 90 877 96 856 96 824 75 778 77 738 108 637 139 562 142 495 159 458 180 358 199 403 203 461 211 504 188 564 191 608" fill="url(#id-male-6.6_base_4-0)" id="id-male-6.6_base_4-51">
+</polygon >
+<polygon points="91 287 68 431 30 516 23 602 72 688 117 614 98 452 109 469 123 336 102 372 109 294 88 309 109 285" fill="url(#id-male-6.6_base_4-1)" id="id-male-6.6_base_4-51">
+</polygon >
+<polygon points="383 906 391 972 434 1081 457 1204 475 1254 475 1287 596 1287 600 1226 591 1148 609 1105 612 999 602 904 584 908 584 846 535 683 456 705 382 878" fill="url(#id-male-6.6_base_4-2)" id="id-male-6.6_base_4-51">
+</polygon >
+<polygon points="137 907 146 1083 171 1156 176 1212 174 1232 175 1286 175 1287 287 1287 284 1266 308 1197 306 1126 345 954 343 923 293 814 263 724 247 711" fill="url(#id-male-6.6_base_4-3)" id="id-male-6.6_base_4-51">
+</polygon >
+<polygon points="545 671 539 639 528 606 531 569 509 498 522 403 539 359 539 348 563 463 576 498 601 538 660 489 688 527 652 425 629 281 626 203 612 175 568 155 548 140 530 139 479 114 422 73 416 42 415 1 360 1 360 713 462 722" fill="url(#id-male-6.6_base_4-4)" id="id-male-6.6_base_4-51">
+</polygon >
+<polygon points="83 984 59 972 49 970 21 932 19 903 7 879 0 874 11 824 38 786 38 814 56 786 78 800 91 822 83 879 69 882 63 855 51 877 45 908 47 930 37 930 50 938 53 954 49 960 56 956 83 973" fill="#5f1f13" id="id-male-6.6_base_4-56">
+</polygon >
+<polygon points="66 855 69 882 63 855 51 877 45 908 42 870 58 825" fill="url(#id-male-6.6_base_4-5)" id="id-male-6.6_base_4-56">
+</polygon >
+<polygon points="83 879 69 882 70 868" fill="#6c2a1b" id="id-male-6.6_base_4-56">
+</polygon >
+<polygon points="481 376 513 349 558 291 522 368" fill="#410721" id="id-male-6.6_base_4-59">
+</polygon >
+<polygon points="313 697 260 560 246 448 259 424 355 408 361 366 317 404 285 409 267 378 313 343 394 351 431 378 420 404 368 399 371 404 449 421 466 441 449 510 466 547 406 697 358 717" fill="url(#id-male-6.6_base_4-6)" id="id-male-6.6_base_4-60">
+</polygon >
+<polygon points="410 87 430 79 423 73 416 42 416 4 284 6 284 45 283 73 278 83 244 111 195 136 366 136 390 67 410 23" fill="url(#id-male-6.6_base_4-7)" id="id-male-6.6_base_4-61">
+</polygon >
+<polygon points="182 180 133 231 97 289 97 231 113 182 165 159" fill="url(#id-male-6.6_base_4-8)" id="id-male-6.6_base_4-62">
+</polygon >
+<polygon points="346 107 384 55 409 31 414 23 299 31" fill="url(#id-male-6.6_base_4-9)" id="id-male-6.6_base_4-63">
+</polygon >
+<polygon points="287 93 295 32 323 129" fill="url(#id-male-6.6_base_4-10)" id="id-male-6.6_base_4-64">
+</polygon >
+<polygon points="336 139 314 151 270 146 224 139" fill="#6c362b" id="id-male-6.6_base_4-65">
+</polygon >
+<polygon points="410 84 409 136 461 129" fill="url(#id-male-6.6_base_4-11)" id="id-male-6.6_base_4-66">
+</polygon >
+<polygon points="173 246 167 286 191 351 263 386 328 330 359 330 359 152 348 139 336 139 309 152" fill="url(#id-male-6.6_base_4-12)" id="id-male-6.6_base_4-67">
+</polygon >
+<polygon points="464 159 516 190 500 159" fill="url(#id-male-6.6_base_4-13)" id="id-male-6.6_base_4-68">
+</polygon >
+<polygon points="302 31 346 72 382 62 409 37 416 28 416 13" fill="url(#id-male-6.6_base_4-14)" id="id-male-6.6_base_4-69">
+</polygon >
+<polygon points="263 151 191 202 219 151" fill="#31050c" id="id-male-6.6_base_4-70">
+</polygon >
+<polygon points="154 206 170 170 122 188" fill="#894752" id="id-male-6.6_base_4-71">
+</polygon >
+<polygon points="358 285 344 299 323 318 305 354 358 345 354 305" fill="url(#id-male-6.6_base_4-15)" id="id-male-6.6_base_4-72">
+</polygon >
+<polygon points="260 361 265 387 203 371 191 347" fill="#380b07" id="id-male-6.6_base_4-73">
+</polygon >
+<polygon points="198 362 181 359 167 284" fill="#1d0100" id="id-male-6.6_base_4-74">
+</polygon >
+<polygon points="477 341 477 335 488 326 496 325 509 338 496 348 485 354" fill="#130000" id="id-male-6.6_base_4-75">
+</polygon >
+<polygon points="314 151 342 220 317 293 237 351 209 318 172 251 185 205 270 146" fill="url(#id-male-6.6_base_4-16)" id="id-male-6.6_base_4-76">
+</polygon >
+<polygon points="314 151 330 238 209 318 172 251 185 205 270 146" fill="url(#id-male-6.6_base_4-17)" id="id-male-6.6_base_4-76">
+</polygon >
+<polygon points="211 335 223 322 242 327 244 332 235 353 213 349" fill="#190001" id="id-male-6.6_base_4-78">
+</polygon >
+<polygon points="224 339 226 342 226 345 222 349 235 350 242 333 230 338 227 335" fill="#210a0f" id="id-male-6.6_base_4-79">
+</polygon >
+<polygon points="488 343 491 347 486 351 479 338 489 327 495 327 493 336" fill="#1f0405" id="id-male-6.6_base_4-80">
+</polygon >
+<polygon points="485 339 488 343 493 337" fill="#310c07" id="id-male-6.6_base_4-81">
+</polygon >
+<polygon points="359 162 359 291 406 325 455 347 529 267 463 182 415 166" fill="url(#id-male-6.6_base_4-18)" id="id-male-6.6_base_4-82">
+</polygon >
+<polygon points="359 178 359 281 391 302 391 249 489 270 461 189 415 166" fill="url(#id-male-6.6_base_4-19)" id="id-male-6.6_base_4-82">
+</polygon >
+<polygon points="359 178 359 219 472 220 461 189 415 166 371 163" fill="url(#id-male-6.6_base_4-20)" id="id-male-6.6_base_4-82">
+</polygon >
+<polygon points="358 178 372 168 440 156 413 137 378 158 411 80 396 60 358 146" fill="url(#id-male-6.6_base_4-21)" id="id-male-6.6_base_4-85">
+</polygon >
+<polygon points="346 140 358 152 372 129 400 48 369 86 364 130" fill="#622d32" id="id-male-6.6_base_4-86">
+</polygon >
+<polygon points="591 281 601 226 559 159 514 159 523 138 499 156 571 263" fill="url(#id-male-6.6_base_4-22)" id="id-male-6.6_base_4-87">
+</polygon >
+<polygon points="609 298 626 332 629 285 627 227 614 207 617 251" fill="#421d30" id="id-male-6.6_base_4-88">
+</polygon >
+<polygon points="554 159 567 157 612 177 614 192 579 175 603 207 601 226" fill="#420a1f" id="id-male-6.6_base_4-89">
+</polygon >
+<polygon points="641 823 648 826 697 896 713 873 682 781" fill="url(#id-male-6.6_base_4-23)" id="id-male-6.6_base_4-90">
+</polygon >
+<polygon points="625 840 700 762 688 738 679 784 648 776 626 822" fill="url(#id-male-6.6_base_4-24)" id="id-male-6.6_base_4-90">
+</polygon >
+<polygon points="648 862 648 845 661 825 661 870 654 878 657 922 652 929 637 929 632 914 632 893 632 877 644 888" fill="#340807" id="id-male-6.6_base_4-92">
+</polygon >
+<polygon points="554 375 577 333 607 451 594 508 568 462" fill="#441208" id="id-male-6.6_base_4-93">
+</polygon >
+<polygon points="623 326 643 425 633 431 693 523 652 427 636 326 625 315" fill="#5a1935" id="id-male-6.6_base_4-94">
+</polygon >
+<polygon points="628 274 638 339 623 314" fill="#2a0303" id="id-male-6.6_base_4-95">
+</polygon >
+<polygon points="693 523 695 567 685 525 618 416 633 431" fill="#150000" id="id-male-6.6_base_4-96">
+</polygon >
+<polygon points="640 463 599 539 601 571 634 655 646 703 650 754 658 640 660 491" fill="#43150c" id="id-male-6.6_base_4-97">
+</polygon >
+<polygon points="610 531 648 646 652 546 638 479" fill="#571f15" id="id-male-6.6_base_4-97">
+</polygon >
+<polygon points="693 748 677 730 677 700 660 491 685 525 691 552 684 727" fill="#210200" id="id-male-6.6_base_4-99">
+</polygon >
+<polygon points="691 746 703 768 693 727 695 567 691 551 683 727" fill="#722345" id="id-male-6.6_base_4-100">
+</polygon >
+<polygon points="260 559 310 683 355 716 263 713 238 685 195 582" fill="url(#id-male-6.6_base_4-25)" id="id-male-6.6_base_4-101">
+</polygon >
+<polygon points="637 931 636 919 639 914 653 914 653 922 651 929 648 931 644 933" fill="#3d100e" id="id-male-6.6_base_4-102">
+</polygon >
+<polygon points="637 861 637 882 641 890 653 886 649 861" fill="#602018" id="id-male-6.6_base_4-103">
+</polygon >
+<polygon points="691 871 693 912 688 936 669 956 671 965 696 924 696 909 705 877" fill="#59211d" id="id-male-6.6_base_4-104">
+</polygon >
+<polygon points="703 768 684 788 693 837 712 873 702 908 701 933 707 925 718 873 704 834 697 788" fill="#2d0303" id="id-male-6.6_base_4-105">
+</polygon >
+<polygon points="667 939 643 946 644 934 657 928 667 922 676 903 672 899 670 874 660 870 660 854 671 867 680 873 680 902 677 920" fill="#200600" id="id-male-6.6_base_4-106">
+</polygon >
+<polygon points="361 510 359 634 426 561 420 535" fill="url(#id-male-6.6_base_4-26)" opacity="0.626" id="id-male-6.6_base_4-107">
+</polygon >
+<polygon points="319 403 289 399 268 380 313 343 361 348 362 372" fill="url(#id-male-6.6_base_4-27)" id="id-male-6.6_base_4-108">
+</polygon >
+<polygon points="171 141 168 151 180 151 204 139 196 138" fill="url(#id-male-6.6_base_4-28)" id="id-male-6.6_base_4-109">
+</polygon >
+<polygon points="359 308 362 360 382 334" fill="#6a2c1e" opacity="0.625" id="id-male-6.6_base_4-110">
+</polygon >
+<polygon points="360 546 360 584 387 551 374 540" fill="url(#id-male-6.6_base_4-29)" opacity="0.626" id="id-male-6.6_base_4-111">
+</polygon >
+<polygon points="346 542 360 547 373 540 360 534" fill="#0e0000" id="id-male-6.6_base_4-112">
+</polygon >
+<polygon points="325 545 277 503 259 561 308 579" fill="url(#id-male-6.6_base_4-30)" opacity="0.758" id="id-male-6.6_base_4-113">
+</polygon >
+<polygon points="389 499 460 467 449 510 404 520" fill="url(#id-male-6.6_base_4-31)" id="id-male-6.6_base_4-114">
+</polygon >
+<polygon points="364 491 361 403 420 428" fill="url(#id-male-6.6_base_4-32)" opacity="0.758" id="id-male-6.6_base_4-115">
+</polygon >
+<polygon points="262 446 333 446 323 469 279 492" fill="url(#id-male-6.6_base_4-33)" opacity="0.758" id="id-male-6.6_base_4-116">
+</polygon >
+<polygon points="259 425 279 496 259 561 236 528 213 443 227 425 243 447" fill="url(#id-male-6.6_base_4-34)" id="id-male-6.6_base_4-117">
+</polygon >
+<polygon points="412 343 444 374 466 383 499 351 447 354 416 339" fill="url(#id-male-6.6_base_4-35)" id="id-male-6.6_base_4-118">
+</polygon >
+<polygon points="164 252 163 278 128 284" fill="#170000" id="id-male-6.6_base_4-119">
+</polygon >
+<polygon points="58 478 88 441 88 416 69 430 66 456" fill="url(#id-male-6.6_base_4-36)" id="id-male-6.6_base_4-120">
+</polygon >
+<polygon points="76 684 69 634 61 517 89 474 111 569" fill="url(#id-male-6.6_base_4-37)" id="id-male-6.6_base_4-121">
+</polygon >
+<polygon points="53 489 47 539 69 635 76 684 53 760 40 781 16 766 28 727 23 604 28 544" fill="url(#id-male-6.6_base_4-38)" id="id-male-6.6_base_4-122">
+</polygon >
+<polygon points="136 452 127 497 153 460 177 340 170 300" fill="#1f0300" id="id-male-6.6_base_4-123">
+</polygon >
+<polygon points="181 359 159 460 143 497 142 514 123 532 109 514 108 490 127 497 153 460 177 340" fill="#2b0903" id="id-male-6.6_base_4-123">
+</polygon >
+<polygon points="38 747 28 772 38 788 44 772" fill="#591f14" id="id-male-6.6_base_4-125">
+</polygon >
+<polygon points="359 379 342 413 361 444 377 417" fill="url(#id-male-6.6_base_4-39)" id="id-male-6.6_base_4-126">
+</polygon >
+<polygon points="196 581 260 561 229 519" fill="url(#id-male-6.6_base_4-40)" id="id-male-6.6_base_4-127">
+</polygon >
+<polygon points="74 929 66 925 69 909 78 905 86 912 83 928" fill="url(#id-male-6.6_base_4-41)" id="id-male-6.6_base_4-128">
+</polygon >
+<polygon points="20 903 7 880 21 851 28 871" fill="#723021" id="id-male-6.6_base_4-129">
+</polygon >
+<polygon points="218 1123 203 1040 191 913 171 1090 182 1169 230 1208 261 1237 270 1213 234 1175 212 1157 272 1191 281 1169" fill="url(#id-male-6.6_base_4-42)" opacity="0.808" id="id-male-6.6_base_4-130">
+</polygon >
+<polygon points="182 1207 181 1155 213 1106 236 1166 230 1210" fill="#44120c" id="id-male-6.6_base_4-131">
+</polygon >
+<polygon points="187 902 211 1137 227 1161 275 1187 299 1137 272 1009 299 918 269 791 211 836" fill="url(#id-male-6.6_base_4-43)" id="id-male-6.6_base_4-132">
+</polygon >
+<polygon points="288 1079 311 1040 311 942 295 903 264 1019 275 1188 301 1137" fill="url(#id-male-6.6_base_4-44)" id="id-male-6.6_base_4-133">
+</polygon >
+<polygon points="584 908 604 1008 608 1106 614 998 599 887" fill="#722345" id="id-male-6.6_base_4-134">
+</polygon >
+<polygon points="430 886 488 1140 535 1115 561 925 566 886 536 816 500 786" fill="url(#id-male-6.6_base_4-45)" opacity="0.792" id="id-male-6.6_base_4-135">
+</polygon >
+<polygon points="581 921 588 1011 584 1112 576 1162 544 1046 566 886" fill="url(#id-male-6.6_base_4-46)" id="id-male-6.6_base_4-136">
+</polygon >
+<polygon points="561 1247 518 1200 472 1112 494 931 505 931 594 1188 579 1244" fill="url(#id-male-6.6_base_4-47)" id="id-male-6.6_base_4-137">
+</polygon >
+<polygon points="531 1221 539 1263 536 1269 516 1287 509 1287 500 1263 513 1199 488 1226 462 1170 472 1101 427 1010 398 877 469 771 518 739 536 818 500 787 433 890 477 1078 534 1212" fill="url(#id-male-6.6_base_4-48)" id="id-male-6.6_base_4-138">
+</polygon >
+<polygon points="321 1058 284 852 258 721 266 733 371 879 362 883 354 881 343 914 345 954" fill="#3e1009" id="id-male-6.6_base_4-139">
+</polygon >
+<polygon points="429 1068 424 875 536 705 454 704 380 865 384 906 391 972" fill="#47100b" opacity="0.394" id="id-male-6.6_base_4-140">
+</polygon >
+<polygon points="175 1262 194 1287 206 1287 225 1226 213 1249 175 1221 174 1232" fill="#210300" id="id-male-6.6_base_4-141">
+</polygon >
+<polygon points="528 1227 554 1234 569 1169 549 1168" fill="#551e14" id="id-male-6.6_base_4-142">
+</polygon >
+<polygon points="546 678 545 672 539 641 528 608 531 571 509 500 522 405 539 361 539 350 547 389 542 330 558 289 517 369 528 369 517 411 499 442 509 465 488 531 507 525 522 585 449 724" fill="#1b0000" id="id-male-6.6_base_4-51">
+</polygon >
+<polygon points="402 722 490 609 522 585 449 723" fill="#401009" id="id-male-6.6_base_4-144">
+</polygon >
+<polygon points="174 664 139 826 137 907 139 937 238 690 352 886 354 881 362 883 371 879 383 906 471 773 548 712 596 844 545 673 539 641 478 697 449 723 278 705 232 657 188 566 191 610" fill="url(#id-male-6.6_base_4-49)" id="id-male-6.6_base_4-51">
+</polygon >
+<polygon points="189 616 211 620 190 586 190 609" fill="#1b0000" id="id-male-6.6_base_4-146">
+</polygon >
+<polygon points="139 836 225 709 167 697 139 826" fill="#1b0000" id="id-male-6.6_base_4-147">
+</polygon >
+<polygon points="518 734 596 843 547 678" fill="#1b0000" id="id-male-6.6_base_4-148">
+</polygon >
+<polygon points="415 778 447 726 314 744 329 762" fill="#511911" opacity="0.52" id="id-male-6.6_base_4-51">
+</polygon >
+<polygon points="411 685 463 666 456 573" fill="#300404" id="id-male-6.6_base_4-150">
+</polygon >
+</g >
+<defs >
+<linearGradient x1="53%" y1="5%" x2="47%" y2="91%" id="id-male-6.8_face_4-0">
+<stop stop-color="#98aeee" offset="0%">
+</stop >
+<stop stop-color="#60261d" offset="82%">
+</stop >
+<stop stop-color="#af4336" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="62%" y1="61%" x2="50%" y2="36%" id="id-male-6.8_face_4-1">
+<stop stop-color="#763e30" offset="0%">
+</stop >
+<stop stop-color="#230801" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="13%" x2="57%" y2="81%" id="id-male-6.8_face_4-2">
+<stop stop-color="#5c0d0d" offset="0%">
+</stop >
+<stop stop-color="#af4336" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="54%" y2="88%" id="id-male-6.8_face_4-3">
+<stop stop-color="#341108" offset="0%">
+</stop >
+<stop stop-color="#4d1910" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="75%" x2="35%" y2="25%" id="id-male-6.8_face_4-4">
+<stop stop-color="#5e241a" offset="0%">
+</stop >
+<stop stop-color="#8c1919" offset="100%">
+</stop >
+<stop stop-color="#8c1919" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="33%" y1="21%" x2="55%" y2="84%" id="id-male-6.8_face_4-5">
+<stop stop-color="#622513" offset="0%">
+</stop >
+<stop stop-color="#5d322a" offset="10%">
+</stop >
+<stop stop-color="#673225" offset="53%">
+</stop >
+<stop stop-color="#70392b" offset="70%">
+</stop >
+<stop stop-color="#592419" offset="88%">
+</stop >
+<stop stop-color="#59261b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="28%" y1="56%" x2="79%" y2="54%" id="id-male-6.8_face_4-6">
+<stop stop-color="#7f4233" offset="0%">
+</stop >
+<stop stop-color="#804d39" offset="16%">
+</stop >
+<stop stop-color="#935643" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="68%" y1="59%" x2="18%" y2="46%" id="id-male-6.8_face_4-7">
+<stop stop-color="#7a4334" offset="0%">
+</stop >
+<stop stop-color="#230802" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="26%" y1="17%" x2="91%" y2="50%" id="id-male-6.8_face_4-8">
+<stop stop-color="#693528" offset="0%">
+</stop >
+<stop stop-color="#8b576b" offset="16%">
+</stop >
+<stop stop-color="#63372f" offset="51%">
+</stop >
+<stop stop-color="#5a332e" offset="85%">
+</stop >
+<stop stop-color="#59322d" offset="88%">
+</stop >
+<stop stop-color="#56312d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="16%" x2="52%" y2="84%" id="id-male-6.8_face_4-9">
+<stop stop-color="#451b10" offset="0%">
+</stop >
+<stop stop-color="#592419" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="91%" y1="32%" x2="50%" y2="77%" id="id-male-6.8_face_4-10">
+<stop stop-color="#441f15" offset="0%">
+</stop >
+<stop stop-color="#4f261a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="61%" y1="0%" x2="61%" y2="72%" id="id-male-6.8_face_4-11">
+<stop stop-color="#2a0f0a" offset="0%">
+</stop >
+<stop stop-color="#55291d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="34%" y1="50%" x2="87%" y2="60%" id="id-male-6.8_face_4-12">
+<stop stop-color="#854a3b" offset="0%">
+</stop >
+<stop stop-color="#723a2c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="2%" x2="46%" y2="90%" id="id-male-6.8_face_4-13">
+<stop stop-color="#44190e" offset="0%">
+</stop >
+<stop stop-color="#6e2a15" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="67%" y1="12%" x2="50%" y2="100%" id="id-male-6.8_face_4-14">
+<stop stop-color="#5b2926" offset="0%">
+</stop >
+<stop stop-color="#622d29" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="50%" x2="56%" y2="52%" id="id-male-6.8_face_4-15">
+<stop stop-color="#612c28" offset="0%">
+</stop >
+<stop stop-color="#380f0a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="18%" y1="22%" x2="62%" y2="71%" id="id-male-6.8_face_4-16">
+<stop stop-color="#622d29" offset="0%">
+</stop >
+<stop stop-color="#724037" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="35%" x2="87%" y2="93%" id="id-male-6.8_face_4-17">
+<stop stop-color="#8c5743" offset="0%">
+</stop >
+<stop stop-color="#622d29" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="50%" x2="18%" y2="50%" id="id-male-6.8_face_4-18">
+<stop stop-color="#70392c" offset="0%">
+</stop >
+<stop stop-color="#54281c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="54%" y1="44%" x2="58%" y2="44%" id="id-male-6.8_face_4-19">
+<stop stop-color="#8fa6d7" offset="0%">
+</stop >
+<stop stop-color="#93abdc" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="52%" y1="37%" x2="52%" y2="60%" id="id-male-6.8_face_4-20">
+<stop stop-color="#441f15" offset="0%">
+</stop >
+<stop stop-color="#3f1d13" offset="100%" stop-opacity="0">
+</stop >
+<stop stop-color="#3f1d13" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="22%" x2="50%" y2="100%" id="id-male-6.8_face_4-21">
+<stop stop-color="#2d0e09" offset="0%">
+</stop >
+<stop stop-color="#4c2119" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="41%" x2="45%" y2="59%" id="id-male-6.8_face_4-22">
+<stop stop-color="#35130a" offset="0%">
+</stop >
+<stop stop-color="#2b1935" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="115%" x2="50%" y2="50%" id="id-male-6.8_face_4-23">
+<stop stop-color="#370d0a" offset="0%">
+</stop >
+<stop stop-color="#380f0a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="73%" y1="34%" x2="35%" y2="50%" id="id-male-6.8_face_4-24">
+<stop stop-color="#5c2d21" offset="0%">
+</stop >
+<stop stop-color="#200e09" offset="42%">
+</stop >
+<stop stop-color="#210701" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="26%" y1="40%" x2="50%" y2="72%" id="id-male-6.8_face_4-25">
+<stop stop-color="#401910" offset="0%">
+</stop >
+<stop stop-color="#270b06" offset="21%">
+</stop >
+<stop stop-color="#3d1c17" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-male-6.8_face_4-26">
+<stop stop-color="#401a0f" offset="0%">
+</stop >
+<stop stop-color="#a9715b" offset="44%">
+</stop >
+<stop stop-color="#5d2f1f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-male-6.8_face_4-27">
+<stop stop-color="#401a0f" offset="0%">
+</stop >
+<stop stop-color="#a9715b" offset="44%">
+</stop >
+<stop stop-color="#5d2f1f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="82%" y1="50%" x2="18%" y2="50%" id="id-male-6.8_face_4-28">
+<stop stop-color="#6a3523" offset="0%">
+</stop >
+<stop stop-color="#552216" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="82%" y1="50%" x2="18%" y2="50%" id="id-male-6.8_face_4-29">
+<stop stop-color="#552216" offset="0%">
+</stop >
+<stop stop-color="#6a3523" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="50%" x2="50%" y2="100%" id="id-male-6.8_face_4-30">
+<stop stop-color="#060505" offset="0%">
+</stop >
+<stop stop-color="#34368a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="50%" x2="50%" y2="100%" id="id-male-6.8_face_4-31">
+<stop stop-color="#060505" offset="0%">
+</stop >
+<stop stop-color="#34368a" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(548,259)" id="id-male-6.8_face_4-32">
+<g id="id-male-6.8_face_4-33">
+<g transform="translate(0,121)" id="id-male-6.8_face_4-34">
+<polygon points="199 13 214 3 222 9 221 25 214 38 214 43 210 54 208 65 197 70 190 64" fill="url(#id-male-6.8_face_4-0)" id="id-male-6.8_face_4-35">
+</polygon >
+<polygon points="197 24 209 14 216 9 219 10 220 22 214 37 195 43" fill="url(#id-male-6.8_face_4-1)" id="id-male-6.8_face_4-36">
+</polygon >
+<polygon points="203 38 208 34 199 25 203 22 209 23 207 18 212 16 214 38 214 43 213 48 207 51 201 46" fill="url(#id-male-6.8_face_4-2)" id="id-male-6.8_face_4-35">
+</polygon >
+<polygon points="212 5 214 3 222 9 222 10 219 10 216 9" fill="#5771a7" id="id-male-6.8_face_4-35">
+</polygon >
+<polygon points="208 65 197 70 190 64 194 42 199 50 193 62 199 67" fill="#50151b" id="id-male-6.8_face_4-35">
+</polygon >
+<polygon points="203 62 202 54 211 50" fill="#723c31" id="id-male-6.8_face_4-40">
+</polygon >
+<polygon points="196 50 202 51 203 42 196 46" fill="#230801" id="id-male-6.8_face_4-41">
+</polygon >
+<polygon points="194 45 199 47 202 45 202 32 197 31" fill="#421518" id="id-male-6.8_face_4-42">
+</polygon >
+<path d="M 30 70 C 24 70 20 69 19 68 C 17 66 12 52 8 46 C 4 39 2 38 1 33 C 0 30 0 21 1 6 L 8 0 L 23 9 L 30 70 Z" fill="url(#id-male-6.8_face_4-3)" id="id-male-6.8_face_4-43">
+</path >
+<polygon points="8 6 2 6 7 3 10 2 23 9 19 14" fill="#110a0c" id="id-male-6.8_face_4-43">
+</polygon >
+<path d="M 26 68 C 23 69 20 69 19 68 C 17 66 12 52 8 46 C 7 44 6 43 6 42 C 9 45 10 47 12 48 C 13 50 14 52 16 56 L 26 68 Z" fill="#3f150d" id="id-male-6.8_face_4-43">
+</path >
+<polygon points="26 68 29 65 27 53 20 61" fill="#5e241a" id="id-male-6.8_face_4-43">
+</polygon >
+<path d="M 23 19 C 12 12 6 9 5 9 C 3 10 2 18 2 33 L 17 53 L 26 52 L 23 19 Z" fill="url(#id-male-6.8_face_4-4)" id="id-male-6.8_face_4-47">
+</path >
+<polygon points="12 17 19 19 18 26 15 28 22 38 21 49 12 44" fill="#3f150d" id="id-male-6.8_face_4-48">
+</polygon >
+<path d="M 27 53 C 16 50 10 47 8 42 C 6 38 8 30 12 17 L 15 23 C 15 36 14 42 15 43 C 15 45 18 46 25 48 L 27 53 Z" fill="#5e241a" id="id-male-6.8_face_4-49">
+</path >
+<polygon points="11 31 19 26 19 18 14 20 12 18" fill="#3e150d" id="id-male-6.8_face_4-50">
+</polygon >
+<polygon points="20 46 17 42 22 37 25 48" fill="#6a3032" id="id-male-6.8_face_4-51">
+</polygon >
+</g >
+<g transform="translate(18,0)" id="id-male-6.8_face_4-52">
+<path d="M 20 231 C 18 227 11 201 5 153 C 3 140 2 128 1 117 C -1 91 4 63 8 49 C 9 46 16 35 16 34 C 30 20 56 0 94 0 C 157 0 178 45 181 51 C 183 57 183 111 181 144 C 178 177 162 232 160 235 C 158 239 124 261 119 264 C 113 266 74 267 69 264 C 64 261 22 235 20 231 Z" fill="url(#id-male-6.8_face_4-5)" id="id-male-6.8_face_4-53">
+</path >
+<polygon points="7 140 17 117 33 106 149 120 167 144 147 176 73 161 39 177 29 171" fill="url(#id-male-6.8_face_4-6)" id="id-male-6.8_face_4-54">
+</polygon >
+<polygon points="7 140 17 117 33 106 31 136 77 131 86 136 75 144 52 152 49 152 30 154 23 163" fill="url(#id-male-6.8_face_4-7)" id="id-male-6.8_face_4-54">
+</polygon >
+<path d="M 5 153 C 3 140 2 128 1 117 C -1 91 4 63 8 49 C 9 46 16 35 16 34 C 30 20 56 0 94 0 C 157 0 178 45 181 51 C 183 57 183 111 181 144 C 181 149 180 153 179 158 L 159 161 L 145 148 L 115 146 L 101 161 L 86 110 L 108 103 C 144 108 161 111 161 110 C 158 100 155 92 154 86 C 152 81 151 76 149 69 L 159 43 L 95 32 L 26 43 L 17 71 L 19 112 L 5 153 Z" fill="url(#id-male-6.8_face_4-8)" id="id-male-6.8_face_4-53">
+</path >
+<polygon points="39 209 44 175 39 177 29 171" fill="#713a2c" id="id-male-6.8_face_4-54">
+</polygon >
+<path d="M 20 231 C 18 227 11 201 5 153 C 4 146 3 140 3 133 L 30 171 L 54 255 C 40 246 21 234 20 231 Z" fill="url(#id-male-6.8_face_4-9)" id="id-male-6.8_face_4-53">
+</path >
+<polygon points="120 214 141 194 148 211 132 249 115 262 65 259 56 251 73 255 98 256" fill="url(#id-male-6.8_face_4-10)" id="id-male-6.8_face_4-59">
+</polygon >
+<polygon points="80 183 80 201 103 202 128 183 128 174 108 161" fill="#6d3e34" id="id-male-6.8_face_4-60">
+</polygon >
+<polygon points="99 197 98 188 119 178 132 185 139 201 121 214" fill="#5b2c22" id="id-male-6.8_face_4-61">
+</polygon >
+<polygon points="60 213 54 208 54 188 67 176 88 184 86 187 86 196 93 198 102 194 113 205" fill="#663226" id="id-male-6.8_face_4-62">
+</polygon >
+<polygon points="59 173 74 168 112 165 129 177 129 183 121 186 107 180 84 180 58 189" fill="#532016" id="id-male-6.8_face_4-62">
+</polygon >
+<polygon points="52 220 65 211 125 212 126 233 120 246 77 258" fill="url(#id-male-6.8_face_4-11)" id="id-male-6.8_face_4-64">
+</polygon >
+<polygon points="151 171 140 187 108 161 141 174" fill="url(#id-male-6.8_face_4-12)" id="id-male-6.8_face_4-65">
+</polygon >
+<polygon points="117 109 126 125 157 130 163 120 151 101" fill="#7d4c3d" id="id-male-6.8_face_4-66">
+</polygon >
+<polygon points="160 128 146 114 155 108 164 117 167 125 163 122" fill="#8c594e" id="id-male-6.8_face_4-67">
+</polygon >
+<polygon points="80 135 91 122 88 109 70 105" fill="#704131" id="id-male-6.8_face_4-68">
+</polygon >
+<polygon points="43 109 60 118 72 128 82 133 69 109 52 105" fill="#593225" id="id-male-6.8_face_4-69">
+</polygon >
+<path d="M 180 154 C 175 187 161 232 160 235 C 159 237 151 243 142 249 L 154 166 L 172 136 L 180 154 Z" fill="url(#id-male-6.8_face_4-13)" id="id-male-6.8_face_4-53">
+</path >
+<polygon points="104 105 128 105 160 106 154 87 144 99 126 102 114 91" fill="#5e2a1b" id="id-male-6.8_face_4-71">
+</polygon >
+</g >
+</g >
+<polygon points="95 135 84 164 97 164 104 130 99 130" fill="url(#id-male-6.8_face_4-14)" id="id-male-6.8_face_4-72">
+</polygon >
+<polygon points="84 175 83 177 90 186 105 186 109 187 114 187 119 181 124 182 126 185 130 184 136 177 136 171 134 169 105 165" fill="url(#id-male-6.8_face_4-15)" id="id-male-6.8_face_4-73">
+</polygon >
+<polygon points="119 163 111 125 119 122 144 143" fill="url(#id-male-6.8_face_4-16)" id="id-male-6.8_face_4-74">
+</polygon >
+<path d="M 84 175 L 89 160 L 94 163 L 102 127 L 109 122 L 115 127 L 121 157 L 122 161 L 126 156 L 134 169 L 132 173 L 119 169 L 110 172 L 95 172 C 93 173 91 174 89 175 C 88 175 86 175 84 175 Z" fill="url(#id-male-6.8_face_4-17)" id="id-male-6.8_face_4-75">
+</path >
+<polygon points="179 128 167 143 148 145 131 138 115 128 126 112 137 110 148 120 161 118 172 126" fill="#6d4037" id="id-male-6.8_face_4-76">
+</polygon >
+<polygon points="102 154 104 144 111 144 119 169 108 172 96 170" fill="#a57563" id="id-male-6.8_face_4-75">
+</polygon >
+<polygon points="95 171 100 164 108 171" fill="#c393a5" id="id-male-6.8_face_4-78">
+</polygon >
+<g transform="translate(20,1)">
+<g id="id-male-6.8_face_4-79">
+<path d="M 0 128 C 2 128 3 128 3 128 L 9 130 C 8 150 8 159 8 159 C 6 158 5 158 5 158 L 0 144 C 0 133 0 128 0 128 Z" fill="#190d0d" id="id-male-6.8_face_4-80">
+</path >
+<g transform="translate(1,0)" id="id-male-6.8_face_4-81">
+<path d="M 7 131 L 25 91 L 25 61 L 47 20 L 36 26 C 21 39 11 56 0 78 L 2 129 L 7 131 Z" fill="url(#id-male-6.8_face_4-18)" id="id-male-6.8_face_4-82">
+</path >
+<path d="M 104 0 C 134 4 155 22 167 55 C 166 89 166 106 166 106 C 171 123 174 139 168 153 L 169 190 C 180 155 181 98 178 51 C 168 30 163 27 146 14 C 132 5 118 1 104 0 Z" fill="url(#id-male-6.8_face_4-19)" id="id-male-6.8_face_4-83">
+</path >
+<path d="M 24 96 C 50 94 63 93 63 93 C 83 97 92 99 92 99 C 112 94 121 92 121 92 C 138 93 148 97 158 101 C 152 94 141 88 128 83 C 104 86 92 87 92 87 L 63 80 C 37 91 24 96 24 96 Z" fill="#89594a" id="id-male-6.8_face_4-84">
+</path >
+<path d="M 132 43 L 147 52 C 135 73 129 84 129 84 C 105 87 93 89 93 89 C 70 84 59 81 59 81 L 64 66 C 109 51 132 43 132 43 Z" fill="#724037" id="id-male-6.8_face_4-85">
+</path >
+<path d="M 1 72 L 39 14 L 26 22 C 7 33 2 58 1 72 Z" fill="#8b576b" id="id-male-6.8_face_4-86">
+</path >
+</g >
+<path d="M 2 109 C 9 108 12 108 12 108 L 12 122 C 9 129 7 132 7 132 L 3 128 C 2 115 2 109 2 109 Z" fill="#32130a" id="id-male-6.8_face_4-87">
+</path >
+</g >
+<g transform="translate(47,194)" id="id-male-6.8_face_4-88">
+<path d="M 24 64 C 24 54 24 49 24 49 C 29 46 32 44 32 44 C 44 44 49 44 49 44 C 58 48 62 50 62 50 L 59 66 C 36 64 24 64 24 64 Z" fill="#724037" id="id-male-6.8_face_4-89">
+</path >
+<path d="M 16 29 C 26 43 30 50 30 50 C 49 50 58 50 58 50 L 74 29 C 36 29 16 29 16 29 Z" fill="#300f08" id="id-male-6.8_face_4-90">
+</path >
+<path d="M 15 12 C 21 4 24 0 24 0 C 49 0 61 0 61 0 C 71 10 77 16 77 16 C 63 8 57 5 57 5 L 30 5 C 20 10 15 12 15 12 Z" fill="#986857" id="id-male-6.8_face_4-91">
+</path >
+<path d="M 63 51 C 51 53 45 54 45 54 C 31 50 25 49 25 49 C 31 46 34 45 34 45 L 53 45 C 60 49 63 51 63 51 Z" fill="#92604e" id="id-male-6.8_face_4-92">
+</path >
+<path d="M 25 49 C 31 46 34 45 34 45 C 42 49 46 51 46 51 L 38 51 L 25 49 Z" fill="#ba8b94" id="id-male-6.8_face_4-93">
+</path >
+<path d="M 72 11 C 82 9 87 9 87 9 C 89 12 89 14 89 14 L 83 34 C 75 19 72 11 72 11 Z" fill="url(#id-male-6.8_face_4-20)" id="id-male-6.8_face_4-94">
+</path >
+<path d="M 3 12 C 10 15 13 16 13 16 C 15 26 16 31 16 31 C 13 36 12 39 12 39 L 0 21 C 2 15 3 12 3 12 Z" fill="#3a1911" id="id-male-6.8_face_4-95">
+</path >
+<path d="M 5 19 C 4 23 4 25 4 25 L 13 29 C 8 22 5 19 5 19 Z" fill="#642f23" id="id-male-6.8_face_4-96">
+</path >
+<path d="M 9 18 C 16 10 22 5 27 4 C 38 2 49 1 60 4 C 65 7 70 11 75 14 C 76 15 77 18 78 19 C 75 20 74 20 74 20 C 64 19 59 18 59 18 L 21 19 C 13 19 9 18 9 18 Z" fill="#2d0e09" id="id-male-6.8_face_4-97">
+</path >
+<path d="M 12 17 C 21 9 26 5 26 5 C 29 8 31 12 32 17 L 20 18 C 15 17 12 17 12 17 Z" fill="#3a0c0a" id="id-male-6.8_face_4-98">
+</path >
+<path d="M 41 3 C 38 8 36 12 34 16 C 47 16 53 16 53 16 L 47 4 C 43 3 41 3 41 3 Z" fill="url(#id-male-6.8_face_4-21)" id="id-male-6.8_face_4-99">
+</path >
+<path d="M 61 7 C 58 13 56 17 56 17 C 67 18 73 19 73 19 L 76 17 C 69 10 64 7 61 7 Z" fill="#460f0c" id="id-male-6.8_face_4-100">
+</path >
+<path d="M 9 22 C 15 28 21 32 28 36 C 39 38 50 38 60 36 C 69 32 74 28 78 21 C 72 21 68 21 68 21 C 54 16 32 20 16 19 C 12 21 9 22 9 22 Z" fill="#6f2323" id="id-male-6.8_face_4-101">
+</path >
+<path d="M 17 21 C 25 28 29 31 29 31 C 50 32 61 32 61 32 L 70 21 C 54 17 36 17 17 21 Z" fill="#a56172" id="id-male-6.8_face_4-102">
+</path >
+<path d="M 25 21 C 21 21 19 21 19 21 C 25 26 27 28 27 28 C 34 26 42 25 50 27 C 57 26 61 26 61 26 C 54 25 51 25 51 25 C 46 23 39 22 28 24 C 26 22 25 21 25 21 Z" fill="#b77f91" id="id-male-6.8_face_4-103">
+</path >
+<path d="M 5 18 L 11 25 L 15 20 C 25 21 34 20 42 19 C 48 18 54 19 60 20 L 66 20 L 75 26 L 80 18 C 77 19 73 19 69 18 C 65 18 58 17 50 15 C 45 17 40 16 35 15 C 26 17 17 18 5 18 Z" fill="#1f0805" id="id-male-6.8_face_4-104">
+</path >
+</g >
+</g >
+<path d="M 38 231 C 37 230 37 228 36 225 L 87 256 L 133 258 L 149 246 L 166 209 L 163 247 C 152 254 140 262 137 264 C 131 266 92 267 87 264 C 82 261 40 235 38 231 Z" fill="url(#id-male-6.8_face_4-22)" id="id-male-6.8_face_4-53">
+</path >
+<path d="M 110 181 C 103 181 97 177 93 177 C 90 177 88 178 85 180 L 90 186 L 105 186 L 109 187 L 114 187 L 119 181 L 124 182 L 126 185 L 130 184 L 134 179 C 133 176 132 175 131 175 C 130 175 117 181 110 181 Z" fill="url(#id-male-6.8_face_4-23)" id="id-male-6.8_face_4-73">
+</path >
+<polygon points="92 180 94 186 105 186 97 179" fill="#592b23" id="id-male-6.8_face_4-73">
+</polygon >
+<polygon points="117 180 131 175 132 178 125 183 119 183" fill="#180300" id="id-male-6.8_face_4-108">
+</polygon >
+<polygon points="87 180 90 177 99 178 101 179 101 184 92 183" fill="#180300" id="id-male-6.8_face_4-109">
+</polygon >
+<g transform="translate(26,89)" id="id-male-6.8_face_4-110">
+<path d="M 1 48 C 15 48 22 48 22 48 C 32 53 37 56 37 56 C 50 55 57 55 57 55 C 63 44 66 39 66 39 C 66 38 66 37 66 37 L 63 36 C 71 30 75 27 75 27 C 68 15 64 9 64 9 C 39 9 26 9 26 9 L 11 19 L 1 40 C 1 45 1 48 1 48 Z" fill="url(#id-male-6.8_face_4-24)" id="id-male-6.8_face_4-111">
+</path >
+<path d="M 68 15 C 73 23 75 27 75 27 C 90 31 98 34 98 34 L 97 18 C 78 16 68 15 68 15 Z" fill="#53281d" id="id-male-6.8_face_4-112">
+</path >
+<path d="M 92 27 C 97 34 99 37 99 37 C 103 41 105 43 105 43 C 109 48 118 51 129 52 C 123 55 120 56 120 56 C 134 57 141 57 141 57 C 147 50 150 47 150 47 L 158 52 L 163 47 C 162 39 162 33 158 23 C 151 16 148 12 148 12 C 135 11 121 10 105 10 C 97 22 92 27 92 27 Z" fill="url(#id-male-6.8_face_4-25)" id="id-male-6.8_face_4-113">
+</path >
+<path d="M 24 34 C 27 29 33 26 43 25 C 51 28 58 32 64 37 C 66 38 67 39 67 39 L 63 43 C 54 30 41 27 24 34 Z" fill="url(#id-male-6.8_face_4-26)" id="id-male-6.8_face_4-114">
+</path >
+<path d="M 98 39 C 100 43 101 45 101 45 C 111 31 124 25 141 37 C 130 23 116 24 98 39 Z" fill="url(#id-male-6.8_face_4-27)" id="id-male-6.8_face_4-115">
+</path >
+<path d="M 11 27 C 22 28 28 29 28 29 C 32 23 40 21 52 22 C 46 14 43 11 43 11 L 26 10 C 16 22 11 27 11 27 Z" fill="url(#id-male-6.8_face_4-28)" id="id-male-6.8_face_4-116">
+</path >
+<path d="M 107 23 L 126 10 C 140 12 147 12 147 12 C 154 19 158 23 158 23 C 159 27 160 29 160 29 L 142 31 C 142 26 130 24 107 23 Z" fill="url(#id-male-6.8_face_4-29)" id="id-male-6.8_face_4-117">
+</path >
+<path d="M 122 23 C 122 21 122 20 122 20 C 125 19 128 20 130 22 L 129 25 C 124 23 122 23 122 23 Z" fill="#8a5845" id="id-male-6.8_face_4-118">
+</path >
+<path d="M 35 23 C 35 20 35 19 35 19 C 41 18 44 18 44 18 L 45 22 C 38 23 35 23 35 23 Z" fill="#8a5845" id="id-male-6.8_face_4-119">
+</path >
+<path d="M 61 34 C 59 36 58 37 58 37 C 61 39 62 40 62 40 C 63 42 64 43 64 43 L 65 37 C 62 35 61 34 61 34 Z" fill="#986c7f" id="id-male-6.8_face_4-120">
+</path >
+<path d="M 100 39 C 100 43 100 45 100 45 C 104 53 112 51 119 50 C 110 48 104 44 100 39 Z" fill="#90647c" id="id-male-6.8_face_4-121">
+</path >
+<path d="M 32 50 C 31 48 31 47 31 47 C 37 46 41 45 41 45 L 53 46 L 49 49 C 38 50 32 50 32 50 Z" fill="#723b2c" id="id-male-6.8_face_4-122">
+</path >
+<path d="M 32 39 C 31 40 30 41 30 41 C 32 44 32 45 32 45 L 36 45 C 33 41 32 39 32 39 Z" fill="#421b14" id="id-male-6.8_face_4-123">
+</path >
+<path d="M 42 38 C 45 38 47 38 47 38 L 45 44 C 43 40 42 38 42 38 Z" fill="#421b14" id="id-male-6.8_face_4-124">
+</path >
+<path d="M 18 42 C 28 51 34 56 34 56 C 34 56 47 55 47 55 L 59 42 L 50 48 L 35 49 C 24 44 18 42 18 42 Z" fill="#3a1a10" id="id-male-6.8_face_4-125">
+</path >
+<path d="M 68 14 C 68 10 68 8 68 8 C 66 6 65 5 65 5 C 65 8 65 10 65 10 C 61 4 59 1 59 1 C 51 1 46 1 46 1 C 32 2 25 3 25 3 C 21 6 19 8 19 8 C 19 6 19 5 19 5 C 16 9 14 11 14 11 C 12 17 10 20 10 20 L 17 14 C 17 18 17 20 17 20 C 24 14 28 11 28 11 C 41 11 53 10 64 12 C 66 13 68 14 68 14 Z" fill="#000000" id="id-male-6.8_face_4-126">
+</path >
+<path d="M 100 12 C 100 9 100 8 100 8 C 103 5 105 4 105 4 C 104 7 104 8 104 8 C 109 3 112 1 112 1 C 121 1 130 1 138 3 C 140 10 141 14 141 14 L 123 11 C 108 12 100 12 100 12 Z" fill="#000000" id="id-male-6.8_face_4-127">
+</path >
+<path d="M 142 5 C 145 11 147 15 147 15 C 153 21 157 24 157 24 C 156 20 156 17 156 17 C 154 14 153 12 153 12 C 152 14 152 15 152 15 L 148 7 C 144 6 142 5 142 5 Z" fill="#000000" id="id-male-6.8_face_4-128">
+</path >
+</g >
+<g transform="translate(41,120)" id="id-male-6.8_face_4-129">
+<g transform="translate(87,0)" id="id-male-6.8_face_4-130">
+<path d="M 1 15 L 1 13 C 11 4 19 -1 26 0 C 31 1 34 3 38 6 C 39 7 42 9 46 11 C 44 14 43 14 41 13 C 40 14 39 15 39 15 C 37 16 34 17 30 18 L 7 16 L 1 15 Z" fill="#060505" id="id-male-6.8_face_4-131">
+</path >
+<path d="M 6 14 L 8 17 L 29 18 L 37 13 C 30 7 25 5 20 5 C 15 5 11 8 6 14 Z" fill="#b5a7b5" id="id-male-6.8_face_4-132">
+</path >
+<path d="M 6 14 L 8 17 L 11 17 C 13 12 16 9 19 9 C 23 9 27 11 33 16 L 37 13 C 30 7 25 5 20 5 C 15 5 11 8 6 14 Z" fill="#828080" id="id-male-6.8_face_4-132">
+</path >
+<path d="M 20 18 C 25 18 28 15 29 8 C 26 6 23 4 20 4 C 18 4 15 6 12 8 C 12 14 15 17 20 18 Z" fill="url(#id-male-6.8_face_4-30)" id="id-male-6.8_face_4-132">
+</path >
+</g >
+<g id="id-male-6.8_face_4-135">
+<path d="M 3 15 L 1 13 C 11 3 20 -1 26 0 C 32 1 39 6 47 13 L 43 18 L 15 17 L 7 14 L 3 15 Z" fill="#060505" id="id-male-6.8_face_4-136">
+</path >
+<path d="M 9 13 L 17 17 L 38 17 L 41 14 C 35 8 30 5 25 5 C 21 5 15 8 9 13 Z" fill="#b4a3af" id="id-male-6.8_face_4-137">
+</path >
+<path d="M 9 13 L 14 16 C 16 12 20 10 25 10 C 29 10 35 12 40 16 L 41 14 C 35 8 30 5 25 5 C 21 5 15 8 9 13 Z" fill="#828080" id="id-male-6.8_face_4-137">
+</path >
+<path d="M 25 17 C 30 18 33 14 34 8 C 31 6 28 4 25 4 C 22 4 19 6 16 8 C 17 14 20 17 25 17 Z" fill="url(#id-male-6.8_face_4-31)" id="id-male-6.8_face_4-137">
+</path >
+<circle cx="25" cy="9" r="5" fill="#000000" id="id-male-6.8_face_4-140">
+</circle >
+<path d="M 108 14 C 110 14 113 12 113 9 C 113 6 110 4 108 4 C 105 4 103 6 103 9 C 103 12 105 14 108 14 Z" fill="#000000" id="id-male-6.8_face_4-140">
+</path >
+<polygon points="19 8 21 11 25 9 24 7" fill="#999aa8" id="id-male-6.8_face_4-142">
+</polygon >
+</g >
+<polygon points="103 8 103 10 108 9 108 7" fill="#8f8793" id="id-male-6.8_face_4-143">
+</polygon >
+</g >
+</g >
+<defs >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-12_explorer_jumpsuit-0">
+<stop stop-color="#1a2a3e" offset="0%">
+</stop >
+<stop stop-color="#2b384d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-12_explorer_jumpsuit-1">
+<stop stop-color="#0082a1" offset="0%">
+</stop >
+<stop stop-color="#0082a1" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="0%" x2="55%" y2="83%" id="id-male-12_explorer_jumpsuit-2">
+<stop stop-color="#00aec2" offset="0%">
+</stop >
+<stop stop-color="#018eaa" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="id-male-12_explorer_jumpsuit-3">
+<stop stop-color="#273a56" offset="0%">
+</stop >
+<stop stop-color="#314f78" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(302,519)" id="id-male-12_explorer_jumpsuit-4">
+<path d="M 289 1241 C 211 1241 171 1241 171 1241 C 172 1169 173 1134 173 1134 C 172 1131 172 1129 172 1129 C 167 1102 156 1077 149 1051 C 146 1027 144 1015 144 1015 C 140 879 137 811 137 811 C 144 751 147 721 147 721 C 156 695 161 682 161 682 C 164 655 166 642 166 642 C 180 587 188 559 188 559 C 188 535 188 523 188 523 C 202 474 209 449 209 449 C 205 428 203 418 203 418 C 199 377 197 357 197 357 C 186 330 181 317 181 317 C 166 386 159 421 159 421 C 150 439 146 448 146 448 C 143 487 141 506 141 506 C 137 526 134 536 134 536 C 115 582 106 605 106 605 C 88 665 78 695 78 695 C 79 711 80 719 80 719 C 83 740 84 750 84 750 C 94 768 98 777 98 777 C 97 802 96 814 96 814 C 94 828 94 835 94 835 C 74 839 64 841 64 841 C 63 829 62 823 62 823 C 56 828 54 831 54 831 C 51 845 50 852 50 852 C 17 836 0 829 0 829 C 12 784 19 762 19 762 C 18 733 17 719 17 719 C 21 703 23 694 23 694 C 26 664 27 649 27 649 C 25 585 24 553 24 553 C 25 511 26 490 26 490 C 27 482 27 477 27 477 C 40 445 46 429 46 429 C 60 401 67 387 67 387 C 81 302 89 259 89 259 C 89 213 89 190 89 190 C 94 160 97 144 97 144 C 99 137 101 134 101 134 C 151 106 176 93 176 93 C 215 76 235 68 235 68 C 265 48 279 38 279 38 C 282 16 284 4 284 4 C 305 8 316 10 316 10 C 322 10 326 10 326 10 C 329 32 330 43 330 43 C 359 42 374 42 374 42 C 380 22 382 12 382 12 C 406 9 418 8 418 8 C 418 6 418 5 418 5 C 423 5 426 5 426 5 C 428 20 429 28 429 28 C 456 48 469 58 469 58 C 568 105 617 129 617 129 C 625 149 628 160 628 160 C 631 209 632 234 632 234 C 649 337 657 389 657 389 C 682 448 694 478 694 478 C 694 598 694 658 694 658 C 699 713 702 740 702 740 C 707 768 710 782 710 782 C 719 811 724 826 724 826 C 690 831 673 834 673 834 C 666 825 662 820 662 820 C 660 827 659 830 659 830 C 641 830 632 830 632 830 C 628 814 626 806 626 806 C 626 784 627 773 627 773 C 640 743 647 728 647 728 C 646 709 646 700 646 700 C 633 660 627 641 627 641 C 617 609 612 593 612 593 C 595 551 587 531 587 531 C 584 513 582 504 582 504 C 579 468 577 450 577 450 C 568 429 563 418 563 418 C 549 347 542 312 542 312 C 531 340 526 354 526 354 C 521 387 519 424 511 450 C 527 498 535 523 535 523 C 533 548 532 561 532 561 C 541 581 545 592 545 592 C 549 626 551 643 551 643 C 559 668 563 681 563 681 C 565 682 566 683 566 683 C 578 720 584 738 584 738 C 596 784 602 807 602 807 C 610 945 614 1013 614 1013 C 612 1042 611 1057 611 1057 C 600 1082 595 1094 595 1094 C 599 1192 601 1241 601 1241 C 513 1240 469 1240 469 1240 C 470 1214 470 1201 470 1201 C 456 1157 448 1134 448 1134 C 447 1100 447 1083 447 1083 C 400 920 376 839 376 839 C 376 837 375 836 375 836 C 366 840 362 842 362 842 C 357 839 354 837 354 837 C 354 839 354 840 354 840 C 346 901 342 931 342 931 C 317 1043 305 1099 305 1099 L 286 1222 L 289 1241 Z" fill="url(#id-male-12_explorer_jumpsuit-0)" id="id-male-12_explorer_jumpsuit-5">
+</path >
+<g transform="translate(198,622)" id="id-male-12_explorer_jumpsuit-6">
+<path d="M 72 0 C 24 48 0 72 0 72 C 1 74 2 74 2 74 C 28 88 41 95 41 95 C 73 120 90 133 90 133 C 119 168 134 186 134 186 C 156 175 168 169 168 169 C 188 180 198 185 198 185 C 242 138 263 115 263 115 C 301 90 319 77 319 77 C 269 27 245 1 245 1 L 164 5 C 103 2 72 0 72 0 Z" fill="#c0cae2" id="id-male-12_explorer_jumpsuit-7">
+</path >
+<path d="M 59 13 C 103 51 124 71 124 71 C 148 76 160 79 160 79 C 160 83 160 86 160 86 C 162 86 163 86 163 86 C 167 79 168 76 168 76 C 203 72 220 70 220 70 L 273 30 L 245 1 L 164 5 L 72 0 C 64 8 59 13 59 13 Z" fill="#d7ddec" id="id-male-12_explorer_jumpsuit-8">
+</path >
+<path d="M 108 2 L 122 69 L 124 71 L 160 79 L 160 86 L 163 86 C 167 79 168 76 168 76 C 202 72 219 70 219 70 L 219 2 L 164 5 C 126 3 108 2 108 2 Z" fill="#edeff7" id="id-male-12_explorer_jumpsuit-9">
+</path >
+<path d="M 88 131 C 137 138 161 141 161 141 C 161 54 161 10 161 10 C 166 10 168 10 168 10 C 168 97 169 141 169 141 L 248 131 L 198 185 L 168 169 L 134 186 L 90 133 C 89 132 88 131 88 131 Z" fill="#5d6c82" id="id-male-12_explorer_jumpsuit-10">
+</path >
+</g >
+<g transform="translate(60,0)" id="id-male-12_explorer_jumpsuit-11">
+<path d="M 113 646 C 111 637 110 633 110 633 C 126 588 134 566 134 566 C 129 536 127 521 127 521 C 142 474 149 450 149 450 C 144 428 142 418 142 418 C 138 378 136 358 136 358 C 126 331 120 317 120 317 C 113 360 109 381 109 381 L 98 422 C 90 440 85 448 85 448 C 85 453 85 455 85 455 C 28 433 0 423 0 423 C 12 355 20 305 26 271 C 43 258 52 251 52 251 C 88 229 105 218 105 218 C 109 210 111 206 111 206 C 114 213 116 217 116 217 C 134 237 143 248 143 248 C 184 250 204 251 204 251 C 251 247 275 245 275 245 C 295 229 305 220 305 220 C 324 237 334 246 334 246 C 392 250 422 252 422 252 C 447 250 460 250 460 250 C 476 228 484 218 484 218 C 486 208 486 204 486 204 C 494 213 498 218 498 218 C 544 249 567 265 567 265 L 575 252 C 593 365 602 421 602 421 C 547 444 520 456 520 456 C 508 432 502 419 502 419 C 488 349 481 314 481 314 C 471 340 466 353 466 353 C 461 398 459 420 459 420 C 454 440 451 450 451 450 C 467 498 475 522 475 522 C 469 550 466 563 466 563 C 477 588 482 600 482 600 C 485 629 487 643 487 643 C 476 630 471 624 471 624 C 430 584 410 564 410 564 C 378 596 363 613 363 613 C 322 644 302 659 302 659 C 265 635 246 622 246 622 C 209 584 190 565 190 565 L 119 636 C 115 642 113 646 113 646 Z" fill="url(#id-male-12_explorer_jumpsuit-1)" id="id-male-12_explorer_jumpsuit-12">
+</path >
+<path d="M 466 619 L 469 601 C 469 595 469 590 469 586 C 457 571 451 563 451 563 C 421 564 406 565 406 565 C 405 557 405 553 405 553 C 437 538 454 531 454 531 C 459 498 462 481 462 481 C 455 460 452 450 452 450 C 444 397 440 371 440 371 C 407 396 391 408 391 408 C 277 410 220 411 220 411 C 203 517 195 569 195 569 C 229 605 247 623 247 623 C 284 647 302 659 302 659 L 363 613 L 410 564 C 447 600 466 619 466 619 Z" fill="#00b2c5" id="id-male-12_explorer_jumpsuit-13">
+</path >
+<path d="M 114 644 C 148 622 166 611 166 611 L 154 601 L 119 636 C 116 641 114 644 114 644 Z" fill="#c0cae2" id="id-male-12_explorer_jumpsuit-14">
+</path >
+<path d="M 190 595 L 172 584 L 190 566 L 208 584 C 196 591 190 595 190 595 Z" fill="#c0cae2" id="id-male-12_explorer_jumpsuit-15">
+</path >
+<path d="M 385 590 C 385 591 385 592 385 592 C 412 607 426 615 426 615 L 447 601 L 410 564 C 393 581 385 590 385 590 Z" fill="#c0cae2" id="id-male-12_explorer_jumpsuit-16">
+</path >
+<path d="M 462 615 C 453 624 449 629 449 629 C 476 645 489 653 489 653 L 492 649 L 471 624 C 465 618 462 615 462 615 Z" fill="#c0cae2" id="id-male-12_explorer_jumpsuit-17">
+</path >
+<path d="M 487 643 C 476 630 470 624 470 624 C 467 620 466 619 466 619 C 468 607 469 601 469 601 C 469 591 469 586 469 586 C 456 569 449 561 449 561 L 462 482 L 475 522 L 466 563 L 482 600 L 487 643 Z" fill="#008fab" id="id-male-12_explorer_jumpsuit-18">
+</path >
+<path d="M 451 563 C 421 564 405 565 405 565 C 405 557 405 553 405 553 L 454 531 L 449 561 C 450 563 451 563 451 563 Z" fill="#0099b2" id="id-male-12_explorer_jumpsuit-19">
+</path >
+<path d="M 306 648 C 306 492 306 415 306 415 C 357 413 382 412 382 412 L 401 564 C 338 620 306 648 306 648 Z" fill="#00c4d8" id="id-male-12_explorer_jumpsuit-20">
+</path >
+<path d="M 206 520 C 266 450 295 415 295 415 L 220 415 C 211 485 206 520 206 520 Z" fill="#00c3d7" id="id-male-12_explorer_jumpsuit-21">
+</path >
+<path d="M 113 646 L 110 633 L 134 566 L 127 521 L 149 450 C 144 428 142 418 142 418 C 147 368 149 342 149 342 C 255 387 307 410 307 410 C 406 360 455 335 455 335 L 458 424 C 453 441 451 450 451 450 C 453 454 453 456 453 456 C 452 458 452 459 452 459 C 443 400 439 371 439 371 C 406 395 390 408 390 408 C 275 410 217 411 217 411 L 194 569 L 190 566 L 119 636 L 113 646 Z" fill="#0082a1" id="id-male-12_explorer_jumpsuit-22">
+</path >
+<path d="M 133 517 C 149 470 157 446 157 446 C 195 423 214 412 214 412 L 217 415 L 190 566 C 152 533 133 517 133 517 Z" fill="#008eb7" id="id-male-12_explorer_jumpsuit-23">
+</path >
+<path d="M 129 522 C 131 522 132 521 132 521 C 154 536 164 543 164 543 L 143 467 C 134 504 129 522 129 522 Z" fill="#24a5d7" id="id-male-12_explorer_jumpsuit-24">
+</path >
+<path d="M 231 385 C 224 431 221 454 221 454 C 256 447 274 444 274 444 L 272 404 C 245 392 231 385 231 385 Z" fill="#0e5971" id="id-male-12_explorer_jumpsuit-25">
+</path >
+<path d="M 220 461 C 216 484 215 496 215 496 C 256 507 276 513 276 513 L 274 452 C 238 458 220 461 220 461 Z" fill="#0e5971" id="id-male-12_explorer_jumpsuit-26">
+</path >
+<path d="M 213 505 C 208 542 205 560 205 560 C 256 599 281 619 281 619 L 277 527 C 235 513 213 505 213 505 Z" fill="#0f576f" id="id-male-12_explorer_jumpsuit-27">
+</path >
+<path d="M 286 498 C 299 507 306 511 306 511 C 318 502 323 497 323 497 C 320 581 318 622 318 622 L 302 636 L 288 622 C 287 540 286 498 286 498 Z" fill="#0e5971" id="id-male-12_explorer_jumpsuit-28">
+</path >
+<path d="M 329 522 C 326 587 325 619 325 619 C 371 578 395 558 395 558 L 386 498 C 348 514 329 522 329 522 Z" fill="#0e5971" id="id-male-12_explorer_jumpsuit-29">
+</path >
+<path d="M 384 489 C 348 503 330 511 330 511 C 331 471 332 452 332 452 L 380 458 C 383 478 384 489 384 489 Z" fill="#0e5971" id="id-male-12_explorer_jumpsuit-30">
+</path >
+<path d="M 333 443 C 364 448 379 451 379 451 C 373 409 370 389 370 389 L 335 406 C 333 431 333 443 333 443 Z" id="id-male-12_explorer_jumpsuit-31">
+</path >
+<path d="M 105 218 C 103 220 101 221 101 221 C 109 279 113 308 113 308 L 110 376 L 120 317 L 120 303 L 105 229 C 105 222 105 218 105 218 Z" fill="#00415d" id="id-male-12_explorer_jumpsuit-32">
+</path >
+<path d="M 203 365 C 198 341 195 328 195 328 C 167 321 153 317 153 317 L 119 303 L 120 317 L 136 358 L 142 418 L 149 342 C 185 358 203 365 203 365 Z" fill="#2b384d" id="id-male-12_explorer_jumpsuit-33">
+</path >
+<path d="M 404 325 L 393 366 L 455 335 L 458 424 L 459 420 L 466 353 C 476 327 481 314 481 314 L 483 306 C 430 319 404 325 404 325 Z" fill="#2b384d" id="id-male-12_explorer_jumpsuit-34">
+</path >
+<path d="M 404 325 C 352 326 325 326 325 326 C 310 352 303 365 303 365 L 282 327 L 195 328 L 203 365 L 307 410 L 394 366 C 401 339 404 325 404 325 Z" fill="#015873" id="id-male-12_explorer_jumpsuit-35">
+</path >
+<path d="M 282 391 C 297 380 305 374 305 374 C 323 384 332 389 332 389 C 329 402 327 409 327 409 C 325 462 324 489 324 489 C 310 498 304 502 304 502 C 291 492 285 487 285 487 L 284 410 C 283 397 282 391 282 391 Z" fill="#104d66" id="id-male-12_explorer_jumpsuit-36">
+</path >
+<path d="M 186 323 C 250 324 282 324 282 324 C 295 289 302 272 302 272 C 315 306 322 323 322 323 L 413 323 C 459 312 483 306 483 306 L 498 225 L 486 204 L 484 218 L 460 250 L 422 252 L 334 246 L 305 220 L 275 245 L 204 251 C 164 249 143 248 143 248 C 137 241 134 238 134 238 L 162 289 C 178 312 186 323 186 323 Z" fill="#00b2c5" id="id-male-12_explorer_jumpsuit-37">
+</path >
+<path d="M 162 289 L 288 309 L 282 324 L 186 323 C 170 301 162 289 162 289 Z" fill="#018eaa" id="id-male-12_explorer_jumpsuit-38">
+</path >
+<path d="M 318 308 L 335 323 L 412 323 C 459 312 483 306 483 306 L 474 287 C 370 301 318 308 318 308 Z" fill="#0090ac" id="id-male-12_explorer_jumpsuit-39">
+</path >
+<path d="M 342 323 L 332 244 C 314 228 305 220 305 220 L 304 222 L 302 272 L 322 323 C 335 323 342 323 342 323 Z" fill="#0198b1" id="id-male-12_explorer_jumpsuit-40">
+</path >
+<path d="M 280 308 L 277 243 L 304 222 L 302 272 L 288 309 C 283 308 280 308 280 308 Z" fill="#00c0d5" id="id-male-12_explorer_jumpsuit-41">
+</path >
+<path d="M 154 316 C 132 308 121 304 121 304 L 105 229 L 105 218 C 109 210 111 206 111 206 L 127 256 C 143 294 152 315 154 316 Z" fill="#0097c6" id="id-male-12_explorer_jumpsuit-42">
+</path >
+<path d="M 105 218 C 105 225 105 229 105 229 C 106 234 107 237 107 237 C 82 242 60 249 42 259 L 52 251 L 101 220 L 105 218 Z" fill="#004763" id="id-male-12_explorer_jumpsuit-43">
+</path >
+<path stroke="#979797" id="id-male-12_explorer_jumpsuit-44">
+</path >
+<path d="M 75 245 C 90 283 97 301 97 301 C 97 359 97 387 97 387 L 74 451 L 85 455 L 85 448 L 98 422 L 109 381 L 110 376 L 113 308 L 104 238 C 88 241 78 244 75 245 Z" fill="#006b89" id="id-male-12_explorer_jumpsuit-45">
+</path >
+<path d="M 75 245 C 94 268 103 280 103 280 L 113 314 L 113 308 L 104 238 C 88 241 79 244 75 245 Z" fill="#006987" id="id-male-12_explorer_jumpsuit-46">
+</path >
+<path d="M 75 245 C 53 328 43 369 43 369 C 35 413 32 434 32 434 L 10 427 L 36 264 C 43 257 56 251 75 245 Z" fill="#009cb5" id="id-male-12_explorer_jumpsuit-47">
+</path >
+<path d="M 74 252 C 68 251 66 251 66 251 L 54 257 C 54 310 38 366 3 424 L 32 434 L 43 367 C 63 291 74 252 74 252 Z" fill="#00d9e3" id="id-male-12_explorer_jumpsuit-48">
+</path >
+<path d="M 536 243 C 520 240 512 238 512 238 C 505 259 502 269 502 269 C 498 293 495 317 493 341 L 489 354 L 481 314 L 498 225 L 486 204 L 498 218 L 536 243 Z" fill="#005874" id="id-male-12_explorer_jumpsuit-49">
+</path >
+<path d="M 486 204 C 494 221 497 229 497 229 C 492 258 489 272 489 272 C 504 250 512 238 512 238 L 536 243 L 498 218 C 490 209 486 204 486 204 Z" fill="#004f6b" id="id-male-12_explorer_jumpsuit-50">
+</path >
+<path d="M 565 263 C 536 265 522 267 522 267 C 508 307 501 328 501 328 C 503 361 505 393 513 420 L 554 424 L 567 436 L 520 456 L 502 419 L 489 354 L 493 341 L 502 269 L 512 238 L 536 243 C 555 256 565 263 565 263 Z" fill="#006e8a" id="id-male-12_explorer_jumpsuit-51">
+</path >
+<path d="M 549 424 L 522 267 L 565 263 C 567 264 567 265 567 265 C 571 259 573 256 573 256 L 576 256 L 597 389 L 582 373 C 581 378 580 381 580 381 L 578 372 L 554 424 L 549 424 Z" fill="url(#id-male-12_explorer_jumpsuit-2)" id="id-male-12_explorer_jumpsuit-52">
+</path >
+<path d="M 569 392 C 569 387 569 385 569 385 C 557 320 549 284 548 278 C 546 268 544 268 539 265 C 553 265 560 264 560 264 C 554 269 560 301 565 330 C 569 354 573 370 576 374 C 571 386 569 392 569 392 Z" fill="#00d7e3" id="id-male-12_explorer_jumpsuit-53">
+</path >
+<path d="M 593 364 C 578 358 570 355 570 355 C 564 309 560 286 560 286 C 572 274 578 268 578 268 C 579 277 580 282 580 282 C 571 288 566 291 566 291 C 574 328 577 347 577 347 L 591 350 C 592 360 593 364 593 364 Z" fill="#2b384d" id="id-male-12_explorer_jumpsuit-54">
+</path >
+<path d="M 589 342 C 584 339 582 337 582 337 C 580 337 578 337 578 337 C 574 309 571 296 571 296 L 581 291 C 587 325 589 342 589 342 Z" fill="#ba0052" id="id-male-12_explorer_jumpsuit-55">
+</path >
+<path d="M 460 250 L 481 306 L 498 225 L 486 204 L 484 218 C 468 239 460 250 460 250 Z" fill="#00c9dd" id="id-male-12_explorer_jumpsuit-56">
+</path >
+<path d="M 302 288 C 292 311 287 322 287 322 C 298 343 303 354 303 354 L 319 324 C 308 300 302 288 302 288 Z" fill="#2b384d" id="id-male-12_explorer_jumpsuit-57">
+</path >
+<path d="M 26 271 C 28 262 28 258 28 258 C 28 213 28 190 28 190 C 33 160 36 145 36 145 C 38 137 40 133 40 133 C 44 132 46 131 46 131 C 63 149 72 159 72 159 C 67 165 63 173 59 186 L 53 250 C 35 264 26 271 26 271 Z" fill="#213755" id="id-male-12_explorer_jumpsuit-58">
+</path >
+<path d="M 111 206 C 129 165 138 144 138 144 L 164 249 L 143 248 L 116 217 C 113 209 111 206 111 206 Z" fill="#203856" id="id-male-12_explorer_jumpsuit-59">
+</path >
+<path d="M 54 126 C 110 113 138 107 138 107 C 225 102 269 100 269 100 C 170 96 121 95 121 95 L 117 92 L 113 92 C 74 115 54 126 54 126 Z" fill="#345786" id="id-male-12_explorer_jumpsuit-60">
+</path >
+<path d="M 138 107 C 113 104 101 103 101 103 L 87 119 C 121 111 138 107 138 107 Z" fill="#6a84a9" id="id-male-12_explorer_jumpsuit-61">
+</path >
+<path d="M 278 98 C 273 98 271 99 271 99 C 245 74 232 62 232 62 C 205 84 192 96 192 96 C 146 94 122 94 122 94 C 120 92 119 91 119 91 C 156 75 175 67 175 67 C 204 48 219 38 219 38 C 221 14 223 2 223 2 C 225 1 226 0 226 0 C 226 3 226 4 226 4 C 245 8 255 10 255 10 L 261 10 C 272 69 278 98 278 98 Z" fill="#1a314f" id="id-male-12_explorer_jumpsuit-62">
+</path >
+<path d="M 296 227 C 277 143 267 100 267 100 C 294 92 308 88 308 88 C 337 95 351 99 351 99 L 318 231 L 305 220 C 299 225 296 227 296 227 Z" fill="#17263a" id="id-male-12_explorer_jumpsuit-63">
+</path >
+<path d="M 369 248 C 398 165 412 124 412 124 C 450 138 469 145 469 145 L 485 210 L 484 218 L 460 250 L 422 252 C 387 249 369 248 369 248 Z" fill="url(#id-male-12_explorer_jumpsuit-3)" id="id-male-12_explorer_jumpsuit-64">
+</path >
+<path d="M 486 204 C 476 165 470 145 470 145 L 533 137 L 567 264 L 498 218 C 490 209 486 204 486 204 Z" fill="#0f2034" id="id-male-12_explorer_jumpsuit-65">
+</path >
+<path d="M 553 127 C 414 107 344 97 344 97 L 461 83 C 470 88 477 91 480 92 C 482 93 485 94 488 94 C 495 99 500 102 503 104 C 537 119 553 127 553 127 Z" fill="#385c8e" id="id-male-12_explorer_jumpsuit-66">
+</path >
+<path d="M 567 265 C 544 179 533 137 533 137 C 549 132 557 129 557 129 C 564 149 568 160 568 160 C 571 184 572 209 573 234 L 575 252 L 567 265 Z" fill="#293e5c" id="id-male-12_explorer_jumpsuit-67">
+</path >
+<path d="M 462 84 C 384 93 346 97 346 97 C 344 97 343 97 343 97 C 363 52 372 30 372 30 L 408 57 C 444 75 462 84 462 84 Z" fill="#0b1b2f" id="id-male-12_explorer_jumpsuit-68">
+</path >
+<path d="M 261 10 C 264 11 265 11 265 11 C 268 32 270 43 270 43 C 299 42 313 42 313 42 C 319 22 322 11 322 11 C 345 9 357 8 357 8 C 358 5 358 4 358 4 C 363 5 366 5 366 5 L 369 27 L 372 30 L 343 97 L 308 88 L 278 97 C 266 39 261 10 261 10 Z" fill="#0b1b2f" id="id-male-12_explorer_jumpsuit-69">
+</path >
+<path d="M 366 7 C 338 13 325 15 325 15 L 312 87 L 343 97 L 372 30 L 369 28 C 367 14 366 7 366 7 Z" fill="#12253e" id="id-male-12_explorer_jumpsuit-70">
+</path >
+<path d="M 344 97 C 319 110 307 116 307 116 L 274 98 L 308 88 C 332 94 344 97 344 97 Z" fill="#011527" id="id-male-12_explorer_jumpsuit-71">
+</path >
+<path d="M 476 255 C 459 239 450 231 450 231 C 463 217 469 210 469 210 L 491 237 C 481 249 476 255 476 255 Z" fill="#f20050" id="id-male-12_explorer_jumpsuit-72">
+</path >
+<path d="M 475 219 C 465 229 460 234 460 234 C 456 232 454 231 454 231 L 471 214 C 474 217 475 219 475 219 Z" fill="#fd7676" id="id-male-12_explorer_jumpsuit-73">
+</path >
+<path d="M 113 238 C 124 250 130 256 130 256 C 146 240 154 233 154 233 L 134 211 C 120 229 113 238 113 238 Z" fill="#f20050" id="id-male-12_explorer_jumpsuit-74">
+</path >
+<path d="M 133 216 C 130 220 129 222 129 222 C 139 232 144 237 144 237 L 150 232 C 139 221 133 216 133 216 Z" fill="#fa576b" id="id-male-12_explorer_jumpsuit-75">
+</path >
+</g >
+<path d="M 566 169 C 567 169 568 169 569 168 C 569 167 569 167 569 166 L 569 166 L 569 158 C 569 157 569 156 569 156 C 568 155 567 155 566 155 L 566 155 L 564 155 C 564 155 564 155 563 154 C 563 154 563 154 563 154 L 563 154 L 563 147 C 563 147 563 147 563 147 C 564 147 564 147 564 147 L 564 147 L 565 147 C 566 147 566 147 566 147 C 566 147 566 147 566 147 L 566 147 L 566 152 L 569 152 L 569 146 C 569 146 569 145 569 144 C 568 144 567 143 566 143 L 566 143 L 563 143 C 562 143 561 144 561 144 C 560 145 560 146 560 146 L 560 146 L 560 155 C 560 156 560 156 561 157 C 561 157 562 158 563 158 L 563 158 L 565 158 C 566 158 566 158 566 158 C 566 158 566 158 566 159 L 566 159 L 566 165 C 566 165 566 165 566 166 C 566 166 566 166 565 166 L 565 166 L 564 166 C 564 166 564 166 563 166 C 563 165 563 165 563 165 L 563 165 L 563 160 L 560 160 L 560 166 C 560 167 560 167 561 168 C 561 169 562 169 563 169 L 563 169 L 566 169 Z M 581 169 L 581 166 L 577 166 L 577 158 L 581 158 L 581 155 L 577 155 L 577 147 L 581 147 L 581 143 L 574 143 L 574 169 L 581 169 Z M 590 169 L 590 147 L 593 147 L 593 143 L 584 143 L 584 147 L 587 147 L 587 169 L 590 169 Z M 563 203 L 563 192 L 568 192 L 568 189 L 563 189 L 563 181 L 568 181 L 568 177 L 560 177 L 560 203 L 563 203 Z M 577 203 C 577 203 578 203 579 202 C 579 201 580 201 580 200 L 580 200 L 580 180 C 580 180 579 179 579 178 C 578 178 577 177 577 177 L 577 177 L 573 177 C 572 177 572 178 571 178 C 570 179 570 180 570 180 L 570 180 L 570 200 C 570 201 570 201 571 202 C 572 203 572 203 573 203 L 573 203 L 577 203 Z M 576 200 L 574 200 C 574 200 574 200 574 200 C 573 199 573 199 573 199 L 573 199 L 573 181 C 573 181 573 181 574 181 C 574 181 574 181 574 181 L 574 181 L 576 181 C 576 181 576 181 576 181 C 576 181 576 181 576 181 L 576 181 L 576 199 C 576 199 576 199 576 200 C 576 200 576 200 576 200 L 576 200 Z M 587 203 L 587 192 L 588 192 L 592 203 L 596 203 L 591 192 C 592 191 593 191 593 190 C 593 190 594 189 594 189 L 594 189 L 594 180 C 594 180 593 179 593 178 C 592 178 591 177 590 177 L 590 177 L 584 177 L 584 203 L 587 203 Z M 589 188 L 587 188 L 587 181 L 589 181 C 590 181 590 181 590 181 C 590 181 590 181 590 181 L 590 181 L 590 188 C 590 188 590 188 590 188 C 590 188 590 188 589 188 L 589 188 Z M 602 203 L 602 181 L 605 181 L 605 177 L 596 177 L 596 181 L 599 181 L 599 203 L 602 203 Z M 611 203 L 611 192 L 614 192 L 614 203 L 617 203 L 617 177 L 614 177 L 614 189 L 611 189 L 611 177 L 607 177 L 607 203 L 611 203 Z" fill="#9aa7c2" id="id-male-12_explorer_jumpsuit-76" fill-rule="nonzero">
+</path >
+<g transform="translate(2,371)" id="id-male-12_explorer_jumpsuit-77">
+<path d="M 144 77 C 117 95 103 103 103 103 C 89 55 83 30 83 30 L 79 0 L 65 16 L 44 58 L 25 106 L 24 119 L 22 182 L 25 278 L 21 323 L 15 348 C 15 372 15 384 15 384 C 5 428 0 451 0 451 L 49 476 L 52 460 C 57 455 60 452 60 452 C 61 461 62 465 62 465 L 92 459 L 94 443 L 96 406 C 87 388 83 379 83 379 C 78 362 75 353 75 353 C 58 348 49 345 49 345 C 57 309 61 291 61 291 C 73 282 80 278 80 278 L 92 271 C 100 246 104 234 104 234 C 120 196 128 177 128 177 C 118 168 113 164 113 164 C 108 132 106 116 106 116 L 143 92 C 143 82 144 77 144 77 Z" fill="#a1adc7" id="id-male-12_explorer_jumpsuit-78">
+</path >
+<path d="M 86 41 C 83 40 82 40 82 40 C 81 43 81 44 81 44 C 85 109 88 141 88 141 L 108 132 C 112 153 113 164 113 164 C 116 167 118 168 118 168 L 72 281 L 80 278 L 61 291 L 49 345 L 75 353 L 83 379 L 96 406 C 97 422 97 433 97 439 C 96 452 92 459 92 459 C 87 460 84 460 84 460 L 79 433 C 71 441 62 450 52 460 C 50 470 49 476 49 476 C 35 468 27 465 27 465 C 35 445 42 425 45 405 C 35 391 30 385 30 385 C 29 359 28 345 28 345 C 42 329 49 321 49 321 C 51 315 52 312 52 312 C 46 174 44 104 44 104 C 55 70 67 37 80 4 L 83 30 C 85 37 86 41 86 41 Z" fill="#c0cae2" id="id-male-12_explorer_jumpsuit-79">
+</path >
+<path d="M 79 44 C 74 32 79 28 75 13 C 54 67 43 97 44 104 C 49 227 52 289 52 289 C 57 235 60 208 60 208 C 51 142 47 109 47 109 L 51 93 C 60 73 69 57 79 44 Z" fill="#dce1ef" id="id-male-12_explorer_jumpsuit-80">
+</path >
+<path d="M 96 412 C 91 406 86 400 79 399 C 73 399 67 400 59 403 C 62 388 63 374 61 363 L 79 368 L 83 379 L 96 406 C 96 410 96 412 96 412 Z" fill="#d8deed" id="id-male-12_explorer_jumpsuit-81">
+</path >
+<path d="M 62 465 C 65 464 66 464 66 464 L 72 441 L 60 452 C 61 461 62 465 62 465 Z" fill="#5d6c82" id="id-male-12_explorer_jumpsuit-82">
+</path >
+</g >
+<g transform="translate(572,373)" id="id-male-12_explorer_jumpsuit-83">
+<path d="M 150 446 L 98 457 C 94 454 92 452 92 452 C 89 452 88 452 88 452 L 58 449 L 54 432 L 55 399 C 68 370 75 355 75 355 C 75 353 75 352 75 352 C 93 343 102 338 102 338 C 91 298 85 278 85 278 L 55 267 C 45 235 40 219 40 219 C 25 182 17 164 17 164 C 24 159 28 157 28 157 C 37 128 42 113 42 113 L 7 93 C 2 75 0 65 0 65 C 12 75 31 92 46 100 L 71 0 C 81 11 85 16 85 16 C 101 45 112 74 124 102 C 125 114 126 119 126 119 C 127 172 127 198 127 198 C 125 257 124 286 124 286 C 127 313 129 327 129 327 C 134 342 136 350 136 350 L 131 366 L 138 408 C 146 434 150 446 150 446 Z" fill="#a1adc7" id="id-male-12_explorer_jumpsuit-84">
+</path >
+<path d="M 90 447 C 96 416 99 399 98 396 L 122 452 L 98 457 C 93 450 90 447 90 447 Z" fill="#a1adc7" id="id-male-12_explorer_jumpsuit-85">
+</path >
+<path d="M 90 447 C 93 429 95 420 95 420 L 98 429 L 99 457 C 93 450 90 447 90 447 Z" fill="#5d6c82" id="id-male-12_explorer_jumpsuit-86">
+</path >
+<path d="M 71 0 C 69 7 68 10 68 10 C 69 60 70 85 70 85 C 56 148 50 179 50 179 C 48 182 47 183 47 183 L 78 276 L 85 278 C 96 318 102 338 102 338 C 99 339 98 340 98 340 C 96 360 75 378 60 398 L 63 450 L 88 452 C 92 436 96 418 99 398 L 122 452 L 150 446 L 138 408 L 131 366 L 136 350 L 129 327 L 124 286 L 127 198 L 126 119 L 124 103 L 86 15 C 76 5 71 0 71 0 Z" fill="#c0cae2" id="id-male-12_explorer_jumpsuit-87">
+</path >
+<path d="M 70 3 C 71 9 72 12 72 12 L 69 8 C 70 4 70 3 70 3 Z" fill="#dfe5f0" id="id-male-12_explorer_jumpsuit-88">
+</path >
+<path d="M 72 12 C 73 36 73 60 73 85 C 90 117 103 155 109 215 C 113 107 89 69 72 12 Z" fill="#dae0ed" id="id-male-12_explorer_jumpsuit-89">
+</path >
+<path d="M 82 103 L 95 82 C 91 68 79 37 72 12 C 73 38 73 62 73 85 C 79 97 82 103 82 103 Z" fill="#e4e9f2" id="id-male-12_explorer_jumpsuit-90">
+</path >
+<path d="M 99 391 C 79 389 69 389 69 389 C 88 368 98 355 100 350 C 97 360 94 371 96 387 C 98 390 99 391 99 391 Z" fill="#f2f4f9" id="id-male-12_explorer_jumpsuit-91">
+</path >
+</g >
+<g transform="translate(130,708)" id="id-male-12_explorer_jumpsuit-92">
+<path d="M 50 0 C 27 67 16 100 16 100 C 5 104 0 106 0 106 C 2 221 5 288 9 307 C 24 308 32 309 32 309 C 46 355 53 377 53 377 C 40 399 34 410 34 410 C 39 418 42 423 42 423 C 41 497 41 534 41 534 C 121 533 162 533 162 533 C 159 520 158 514 158 514 C 174 462 183 436 183 436 C 178 405 176 389 176 389 C 177 384 178 381 178 381 C 181 378 182 377 182 377 C 200 301 209 263 209 263 C 207 259 206 257 206 257 C 210 235 212 223 212 223 C 220 163 224 133 224 133 C 215 121 201 116 190 107 C 161 75 147 60 147 60 L 100 22 C 67 7 50 0 50 0 Z" fill="#a1adc7" id="id-male-12_explorer_jumpsuit-93">
+</path >
+<path d="M 33 50 C 35 88 44 171 47 217 C 52 274 58 327 65 373 L 42 423 L 34 410 L 53 377 L 32 309 L 9 307 C 0 253 0 175 0 106 L 16 100 C 27 67 33 50 33 50 Z" fill="#7287af" id="id-male-12_explorer_jumpsuit-94">
+</path >
+<path d="M 182 439 C 172 419 167 409 167 409 L 137 455 L 160 533 L 162 533 L 158 514 C 174 464 182 439 182 439 Z" fill="#95a2bc" id="id-male-12_explorer_jumpsuit-95">
+</path >
+<path d="M 57 533 C 73 483 81 458 81 458 C 78 396 77 365 77 365 L 42 426 L 41 534 C 51 534 57 533 57 533 Z" fill="#748199" id="id-male-12_explorer_jumpsuit-96">
+</path >
+<path d="M 205 223 C 176 243 162 253 162 253 L 154 105 L 100 22 L 147 60 L 190 107 C 203 116 217 124 224 133 C 222 145 221 150 221 150 L 194 143 C 201 196 205 223 205 223 Z" fill="#99a6c0" id="id-male-12_explorer_jumpsuit-97">
+</path >
+<path d="M 69 9 C 66 27 64 36 64 36 C 77 56 84 67 84 67 C 76 89 72 100 72 100 C 85 267 92 351 92 351 C 85 357 82 361 82 361 C 88 363 92 364 92 364 C 98 437 101 473 101 473 C 141 428 160 405 160 405 C 162 361 162 339 162 339 C 162 323 162 315 162 315 C 164 276 165 257 165 257 C 197 235 212 224 212 224 L 213 223 L 162 253 L 154 105 L 100 22 C 80 13 69 9 69 9 Z" fill="#c0c9e2" id="id-male-12_explorer_jumpsuit-98">
+</path >
+<path d="M 84 67 C 75 89 70 100 70 100 C 82 263 88 345 88 345 L 108 333 C 92 156 84 67 84 67 Z" fill="#f2f4f9" id="id-male-12_explorer_jumpsuit-99">
+</path >
+<path d="M 126 438 C 105 437 95 437 95 437 C 91 389 89 365 89 365 L 110 353 C 112 396 117 424 126 438 Z" fill="#f2f4f9" id="id-male-12_explorer_jumpsuit-100">
+</path >
+<path d="M 156 533 C 145 512 139 501 139 501 C 135 459 133 438 133 438 C 105 437 91 436 91 436 L 82 499 L 52 534 C 122 533 156 533 156 533 Z" fill="#5d6c82" id="id-male-12_explorer_jumpsuit-101">
+</path >
+<path d="M 213 223 C 180 245 164 256 164 256 C 163 295 162 315 162 315 C 128 331 111 340 111 340 C 85 354 72 361 72 361 C 58 386 51 399 51 399 L 42 421 C 42 425 43 426 43 426 C 65 385 77 365 77 365 C 123 340 146 328 146 328 C 159 337 166 341 166 341 C 173 373 176 389 176 389 L 178 381 L 167 323 L 169 259 C 188 247 197 241 197 241 L 206 257 C 210 235 213 223 213 223 Z" fill="#4d5a70" id="id-male-12_explorer_jumpsuit-102">
+</path >
+</g >
+<g transform="translate(189,335)" id="id-male-12_explorer_jumpsuit-103">
+<path d="M 407 791 C 413 777 415 770 415 770 C 403 754 397 747 397 747 C 406 707 411 687 411 687 C 423 680 429 676 429 676 C 429 609 424 542 419 475 L 396 465 C 371 399 359 366 359 366 C 305 399 278 415 278 415 C 278 416 278 417 278 417 C 235 464 214 487 214 487 C 196 498 187 504 187 504 L 193 532 C 199 572 202 592 202 592 C 210 614 214 625 214 625 C 212 628 210 630 210 630 C 237 706 250 745 250 745 L 255 746 L 258 759 L 258 800 L 281 867 L 280 906 L 415 906 L 412 877 L 415 844 L 409 822 L 407 797 L 407 791 Z" fill="#99a6c0" id="id-male-12_explorer_jumpsuit-5">
+</path >
+<path d="M 258 800 C 258 772 258 759 258 759 L 262 710 L 264 688 C 261 651 259 633 259 633 C 257 632 257 631 257 631 C 255 565 255 531 255 531 C 257 499 266 472 279 448 C 296 426 321 395 323 390 L 359 366 C 359 367 359 367 359 367 C 353 371 350 373 350 373 C 346 396 344 408 344 408 C 333 419 327 425 327 425 C 349 549 335 604 336 718 C 338 770 339 796 339 796 L 362 807 C 362 873 362 906 362 906 C 347 906 339 906 339 906 L 273 792 L 258 800 Z" fill="#c0cae2" id="id-male-12_explorer_jumpsuit-5">
+</path >
+<path d="M 329 706 C 304 695 291 689 291 689 C 311 521 321 437 321 437 C 322 433 323 431 323 431 L 333 530 C 330 647 329 706 329 706 Z" fill="#f2f4f9" id="id-male-12_explorer_jumpsuit-106">
+</path >
+<path d="M 289 709 C 315 722 328 728 328 728 L 327 813 C 312 814 305 815 305 815 C 305 816 305 817 305 817 L 281 772 C 286 730 289 709 289 709 Z" fill="#f2f4f9" id="id-male-12_explorer_jumpsuit-107">
+</path >
+<path d="M 407 791 L 415 770 L 397 747 L 411 687 L 429 676 C 428 599 423 539 419 475 C 404 468 397 465 397 465 C 387 439 382 426 382 426 C 393 536 397 643 393 750 C 398 759 402 780 407 791 Z" fill="#7287af" id="id-male-12_explorer_jumpsuit-108">
+</path >
+<path d="M 290 906 C 295 892 299 877 304 862 C 305 831 305 815 305 815 C 340 812 357 811 357 811 C 363 844 367 861 367 861 L 401 906 C 327 906 290 906 290 906 Z" fill="#5d6c82" id="id-male-12_explorer_jumpsuit-109">
+</path >
+<path d="M 202 592 C 202 596 202 598 202 598 L 213 625 L 221 611 L 253 634 L 259 691 C 256 728 254 746 254 746 C 257 753 258 757 258 757 C 261 726 263 710 263 710 C 273 703 278 699 278 699 C 337 724 367 736 367 736 C 394 776 407 797 407 797 C 407 793 407 791 407 791 C 382 752 370 732 370 732 C 300 703 264 688 264 688 L 259 633 C 221 606 202 592 202 592 Z" fill="#4d5a70" id="id-male-12_explorer_jumpsuit-110">
+</path >
+<path d="M 401 906 C 410 906 415 906 415 906 C 413 887 412 877 412 877 C 414 855 415 844 415 844 L 409 822 L 407 797 C 391 773 383 761 383 761 C 384 829 384 863 384 863 L 377 875 C 393 896 401 906 401 906 Z" fill="#75839a" id="id-male-12_explorer_jumpsuit-111">
+</path >
+<path d="M 20 8 C 18 32 15 57 13 83 L 20 115 C 13 138 7 162 0 186 L 4 188 L 28 179 L 54 172 L 68 157 L 72 136 L 79 81 L 70 29 L 20 8 Z" fill="#2a384d" fill-opacity="0.5" id="id-male-12_explorer_jumpsuit-112">
+</path >
+<path d="M 326 0 L 274 26 C 267 60 263 77 263 77 C 270 127 273 152 273 152 C 310 168 328 176 328 176 L 345 184 C 330 138 323 115 323 115 L 329 89 L 326 0 Z" fill="#2a384d" fill-opacity="0.5" id="id-male-12_explorer_jumpsuit-113">
+</path >
+</g >
+<g transform="translate(465,1144)" id="id-male-12_explorer_jumpsuit-114">
+<path d="M 143 97 C 142 80 142 71 142 71 C 142 69 142 68 142 68 C 131 65 126 63 126 63 C 117 38 113 26 113 26 C 66 26 43 26 43 26 C 33 51 28 64 28 64 C 9 69 0 71 0 71 L 3 87 L 3 97 C 96 97 143 97 143 97 Z" fill="#141d2e" id="id-male-12_explorer_jumpsuit-115">
+</path >
+<path d="M 105 97 C 101 85 99 79 99 79 C 70 79 55 78 55 78 C 51 56 48 45 48 45 L 44 32 L 29 66 L 29 78 L 11 85 L 3 84 L 3 87 L 3 97 C 71 97 105 97 105 97 Z" fill="#050d19" id="id-male-12_explorer_jumpsuit-116">
+</path >
+<path d="M 9 70 C 23 66 30 64 30 64 C 35 52 38 46 38 46 L 7 37 C 8 59 9 70 9 70 Z" fill="#00619c" id="id-male-12_explorer_jumpsuit-117">
+</path >
+<path d="M 48 45 C 52 38 54 35 54 35 C 91 36 109 37 109 37 C 115 55 118 64 118 64 C 124 64 128 64 128 64 C 125 63 124 63 124 63 C 115 38 111 26 111 26 L 43 29 L 44 32 C 47 41 48 45 48 45 Z" fill="#3f537b" id="id-male-12_explorer_jumpsuit-118">
+</path >
+<path d="M 94 37 L 94 27 C 105 26 111 26 111 26 C 115 38 117 44 117 44 L 113 48 L 109 37 C 99 37 94 37 94 37 Z" fill="#50648a" id="id-male-12_explorer_jumpsuit-119">
+</path >
+<path d="M 52 63 L 98 62 L 99 79 L 55 78 C 53 68 52 63 52 63 Z" fill="#222e47" id="id-male-12_explorer_jumpsuit-120">
+</path >
+<path d="M 115 37 C 111 38 109 39 109 39 C 106 32 105 29 105 29 L 112 28 C 114 34 115 37 115 37 Z" fill="#edf0f5" id="id-male-12_explorer_jumpsuit-121">
+</path >
+<path d="M 126 63 C 118 39 114 27 114 27 C 127 9 134 0 134 0 C 140 0 144 1 144 1 C 143 15 142 22 142 22 C 150 27 154 29 154 29 C 148 50 144 60 144 60 C 142 60 141 60 141 60 L 140 68 C 131 65 126 63 126 63 Z" fill="#00609c" id="id-male-12_explorer_jumpsuit-122">
+</path >
+<path d="M 151 39 C 142 35 137 33 137 33 C 138 24 139 19 139 19 C 140 21 141 23 141 23 C 143 21 144 21 144 21 L 155 28 C 153 35 151 39 151 39 Z" fill="#00a1d2" id="id-male-12_explorer_jumpsuit-123">
+</path >
+<path d="M 114 27 C 118 29 121 30 121 30 C 135 12 143 2 143 2 L 135 0 C 121 18 114 27 114 27 Z" fill="#00a4d5" id="id-male-12_explorer_jumpsuit-124">
+</path >
+<path d="M 152 37 C 155 40 157 42 157 42 L 147 69 L 140 67 L 141 60 L 144 60 C 150 44 152 37 152 37 Z" fill="#141d2e" id="id-male-12_explorer_jumpsuit-125">
+</path >
+</g >
+<g transform="translate(156,1144)" id="id-male-12_explorer_jumpsuit-126">
+<path d="M 18 98 C 14 81 12 73 12 73 C 8 71 6 70 6 70 C 2 50 0 40 0 40 C 3 39 4 38 4 38 C 9 58 12 68 12 68 C 20 66 24 64 24 64 C 34 38 39 26 39 26 C 85 26 108 26 108 26 C 118 52 122 65 122 65 C 142 69 151 72 151 72 C 150 81 149 85 149 85 L 143 88 L 143 97 C 59 97 18 98 18 98 Z" fill="#141d2e" id="id-male-12_explorer_jumpsuit-127">
+</path >
+<path d="M 47 97 C 51 85 53 80 53 80 C 81 79 95 79 95 79 L 107 33 L 122 65 L 123 78 L 143 88 L 143 97 C 79 97 47 97 47 97 Z" fill="#050d19" id="id-male-12_explorer_jumpsuit-128">
+</path >
+<path d="M 118 52 C 138 43 148 39 148 39 L 146 70 L 122 65 C 119 56 118 52 118 52 Z" fill="#00619c" id="id-male-12_explorer_jumpsuit-129">
+</path >
+<path d="M 53 80 C 53 68 54 62 54 62 L 100 62 L 95 79 C 67 79 53 80 53 80 Z" fill="#222e46" id="id-male-12_explorer_jumpsuit-130">
+</path >
+<path d="M 26 64 L 34 64 C 36 56 38 50 39 48 C 41 41 41 37 41 37 C 78 36 96 35 96 35 C 100 43 102 47 102 47 L 108 30 C 62 27 39 26 39 26 L 34 43 L 26 64 Z" fill="#40547c" id="id-male-12_explorer_jumpsuit-131">
+</path >
+<path d="M 24 64 C 20 66 18 66 18 66 C 13 64 10 63 10 63 C 6 47 3 38 3 38 C 3 33 3 31 3 31 C 6 27 11 27 12 19 C 10 6 9 0 9 0 L 15 1 L 39 27 C 29 52 24 64 24 64 Z" fill="#00609b" id="id-male-12_explorer_jumpsuit-132">
+</path >
+<path d="M 6 46 C 13 42 16 40 16 40 C 16 31 16 26 16 26 L 12 18 C 12 25 7 28 3 31 L 4 39 C 5 44 6 46 6 46 Z" fill="#00a0d1" id="id-male-12_explorer_jumpsuit-133">
+</path >
+<path d="M 10 8 C 14 3 15 1 15 1 C 30 18 38 27 38 27 C 34 29 32 30 32 30 L 13 10 L 10 8 Z" fill="#00a4d4" id="id-male-12_explorer_jumpsuit-134">
+</path >
+<path d="M 38 48 C 35 45 34 44 34 44 C 38 32 40 26 40 26 C 51 27 57 27 57 27 L 57 37 L 41 37 C 39 44 38 48 38 48 Z" fill="#52668c" id="id-male-12_explorer_jumpsuit-135">
+</path >
+<path d="M 43 39 C 45 32 47 29 47 29 C 42 28 39 28 39 28 L 36 38 C 40 39 43 39 43 39 Z" fill="#edf0f5" id="id-male-12_explorer_jumpsuit-136">
+</path >
+</g >
+</g >
+<defs >
+</defs >
+<g transform="translate(578,473)" id="id-male-19_bow_necklace-0">
+<path d="M 10 43 C 11 47 11 49 11 49 C 27 63 88 67 104 65 C 104 63 104 61 104 61 C 114 58 120 56 120 56 C 123 37 134 10 143 0 C 166 -1 185 1 200 7 C 196 17 194 24 191 28 C 188 35 183 41 180 47 C 169 52 158 56 147 58 C 148 65 148 68 148 68 C 151 69 153 70 153 70 C 154 76 154 79 154 79 C 178 76 203 74 227 74 C 229 87 230 100 229 114 C 216 123 202 137 187 152 C 178 159 167 164 157 167 C 151 154 139 143 127 132 C 123 123 121 113 121 101 C 118 102 115 102 110 104 C 108 101 107 99 107 99 C 83 99 10 99 0 75 C 4 53 7 42 10 43 Z" fill="#170c2c" id="id-male-19_bow_necklace-1">
+</path >
+<path d="M 28 58 C 26 80 25 92 25 92 C 36 95 66 98 78 99 L 80 65 C 54 63 37 60 28 58 Z" fill="#261f3c" id="id-male-19_bow_necklace-2">
+</path >
+<path d="M 43 93 C 43 91 43 90 43 90 C 53 81 64 72 75 64 L 80 65 L 78 99 C 63 98 51 96 43 93 Z" fill="#34335e" id="id-male-19_bow_necklace-3">
+</path >
+<path d="M 72 68 C 77 72 79 74 79 74 C 86 70 90 67 90 67 L 76 66 C 73 68 72 68 72 68 Z" fill="#6d6982" id="id-male-19_bow_necklace-4">
+</path >
+<path d="M 101 66 L 104 65 L 104 61 C 114 58 120 56 120 56 C 123 59 124 60 124 60 C 128 44 132 27 144 16 C 151 16 155 17 155 17 C 156 20 156 21 156 21 C 145 33 134 46 128 60 C 135 60 139 60 139 60 C 140 61 140 61 140 61 C 145 61 147 60 147 60 C 148 65 148 68 148 68 L 153 70 C 154 76 154 79 154 79 C 175 89 186 94 186 94 C 182 94 180 94 180 94 C 160 116 150 128 150 128 L 166 148 L 157 167 C 151 155 140 143 127 132 C 123 124 122 113 121 101 C 118 101 114 102 110 104 L 107 99 L 101 66 Z" fill="#110425" id="id-male-19_bow_necklace-5">
+</path >
+<path d="M 105 70 C 107 67 108 66 108 66 C 116 65 121 65 121 65 L 121 68 C 110 69 105 70 105 70 Z" fill="#343560" id="id-male-19_bow_necklace-6">
+</path >
+<path d="M 129 70 L 133 87 L 154 79 L 153 70 L 148 68 C 135 69 129 70 129 70 Z" fill="#312f5a" id="id-male-19_bow_necklace-7">
+</path >
+<path d="M 127 95 L 127 98 L 150 128 C 170 105 180 94 180 94 C 150 90 134 89 134 89 L 147 103 C 134 97 127 95 127 95 Z" fill="#34325d" id="id-male-19_bow_necklace-8">
+</path >
+<path d="M 122 111 C 127 122 129 128 129 128 C 136 131 139 132 139 132 L 148 152 C 140 145 133 137 127 132 C 124 126 123 119 122 111 Z" fill="#261f3d" id="id-male-19_bow_necklace-9">
+</path >
+<path d="M 157 136 L 188 135 C 180 139 175 145 166 148 C 160 140 157 136 157 136 Z" fill="#e0dfdb" id="id-male-19_bow_necklace-10">
+</path >
+<path d="M 150 128 L 157 136 L 188 135 L 229 114 C 230 101 229 88 227 74 C 203 74 179 75 154 79 L 188 94 L 180 94 L 150 128 Z" fill="#5968b2" id="id-male-19_bow_necklace-11">
+</path >
+<path d="M 184 95 L 196 109 C 218 109 229 109 229 109 C 229 96 229 89 229 89 L 211 81 C 193 90 184 95 184 95 Z" fill="#34325d" id="id-male-19_bow_necklace-12">
+</path >
+<path d="M 184 86 C 187 91 188 94 188 94 L 206 84 C 191 85 184 86 184 86 Z" fill="#dfdfdb" id="id-male-19_bow_necklace-13">
+</path >
+<path d="M 211 81 C 221 77 227 74 227 74 C 228 79 229 83 229 89 L 211 81 Z" fill="#49518f" id="id-male-19_bow_necklace-14">
+</path >
+<path d="M 147 60 L 140 61 L 139 60 C 154 39 176 23 200 7 C 192 31 184 39 180 47 C 169 53 158 56 147 58 L 147 60 Z" fill="#373866" id="id-male-19_bow_necklace-15">
+</path >
+<path d="M 164 16 L 143 0 C 163 0 182 0 200 7 C 188 11 176 15 164 16 Z" fill="#5968b2" id="id-male-19_bow_necklace-16">
+</path >
+<path d="M 164 16 L 157 30 L 200 7 C 185 12 174 15 164 16 Z" fill="#e0dfdb" id="id-male-19_bow_necklace-17">
+</path >
+</g >
+<defs >
+</defs >
+<g transform="translate(528,228)" id="id-male-25_25_hair_front-0">
+<g transform="translate(17,180)" id="id-male-25_25_hair_front-1">
+</g >
+<g transform="translate(0,0)" fill="#200d0b" id="id-male-25_25_hair_front-2" fill-rule="nonzero">
+<polyline points="18 169 15 188 24 192 29 186 44 182 45 187 50 179 54 155 56 158 63 151 54 105 67 99 65 85 77 73 84 76 77 89 92 94 113 68 118 66 114 75 110 215 122 217 128 80 141 88 150 85 153 87 166 80 187 143 191 181 198 178 196 193 206 192 209 180 211 202 216 202 217 207 224 189 228 216 241 214 241 182 234 157 255 160 259 154 246 132 253 132 259 122 248 109 253 102 238 80 261 79 227 47 223 37 178 21 199 20 211 31 219 25 199 0 139 20 110 15 89 22 29 27 17 48 27 53 43 42 59 42 31 56 29 63 0 80 4 91 32 79 11 105 20 111 1 124 1 129 6 133 15 130 1 154 11 157" id="id-male-25_25_hair_front-3">
+</polyline >
+</g >
+<g transform="translate(4,0)" id="id-male-25_25_hair_front-4">
+<polygon points="236 183 236 214 231 215 214 167 212 135 225 158 226 171" fill="#462722" id="id-male-25_25_hair_front-5">
+</polygon >
+<path d="M 246 58 C 240 52 230 49 222 45 L 222 44 C 199 39 159 35 159 35 L 179 29 C 171 28 143 23 136 24 L 125 18 L 90 11 L 83 22 L 111 30 L 77 34 L 39 56 L 42 70 C 46 67 59 59 65 56 L 27 103 L 30 110 L 50 106 L 62 99 C 62 97 61 87 61 85 L 70 76 L 79 66 L 89 59 L 85 89 L 88 95 C 92 89 98 80 103 73 C 105 72 106 70 108 69 L 109 63 L 127 54 L 111 83 C 111 103 113 177 114 213 C 114 213 117 211 118 211 C 118 169 118 127 120 85 L 129 71 L 136 89 L 144 85 L 158 70 C 169 81 192 154 192 154 L 192 176 L 204 175 L 209 110 C 216 125 226 149 232 165 L 242 192 L 249 193 L 257 184 L 245 159 L 246 159 C 242 152 236 142 232 135 L 240 136 L 252 157 L 254 154 L 244 133 L 228 124 L 219 112 C 231 116 251 136 258 143 L 259 143 L 263 132 C 261 129 259 127 256 124 C 243 111 211 82 204 76 L 223 83 L 245 111 L 250 111 C 251 109 255 103 255 102 C 254 100 248 93 239 81 C 237 79 234 75 229 70 L 218 67 L 209 56 L 216 56 C 228 66 249 78 264 88 L 269 83 L 270 75 L 246 58 Z M 101 41 L 118 34 L 138 42 L 101 41 Z M 142 69 L 136 59 L 154 58 L 142 69 Z M 193 52 L 197 62 L 161 54 L 193 52 Z M 191 70 C 194 73 197 77 200 80 L 170 69 L 191 70 Z M 174 90 L 174 89 L 196 107 L 194 134 L 200 167 L 174 90 Z" fill="#462722" id="id-male-25_25_hair_front-3" fill-rule="nonzero">
+</path >
+<path d="M 218 23 L 209 29 C 205 23 196 12 196 12 L 178 12 C 178 7 192 -1 195 0 L 218 23 Z" fill="#462722" id="id-male-25_25_hair_front-5">
+</path >
+<polygon points="270 75 269 83 268 84 219 48 246 58" fill="#54483c" id="id-male-25_25_hair_front-5">
+</polygon >
+<polygon points="196 62 191 70 205 76 209 66" fill="#9192a6" id="id-male-25_25_hair_front-5">
+</polygon >
+<polygon points="254 104 250 111 249 111 221 76" fill="#54483c" id="id-male-25_25_hair_front-5">
+</polygon >
+<polygon points="191 85 210 89 223 109 194 91" fill="#54483c" id="id-male-25_25_hair_front-5">
+</polygon >
+<polygon points="233 135 239 146 227 152 222 141" fill="#9192a6" id="id-male-25_25_hair_front-5">
+</polygon >
+<polygon points="56 67 64 57 79 66 70 76" fill="#9192a6" id="id-male-25_25_hair_front-5">
+</polygon >
+<polygon points="19 145 12 153 0 147 6 137" fill="#9192a6" id="id-male-25_25_hair_front-5">
+</polygon >
+<polygon points="105 187 105 200 118 200 118 187" fill="#9192a6" id="id-male-25_25_hair_front-5">
+</polygon >
+</g >
+</g >
+<defs >
+</defs >
+<g transform="translate(1199,1639)" fill="white" opacity="1" id="id-icons-MetaExplorer-0">
+<path d="M 49 11 C 49 12 49 12 50 14 C 52 15 54 16 56 15 C 57 15 57 15 57 15 C 57 15 57 15 57 15 C 57 14 58 14 58 14 C 58 14 58 14 58 14 C 68 23 72 38 66 50 C 66 52 65 52 64 54 C 64 54 64 55 63 55 C 63 55 61 52 57 53 C 55 54 54 55 53 56 C 53 56 53 56 53 57 C 51 61 55 63 55 64 L 48 67 C 46 68 45 68 43 68 C 37 69 34 69 29 68 C 29 68 28 67 28 67 C 26 67 25 66 23 65 C 22 64 20 64 19 63 L 15 59 L 13 57 C 13 57 13 57 13 56 C 12 56 12 56 12 56 C 11 55 10 52 9 51 C 8 48 8 48 7 45 C 7 42 6 40 6 37 C 6 36 7 32 7 31 C 8 31 9 31 10 31 C 10 30 11 30 11 29 C 12 27 12 25 10 24 L 12 20 L 14 17 C 15 16 16 15 17 14 C 17 14 17 14 17 14 C 21 11 23 10 28 8 C 30 7 34 6 37 6 C 41 6 46 7 50 9 C 49 9 49 10 49 11 L 49 11 Z M 0 36 C 0 40 0 41 1 45 C 1 46 1 46 1 47 C 2 49 3 52 4 54 C 5 58 6 59 9 62 C 12 66 19 71 24 73 C 27 74 30 75 33 75 C 39 76 37 75 42 75 C 43 75 43 75 44 75 C 50 74 55 71 60 68 L 64 64 L 69 58 L 71 55 C 71 54 72 54 72 53 L 72 52 C 73 50 74 49 74 47 C 74 47 74 47 74 46 C 76 39 75 29 72 22 L 70 19 C 70 19 70 18 70 18 C 69 17 69 17 69 16 C 68 16 68 16 68 16 C 68 16 68 15 68 15 L 66 13 C 65 12 63 10 62 9 C 60 7 57 5 55 4 L 50 2 C 48 2 45 1 43 0 C 38 0 34 0 28 1 C 28 1 27 1 27 2 C 26 2 26 2 25 2 C 21 4 18 5 15 8 C 12 10 8 13 7 16 C 6 17 5 19 4 20 L 4 22 C 3 22 3 23 3 23 L 2 26 C 1 27 1 28 1 28 C 1 29 1 29 1 30 C 0 32 0 34 0 36 L 0 36 Z" id="id-icons-MetaExplorer-1">
+</path >
+<path d="M 37 40 C 37 44 42 47 45 45 L 47 44 C 47 44 48 43 48 42 C 50 39 48 34 43 34 C 42 34 40 34 39 36 L 38 36 C 38 37 37 39 37 40 Z" id="id-icons-MetaExplorer-2">
+</path >
+<path d="M 21 42 C 21 43 22 45 24 46 C 27 48 31 46 31 41 C 31 36 24 35 22 40 C 22 40 21 41 21 42 L 21 42 Z" id="id-icons-MetaExplorer-2">
+</path >
+<path d="M 36 61 C 36 63 37 64 38 65 C 38 65 38 65 38 65 L 38 66 C 39 66 39 66 39 66 C 42 67 45 65 45 62 C 45 59 42 57 39 58 C 38 58 36 60 36 61 L 36 61 Z" id="id-icons-MetaExplorer-2">
+</path >
+<path d="M 52 20 C 52 23 56 24 58 22 C 61 19 56 15 53 18 C 53 18 52 19 52 20 L 52 20 Z" id="id-icons-MetaExplorer-2">
+</path >
+<path d="M 18 52 C 18 53 18 54 19 54 C 19 55 20 55 21 55 C 22 55 23 54 24 54 C 24 52 24 51 23 50 C 23 49 22 49 21 49 C 20 49 19 50 18 51 C 18 51 18 52 18 52 L 18 52 Z" id="id-icons-MetaExplorer-2">
+</path >
+<path d="M 29 26 C 29 30 34 31 35 28 C 35 26 35 25 34 24 C 34 24 34 24 34 24 C 34 24 34 24 33 24 C 31 23 29 24 29 26 Z" id="id-icons-MetaExplorer-2">
+</path >
+</g >
+  <defs>
+      <linearGradient id="Gradient1">
+        <stop class="stop1" offset="0%"/>
+        <stop class="stop2" offset="100%"/>
+      </linearGradient>
+      <style type="text/css"><![CDATA[
+        #tbar { fill: url(#Gradient1); }
+        .stop1 { stop-color: red; }
+        .stop2 { stop-color: blue; }
+      ]]></style>
+  </defs>
+<text x="50" y="115" font-family="Trebuchet MS" font-weight="500" font-size="5.5em" letter-spacing="-3.0" text-transform="uppercase" fill="white">MALIK FROM SUPERFICIAL</text>
+<text x="50" y="180" font-family="Trebuchet MS" font-size="3.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">METAEXPLORER | WARRIOR</text>
+<g transform="translate(55,195)">
+  <rect id="tbar" y="0" width="185" height="13" fill="url(#Gradient1)"></rect>
+  <rect x="117" y="1" width="67" height="11" fill="#E3E3E3"></rect>
+</g>
+<text x="50" y="270" font-family="Trebuchet MS" font-size="3.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">CB-09389</text>
+
+<g transform="translate(50,1430)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">BODY</text>
+  <rect width="82" height="30" fill="white"></rect>
+  <rect width="190" height="30" fill="none" stroke="white"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="500" letter-spacing="0" text-transform="uppercase" fill="white">13</text>
+</g>
+<g transform="translate(50,1505)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">MIND</text>
+  <rect width="76" height="30" fill="white"></rect>
+  <rect width="190" height="30" fill="none" stroke="white"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.3em" font-weight="500" letter-spacing="0" text-transform="uppercase" fill="white">12</text>
+</g>
+<g transform="translate(50,1580)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">SOUL</text>
+  <rect width="146" height="30" fill="white"></rect>
+  <rect width="190" height="30" fill="none" stroke="white"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="500" letter-spacing="0" text-transform="uppercase" fill="white">23</text>
+</g>
+<g transform="translate(50,1675)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">TRAITS</text>
+  <rect width="48" height="30" fill="white"></rect>
+  <rect width="190" height="30" fill="none" stroke="white"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="500" letter-spacing="0" text-transform="uppercase" fill="white">3</text>
+</g>
+</svg>

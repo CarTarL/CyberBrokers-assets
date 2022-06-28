@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs >
+<filter width="130%" height="130%" x="-15%" y="-15%" id="id-bg-11-Artboard-0" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="50">
+</feGaussianBlur >
+</filter >
+<filter width="124%" height="124%" x="-12%" y="-12%" id="id-bg-11-Artboard-1" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="50">
+</feGaussianBlur >
+</filter >
+<radialGradient cx="50%" cy="50%" r="70%" id="id-bg-11-Artboard-2" fx="50%" fy="50%" gradientTransform="translate(0.5,0.5) scale(1,1) translate(-0.5,-0.5)">
+<stop stop-color="#ff66ae" offset="0%">
+</stop >
+<stop stop-color="#ff3160" offset="100%">
+</stop >
+</radialGradient >
+<circle cx="660" cy="897" r="491" id="id-bg-11-Artboard-3">
+</circle >
+<filter width="107%" height="107%" x="-2%" y="-2%" id="id-bg-11-Artboard-4" filterUnits="objectBoundingBox">
+<feOffset result="id-bg-11-Artboard-5" in="SourceAlpha" dx="12" dy="11">
+</feOffset >
+<feGaussianBlur result="id-bg-11-Artboard-6" in="id-bg-11-Artboard-5" stdDeviation="10">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-11-Artboard-6" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0">
+</feColorMatrix >
+</filter >
+</defs >
+<g stroke="none" stroke-width="1" fill="none" id="id-bg-11-Artboard-9" fill-rule="evenodd">
+<g id="id-bg-11-Artboard-10">
+<rect fill="#110f0f" width="1320" height="1760" x="0" y="0" id="id-bg-11-Artboard-11">
+</rect >
+<circle cx="661" cy="898" r="504" fill="#ff5fa4" opacity="0.579" id="id-bg-11-Artboard-12" filter="url(#id-bg-11-Artboard-0)">
+</circle >
+<circle cx="661" cy="898" r="634" fill="#ff5fa4" opacity="0.181" id="id-bg-11-Artboard-12" filter="url(#id-bg-11-Artboard-1)">
+</circle >
+<g id="id-bg-11-Artboard-12">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-11-Artboard-3" filter="url(#id-bg-11-Artboard-4)">
+</use >
+<use fill="url(#id-bg-11-Artboard-2)" xlink:href="#id-bg-11-Artboard-3" fill-rule="evenodd">
+</use >
+</g >
+</g >
+</g >
+<defs >
+<linearGradient x1="45%" y1="58%" x2="56%" y2="58%" id="id-holo-1-holo-3-0">
+<stop stop-color="#036400" offset="0%">
+</stop >
+<stop stop-color="#640083" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="14%" x2="36%" y2="14%" id="id-holo-1-holo-3-1">
+<stop stop-color="#8aa94f" offset="0%">
+</stop >
+<stop stop-color="#496318" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="79%" y1="12%" x2="21%" y2="81%" id="id-holo-1-holo-3-2">
+<stop stop-color="#5c1dbb" offset="0%">
+</stop >
+<stop stop-color="#400097" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="77%" y1="12%" x2="22%" y2="81%" id="id-holo-1-holo-3-3">
+<stop stop-color="#5c1dbb" offset="0%">
+</stop >
+<stop stop-color="#400097" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="13%" x2="50%" y2="73%" id="id-holo-1-holo-3-4">
+<stop stop-color="#e300b7" offset="0%">
+</stop >
+<stop stop-color="#6f0057" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="26%" y1="31%" x2="78%" y2="84%" id="id-holo-1-holo-3-5">
+<stop stop-color="#7f3be9" offset="0%">
+</stop >
+<stop stop-color="#42019b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="48%" y1="38%" x2="52%" y2="50%" id="id-holo-1-holo-3-6">
+<stop stop-color="#89aa4e" offset="0%">
+</stop >
+<stop stop-color="#5c7a26" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="63%" y1="50%" x2="37%" y2="38%" id="id-holo-1-holo-3-7">
+<stop stop-color="#84a547" offset="0%">
+</stop >
+<stop stop-color="#476314" offset="100%">
+</stop >
+</linearGradient >
+<radialGradient cx="58%" cy="24%" r="100%" id="id-holo-1-holo-3-8" fx="58%" fy="24%" gradientTransform="translate(0.578,0.238) scale(0.761,1) rotate(90) translate(-0.578,-0.238)">
+<stop stop-color="#8aab50" offset="0%">
+</stop >
+<stop stop-color="#496515" offset="100%">
+</stop >
+</radialGradient >
+<radialGradient cx="58%" cy="24%" r="100%" id="id-holo-1-holo-3-9" fx="58%" fy="24%" gradientTransform="translate(0.578,0.238) scale(0.755,1) rotate(90) translate(-0.578,-0.238)">
+<stop stop-color="#8aab50" offset="0%">
+</stop >
+<stop stop-color="#496515" offset="100%">
+</stop >
+</radialGradient >
+<radialGradient cx="58%" cy="24%" r="100%" id="id-holo-1-holo-3-10" fx="58%" fy="24%" gradientTransform="translate(0.578,0.238) scale(0.602,1) rotate(90) translate(-0.578,-0.238)">
+<stop stop-color="#8aab50" offset="0%">
+</stop >
+<stop stop-color="#496515" offset="100%">
+</stop >
+</radialGradient >
+<radialGradient cx="58%" cy="24%" r="100%" id="id-holo-1-holo-3-11" fx="58%" fy="24%" gradientTransform="translate(0.578,0.238) scale(0.665,1) rotate(90) translate(-0.578,-0.238)">
+<stop stop-color="#8aab50" offset="0%">
+</stop >
+<stop stop-color="#496515" offset="100%">
+</stop >
+</radialGradient >
+<radialGradient cx="58%" cy="24%" r="100%" id="id-holo-1-holo-3-12" fx="58%" fy="24%" gradientTransform="translate(0.578,0.238) scale(0.5,1) rotate(90) translate(-0.578,-0.238)">
+<stop stop-color="#8aab50" offset="0%">
+</stop >
+<stop stop-color="#496515" offset="100%">
+</stop >
+</radialGradient >
+<radialGradient cx="60%" cy="0%" r="93%" id="id-holo-1-holo-3-13" fx="60%" fy="0%" gradientTransform="translate(0.604,0) scale(0.769,1) rotate(149) translate(-0.604,0)">
+<stop stop-color="#dd00a4" offset="0%">
+</stop >
+<stop stop-color="#97006f" offset="100%">
+</stop >
+</radialGradient >
+<radialGradient cx="58%" cy="24%" r="100%" id="id-holo-1-holo-3-14" fx="58%" fy="24%" gradientTransform="translate(0.578,0.238) scale(0.823,1) rotate(90) translate(-0.578,-0.238)">
+<stop stop-color="#8aab50" offset="0%">
+</stop >
+<stop stop-color="#496515" offset="100%">
+</stop >
+</radialGradient >
+<linearGradient x1="26%" y1="47%" x2="9%" y2="91%" id="id-holo-1-holo-3-15">
+<stop stop-color="#8a44fa" offset="0%">
+</stop >
+<stop stop-color="#3e0096" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="75%" y1="50%" x2="39%" y2="58%" id="id-holo-1-holo-3-16">
+<stop stop-color="#df00b2" offset="0%">
+</stop >
+<stop stop-color="#a50081" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-holo-1-holo-3-17">
+<stop stop-color="#db00a5" offset="0%">
+</stop >
+<stop stop-color="#76005b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-holo-1-holo-3-18">
+<stop stop-color="#3c8cb5" offset="0%">
+</stop >
+<stop stop-color="#3e8fb0" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-holo-1-holo-3-19">
+<stop stop-color="#95b753" offset="0%">
+</stop >
+<stop stop-color="#476310" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="20%" y1="11%" x2="61%" y2="100%" id="id-holo-1-holo-3-20">
+<stop stop-color="#ff80e4" offset="0%">
+</stop >
+<stop stop-color="#993584" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="77%" y1="82%" x2="23%" y2="64%" id="id-holo-1-holo-3-21">
+<stop stop-color="#e670ce" offset="0%">
+</stop >
+<stop stop-color="#a53e8f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="id-holo-1-holo-3-22">
+<stop stop-color="#546516" offset="0%">
+</stop >
+<stop stop-color="#94a84c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="53%" y1="66%" x2="65%" y2="84%" id="id-holo-1-holo-3-23">
+<stop stop-color="#97ba55" offset="0%">
+</stop >
+<stop stop-color="#4f6c19" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="37%" y1="40%" x2="50%" y2="79%" id="id-holo-1-holo-3-24">
+<stop stop-color="#5b7a22" offset="0%" stop-opacity="0">
+</stop >
+<stop stop-color="#5e7d25" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="58%" y2="100%" id="id-holo-1-holo-3-25">
+<stop stop-color="#7c278e" offset="0%">
+</stop >
+<stop stop-color="#da6ef0" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-holo-1-holo-3-26">
+<stop stop-color="#5c7a23" offset="0%">
+</stop >
+<stop stop-color="#45610f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="82%" y1="50%" x2="18%" y2="84%" id="id-holo-1-holo-3-27">
+<stop stop-color="#b60089" offset="0%">
+</stop >
+<stop stop-color="#570042" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="58%" x2="29%" y2="58%" id="id-holo-1-holo-3-28">
+<stop stop-color="#8ea149" offset="0%">
+</stop >
+<stop stop-color="#566619" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-holo-1-holo-3-29">
+<stop stop-color="#dc6ff0" offset="0%">
+</stop >
+<stop stop-color="#853096" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-holo-1-holo-3-30">
+<stop stop-color="#a7bc5b" offset="0%">
+</stop >
+<stop stop-color="#556517" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-holo-1-holo-3-31">
+<stop stop-color="#fd81e4" offset="0%">
+</stop >
+<stop stop-color="#983583" offset="100%">
+</stop >
+</linearGradient >
+<filter width="119%" height="104%" x="-9%" y="-2%" id="id-holo-1-holo-3-32" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="157%" height="113%" x="-28%" y="-6%" id="id-holo-1-holo-3-33" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="3">
+</feGaussianBlur >
+</filter >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-holo-1-holo-3-34">
+<stop stop-color="#d700a2" offset="0%">
+</stop >
+<stop stop-color="#5a0045" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="68%" y1="50%" x2="0%" y2="50%" id="id-holo-1-holo-3-35">
+<stop stop-color="#da00a6" offset="0%">
+</stop >
+<stop stop-color="#570042" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="2%" y2="50%" id="id-holo-1-holo-3-36">
+<stop stop-color="#94b754" offset="0%">
+</stop >
+<stop stop-color="#466210" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-holo-1-holo-3-37">
+<stop stop-color="#f987de" offset="0%">
+</stop >
+<stop stop-color="#973d80" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="58%" y1="55%" x2="2%" y2="50%" id="id-holo-1-holo-3-38">
+<stop stop-color="#db00a5" offset="0%">
+</stop >
+<stop stop-color="#590044" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="93%" y1="80%" x2="-9%" y2="50%" id="id-holo-1-holo-3-39">
+<stop stop-color="#fc7ee1" offset="0%">
+</stop >
+<stop stop-color="#b1479a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="53%" y1="5%" x2="49%" y2="86%" id="id-holo-1-holo-3-40">
+<stop stop-color="#78005b" offset="0%">
+</stop >
+<stop stop-color="#ce009b" offset="25%">
+</stop >
+<stop stop-color="#db00a5" offset="71%">
+</stop >
+<stop stop-color="#9a0075" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="64%" y1="43%" x2="0%" y2="43%" id="id-holo-1-holo-3-41">
+<stop stop-color="#fc89e1" offset="0%">
+</stop >
+<stop stop-color="#ac4c95" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="48%" y1="88%" x2="51%" y2="13%" id="id-holo-1-holo-3-42">
+<stop stop-color="#ea7aff" offset="0%">
+</stop >
+<stop stop-color="#a547b8" offset="100%">
+</stop >
+</linearGradient >
+<radialGradient cx="51%" cy="58%" r="134%" id="id-holo-1-holo-3-43" fx="51%" fy="58%" gradientTransform="translate(0.509,0.584) scale(1,0.816) rotate(7) translate(-0.509,-0.584)">
+<stop stop-color="#00c400" offset="0%" stop-opacity="0.748">
+</stop >
+<stop stop-color="#000000" offset="100%" stop-opacity="0">
+</stop >
+</radialGradient >
+<linearGradient x1="63%" y1="15%" x2="50%" y2="100%" id="id-holo-1-holo-3-44">
+<stop stop-color="#57cbff" offset="0%">
+</stop >
+<stop stop-color="#3abcf1" offset="100%">
+</stop >
+</linearGradient >
+<filter width="104%" height="104%" x="-2%" y="-2%" id="id-holo-1-holo-3-45" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="119%" height="114%" x="-9%" y="-7%" id="id-holo-1-holo-3-46" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="121%" height="112%" x="-10%" y="-6%" id="id-holo-1-holo-3-47" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="125%" height="125%" x="-12%" y="-12%" id="id-holo-1-holo-3-48" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="133%" height="114%" x="-17%" y="-7%" id="id-holo-1-holo-3-49" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="117%" height="132%" x="-8%" y="-16%" id="id-holo-1-holo-3-50" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="2">
+</feGaussianBlur >
+</filter >
+<filter width="127%" height="150%" x="-14%" y="-25%" id="id-holo-1-holo-3-51" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="3">
+</feGaussianBlur >
+</filter >
+<filter width="114%" height="123%" x="-7%" y="-11%" id="id-holo-1-holo-3-52" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="113%" height="127%" x="-7%" y="-13%" id="id-holo-1-holo-3-53" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="139%" height="151%" x="-19%" y="-25%" id="id-holo-1-holo-3-54" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="142%" height="166%" x="-21%" y="-33%" id="id-holo-1-holo-3-55" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="103%" height="108%" x="-2%" y="-4%" id="id-holo-1-holo-3-56" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="182%" height="252%" x="-41%" y="-76%" id="id-holo-1-holo-3-57" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="20">
+</feGaussianBlur >
+</filter >
+<filter width="114%" height="127%" x="-7%" y="-13%" id="id-holo-1-holo-3-58" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="137%" height="164%" x="-19%" y="-32%" id="id-holo-1-holo-3-59" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<filter width="114%" height="151%" x="-7%" y="-25%" id="id-holo-1-holo-3-60" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1">
+</feGaussianBlur >
+</filter >
+<linearGradient x1="51%" y1="41%" x2="50%" y2="75%" id="id-holo-1-holo-3-61">
+<stop stop-color="#e46bff" offset="0%">
+</stop >
+<stop stop-color="#9400c4" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="36%" x2="49%" y2="63%" id="id-holo-1-holo-3-62">
+<stop stop-color="#78fe6f" offset="0%">
+</stop >
+<stop stop-color="#00b700" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="13%" x2="61%" y2="13%" id="id-holo-1-holo-3-63">
+<stop stop-color="#78fe6f" offset="0%">
+</stop >
+<stop stop-color="#22f000" offset="51%">
+</stop >
+<stop stop-color="#bd00f3" offset="56%">
+</stop >
+<stop stop-color="#e46bff" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(284,318)" id="id-holo-1-holo-3-64">
+<polygon points="307 198 294 295 466 340 442 198" fill="url(#id-holo-1-holo-3-0)" id="id-holo-1-holo-3-65">
+</polygon >
+<g transform="translate(0,2)" id="id-holo-1-holo-3-66">
+<path d="M 510 1440 C 444 1440 411 1440 411 1440 C 402 1373 397 1339 397 1339 C 388 1183 384 1105 384 1105 C 384 1062 384 1027 385 998 C 371 1002 363 1000 357 998 C 368 1073 338 1201 335 1293 C 339 1364 329 1440 329 1440 C 254 1440 217 1440 217 1440 C 220 1433 223 1424 225 1415 C 219 1319 201 1260 190 1207 C 181 1163 171 1111 166 1028 C 176 970 203 865 209 833 C 237 760 251 724 251 724 C 246 630 242 581 237 576 C 224 627 218 653 218 653 C 214 711 213 739 213 739 C 148 884 116 958 118 961 C 115 990 114 1005 114 1005 C 126 1019 127 1055 116 1114 C 121 1119 123 1121 123 1121 C 121 1124 120 1126 120 1126 C 129 1134 133 1137 133 1137 C 123 1140 118 1141 118 1141 C 120 1147 120 1150 120 1150 C 110 1149 105 1149 105 1149 C 83 1137 72 1131 72 1131 C 57 1093 49 1073 49 1073 C 66 1018 75 990 75 990 C 73 981 73 974 75 966 C 95 899 100 837 118 738 C 171 648 149 435 158 385 C 160 380 162 375 164 370 C 194 340 272 355 323 283 C 326 270 328 258 328 246 C 317 239 309 224 305 201 C 297 200 292 197 290 193 C 286 179 283 174 283 153 C 282 144 285 138 289 135 C 289 56 316 16 371 13 C 413 17 458 23 460 125 C 463 132 468 138 470 145 C 472 171 467 190 456 201 C 449 201 450 216 441 232 C 438 237 427 240 425 245 C 430 269 426 311 492 340 C 519 344 535 347 541 351 C 556 357 566 362 571 367 C 591 407 588 502 588 502 C 594 597 596 647 595 654 C 611 720 619 753 619 753 C 628 822 633 865 632 882 C 637 911 639 926 639 926 C 645 939 649 946 649 946 C 649 1017 650 1052 650 1052 C 654 1069 657 1077 657 1077 C 657 1082 657 1085 657 1085 C 640 1115 631 1130 631 1130 C 604 1140 591 1146 591 1146 C 591 1140 591 1137 591 1137 C 586 1128 584 1123 584 1123 C 599 1116 606 1112 606 1112 C 604 1109 602 1107 602 1107 C 598 1050 596 1021 596 1021 C 606 996 611 983 611 983 C 595 925 579 878 561 841 C 539 782 526 747 523 735 C 515 617 511 558 511 558 C 509 562 507 565 505 569 C 503 616 487 692 487 692 C 489 721 490 736 490 736 C 508 769 520 799 527 827 C 533 871 541 908 553 939 C 564 1005 568 1043 566 1053 C 555 1142 544 1199 533 1224 L 510 1306 C 504 1387 504 1432 510 1440 Z" fill="#000000" id="id-holo-1-holo-3-67">
+</path >
+<g transform="translate(0,242)" id="id-holo-1-holo-3-68">
+<path d="M 425 12 C 415 35 413 50 417 59 C 424 71 437 78 456 78 C 437 65 427 43 425 12 Z" fill="#ff72b0" id="id-holo-1-holo-3-69">
+</path >
+<path d="M 397 73 C 384 115 368 114 351 70 C 344 48 338 37 332 37 C 329 58 305 76 288 86 C 292 77 327 58 329 34 C 369 33 389 32 389 32 C 399 26 410 15 424 0 C 424 15 407 42 400 66 C 387 66 373 68 357 69 C 384 72 397 73 397 73 Z" fill="#8c45fb" id="id-holo-1-holo-3-70">
+</path >
+<path d="M 351 24 C 338 27 332 29 332 29 L 333 11 C 345 20 351 24 351 24 Z" fill="#903fe3" id="id-holo-1-holo-3-71">
+</path >
+<path d="M 307 103 C 273 101 247 102 228 104 C 228 100 277 97 296 86 C 321 71 326 54 330 55 C 338 53 357 90 354 100 C 343 104 339 77 328 79 C 314 85 307 93 307 103 Z" fill="#e300b7" id="id-holo-1-holo-3-72">
+</path >
+<path d="M 363 106 C 363 110 334 138 323 136 C 319 129 311 109 284 107 C 252 104 199 115 169 134 C 169 129 169 126 169 126 C 188 118 197 114 197 114 C 131 113 97 112 97 112 C 138 110 181 107 226 105 C 284 101 345 103 363 106 Z" fill="#70a424" id="id-holo-1-holo-3-73">
+</path >
+<path d="M 218 165 C 218 152 221 141 228 131 C 226 129 225 129 225 129 C 236 128 245 128 251 128 C 241 209 176 201 154 260 C 155 236 156 224 156 224 C 166 196 183 173 204 154 C 179 154 157 182 157 182 C 155 171 162 157 179 142 C 92 140 49 139 49 139 C 147 133 204 130 221 128 C 218 177 169 189 158 234 C 186 194 216 180 234 160 L 229 156 C 226 156 223 159 218 165 Z" fill="url(#id-holo-1-holo-3-1)" id="id-holo-1-holo-3-74">
+</path >
+<path d="M 216 149 L 172 133 L 221 128 C 221 139 219 145 216 149 Z" fill="#82a149" id="id-holo-1-holo-3-75">
+</path >
+<path d="M 277 136 C 271 130 265 128 259 128 C 257 134 265 159 250 177 C 246 187 244 191 246 189 C 257 179 271 183 277 136 Z" fill="#89a94f" id="id-holo-1-holo-3-76">
+</path >
+<path d="M 281 124 C 284 131 286 135 286 135 C 282 150 278 161 275 168 C 262 186 248 199 233 217 C 185 239 159 265 156 294 C 157 278 157 270 157 270 C 175 230 205 213 236 197 C 266 179 281 154 281 124 Z" fill="url(#id-holo-1-holo-3-2)" id="id-holo-1-holo-3-77">
+</path >
+<path d="M 208 254 C 203 270 201 278 201 278 C 174 275 158 288 154 318 C 154 307 158 251 208 254 Z" fill="#3c560d" id="id-holo-1-holo-3-78">
+</path >
+<path d="M 200 281 C 200 293 200 303 200 309 C 163 297 156 331 152 345 C 150 327 162 281 200 281 Z" fill="url(#id-holo-1-holo-3-3)" id="id-holo-1-holo-3-79">
+</path >
+<path d="M 299 141 C 297 184 269 189 226 238 C 181 302 231 345 259 352 C 289 358 274 377 274 377 C 256 403 248 427 250 449 C 262 408 318 347 279 343 C 210 343 213 278 253 236 C 274 204 304 194 299 141 Z" fill="url(#id-holo-1-holo-3-4)" id="id-holo-1-holo-3-80">
+</path >
+<path d="M 203 319 C 197 330 218 358 224 385 C 227 375 231 361 234 346 C 218 331 207 322 203 319 Z" fill="#435e13" id="id-holo-1-holo-3-81">
+</path >
+<path d="M 223 393 C 223 389 224 388 224 384 C 216 355 196 325 203 319 C 189 313 156 321 151 359 C 163 343 176 336 189 338 C 177 348 163 361 147 401 L 138 448 C 150 411 160 383 178 370 C 200 357 219 361 223 393 Z" fill="#506b1d" id="id-holo-1-holo-3-82">
+</path >
+<path d="M 241 357 C 245 371 247 399 248 411 C 251 387 270 380 268 366 C 265 358 252 358 241 357 Z" fill="#ff4574" id="id-holo-1-holo-3-83">
+</path >
+<path d="M 391 399 C 338 407 312 410 312 410 C 332 345 341 312 341 312 L 329 400 C 370 399 391 399 391 399 Z" fill="#f95fe8" id="id-holo-1-holo-3-84">
+</path >
+<path d="M 354 362 C 325 373 310 379 310 379 C 283 429 269 453 269 453 C 260 482 256 496 256 496 C 226 557 210 590 208 598 C 210 587 212 581 212 581 C 238 515 251 482 251 482 C 250 471 250 466 250 466 C 263 433 270 414 270 407 C 286 382 294 363 293 351 C 310 346 325 339 325 339 L 318 362 C 342 362 354 362 354 362 Z" fill="#8c45fb" id="id-holo-1-holo-3-85">
+</path >
+<path d="M 304 412 C 302 412 301 412 301 412 L 309 398 C 306 407 304 412 304 412 Z" fill="#91951f" id="id-holo-1-holo-3-86">
+</path >
+<path d="M 299 419 C 284 442 274 464 268 486 C 250 528 241 545 226 570 C 211 601 203 618 203 619 C 199 641 195 662 190 682 C 203 638 218 595 251 541 C 262 522 272 502 279 479 C 292 439 299 419 299 419 Z" fill="#cc009a" id="id-holo-1-holo-3-87">
+</path >
+<path d="M 308 420 C 322 420 330 420 330 420 C 331 449 345 456 372 442 C 343 484 243 558 209 642 C 232 584 254 546 280 499 C 299 446 308 420 308 420 Z" fill="#f95fe8" id="id-holo-1-holo-3-88">
+</path >
+<path d="M 133 897 C 124 899 120 900 120 900 C 122 906 123 909 123 909 C 111 908 106 907 106 907 C 82 895 70 889 70 889 C 62 861 59 847 59 847 C 65 851 68 853 68 853 C 73 876 81 888 90 891 C 84 874 68 855 75 848 C 80 847 85 852 88 862 C 91 879 98 890 110 893 C 116 890 120 881 132 890 C 133 895 133 897 133 897 Z" fill="url(#id-holo-1-holo-3-5)" id="id-holo-1-holo-3-89">
+</path >
+<path d="M 114 762 C 127 776 125 868 105 887 C 100 884 98 875 98 858 C 103 851 106 848 106 848 C 102 837 94 838 95 815 C 96 797 102 779 114 762 Z" fill="url(#id-holo-1-holo-3-6)" id="id-holo-1-holo-3-90">
+</path >
+<path d="M 93 757 C 91 765 85 842 77 843 C 74 842 75 836 72 836 C 69 838 69 845 66 845 C 63 845 63 840 59 838 C 56 837 55 841 52 839 C 49 837 48 830 48 830 L 66 776 C 80 761 89 755 93 757 Z" fill="url(#id-holo-1-holo-3-7)" id="id-holo-1-holo-3-91">
+</path >
+<path d="M 96 807 C 100 790 108 785 121 790 C 121 780 120 771 115 763 C 104 778 98 792 96 807 Z" fill="#c40090" id="id-holo-1-holo-3-92">
+</path >
+<path d="M 91 775 C 106 738 99 734 70 763 C 67 771 66 776 66 776 C 78 763 86 757 91 756 C 96 756 91 775 91 775 Z" fill="#c40090" id="id-holo-1-holo-3-93">
+</path >
+<path d="M 110 750 C 107 732 95 731 74 746 C 74 743 74 741 74 741 C 83 729 92 723 101 722 C 109 720 116 734 116 734 L 115 747 C 112 749 110 750 110 750 Z" fill="#c40090" id="id-holo-1-holo-3-94">
+</path >
+<path d="M 74 736 C 74 730 74 727 74 727 C 100 701 114 698 118 719 C 117 729 116 733 116 733 C 115 732 114 731 113 728 C 114 718 104 703 74 736 Z" fill="#8341eb" id="id-holo-1-holo-3-95">
+</path >
+<path d="M 118 717 C 121 681 95 695 76 719 C 78 698 125 657 123 707 C 121 712 119 715 118 717 Z" fill="url(#id-holo-1-holo-3-8)" id="id-holo-1-holo-3-96">
+</path >
+<path d="M 129 686 C 132 679 134 675 134 675 C 131 656 86 661 83 698 C 89 682 117 667 129 686 Z" fill="#8341eb" id="id-holo-1-holo-3-97">
+</path >
+<path d="M 86 680 C 104 646 136 644 138 664 C 141 658 141 658 143 652 C 135 622 93 642 86 680 Z" fill="url(#id-holo-1-holo-3-9)" id="id-holo-1-holo-3-98">
+</path >
+<path d="M 93 651 C 97 640 139 600 147 642 C 149 638 149 637 152 630 C 148 588 93 622 93 651 Z" fill="#8341eb" id="id-holo-1-holo-3-99">
+</path >
+<path d="M 155 622 C 158 617 159 616 160 610 C 155 577 115 583 99 616 C 98 618 98 621 97 626 C 108 605 143 583 155 622 Z" fill="url(#id-holo-1-holo-3-10)" id="id-holo-1-holo-3-100">
+</path >
+<path d="M 163 604 C 167 594 169 590 169 590 C 155 545 132 547 102 595 L 99 611 C 128 567 150 565 163 604 Z" fill="#8341eb" id="id-holo-1-holo-3-101">
+</path >
+<path d="M 175 576 C 177 573 180 569 182 560 C 178 540 157 496 105 571 C 104 575 103 578 103 582 C 129 535 171 529 175 576 Z" fill="url(#id-holo-1-holo-3-11)" id="id-holo-1-holo-3-102">
+</path >
+<path d="M 182 558 C 179 542 176 532 174 526 C 153 506 138 513 107 558 C 108 549 109 545 109 545 C 120 522 134 507 150 500 C 160 496 174 504 182 511 C 190 529 187 536 182 558 Z" fill="#8341eb" id="id-holo-1-holo-3-103">
+</path >
+<path d="M 183 559 C 191 518 185 491 166 479 C 139 481 110 535 110 535 C 111 528 112 524 112 524 C 37 521 0 519 0 519 C 76 518 114 518 114 518 C 132 484 151 465 169 462 C 187 465 209 512 183 559 Z" fill="url(#id-holo-1-holo-3-12)" id="id-holo-1-holo-3-104">
+</path >
+<path d="M 207 508 C 211 501 213 497 213 497 C 210 471 206 453 201 444 C 166 424 131 465 131 465 C 125 480 121 487 121 487 C 140 463 161 451 182 451 C 207 460 207 508 207 508 Z" fill="url(#id-holo-1-holo-3-13)" id="id-holo-1-holo-3-105">
+</path >
+<path d="M 213 491 C 216 465 213 445 204 429 C 187 415 159 427 138 448 L 131 465 C 154 441 178 431 202 444 C 206 460 210 476 213 491 Z" fill="url(#id-holo-1-holo-3-14)" id="id-holo-1-holo-3-106">
+</path >
+<path d="M 326 339 C 317 350 293 351 293 351 C 291 345 285 342 274 341 C 241 337 227 308 239 278 C 248 255 290 215 304 192 C 314 172 307 159 319 139 C 333 144 350 124 354 122 C 357 121 366 126 374 122 C 381 118 381 106 391 104 C 432 108 451 108 489 102 C 511 102 536 104 536 104 C 516 105 502 106 493 107 C 464 110 440 113 423 113 C 408 113 408 110 396 111 C 386 115 385 124 372 131 C 366 133 364 128 357 129 C 352 131 337 143 326 169 C 373 169 396 169 396 169 C 366 175 341 180 320 185 C 319 186 318 189 317 190 C 314 206 243 269 255 300 C 279 339 323 303 330 308 C 336 312 326 330 326 339 Z" fill="url(#id-holo-1-holo-3-15)" id="id-holo-1-holo-3-107">
+</path >
+<path d="M 650 121 C 605 154 583 170 583 170 L 570 123 C 624 122 650 121 650 121 Z" fill="#d300a8" fill-opacity="0.5" id="id-holo-1-holo-3-108">
+</path >
+<path d="M 594 402 C 618 392 630 387 630 387 C 646 358 654 343 654 343 L 590 343 C 592 382 594 402 594 402 Z" fill="#da00a5" fill-opacity="0.5" id="id-holo-1-holo-3-109">
+</path >
+<path d="M 330 169 C 328 169 327 169 327 169 C 342 139 362 127 388 133 C 412 121 427 119 434 127 C 465 116 599 108 522 205 C 519 205 517 205 516 204 C 549 174 570 125 432 133 C 429 136 428 137 428 137 C 411 132 400 139 384 146 C 364 140 344 147 330 169 Z" fill="#e979ff" id="id-holo-1-holo-3-110">
+</path >
+<path d="M 437 116 C 452 110 462 110 467 115 C 499 116 626 96 531 204 C 560 205 574 206 574 206 C 509 218 477 225 477 225 C 518 223 539 222 539 222 C 564 266 581 278 589 260 C 591 201 587 160 577 137 L 613 122 C 585 123 570 123 570 123 C 562 118 557 116 557 116 L 646 107 C 532 106 462 109 437 116 Z" fill="url(#id-holo-1-holo-3-16)" id="id-holo-1-holo-3-111">
+</path >
+<path d="M 310 233 C 320 234 320 251 310 282 C 301 308 291 319 279 315 C 272 314 266 310 265 303 C 265 291 268 242 310 233 Z" fill="url(#id-holo-1-holo-3-17)" id="id-holo-1-holo-3-112">
+</path >
+<path d="M 376 209 C 372 227 369 235 369 235 L 329 212 C 360 210 376 209 376 209 Z" fill="url(#id-holo-1-holo-3-18)" id="id-holo-1-holo-3-113">
+</path >
+<path d="M 417 232 C 410 235 402 267 420 289 C 443 308 468 293 472 278 C 475 264 450 217 417 232 Z" fill="#ee63d5" id="id-holo-1-holo-3-114">
+</path >
+<path d="M 386 191 C 400 191 427 193 468 195 C 526 243 526 285 502 325 C 476 346 446 353 412 345 C 412 345 400 331 376 303 C 364 282 365 219 384 191 C 385 191 385 191 385 191 Z M 409 211 C 372 238 381 286 391 302 C 409 336 497 351 500 296 C 500 268 462 205 409 211 Z" fill="url(#id-holo-1-holo-3-19)" id="id-holo-1-holo-3-115">
+</path >
+<path d="M 409 211 C 421 210 432 212 442 216 C 433 213 425 211 416 212 C 397 219 373 274 414 311 C 469 333 500 311 482 251 C 493 267 500 284 500 296 C 497 351 409 336 391 302 C 381 286 372 238 409 211 Z M 453 222 C 464 229 474 239 481 249 C 472 237 463 228 453 222 Z" fill="url(#id-holo-1-holo-3-20)" id="id-holo-1-holo-3-115">
+</path >
+<path d="M 589 282 C 587 308 563 322 533 235 C 526 252 525 275 528 305 C 568 333 584 321 590 292 C 590 288 590 285 589 282 Z" fill="url(#id-holo-1-holo-3-21)" id="id-holo-1-holo-3-117">
+</path >
+<path d="M 536 276 C 537 291 578 338 590 288 C 596 410 520 431 515 355 C 526 328 530 301 529 276 C 529 273 534 272 536 276 Z" fill="url(#id-holo-1-holo-3-22)" id="id-holo-1-holo-3-118">
+</path >
+<path d="M 533 223 C 530 222 522 223 517 224 C 506 254 517 258 516 291 C 517 317 513 337 513 337 C 514 343 514 347 515 350 C 531 319 513 238 533 223 Z" fill="#78005c" id="id-holo-1-holo-3-119">
+</path >
+<path d="M 188 704 C 197 684 209 666 223 650 C 259 615 248 587 280 560 C 259 557 201 552 201 552 C 237 550 267 548 292 546 C 354 475 425 423 418 370 C 389 364 374 361 374 361 L 417 361 L 412 345 C 443 352 472 349 503 325 C 480 361 446 399 489 485 C 500 508 505 519 505 519 C 521 563 529 584 529 584 C 532 608 535 628 539 646 C 503 620 416 740 399 882 C 397 903 390 913 387 916 C 382 865 382 808 391 756 C 380 760 359 758 360 756 C 361 779 360 795 359 804 C 336 801 273 878 254 880 C 201 884 246 774 246 734 C 237 707 190 752 169 780 C 170 770 171 761 174 749 C 179 729 184 716 186 710 L 138 706 L 188 704 Z" fill="url(#id-holo-1-holo-3-23)" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 465 671 L 391 756 C 377 758 366 758 358 756 C 312 718 291 686 270 650 C 333 646 390 610 465 671 Z" fill="url(#id-holo-1-holo-3-24)" id="id-holo-1-holo-3-121">
+</path >
+<path d="M 386 757 C 389 757 390 757 390 757 L 384 863 C 381 827 382 792 386 757 Z" fill="#97ba55" id="id-holo-1-holo-3-122">
+</path >
+<path d="M 519 228 C 536 243 553 284 553 284 L 516 359 C 516 295 517 251 519 228 Z" fill="#000000" fill-opacity="0.3" id="id-holo-1-holo-3-123">
+</path >
+<path d="M 591 897 C 586 896 583 895 582 893 C 580 890 584 884 584 884 C 596 879 606 875 615 870 C 624 855 635 841 635 841 C 642 841 645 844 642 850 C 635 862 629 872 624 878 C 609 887 591 897 591 897 Z" fill="#97ba55" id="id-holo-1-holo-3-124">
+</path >
+<path d="M 657 842 C 657 847 645 854 633 890 C 612 897 594 905 593 904 C 604 894 617 892 626 883 C 639 866 640 852 657 842 Z" fill="#97ba55" id="id-holo-1-holo-3-125">
+</path >
+<path d="M 596 790 C 601 829 603 852 601 860 C 610 876 619 865 618 829 C 619 788 611 775 596 790 Z" fill="#97ba55" id="id-holo-1-holo-3-126">
+</path >
+<path d="M 649 843 C 644 833 637 832 628 839 C 625 786 617 759 604 757 C 608 747 610 741 610 741 C 626 749 639 750 649 746 C 653 776 647 803 656 834 C 651 840 649 843 649 843 Z" fill="url(#id-holo-1-holo-3-25)" id="id-holo-1-holo-3-127">
+</path >
+<path d="M 648 717 C 648 731 649 738 649 738 C 635 746 622 745 608 734 L 604 711 C 620 727 635 729 648 717 Z" fill="url(#id-holo-1-holo-3-26)" id="id-holo-1-holo-3-128">
+</path >
+<path d="M 647 701 C 646 698 645 694 644 691 C 618 707 596 672 561 600 C 569 629 586 654 593 682 C 613 707 631 713 647 701 Z" fill="url(#id-holo-1-holo-3-27)" id="id-holo-1-holo-3-129">
+</path >
+<path d="M 639 678 C 639 674 638 670 637 666 C 579 678 569 509 524 492 C 554 524 571 572 579 632 C 595 667 615 683 639 678 Z" fill="url(#id-holo-1-holo-3-28)" id="id-holo-1-holo-3-130">
+</path >
+<path d="M 637 666 C 635 655 633 644 632 635 C 591 630 581 574 564 533 C 555 497 568 468 603 447 C 600 431 598 424 598 424 C 575 454 550 471 523 469 C 522 479 522 487 523 492 C 573 513 576 676 637 666 Z" fill="url(#id-holo-1-holo-3-29)" id="id-holo-1-holo-3-131">
+</path >
+<path d="M 630 613 C 629 602 629 597 629 597 C 618 599 609 587 601 560 C 599 548 599 507 620 526 C 618 504 615 488 611 479 C 648 471 666 466 666 466 C 627 466 608 466 608 466 C 607 463 607 462 607 462 C 582 473 574 502 581 548 C 593 596 610 617 630 613 Z" fill="#a7bb5e" id="id-holo-1-holo-3-132">
+</path >
+<path d="M 623 538 C 626 569 628 584 628 584 C 617 584 610 576 606 561 C 600 535 623 538 623 538 Z" fill="#e679fc" id="id-holo-1-holo-3-133">
+</path >
+<path d="M 598 424 C 596 416 596 412 596 412 C 569 441 544 455 522 442 C 522 451 522 460 522 470 C 537 468 559 472 598 424 Z" fill="url(#id-holo-1-holo-3-30)" id="id-holo-1-holo-3-134">
+</path >
+<path d="M 596 412 C 596 408 595 400 595 400 C 574 426 539 454 520 404 C 520 419 520 431 522 441 C 536 451 562 451 596 412 Z" fill="url(#id-holo-1-holo-3-31)" id="id-holo-1-holo-3-135">
+</path >
+<path d="M 505 329 C 500 382 489 462 487 471 C 473 431 458 400 505 329 Z" fill="#c6cc1b" id="id-holo-1-holo-3-136" filter="url(#id-holo-1-holo-3-32)">
+</path >
+<path d="M 505 329 C 500 382 489 462 487 471 C 473 431 458 400 505 329 Z" fill="#93006f" id="id-holo-1-holo-3-136" filter="url(#id-holo-1-holo-3-33)">
+</path >
+<path d="M 514 542 C 502 513 496 499 496 499 L 503 538 C 511 541 514 542 514 542 Z" fill="#3ab2ba" id="id-holo-1-holo-3-140">
+</path >
+<path d="M 595 400 C 594 373 593 353 593 339 C 586 373 561 441 518 393 L 518 400 C 534 443 560 443 595 400 Z" fill="url(#id-holo-1-holo-3-34)" id="id-holo-1-holo-3-141">
+</path >
+<path d="M 482 397 C 481 408 481 413 481 413 L 570 393 C 511 395 482 397 482 397 Z" fill="#9d0076" id="id-holo-1-holo-3-142">
+</path >
+<path d="M 387 187 C 430 187 452 186 452 186 C 441 179 429 175 416 175 C 399 175 387 187 387 187 Z" fill="#97ba55" id="id-holo-1-holo-3-143">
+</path >
+<path d="M 449 686 C 432 668 423 659 423 659 C 389 688 372 703 372 703 L 389 758 C 429 710 449 686 449 686 Z" fill="#000000" fill-opacity="0.2" id="id-holo-1-holo-3-144">
+</path >
+<path d="M 322 749 C 343 760 362 746 381 729 L 382 728 C 383 728 383 727 384 727 L 385 726 L 385 726 L 386 724 C 387 724 387 724 388 723 C 388 725 389 726 390 727 L 391 727 C 391 727 391 727 391 727 L 391 728 L 391 728 L 392 728 C 397 734 402 740 390 760 C 381 757 375 757 372 759 C 371 760 367 759 360 756 C 360 760 360 762 359 763 C 302 802 282 840 259 835 C 232 819 257 752 262 736 C 299 621 205 693 171 767 C 179 710 228 666 257 663 C 288 659 288 727 322 749 Z M 286 757 C 279 747 284 723 278 726 C 269 731 261 792 273 799 C 290 808 308 776 310 767 C 310 759 295 768 286 757 Z" fill="#000000" id="id-holo-1-holo-3-115">
+</path >
+<path d="M 237 670 C 240 678 242 682 242 682 C 255 675 264 675 268 681 L 269 666 C 263 660 252 661 237 670 Z" fill="#0000de" id="id-holo-1-holo-3-146">
+</path >
+<path d="M 396 735 C 400 743 394 752 390 760 C 382 757 376 757 372 759 L 357 748 C 371 747 384 745 396 735 Z" fill="#000092" id="id-holo-1-holo-3-147">
+</path >
+<path d="M 271 699 C 275 705 289 735 301 725 C 314 748 329 757 344 752 C 310 779 283 807 263 836 C 222 820 271 735 271 699 Z M 286 757 C 279 747 284 723 278 726 C 269 731 261 792 273 799 C 290 808 308 776 310 767 C 310 759 295 768 286 757 Z" fill="#0000b0" id="id-holo-1-holo-3-115">
+</path >
+<path d="M 399 884 C 395 900 390 910 386 915 L 391 991 C 397 920 399 884 399 884 Z" fill="#97ba55" id="id-holo-1-holo-3-149">
+</path >
+<path d="M 497 535 C 489 546 489 578 489 578 C 489 599 497 608 513 605 C 526 601 530 593 530 593 L 514 543 C 508 534 503 531 497 535 Z" fill="#0000a2" id="id-holo-1-holo-3-150">
+</path >
+<path d="M 497 535 C 516 556 513 580 504 605 C 513 607 522 604 530 593 L 514 543 C 510 535 504 532 497 535 Z" fill="#000000" id="id-holo-1-holo-3-151">
+</path >
+<path d="M 419 1198 C 413 1198 410 1198 410 1198 C 405 1174 402 1161 402 1161 L 401 1116 C 413 1153 419 1181 419 1198 Z" fill="#8e359f" id="id-holo-1-holo-3-152">
+</path >
+<path d="M 419 1198 C 421 1160 414 1117 398 1069 L 397 1098 L 401 1116 C 413 1157 419 1185 419 1198 Z" fill="#450021" id="id-holo-1-holo-3-153">
+</path >
+<path d="M 335 1089 C 328 1090 325 1091 325 1091 C 308 1141 299 1167 299 1167 L 328 1198 C 333 1125 335 1089 335 1089 Z" fill="#b65ac6" id="id-holo-1-holo-3-154">
+</path >
+<path d="M 310 1104 C 295 1144 288 1165 288 1165 C 245 1178 224 1185 224 1185 C 227 1170 227 1150 224 1127 L 266 1137 C 295 1115 310 1104 310 1104 Z" fill="#830063" id="id-holo-1-holo-3-155">
+</path >
+<path d="M 131 1130 C 196 1129 228 1128 228 1128 L 226 1135 C 163 1132 131 1130 131 1130 Z" fill="#919602" id="id-holo-1-holo-3-156">
+</path >
+<path d="M 340 989 C 338 1006 336 1037 336 1037 C 310 1110 271 1136 220 1112 C 216 1089 213 1071 211 1061 C 266 1106 319 1067 328 1031 C 333 1009 336 996 340 989 Z" fill="url(#id-holo-1-holo-3-35)" id="id-holo-1-holo-3-157">
+</path >
+<path d="M 345 940 C 344 954 343 964 341 971 C 296 1089 245 1062 211 1057 C 208 1048 201 1021 197 996 C 200 1007 244 1025 284 1017 C 309 1009 331 985 345 940 Z" fill="url(#id-holo-1-holo-3-36)" id="id-holo-1-holo-3-158">
+</path >
+<path d="M 348 919 C 342 960 318 992 277 1018 C 240 1021 213 1014 197 996 C 194 977 192 967 192 967 C 192 965 193 963 194 961 C 209 985 275 1019 348 919 Z" fill="url(#id-holo-1-holo-3-37)" id="id-holo-1-holo-3-159">
+</path >
+<path d="M 200 833 C 201 881 201 904 201 904 C 187 904 181 904 181 904 L 174 853 C 191 840 200 833 200 833 Z" fill="#007000" id="id-holo-1-holo-3-160">
+</path >
+<path d="M 493 1198 C 470 1198 458 1198 458 1198 C 457 1142 458 1085 485 989 C 483 1118 485 1188 493 1198 Z" fill="#003300" id="id-holo-1-holo-3-161">
+</path >
+<path d="M 218 796 C 210 803 206 807 206 807 C 207 851 208 874 208 874 L 218 865 C 218 819 218 796 218 796 Z" fill="#520000" id="id-holo-1-holo-3-162">
+</path >
+<path d="M 356 858 C 355 869 353 878 352 885 C 327 944 276 1027 193 963 C 174 923 211 793 169 825 C 168 813 168 808 168 808 C 193 781 204 795 199 850 C 177 1018 289 997 356 858 Z" fill="url(#id-holo-1-holo-3-38)" id="id-holo-1-holo-3-163">
+</path >
+<path d="M 356 850 C 358 836 359 821 358 809 C 315 809 267 929 235 894 C 201 869 250 767 232 731 C 221 714 167 781 167 781 C 167 790 166 794 166 794 C 196 761 214 749 221 757 C 239 789 189 865 218 924 C 262 978 318 809 356 850 Z" fill="url(#id-holo-1-holo-3-39)" id="id-holo-1-holo-3-164">
+</path >
+<path d="M 433 1198 C 430 1199 429 1199 429 1199 C 430 1156 430 1126 428 1110 C 424 1067 412 1049 410 1011 C 393 937 474 653 535 657 C 587 708 460 1011 474 1083 C 489 1128 489 1199 489 1199 L 482 1199 C 482 1159 473 1138 455 1137 C 429 1139 433 1198 433 1198 Z" fill="url(#id-holo-1-holo-3-40)" id="id-holo-1-holo-3-165">
+</path >
+<path d="M 435 1106 C 421 1050 381 899 507 717 C 541 693 504 837 481 924 C 447 1005 432 1036 435 1106 Z" fill="url(#id-holo-1-holo-3-41)" id="id-holo-1-holo-3-166">
+</path >
+<path d="M 512 1198 C 509 1198 507 1198 507 1198 C 505 1159 502 1133 498 1120 C 479 1003 535 890 545 776 C 547 767 548 769 549 767 C 557 801 529 910 534 985 C 528 1006 525 1017 525 1017 C 560 1018 578 1018 578 1018 C 549 1018 529 1026 519 1042 C 510 1059 515 1101 509 1142 C 508 1168 506 1185 512 1198 Z" fill="url(#id-holo-1-holo-3-42)" id="id-holo-1-holo-3-167">
+</path >
+<path d="M 556 710 C 556 792 553 901 544 947 C 570 854 574 784 556 710 Z" fill="#56751f" id="id-holo-1-holo-3-168">
+</path >
+<path d="M 436 400 C 422 400 392 464 355 514 C 336 539 320 544 295 570 C 251 627 296 676 296 676 C 355 728 411 699 466 611 C 476 589 481 571 481 557 C 470 410 444 400 436 400 Z" fill="#eb7bff" id="id-holo-1-holo-3-169">
+</path >
+<path d="M 429 455 C 404 455 387 510 348 543 C 258 602 296 676 296 676 C 360 733 415 691 466 609 C 477 529 465 478 429 455 Z" fill="#000000" id="id-holo-1-holo-3-170">
+</path >
+<path d="M 420 516 C 450 532 456 555 440 585 C 412 585 396 576 393 556 C 388 541 420 516 420 516 Z" fill="url(#id-holo-1-holo-3-43)" id="id-holo-1-holo-3-171">
+</path >
+<path d="M 428 482 C 414 490 398 520 377 545 C 356 572 327 589 316 612 C 310 630 306 656 327 677 C 365 708 433 654 446 589 C 443 575 406 586 402 562 C 397 532 470 502 428 482 Z" fill="#de00a8" id="id-holo-1-holo-3-172">
+</path >
+<path d="M 443 474 C 453 489 460 510 464 538 L 454 543 C 445 501 442 478 443 474 Z" fill="#4d0000" id="id-holo-1-holo-3-173">
+</path >
+<path d="M 392 429 C 464 431 499 432 499 432 L 384 442 C 389 434 392 429 392 429 Z" fill="#000000" id="id-holo-1-holo-3-174">
+</path >
+</g >
+<g transform="translate(282,0)" id="id-holo-1-holo-3-175">
+<path d="M 91 259 C 121 249 141 240 149 231 C 163 187 171 161 171 152 C 166 130 164 119 164 119 C 163 66 151 34 126 24 C 170 21 192 20 192 20 C 118 20 81 20 81 20 C 55 20 36 34 25 63 C 8 64 0 65 0 65 C 15 68 22 70 22 70 C 13 98 11 126 14 153 L 33 217 C 44 238 63 251 91 259 Z" fill="url(#id-holo-1-holo-3-44)" id="id-holo-1-holo-3-176">
+</path >
+<path d="M 121 223 C 113 227 109 229 109 229 C 71 225 52 223 52 223 C 28 170 17 143 17 143 C 33 105 41 86 41 86 C 76 73 93 67 93 67 C 127 80 144 87 144 87 L 155 146 C 132 197 121 223 121 223 Z" fill="#6bc9ff" id="id-holo-1-holo-3-177" filter="url(#id-holo-1-holo-3-45)">
+</path >
+<path d="M 127 214 C 137 196 141 184 139 178 L 107 170 C 116 199 123 214 127 214 Z" fill="#8ed7ee" id="id-holo-1-holo-3-179" filter="url(#id-holo-1-holo-3-46)">
+</path >
+<path d="M 72 149 C 74 149 75 149 75 149 C 77 153 78 155 78 155 L 73 155 C 72 151 72 149 72 149 Z" fill="#b8e6ee" id="id-holo-1-holo-3-181">
+</path >
+<path d="M 109 148 C 107 152 107 157 108 162 C 112 157 119 158 125 160 C 119 151 114 147 109 148 Z" fill="#90dbe6" id="id-holo-1-holo-3-182">
+</path >
+<path d="M 42 120 C 23 129 13 134 13 134 C 13 120 14 106 17 92 L 40 85 C 42 109 42 120 42 120 Z" fill="#20cacb" id="id-holo-1-holo-3-183" filter="url(#id-holo-1-holo-3-47)">
+</path >
+<path d="M 150 136 L 162 135 L 148 112 L 137 123 C 146 132 150 136 150 136 Z" fill="#0bced0" id="id-holo-1-holo-3-185" filter="url(#id-holo-1-holo-3-48)">
+</path >
+<path d="M 148 87 C 146 111 145 122 145 122 C 153 127 158 129 158 129 L 163 98 C 157 91 152 88 148 87 Z" fill="#20cacb" id="id-holo-1-holo-3-187" filter="url(#id-holo-1-holo-3-49)">
+</path >
+<path d="M 18 147 L 29 148 C 57 151 72 153 72 153 C 83 143 89 139 89 139 C 78 135 73 133 73 133 L 78 130 L 37 115 L 20 136 C 19 143 18 147 18 147 Z" fill="#05aaaa" id="id-holo-1-holo-3-189" filter="url(#id-holo-1-holo-3-50)">
+</path >
+<path d="M 97 141 C 105 127 119 121 137 123 C 142 128 158 144 162 148 C 139 164 117 162 97 141 Z" fill="#009795" id="id-holo-1-holo-3-191" filter="url(#id-holo-1-holo-3-51)">
+</path >
+<path d="M 77 120 C 75 123 73 125 71 128 C 64 125 62 124 45 122 C 41 122 35 124 26 129 C 32 119 38 113 43 110 C 54 111 64 111 73 115 C 75 119 77 120 77 120 Z" fill="#003729" id="id-holo-1-holo-3-193">
+</path >
+<path d="M 78 122 C 80 124 81 125 81 125 L 72 128 C 76 124 78 122 78 122 Z" fill="#00372a" id="id-holo-1-holo-3-194">
+</path >
+<path d="M 43 110 C 45 118 45 122 45 122 C 38 124 35 125 35 125 L 32 120 C 35 116 39 113 43 110 Z" fill="#0b533d" id="id-holo-1-holo-3-195">
+</path >
+<path d="M 105 121 C 108 120 109 119 109 119 L 110 127 C 106 123 105 121 105 121 Z" fill="#043d2d" id="id-holo-1-holo-3-196">
+</path >
+<path d="M 111 119 C 112 127 113 131 113 131 C 136 126 148 124 150 125 C 158 132 163 136 163 136 C 159 128 159 119 148 112 C 129 115 117 117 111 119 Z" fill="#003725" id="id-holo-1-holo-3-197">
+</path >
+<path d="M 110 154 C 117 148 124 141 132 140 C 148 141 145 148 159 148 C 153 152 147 156 133 157 C 125 157 114 156 110 154 Z" fill="#000000" id="id-holo-1-holo-3-198">
+</path >
+<path d="M 144 151 C 136 158 127 159 116 153 C 121 149 125 148 130 148 C 135 148 140 149 144 151 Z" fill="#fbfbf9" id="id-holo-1-holo-3-199">
+</path >
+<path d="M 26 145 C 34 153 44 153 44 153 C 51 153 59 153 68 153 C 71 153 75 153 75 153 C 72 146 68 142 62 140 C 49 136 39 145 26 145 Z" fill="#000000" id="id-holo-1-holo-3-200">
+</path >
+<path d="M 76 157 C 78 166 61 186 50 187 C 28 188 28 173 28 167 C 31 158 37 161 42 162 C 53 168 71 152 76 157 Z" fill="#ffdf8b" id="id-holo-1-holo-3-201">
+</path >
+<path d="M 25 191 C 19 191 17 198 15 194 C 8 178 3 164 5 142 C 5 140 6 139 7 139 C 10 141 20 174 25 191 Z" fill="#ffdf8b" id="id-holo-1-holo-3-202">
+</path >
+<path d="M 85 145 C 91 145 94 145 94 145 L 86 161 C 86 150 85 145 85 145 Z" fill="#c0fde7" id="id-holo-1-holo-3-203">
+</path >
+<path d="M 72 187 C 80 195 83 198 83 198 C 97 198 104 198 104 198 C 111 196 115 194 115 194 C 116 187 116 183 116 183 L 96 172 C 80 182 72 187 72 187 Z" fill="#2a8fba" id="id-holo-1-holo-3-204" filter="url(#id-holo-1-holo-3-52)">
+</path >
+<path d="M 71 184 C 75 189 76 191 76 191 C 78 189 78 188 78 188 C 78 185 80 184 84 184 C 89 185 88 191 93 191 C 96 191 98 186 101 185 C 110 184 108 187 107 190 C 108 191 111 191 111 191 C 115 186 116 183 116 183 C 105 174 100 169 100 169 L 84 171 C 75 180 71 184 71 184 Z" fill="#33b1a3" id="id-holo-1-holo-3-206" filter="url(#id-holo-1-holo-3-53)">
+</path >
+<path d="M 93 186 C 91 186 88 184 86 183 C 85 182 84 179 84 175 C 84 167 90 162 92 162 C 95 162 101 168 101 174 C 101 179 100 181 99 183 C 97 185 95 186 93 186 Z" fill="#ffdf8b" id="id-holo-1-holo-3-208">
+</path >
+<path d="M 131 192 C 142 191 156 172 153 165 C 149 159 145 166 137 165 C 124 163 113 153 110 160 C 108 163 121 191 131 192 Z" fill="#ffdf8b" id="id-holo-1-holo-3-209">
+</path >
+<path d="M 140 140 C 130 141 125 142 125 142 L 125 131 C 135 129 141 132 140 140 Z" fill="#13c4ba" id="id-holo-1-holo-3-210" filter="url(#id-holo-1-holo-3-54)">
+</path >
+<path d="M 60 138 C 51 139 46 139 46 139 C 47 134 48 132 49 131 C 54 129 57 130 60 131 C 60 136 60 138 60 138 Z" fill="#25ebdd" id="id-holo-1-holo-3-212" filter="url(#id-holo-1-holo-3-55)">
+</path >
+<path d="M 166 163 C 164 161 154 194 138 220 C 127 237 114 241 112 249 C 114 253 145 237 148 228 C 158 207 168 164 166 163 Z" fill="#d84dfe" id="id-holo-1-holo-3-214">
+</path >
+<path d="M 173 195 C 171 194 176 164 175 159 C 173 156 166 179 166 179 C 170 160 171 150 171 150 C 176 142 179 138 181 139 C 184 140 188 145 184 167 C 179 198 174 197 173 195 Z" fill="#ffdf8b" id="id-holo-1-holo-3-215">
+</path >
+<path d="M 153 43 C 168 63 181 109 171 150 C 170 143 169 136 168 129 C 170 101 165 72 153 43 Z" fill="#f765a4" id="id-holo-1-holo-3-216">
+</path >
+<path d="M 25 63 C 34 38 52 16 97 20 C 102 19 106 19 111 20 L 193 19 L 126 24 C 145 33 159 54 163 98 L 130 81 C 106 71 94 66 94 66 L 16 96 C 17 88 19 79 22 70 L 0 65 L 25 63 Z" fill="#6ee5f5" id="id-holo-1-holo-3-67" filter="url(#id-holo-1-holo-3-56)">
+</path >
+<path d="M 25 63 C 34 38 52 16 97 20 C 102 19 106 19 111 20 L 193 19 L 126 24 C 145 33 159 54 163 98 L 130 81 C 106 71 94 66 94 66 L 16 96 C 17 88 19 79 22 70 L 0 65 L 25 63 Z" fill="#6ee5f5" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 94 66 L 16 96 C 24 63 31 15 97 20 C 130 17 157 34 163 98 L 130 81 C 106 71 94 66 94 66 Z" fill="#6ee5f5" id="id-holo-1-holo-3-220" filter="url(#id-holo-1-holo-3-57)">
+</path >
+<path d="M 94 66 C 74 73 61 78 54 81 C 57 68 53 42 92 42 C 125 38 125 66 130 80 C 106 71 94 66 94 66 Z" fill="#93f1fa" id="id-holo-1-holo-3-222">
+</path >
+<path d="M 68 149 C 64 146 62 145 55 144 C 48 144 43 146 40 149 C 38 150 43 154 43 154 L 64 153 C 66 151 68 150 68 149 Z" fill="#fbfbf9" id="id-holo-1-holo-3-223">
+</path >
+<path d="M 137 9 C 120 3 111 0 111 0 L 91 8 C 122 9 137 9 137 9 Z" fill="#000000" id="id-holo-1-holo-3-224">
+</path >
+<path d="M 91 258 C 84 256 80 255 80 255 C 75 251 74 248 77 243 C 85 238 89 232 107 238 L 118 250 C 100 255 91 258 91 258 Z" fill="#5cc9fc" id="id-holo-1-holo-3-225" filter="url(#id-holo-1-holo-3-58)">
+</path >
+<path d="M 94 205 C 88 203 86 202 86 202 C 89 196 94 194 102 199 C 101 203 99 205 94 205 Z" fill="#bfddfd" id="id-holo-1-holo-3-227" filter="url(#id-holo-1-holo-3-59)">
+</path >
+<path d="M 67 219 C 105 220 125 221 125 221 C 110 208 103 202 103 202 C 97 204 95 205 95 205 L 87 203 C 74 214 67 219 67 219 Z" fill="#007bf4" id="id-holo-1-holo-3-229">
+</path >
+<path d="M 66 223 C 67 220 68 218 68 218 C 78 218 83 218 83 218 C 87 217 89 216 89 216 C 94 218 96 219 96 219 C 100 218 102 217 102 217 C 107 219 109 219 109 219 C 119 220 125 221 125 221 C 121 224 119 225 119 225 C 115 223 113 222 113 222 C 109 222 107 221 107 221 C 100 221 96 221 96 221 L 82 220 C 71 222 66 223 66 223 Z" fill="#002f96" id="id-holo-1-holo-3-230">
+</path >
+<path d="M 83 239 C 98 239 106 239 106 239 C 113 232 116 228 116 228 L 74 228 C 80 235 83 239 83 239 Z" fill="#0180d5" id="id-holo-1-holo-3-231" filter="url(#id-holo-1-holo-3-60)">
+</path >
+<path d="M 68 223 C 76 230 85 233 94 234 C 103 234 112 231 121 224 C 105 219 87 218 68 223 Z" fill="#2afbeb" id="id-holo-1-holo-3-233">
+</path >
+<path d="M 96 225 C 96 224 78 226 81 222 C 66 228 96 226 96 225 Z" fill="#acffcc" id="id-holo-1-holo-3-234">
+</path >
+</g >
+</g >
+<g transform="translate(165,0)" id="id-holo-1-holo-3-235">
+<g transform="translate(140,60)" fill="#000000" id="id-holo-1-holo-3-236">
+<path d="M 138 168 C 131 118 142 77 131 43 C 131 43 130 43 128 44 L 114 22 C 116 21 117 20 116 18 C 113 14 111 10 107 7 C 166 -7 149 171 138 168 Z" opacity="0.299" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 47 0 C 41 5 34 12 26 22 L 27 24 L 19 39 C 18 38 17 38 16 39 C 2 73 9 113 5 169 C 1 185 -12 -2 47 0 Z" opacity="0.299" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 135 262 C 135 262 97 299 108 308 C 108 308 97 336 101 344 L 98 361 C 98 361 103 366 100 377 C 100 377 144 354 135 262 Z" opacity="0.303" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 19 257 C 19 257 40 287 26 298 C 26 298 36 316 31 333 C 31 333 46 352 16 370 C -13 388 4 273 19 257 Z" opacity="0.303" id="id-holo-1-holo-3-67">
+</path >
+</g >
+<path d="M 317 248 C 309 169 336 15 218 0 C 218 0 216 6 211 18 L 215 52 C 239 58 249 68 268 89 C 277 101 279 118 281 129 C 284 153 282 201 278 242 C 275 266 280 318 280 318 C 255 339 248 348 248 392 C 247 395 241 411 246 428 C 235 438 230 446 237 462 C 237 462 228 484 231 488 C 233 492 238 500 238 500 C 234 523 238 516 250 530 C 250 532 249 541 255 539 L 257 545 C 270 525 274 524 261 502 C 264 496 265 488 260 481 L 278 466 C 298 469 298 441 290 423 C 344 389 329 363 320 322 C 318 313 344 356 343 345 C 342 332 310 261 317 248 Z" fill="url(#id-holo-1-holo-3-61)" id="id-holo-1-holo-3-241" fill-rule="nonzero">
+</path >
+<path d="M 204 1 C 69 31 138 178 84 245 C 58 279 61 287 64 295 C 73 314 87 327 77 346 L 80 355 L 75 361 C 77 373 72 382 80 393 C 72 419 68 419 87 440 C 92 447 97 453 97 453 C 97 456 91 477 92 478 C 94 479 102 485 102 485 C 97 501 92 507 109 519 L 110 534 C 110 534 128 542 129 550 C 129 550 140 535 129 525 C 129 525 152 510 126 497 C 126 497 129 463 129 463 C 135 458 150 446 156 440 L 156 422 C 156 422 172 406 172 399 C 170 393 164 362 162 354 C 172 337 146 287 147 271 C 148 193 114 75 209 52 L 211 18 C 212 10 210 4 204 1 Z M 87 319 C 86 313 65 285 75 277 C 77 291 96 309 87 319 Z" fill="url(#id-holo-1-holo-3-62)" id="id-holo-1-holo-3-241" fill-rule="nonzero">
+</path >
+<g transform="translate(1,0)" id="id-holo-1-holo-3-243">
+<path d="M 171 402 C 163 411 122 431 120 433 L 130 409 C 109 407 86 394 74 380 C 74 378 74 377 74 375 C 79 369 107 354 116 349 L 131 394 L 138 381 C 107 353 131 302 147 276 C 154 310 171 337 148 369 L 161 355 C 163 361 172 397 171 402 Z" fill="#44f939" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 155 428 L 155 440 L 139 454 L 122 442 C 122 443 132 474 133 478 C 133 481 130 484 127 488 C 124 491 105 476 105 476 L 102 459 C 99 457 88 443 86 441 C 86 438 91 408 91 408 C 103 415 118 435 118 435 C 128 431 143 429 155 428 Z" fill="#44f939" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 268 521 L 257 529 L 253 526 L 259 504 L 247 491 L 262 473 L 266 475 L 259 481 C 265 488 263 496 260 502 C 260 502 267 513 268 521 Z" fill="#db00ff" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 288 463 C 281 463 265 464 257 466 C 257 466 249 442 291 434 C 297 445 293 461 288 463 Z" fill="#db00ff" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 276 429 C 250 450 246 468 246 468 L 242 468 L 233 447 C 233 444 235 440 237 437 L 251 452 L 253 449 L 246 410 C 249 375 286 328 286 328 C 286 328 306 341 304 351 C 302 361 274 390 274 390 C 289 385 311 368 311 368 C 316 387 301 407 276 429 Z" fill="#db00ff" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 147 276 C 132 300 122 340 123 342 L 117 345 C 110 306 140 257 144 224 C 146 252 147 265 147 276 Z" fill="#049700" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 97 340 C 97 340 97 324 89 312 C 89 312 89 312 89 312 C 89 305 82 298 77 286 C 90 300 108 316 97 340 Z" fill="#049700" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 116 349 C 89 363 78 389 95 406 C 89 403 83 401 78 398 C 79 395 79 393 79 393 C 73 385 74 379 74 372 C 89 361 113 351 116 349 Z" fill="#049700" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 348 357 C 356 305 332 301 316 248 L 316 248 C 316 248 303 207 308 169 C 310 150 311 125 309 103 C 308 98 307 92 306 87 C 305 85 329 81 378 75 C 328 76 302 75 302 74 C 290 36 265 4 217 0 C 217 0 212 6 203 1 C 107 12 113 112 111 175 C 111 177 86 181 36 185 C 85 191 110 196 110 199 C 110 199 116 184 117 174 C 116 179 116 193 112 209 C 111 211 74 212 0 215 C 73 218 109 220 108 222 C 106 229 103 236 99 243 C 87 263 86 279 86 279 C 86 279 111 243 118 236 C 111 247 95 274 98 301 C 98 308 106 305 112 319 C 113 320 106 318 107 319 C 115 339 81 360 67 366 C 64 367 50 369 45 355 C 47 398 141 346 107 305 C 99 275 134 267 143 206 C 136 132 147 84 176 63 C 195 50 208 52 208 52 L 210 18 L 214 52 C 214 52 232 52 243 60 C 266 83 277 102 277 118 C 280 153 281 188 278 224 C 274 265 286 301 312 331 C 311 330 288 280 286 246 C 286 246 304 306 324 343 C 340 363 356 417 311 408 C 295 408 288 436 296 443 C 295 400 316 427 341 415 C 358 401 357 378 348 357 Z M 291 206 C 326 289 343 317 343 344 C 343 344 301 244 291 206 Z" fill="url(#id-holo-1-holo-3-63)" id="id-holo-1-holo-3-67" fill-rule="nonzero">
+</path >
+</g >
+<g transform="translate(95,37)" id="id-holo-1-holo-3-253">
+<path d="M 64 47 C 60 38 45 20 32 20 C 34 16 36 11 38 7 C 44 13 53 25 82 26 C 78 29 72 36 64 47 Z" fill="#fff3e0" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 200 17 C 195 17 188 20 186 32 C 186 32 171 24 161 36 C 155 30 152 26 146 21 C 156 17 181 8 190 1 C 194 6 197 11 200 17 Z" fill="#f0dec3" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 200 135 C 200 135 211 160 211 164 C 211 167 213 192 214 195 C 214 195 198 162 200 135 Z" fill="#e7d0bd" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 40 182 C 40 182 39 122 46 101 C 46 101 48 159 44 167 C 42 172 41 177 40 182 Z" fill="#fff9f0" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 14 334 C 14 334 23 358 28 361 L 23 367 C 23 367 3 353 0 347 L 14 334 Z" fill="#95ff8f" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 44 352 C 44 352 53 333 56 330 C 56 330 63 356 63 360 L 44 352 Z" fill="#95ff8f" id="id-holo-1-holo-3-67">
+</path >
+<polygon points="12 438 29 424 35 447 31 451" fill="#95ff8f" id="id-holo-1-holo-3-67">
+</polygon >
+<polygon points="180 405 181 424 197 421 197 404" fill="#e663ff" id="id-holo-1-holo-3-67">
+</polygon >
+<path d="M 175 355 C 176 356 192 355 192 355 C 192 354 197 345 195 346 C 193 347 184 353 175 355 Z" fill="#e663ff" id="id-holo-1-holo-3-67">
+</path >
+<path d="M 156 358 C 156 358 182 319 199 311 C 199 311 189 298 192 293 C 192 293 162 327 156 358 Z" fill="#e663ff" id="id-holo-1-holo-3-67">
+</path >
+</g >
+</g >
+<polygon points="379 193 384 188 387 187 391 189 391 192 385 192" fill="#000000" id="id-holo-1-holo-3-264">
+</polygon >
+<polygon points="373 193 367 187 361 187 360 190 362 192 367 192 370 193" fill="#000000" id="id-holo-1-holo-3-265">
+</polygon >
+<polygon points="503 241 503 256 539 248" fill="#db07ff" id="id-holo-1-holo-3-266">
+</polygon >
+</g >
+<defs >
+</defs >
+<path d="M 1236 1640 C 1257 1640 1274 1656 1274 1677 C 1274 1698 1257 1714 1236 1714 C 1216 1714 1199 1698 1199 1677 C 1199 1656 1216 1640 1236 1640 Z M 1236 1646 C 1254 1646 1268 1660 1268 1677 C 1268 1694 1254 1708 1236 1708 C 1219 1708 1205 1694 1205 1677 C 1205 1660 1219 1646 1236 1646 Z M 1236 1651 C 1251 1651 1262 1663 1262 1677 C 1262 1691 1251 1703 1236 1703 C 1222 1703 1210 1691 1210 1677 C 1210 1663 1222 1651 1236 1651 Z M 1236 1671 C 1239 1671 1242 1674 1242 1677 C 1242 1680 1239 1682 1236 1682 C 1233 1682 1231 1680 1231 1677 C 1231 1674 1233 1671 1236 1671 Z M 1236 1654 L 1236 1654 C 1238 1654 1239 1655 1239 1656 L 1239 1666 C 1239 1667 1238 1668 1236 1668 L 1236 1668 C 1235 1668 1234 1667 1234 1666 L 1234 1656 C 1234 1655 1235 1654 1236 1654 Z M 1244 1636 L 1228 1636 L 1228 1633 C 1228 1631 1230 1630 1231 1630 L 1241 1630 C 1243 1630 1244 1631 1244 1633 L 1244 1636 Z M 1269 1651 L 1262 1645 L 1264 1643 C 1265 1641 1267 1641 1268 1643 L 1271 1645 C 1272 1646 1272 1648 1271 1649 L 1269 1651 Z M 1211 1645 L 1204 1651 L 1202 1649 C 1201 1648 1201 1646 1202 1645 L 1204 1643 C 1206 1641 1208 1641 1209 1643 L 1211 1645 Z" fill="white" opacity="1" id="id-icons-Holo-0">
+</path >
+  <defs>
+      <linearGradient id="Gradient1">
+        <stop class="stop1" offset="0%"/>
+        <stop class="stop2" offset="100%"/>
+      </linearGradient>
+      <style type="text/css"><![CDATA[
+        #tbar { fill: url(#Gradient1); }
+        .stop1 { stop-color: red; }
+        .stop2 { stop-color: blue; }
+      ]]></style>
+  </defs>
+<text x="50" y="115" font-family="Trebuchet MS" font-weight="500" font-size="5.5em" letter-spacing="-3.0" text-transform="uppercase" fill="white">ANERD</text>
+<text x="50" y="180" font-family="Trebuchet MS" font-size="3.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">HOLO | SERVICE</text>
+<g transform="translate(55,195)">
+  <rect id="tbar" y="0" width="185" height="13" fill="url(#Gradient1)"></rect>
+  <rect x="20" y="1" width="164" height="11" fill="#E3E3E3"></rect>
+</g>
+<text x="50" y="270" font-family="Trebuchet MS" font-size="3.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">CB-00210</text>
+
+<g transform="translate(50,1430)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">BODY</text>
+  <rect width="101" height="30" fill="white"></rect>
+  <rect width="190" height="30" fill="none" stroke="white"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="500" letter-spacing="0" text-transform="uppercase" fill="white">16</text>
+</g>
+<g transform="translate(50,1505)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">MIND</text>
+  <rect width="57" height="30" fill="white"></rect>
+  <rect width="190" height="30" fill="none" stroke="white"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.3em" font-weight="500" letter-spacing="0" text-transform="uppercase" fill="white">9</text>
+</g>
+<g transform="translate(50,1580)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">SOUL</text>
+  <rect width="70" height="30" fill="white"></rect>
+  <rect width="190" height="30" fill="none" stroke="white"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="500" letter-spacing="0" text-transform="uppercase" fill="white">11</text>
+</g>
+<g transform="translate(50,1675)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="500" letter-spacing="-2" text-transform="uppercase" fill="white">TRAITS</text>
+  <rect width="0" height="30" fill="white"></rect>
+  <rect width="190" height="30" fill="none" stroke="white"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="500" letter-spacing="0" text-transform="uppercase" fill="white">0</text>
+</g>
+</svg>

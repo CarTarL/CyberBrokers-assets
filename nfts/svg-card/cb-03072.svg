@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-0">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-1" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-8">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-9" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-16">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-17" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-24">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-25" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-32">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-33" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-40">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-41" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-48">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-49" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-56">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-57" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-64">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-65" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-72">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-73" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-80">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-81" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-88">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-89" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-96">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-97" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-104">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-105" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-112">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-113" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-120">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-121" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-128">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-129" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-136">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-137" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-144">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-145" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-152">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-153" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-160">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-161" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-168">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-169" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-176">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-177" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-184">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-185" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+</defs >
+<g stroke="none" stroke-width="1" fill="none" id="id-bg-86-Artboard-192" fill-rule="evenodd">
+<g id="id-bg-86-Artboard-193">
+<rect fill="#969696" width="1320" height="1760" x="0" y="0" id="id-bg-86-Artboard-194">
+</rect >
+<g transform="translate(38,417)" id="id-bg-86-Artboard-195">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-0" filter="url(#id-bg-86-Artboard-1)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-0" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-8" filter="url(#id-bg-86-Artboard-9)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-8" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-16" filter="url(#id-bg-86-Artboard-17)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-16" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-24" filter="url(#id-bg-86-Artboard-25)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-24" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-32" filter="url(#id-bg-86-Artboard-33)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-32" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-40" filter="url(#id-bg-86-Artboard-41)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-40" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-48" filter="url(#id-bg-86-Artboard-49)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-48" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-56" filter="url(#id-bg-86-Artboard-57)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-56" fill-rule="evenodd">
+</use >
+</g >
+</g >
+<g transform="translate(467,417)" id="id-bg-86-Artboard-228">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-64" filter="url(#id-bg-86-Artboard-65)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-64" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-72" filter="url(#id-bg-86-Artboard-73)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-72" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-80" filter="url(#id-bg-86-Artboard-81)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-80" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-88" filter="url(#id-bg-86-Artboard-89)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-88" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-96" filter="url(#id-bg-86-Artboard-97)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-96" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-104" filter="url(#id-bg-86-Artboard-105)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-104" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-112" filter="url(#id-bg-86-Artboard-113)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-112" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-120" filter="url(#id-bg-86-Artboard-121)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-120" fill-rule="evenodd">
+</use >
+</g >
+</g >
+<g transform="translate(894,417)" id="id-bg-86-Artboard-261">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-128" filter="url(#id-bg-86-Artboard-129)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-128" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-136" filter="url(#id-bg-86-Artboard-137)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-136" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-144" filter="url(#id-bg-86-Artboard-145)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-144" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-152" filter="url(#id-bg-86-Artboard-153)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-152" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-160" filter="url(#id-bg-86-Artboard-161)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-160" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-168" filter="url(#id-bg-86-Artboard-169)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-168" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-176" filter="url(#id-bg-86-Artboard-177)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-176" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-184" filter="url(#id-bg-86-Artboard-185)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-184" fill-rule="evenodd">
+</use >
+</g >
+</g >
+</g >
+</g >
+<defs >
+<linearGradient x1="53%" y1="5%" x2="47%" y2="91%" id="id-android-male-6.8_android_1-0">
+<stop stop-color="#c67878" offset="0%">
+</stop >
+<stop stop-color="#a26c74" offset="82%">
+</stop >
+<stop stop-color="#d18888" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="62%" y1="61%" x2="50%" y2="36%" id="id-android-male-6.8_android_1-1">
+<stop stop-color="#b15e5f" offset="0%">
+</stop >
+<stop stop-color="#564753" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="13%" x2="57%" y2="81%" id="id-android-male-6.8_android_1-2">
+<stop stop-color="#885154" offset="0%">
+</stop >
+<stop stop-color="#c27a7a" offset="52%">
+</stop >
+<stop stop-color="#d8b7a1" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="54%" y2="88%" id="id-android-male-6.8_android_1-3">
+<stop stop-color="#d19787" offset="0%">
+</stop >
+<stop stop-color="#c8807e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="36%" y1="75%" x2="36%" y2="18%" id="id-android-male-6.8_android_1-4">
+<stop stop-color="#bb6f6b" offset="0%">
+</stop >
+<stop stop-color="#863c39" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="2%" x2="48%" y2="96%" id="id-android-male-6.8_android_1-5">
+<stop stop-color="#ead0bc" offset="0%">
+</stop >
+<stop stop-color="#cb9b7f" offset="11%">
+</stop >
+<stop stop-color="#f2c1a5" offset="33%">
+</stop >
+<stop stop-color="#ffe2d3" offset="58%">
+</stop >
+<stop stop-color="#e9bb9e" offset="93%">
+</stop >
+<stop stop-color="#c3957f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="62%" y1="37%" x2="30%" y2="59%" id="id-android-male-6.8_android_1-6">
+<stop stop-color="#e4b395" offset="0%">
+</stop >
+<stop stop-color="#cb9c80" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="12%" y1="48%" x2="58%" y2="51%" id="id-android-male-6.8_android_1-7">
+<stop stop-color="#e7bea3" offset="0%">
+</stop >
+<stop stop-color="#fedfcc" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="76%" y1="54%" x2="27%" y2="47%" id="id-android-male-6.8_android_1-8">
+<stop stop-color="#f2c4a7" offset="0%">
+</stop >
+<stop stop-color="#f6dcc5" offset="100%">
+</stop >
+</linearGradient >
+<radialGradient cx="50%" cy="59%" r="65%" id="id-android-male-6.8_android_1-9" fx="50%" fy="59%" gradientTransform="translate(0.5,0.593) scale(0.791,1) rotate(-143) translate(-0.5,-0.593)">
+<stop stop-color="#f0d7bf" offset="0%">
+</stop >
+<stop stop-color="#c38f74" offset="66%">
+</stop >
+<stop stop-color="#a46254" offset="100%">
+</stop >
+</radialGradient >
+<linearGradient x1="69%" y1="50%" x2="50%" y2="60%" id="id-android-male-6.8_android_1-10">
+<stop stop-color="#dbab94" offset="0%">
+</stop >
+<stop stop-color="#ffe3ce" offset="100%">
+</stop >
+</linearGradient >
+<radialGradient cx="50%" cy="50%" r="44%" id="id-android-male-6.8_android_1-11" fx="50%" fy="50%" gradientTransform="translate(0.5,0.5) scale(0.696,1) rotate(-57) scale(1,3) translate(-0.5,-0.5)">
+<stop stop-color="#b37864" offset="0%" stop-opacity="0">
+</stop >
+<stop stop-color="#efd3bc" offset="100%">
+</stop >
+</radialGradient >
+<linearGradient x1="0%" y1="58%" x2="50%" y2="58%" id="id-android-male-6.8_android_1-12">
+<stop stop-color="#e4b69f" offset="0%">
+</stop >
+<stop stop-color="#c88f7c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="49%" y1="83%" x2="53%" y2="51%" id="id-android-male-6.8_android_1-13">
+<stop stop-color="#c6938b" offset="0%">
+</stop >
+<stop stop-color="#945a53" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="68%" x2="19%" y2="50%" id="id-android-male-6.8_android_1-14">
+<stop stop-color="#d4a995" offset="0%">
+</stop >
+<stop stop-color="#a9705c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="48%" y1="37%" x2="33%" y2="25%" id="id-android-male-6.8_android_1-15">
+<stop stop-color="#ddaf94" offset="0%">
+</stop >
+<stop stop-color="#9d5d51" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="6%" x2="50%" y2="50%" id="id-android-male-6.8_android_1-16">
+<stop stop-color="#f5d3b9" offset="0%">
+</stop >
+<stop stop-color="#e7ba9d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="33%" x2="57%" y2="50%" id="id-android-male-6.8_android_1-17">
+<stop stop-color="#f9d2b7" offset="0%">
+</stop >
+<stop stop-color="#d0a086" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="26%" x2="42%" y2="54%" id="id-android-male-6.8_android_1-18">
+<stop stop-color="#875053" offset="0%">
+</stop >
+<stop stop-color="#81534d" offset="100%" stop-opacity="0.569">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="100%" x2="55%" y2="55%" id="id-android-male-6.8_android_1-19">
+<stop stop-color="#c4aed2" offset="0%">
+</stop >
+<stop stop-color="#9276a6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="54%" y1="12%" x2="47%" y2="56%" id="id-android-male-6.8_android_1-20">
+<stop stop-color="#a46151" offset="0%">
+</stop >
+<stop stop-color="#9370a0" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-21">
+<stop stop-color="#f4d2bf" offset="0%">
+</stop >
+<stop stop-color="#e8b399" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="5%" y1="65%" x2="100%" y2="65%" id="id-android-male-6.8_android_1-22">
+<stop stop-color="#fcd9c4" offset="0%">
+</stop >
+<stop stop-color="#e0a88c" offset="28%">
+</stop >
+<stop stop-color="#dea786" offset="67%">
+</stop >
+<stop stop-color="#ffe3d1" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="91%" x2="52%" y2="64%" id="id-android-male-6.8_android_1-23">
+<stop stop-color="#d9a98f" offset="0%">
+</stop >
+<stop stop-color="#dea786" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="70%" y1="50%" x2="41%" y2="50%" id="id-android-male-6.8_android_1-24">
+<stop stop-color="#f6d4bc" offset="0%">
+</stop >
+<stop stop-color="#ebbca0" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-android-male-6.8_android_1-25">
+<stop stop-color="#f1c4a8" offset="0%">
+</stop >
+<stop stop-color="#ffe3d4" offset="48%">
+</stop >
+<stop stop-color="#f5cab4" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="38%" y1="14%" x2="50%" y2="79%" id="id-android-male-6.8_android_1-26">
+<stop stop-color="#d29a7e" offset="0%">
+</stop >
+<stop stop-color="#b37b6d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="3%" y1="0%" x2="50%" y2="66%" id="id-android-male-6.8_android_1-27">
+<stop stop-color="#d8a88d" offset="0%">
+</stop >
+<stop stop-color="#f9d3bd" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="17%" y1="40%" x2="69%" y2="60%" id="id-android-male-6.8_android_1-28">
+<stop stop-color="#40241e" offset="0%">
+</stop >
+<stop stop-color="#703832" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="16%" y2="64%" id="id-android-male-6.8_android_1-29">
+<stop stop-color="#351e1c" offset="0%">
+</stop >
+<stop stop-color="#843f3b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="22%" y1="62%" x2="87%" y2="62%" id="id-android-male-6.8_android_1-30">
+<stop stop-color="#b07c62" offset="0%">
+</stop >
+<stop stop-color="#d3a790" offset="43%">
+</stop >
+<stop stop-color="#daa88a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="13%" y1="69%" x2="100%" y2="69%" id="id-android-male-6.8_android_1-31">
+<stop stop-color="#d8a88b" offset="0%">
+</stop >
+<stop stop-color="#f5d2bc" offset="48%">
+</stop >
+<stop stop-color="#daa88a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="65%" x2="78%" y2="65%" id="id-android-male-6.8_android_1-32">
+<stop stop-color="#e4b7a1" offset="0%">
+</stop >
+<stop stop-color="#af785e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="42%" x2="33%" y2="50%" id="id-android-male-6.8_android_1-33">
+<stop stop-color="#65463c" offset="0%">
+</stop >
+<stop stop-color="#3c2b26" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="11%" y1="36%" x2="44%" y2="36%" id="id-android-male-6.8_android_1-34">
+<stop stop-color="#a37a68" offset="0%">
+</stop >
+<stop stop-color="#563a31" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="40%" y1="50%" x2="89%" y2="54%" id="id-android-male-6.8_android_1-35">
+<stop stop-color="#312322" offset="0%">
+</stop >
+<stop stop-color="#5d3e34" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="74%" id="id-android-male-6.8_android_1-36">
+<stop stop-color="#e47c78" offset="0%">
+</stop >
+<stop stop-color="#d7827d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="80%" y1="50%" x2="7%" y2="50%" id="id-android-male-6.8_android_1-37">
+<stop stop-color="#fad6d3" offset="0%" stop-opacity="0.472">
+</stop >
+<stop stop-color="#f5bfbb" offset="55%">
+</stop >
+<stop stop-color="#f2aca7" offset="100%" stop-opacity="0.434">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="id-android-male-6.8_android_1-38">
+<stop stop-color="#cf8e8a" offset="0%">
+</stop >
+<stop stop-color="#a15552" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="83%" x2="93%" y2="83%" id="id-android-male-6.8_android_1-39">
+<stop stop-color="#b87268" offset="0%" stop-opacity="0.687">
+</stop >
+<stop stop-color="#da8787" offset="58%">
+</stop >
+<stop stop-color="#c5736d" offset="100%" stop-opacity="0.622">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-android-male-6.8_android_1-40">
+<stop stop-color="#1f2738" offset="0%">
+</stop >
+<stop stop-color="#445670" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="52%" y1="9%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-41">
+<stop stop-color="#1e2a4e" offset="0%">
+</stop >
+<stop stop-color="#577ab1" offset="56%">
+</stop >
+<stop stop-color="#3c5478" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-42">
+<stop stop-color="#4f5a6e" offset="0%">
+</stop >
+<stop stop-color="#6f8fa6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="32%" x2="100%" y2="68%" id="id-android-male-6.8_android_1-43">
+<stop stop-color="#98b0b7" offset="0%">
+</stop >
+<stop stop-color="#7894ab" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="44%" y1="50%" x2="71%" y2="79%" id="id-android-male-6.8_android_1-44">
+<stop stop-color="#42607d" offset="0%">
+</stop >
+<stop stop-color="#1f2e38" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-45">
+<stop stop-color="#f9ccb7" offset="0%">
+</stop >
+<stop stop-color="#e7ad8a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="-60%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-46">
+<stop stop-color="#ac705d" offset="0%">
+</stop >
+<stop stop-color="#ffddbc" offset="8%">
+</stop >
+<stop stop-color="#e9af8e" offset="20%">
+</stop >
+<stop stop-color="#e7ad8d" offset="34%">
+</stop >
+<stop stop-color="#d4856f" offset="71%">
+</stop >
+<stop stop-color="#c37f6d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-47">
+<stop stop-color="#f9ccb7" offset="0%">
+</stop >
+<stop stop-color="#e7ad8a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="-21%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-48">
+<stop stop-color="#ac705d" offset="0%">
+</stop >
+<stop stop-color="#ffddbc" offset="8%">
+</stop >
+<stop stop-color="#e9af8e" offset="20%">
+</stop >
+<stop stop-color="#e7ad8d" offset="34%">
+</stop >
+<stop stop-color="#d4856f" offset="71%">
+</stop >
+<stop stop-color="#c37f6d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-49">
+<stop stop-color="#f9ccb7" offset="0%">
+</stop >
+<stop stop-color="#e7ad8a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="-34%" x2="50%" y2="41%" id="id-android-male-6.8_android_1-50">
+<stop stop-color="#f9ccb7" offset="0%">
+</stop >
+<stop stop-color="#e7ad8a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="-134%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-51">
+<stop stop-color="#ac705d" offset="0%">
+</stop >
+<stop stop-color="#ffddbc" offset="8%">
+</stop >
+<stop stop-color="#e9af8e" offset="20%">
+</stop >
+<stop stop-color="#e7ad8d" offset="34%">
+</stop >
+<stop stop-color="#d4856f" offset="71%">
+</stop >
+<stop stop-color="#c37f6d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="9%" y1="43%" x2="90%" y2="43%" id="id-android-male-6.8_android_1-52">
+<stop stop-color="#f5c4a3" offset="0%">
+</stop >
+<stop stop-color="#e5b092" offset="48%">
+</stop >
+<stop stop-color="#fff1dd" offset="48%">
+</stop >
+<stop stop-color="#dca181" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="71%" y1="47%" x2="15%" y2="57%" id="id-android-male-6.8_android_1-53">
+<stop stop-color="#e7ae8d" offset="0%">
+</stop >
+<stop stop-color="#e7ae8d" offset="0%">
+</stop >
+<stop stop-color="#d8997b" offset="20%">
+</stop >
+<stop stop-color="#dfa083" offset="71%">
+</stop >
+<stop stop-color="#c5816d" offset="81%">
+</stop >
+<stop stop-color="#bc7665" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="29%" y1="56%" x2="77%" y2="50%" id="id-android-male-6.8_android_1-54">
+<stop stop-color="#fedab7" offset="0%">
+</stop >
+<stop stop-color="#e7ae8d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="29%" y1="31%" x2="60%" y2="70%" id="id-android-male-6.8_android_1-55">
+<stop stop-color="#f1ba97" offset="0%">
+</stop >
+<stop stop-color="#efb795" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="55%" y1="44%" x2="50%" y2="56%" id="id-android-male-6.8_android_1-56">
+<stop stop-color="#b3d2eb" offset="0%">
+</stop >
+<stop stop-color="#fffff9" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-android-male-6.8_android_1-40">
+<stop stop-color="#1f2738" offset="0%">
+</stop >
+<stop stop-color="#445670" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="52%" y1="9%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-41">
+<stop stop-color="#1e2a4e" offset="0%">
+</stop >
+<stop stop-color="#577ab1" offset="56%">
+</stop >
+<stop stop-color="#3c5478" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="248%" id="id-android-male-6.8_android_1-59">
+<stop stop-color="#db957f" offset="0%">
+</stop >
+<stop stop-color="#9a4f4b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="77%" id="id-android-male-6.8_android_1-60">
+<stop stop-color="#db957f" offset="0%">
+</stop >
+<stop stop-color="#9a4f4b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="-21%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-61">
+<stop stop-color="#ac705d" offset="0%">
+</stop >
+<stop stop-color="#ffddbc" offset="8%">
+</stop >
+<stop stop-color="#e9af8e" offset="20%">
+</stop >
+<stop stop-color="#e7ad8d" offset="34%">
+</stop >
+<stop stop-color="#d4856f" offset="71%">
+</stop >
+<stop stop-color="#c37f6d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="42%" y1="35%" x2="58%" y2="47%" id="id-android-male-6.8_android_1-62">
+<stop stop-color="#e9ac94" offset="0%">
+</stop >
+<stop stop-color="#c37f6d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="47%" x2="55%" y2="50%" id="id-android-male-6.8_android_1-63">
+<stop stop-color="#fde1cd" offset="0%">
+</stop >
+<stop stop-color="#d68f79" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="64%" y1="50%" x2="45%" y2="56%" id="id-android-male-6.8_android_1-64">
+<stop stop-color="#e2ad9f" offset="0%">
+</stop >
+<stop stop-color="#b46d61" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-65">
+<stop stop-color="#f0cab1" offset="0%">
+</stop >
+<stop stop-color="#dc907e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="52%" y2="50%" id="id-android-male-6.8_android_1-66">
+<stop stop-color="#dd9785" offset="0%">
+</stop >
+<stop stop-color="#f3d9c6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="31%" y2="55%" id="id-android-male-6.8_android_1-67">
+<stop stop-color="#e2ad9f" offset="0%">
+</stop >
+<stop stop-color="#b46d61" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="48%" y1="20%" x2="53%" y2="96%" id="id-android-male-6.8_android_1-68">
+<stop stop-color="#dd9285" offset="0%">
+</stop >
+<stop stop-color="#d88d79" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="49%" y1="32%" x2="50%" y2="99%" id="id-android-male-6.8_android_1-69">
+<stop stop-color="#465079" offset="0%">
+</stop >
+<stop stop-color="#212f44" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-70">
+<stop stop-color="#4f4656" offset="0%">
+</stop >
+<stop stop-color="#493031" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="43%" y1="26%" x2="65%" y2="75%" id="id-android-male-6.8_android_1-71">
+<stop stop-color="#ffdbb9" offset="0%">
+</stop >
+<stop stop-color="#d7917a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="43%" y1="55%" x2="58%" y2="71%" id="id-android-male-6.8_android_1-72">
+<stop stop-color="#dca17f" offset="0%">
+</stop >
+<stop stop-color="#fac5a0" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="38%" y2="100%" id="id-android-male-6.8_android_1-73">
+<stop stop-color="#ffebd4" offset="0%">
+</stop >
+<stop stop-color="#ffddc6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="46%" x2="52%" y2="59%" id="id-android-male-6.8_android_1-74">
+<stop stop-color="#d28c7b" offset="0%">
+</stop >
+<stop stop-color="#b86f5d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="44%" y1="46%" x2="53%" y2="59%" id="id-android-male-6.8_android_1-75">
+<stop stop-color="#d28c7b" offset="0%">
+</stop >
+<stop stop-color="#b86f5d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="59%" y1="57%" x2="39%" y2="50%" id="id-android-male-6.8_android_1-76">
+<stop stop-color="#6d241b" offset="0%" stop-opacity="0.508">
+</stop >
+<stop stop-color="#000000" offset="46%">
+</stop >
+<stop stop-color="#f8cfae" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="58%" y1="43%" x2="41%" y2="50%" id="id-android-male-6.8_android_1-77">
+<stop stop-color="#f6bf9d" offset="0%">
+</stop >
+<stop stop-color="#000000" offset="39%">
+</stop >
+<stop stop-color="#c98976" offset="100%">
+</stop >
+</linearGradient >
+<filter width="311%" height="310%" x="-105%" y="-105%" id="id-android-male-6.8_android_1-78" filterUnits="objectBoundingBox">
+<feMorphology result="id-android-male-6.8_android_1-79" in="SourceAlpha" operator="dilate" radius="2">
+</feMorphology >
+<feOffset result="id-android-male-6.8_android_1-80" in="id-android-male-6.8_android_1-79" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-android-male-6.8_android_1-82" in="id-android-male-6.8_android_1-80" stdDeviation="5">
+</feGaussianBlur >
+<feColorMatrix in="id-android-male-6.8_android_1-82" type="matrix" values="0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0">
+</feColorMatrix >
+</filter >
+<path d="M 210 679 C 210 671 210 667 210 667 C 222 673 228 676 228 676 L 227 687 C 216 682 210 679 210 679 Z" id="id-android-male-6.8_android_1-85">
+</path >
+<path d="M 210 679 C 210 671 210 667 210 667 C 222 673 228 676 228 676 L 227 687 C 216 682 210 679 210 679 Z" id="id-android-male-6.8_android_1-85">
+</path >
+<filter width="328%" height="340%" x="-113%" y="-122%" id="id-android-male-6.8_android_1-87" filterUnits="objectBoundingBox">
+<feMorphology result="id-android-male-6.8_android_1-79" in="SourceAlpha" operator="dilate" radius="2">
+</feMorphology >
+<feOffset result="id-android-male-6.8_android_1-80" in="id-android-male-6.8_android_1-79" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-android-male-6.8_android_1-82" in="id-android-male-6.8_android_1-80" stdDeviation="5">
+</feGaussianBlur >
+<feColorMatrix in="id-android-male-6.8_android_1-82" type="matrix" values="0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0">
+</feColorMatrix >
+</filter >
+<path d="M 210 648 C 210 656 209 660 209 660 C 220 664 225 666 225 666 L 227 656 C 215 651 210 648 210 648 Z" id="id-android-male-6.8_android_1-94">
+</path >
+<path d="M 210 648 C 210 656 209 660 209 660 C 220 664 225 666 225 666 L 227 656 C 215 651 210 648 210 648 Z" id="id-android-male-6.8_android_1-94">
+</path >
+<linearGradient x1="53%" y1="48%" x2="47%" y2="49%" id="id-android-male-6.8_android_1-96">
+<stop stop-color="#d08f78" offset="0%">
+</stop >
+<stop stop-color="#120e0d" offset="33%">
+</stop >
+<stop stop-color="#2d2c2f" offset="62%">
+</stop >
+<stop stop-color="#5d5d65" offset="78%">
+</stop >
+<stop stop-color="#e6a992" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-97">
+<stop stop-color="#b1a5ae" offset="0%" stop-opacity="0.516">
+</stop >
+<stop stop-color="#7a6c76" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-98">
+<stop stop-color="#b1a5ae" offset="0%" stop-opacity="0.516">
+</stop >
+<stop stop-color="#7a6c76" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="43%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-99">
+<stop stop-color="#a3a1e2" offset="0%">
+</stop >
+<stop stop-color="#a3a1e2" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="54%" y1="47%" x2="45%" y2="50%" id="id-android-male-6.8_android_1-100">
+<stop stop-color="#dfa99b" offset="0%">
+</stop >
+<stop stop-color="#120e0d" offset="33%">
+</stop >
+<stop stop-color="#2d2c2f" offset="58%">
+</stop >
+<stop stop-color="#5d5d65" offset="79%">
+</stop >
+<stop stop-color="#be786c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="43%" x2="50%" y2="100%" id="id-android-male-6.8_android_1-101">
+<stop stop-color="#a3a1e2" offset="0%">
+</stop >
+<stop stop-color="#a3a1e2" offset="100%" stop-opacity="0.108">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="70%" id="id-android-male-6.8_android_1-102">
+<stop stop-color="#4c454c" offset="0%">
+</stop >
+<stop stop-color="#574c60" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="12%" y2="50%" id="id-android-male-6.8_android_1-103">
+<stop stop-color="#ac5955" offset="0%">
+</stop >
+<stop stop-color="#a0807f" offset="16%">
+</stop >
+<stop stop-color="#945d57" offset="51%" stop-opacity="0.126">
+</stop >
+<stop stop-color="#832a1e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="12%" y2="50%" id="id-android-male-6.8_android_1-104">
+<stop stop-color="#ac5955" offset="0%">
+</stop >
+<stop stop-color="#a0807f" offset="16%">
+</stop >
+<stop stop-color="#945d57" offset="51%" stop-opacity="0.126">
+</stop >
+<stop stop-color="#832a1e" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(315,259)" id="id-android-male-6.8_android_1-105">
+<g transform="translate(233,0)" id="id-android-male-6.8_android_1-106">
+<g transform="translate(0,121)" id="id-android-male-6.8_android_1-107">
+<polygon points="199 13 214 3 222 9 221 25 214 38 214 43 210 54 208 65 197 70 190 64" fill="url(#id-android-male-6.8_android_1-0)" id="id-android-male-6.8_android_1-108">
+</polygon >
+<polygon points="197 24 209 14 216 9 219 10 220 22 214 37 195 43" fill="url(#id-android-male-6.8_android_1-1)" id="id-android-male-6.8_android_1-109">
+</polygon >
+<polygon points="203 38 208 34 199 25 203 22 209 23 207 18 212 16 214 38 214 43 213 48 207 51 201 46" fill="url(#id-android-male-6.8_android_1-2)" id="id-android-male-6.8_android_1-108">
+</polygon >
+<polygon points="212 5 214 3 222 9 222 10 219 10 216 9" fill="#f1cfd6" id="id-android-male-6.8_android_1-108">
+</polygon >
+<polygon points="208 65 197 70 190 64 194 42 199 50 193 62 199 67" fill="#906067" id="id-android-male-6.8_android_1-108">
+</polygon >
+<polygon points="203 62 202 54 211 50" fill="#a95d5f" id="id-android-male-6.8_android_1-113">
+</polygon >
+<polygon points="196 50 202 51 203 42 196 46" fill="#c18882" id="id-android-male-6.8_android_1-114">
+</polygon >
+<polygon points="194 45 199 47 202 45 202 32 197 31" fill="#4e4a5c" id="id-android-male-6.8_android_1-115">
+</polygon >
+<path d="M 30 70 C 24 70 20 69 19 68 C 17 66 12 52 8 46 C 4 39 2 38 1 33 C 0 30 0 21 1 6 L 8 0 L 23 9 L 30 70 Z" fill="url(#id-android-male-6.8_android_1-3)" id="id-android-male-6.8_android_1-116">
+</path >
+<polygon points="8 6 2 6 7 3 10 2 23 9 19 14" fill="#cfb7a6" id="id-android-male-6.8_android_1-116">
+</polygon >
+<path d="M 26 68 C 23 69 20 69 19 68 C 17 66 12 52 8 46 C 7 44 6 43 6 42 C 9 45 10 47 12 48 C 13 50 14 52 16 56 L 26 68 Z" fill="#ddb5a9" id="id-android-male-6.8_android_1-116">
+</path >
+<polygon points="26 68 29 65 27 53 20 61" fill="#e5a599" id="id-android-male-6.8_android_1-116">
+</polygon >
+<path d="M 23 19 C 12 12 6 9 5 9 C 3 10 2 18 2 33 L 17 53 L 26 52 L 23 19 Z" fill="url(#id-android-male-6.8_android_1-4)" id="id-android-male-6.8_android_1-120">
+</path >
+<polygon points="12 17 19 19 18 26 15 28 22 38 21 49 12 44" fill="#bc6a69" id="id-android-male-6.8_android_1-121">
+</polygon >
+<path d="M 27 53 C 16 50 10 47 8 42 C 6 38 8 30 12 17 L 15 23 C 15 36 14 42 15 43 C 15 45 18 46 25 48 L 27 53 Z" fill="#dcac9a" id="id-android-male-6.8_android_1-122">
+</path >
+<polygon points="11 31 19 26 19 18 14 20 12 18" fill="#dac2b3" id="id-android-male-6.8_android_1-123">
+</polygon >
+<polygon points="20 46 17 42 22 37 25 48" fill="#d29488" id="id-android-male-6.8_android_1-124">
+</polygon >
+</g >
+<g transform="translate(18,0)" id="id-android-male-6.8_android_1-125">
+<path d="M 20 231 C 18 227 11 201 5 153 C 3 140 2 128 1 117 C -1 91 4 63 8 49 C 9 46 16 35 16 34 C 30 20 56 0 94 0 C 157 0 178 45 181 51 C 183 57 183 111 181 144 C 178 177 162 232 160 235 C 158 239 124 261 119 264 C 113 266 74 267 69 264 C 64 261 22 235 20 231 Z" fill="url(#id-android-male-6.8_android_1-5)" id="id-android-male-6.8_android_1-126">
+</path >
+<polygon points="19 114 13 91 21 49 49 35 141 43 137 69 105 74 78 52 56 49 39 56 41 93" fill="url(#id-android-male-6.8_android_1-6)" id="id-android-male-6.8_android_1-127">
+</polygon >
+<polygon points="60 106 92 113 124 106 121 101 72 88 66 90 41 88 30 101" fill="url(#id-android-male-6.8_android_1-7)" id="id-android-male-6.8_android_1-128">
+</polygon >
+<polygon points="51 70 94 83 125 81 132 50 98 64 102 53 80 48" fill="url(#id-android-male-6.8_android_1-8)" opacity="0.556" id="id-android-male-6.8_android_1-129">
+</polygon >
+<path d="M 4 144 C 3 137 2 130 2 123 C -1 88 16 34 17 34 C 31 19 56 0 94 0 C 157 0 178 45 181 51 C 183 56 183 103 181 136 L 152 101 C 154 91 155 83 154 79 C 150 60 140 50 136 47 C 130 44 99 50 94 50 C 90 50 78 43 58 42 C 54 42 48 43 38 46 C 29 61 24 68 23 70 C 11 97 16 104 13 127 C 13 131 10 137 4 144 Z" fill="url(#id-android-male-6.8_android_1-9)" id="id-android-male-6.8_android_1-126">
+</path >
+<polygon points="146 168 106 137 108 129 149 141 164 156" fill="url(#id-android-male-6.8_android_1-10)" id="id-android-male-6.8_android_1-131">
+</polygon >
+<polygon points="146 168 106 137 106 148 116 170 133 186" fill="#ffe7d9" id="id-android-male-6.8_android_1-131">
+</polygon >
+<path d="M 181 51 C 183 56 183 103 181 136 L 162 124 L 161 111 C 167 97 172 86 174 77 C 175 74 176 71 177 64 C 178 59 177 52 174 41 L 181 51 Z" fill="#b38369" id="id-android-male-6.8_android_1-126">
+</path >
+<path d="M 48 11 C 60 5 75 0 94 0 C 157 0 178 45 181 51 C 182 54 183 73 183 94 C 174 71 156 51 129 35 C 102 18 75 10 48 11 Z" fill="url(#id-android-male-6.8_android_1-11)" id="id-android-male-6.8_android_1-126">
+</path >
+<polygon points="179 156 158 131 148 142 162 156 144 168 148 190" fill="url(#id-android-male-6.8_android_1-12)" id="id-android-male-6.8_android_1-126">
+</polygon >
+<path d="M 154 211 L 164 139 L 157 131 L 175 105 L 182 68 C 183 88 183 121 181 144 C 178 177 162 232 160 235 C 158 239 124 261 119 264 L 154 211 Z" fill="url(#id-android-male-6.8_android_1-13)" opacity="0.749" id="id-android-male-6.8_android_1-126">
+</path >
+<polygon points="85 260 99 252 111 242 102 223 65 227 64 248" fill="#edc5b0" fill-opacity="0.74" id="id-android-male-6.8_android_1-137">
+</polygon >
+<polygon points="33 188 44 177 21 169 41 146 21 136 8 168" fill="#f5c9b2" id="id-android-male-6.8_android_1-138">
+</polygon >
+<path d="M 5 156 C 5 155 5 154 5 153 C 4 148 4 144 3 139 L 13 129 L 15 97 L 20 117 L 16 146 L 20 172 L 5 156 Z" fill="#c18f75" id="id-android-male-6.8_android_1-126">
+</path >
+<polygon points="13 136 17 121 19 115 32 129 68 132 69 135 40 148 24 139 23 131" fill="url(#id-android-male-6.8_android_1-14)" id="id-android-male-6.8_android_1-140">
+</polygon >
+<polygon points="17 156 11 136 23 130 25 130 25 139" fill="#dbac93" id="id-android-male-6.8_android_1-141">
+</polygon >
+<path d="M 20 231 C 18 227 11 201 5 153 L 33 186 L 46 239 C 62 256 70 265 69 264 C 64 261 22 235 20 231 Z" fill="url(#id-android-male-6.8_android_1-15)" id="id-android-male-6.8_android_1-126">
+</path >
+<polygon points="58 194 45 174 33 186 46 239 60 214" fill="url(#id-android-male-6.8_android_1-16)" id="id-android-male-6.8_android_1-126">
+</polygon >
+<path d="M 20 231 C 19 229 17 223 15 212 C 29 230 46 244 65 252 C 84 260 101 262 117 256 L 149 212 L 172 192 C 167 214 161 233 160 235 C 158 239 124 261 119 264 C 113 266 74 267 69 264 C 64 261 22 235 20 231 Z" fill="#86574d" opacity="0.47" id="id-android-male-6.8_android_1-126">
+</path >
+<polygon points="117 256 152 210 144 168 132 185 128 235 113 258" fill="url(#id-android-male-6.8_android_1-17)" id="id-android-male-6.8_android_1-126">
+</polygon >
+<path d="M 179 156 C 175 189 161 232 160 235 C 160 236 159 236 157 237 L 148 190 L 179 156 Z" fill="url(#id-android-male-6.8_android_1-18)" opacity="0.606" id="id-android-male-6.8_android_1-126">
+</path >
+<path d="M 181 144 C 178 177 162 232 160 235 C 159 237 151 242 143 248 L 157 232 L 163 217 L 170 168 L 181 144 Z" fill="url(#id-android-male-6.8_android_1-19)" id="id-android-male-6.8_android_1-126">
+</path >
+<path d="M 135 254 C 127 259 121 263 119 264 C 113 266 74 267 69 264 C 67 263 57 256 46 250 L 73 256 L 116 262 L 135 254 Z" fill="#836386" id="id-android-male-6.8_android_1-126">
+</path >
+<path d="M 2 130 C 2 125 1 121 1 117 C -1 91 4 63 8 49 C 9 46 16 35 16 34 C 16 34 17 34 17 34 L 29 29 L 13 58 L 13 86 L 2 130 Z" fill="url(#id-android-male-6.8_android_1-20)" id="id-android-male-6.8_android_1-126">
+</path >
+<path d="M 182 133 C 181 137 181 141 181 144 C 180 152 179 160 177 169 L 158 179 L 175 157 L 177 139 L 182 133 Z" fill="#7e4341" id="id-android-male-6.8_android_1-126">
+</path >
+<path d="M 72 248 C 71 246 69 242 68 234 L 83 227 L 111 242 C 86 247 73 249 72 248 Z" fill="#fddfcb" opacity="0.617" id="id-android-male-6.8_android_1-151">
+</path >
+<polygon points="109 177 114 181 125 213 60 209 61 183 66 177" fill="#efc2a8" id="id-android-male-6.8_android_1-152">
+</polygon >
+<polygon points="83 194 74 185 77 178 112 181 98 194" fill="#d6a390" id="id-android-male-6.8_android_1-153">
+</polygon >
+<polygon points="83 193 92 197 99 195 99 181 85 181" fill="url(#id-android-male-6.8_android_1-21)" id="id-android-male-6.8_android_1-154">
+</polygon >
+<polygon points="83 196 83 193 92 197 99 195 100 197 91 202" fill="#f2cfbb" id="id-android-male-6.8_android_1-154">
+</polygon >
+<polygon points="75 138 67 145 60 160 67 171 120 176 116 162 122 153 107 140 110 115" fill="url(#id-android-male-6.8_android_1-22)" id="id-android-male-6.8_android_1-156">
+</polygon >
+<polygon points="75 138 78 153 75 160 75 184 94 181 111 183 118 178 120 174 116 162 105 153 107 140 110 115 71 115 71 127" fill="url(#id-android-male-6.8_android_1-23)" id="id-android-male-6.8_android_1-156">
+</polygon >
+<polygon points="97 179 108 168 83 166 68 173 71 180" fill="#e8bfa7" id="id-android-male-6.8_android_1-158">
+</polygon >
+<polygon points="79 124 71 112 71 127 73 131" fill="#cf9779" id="id-android-male-6.8_android_1-156">
+</polygon >
+<polygon points="71 160 57 173 61 183 78 181 67 177" fill="#ffe1cf" id="id-android-male-6.8_android_1-160">
+</polygon >
+<polygon points="87 136 71 113 69 101 92 108 108 104 110 112 94 136" fill="url(#id-android-male-6.8_android_1-24)" id="id-android-male-6.8_android_1-161">
+</polygon >
+<polygon points="96 169 105 169 116 169 103 159" fill="#ffd6c0" id="id-android-male-6.8_android_1-162">
+</polygon >
+<polygon points="86 170 98 169 103 159 98 143 95 123 88 126 82 166" fill="url(#id-android-male-6.8_android_1-25)" id="id-android-male-6.8_android_1-162">
+</polygon >
+<polygon points="86 170 97 169 92 157" fill="#fff1e3" id="id-android-male-6.8_android_1-162">
+</polygon >
+<polygon points="92 136 87 125 90 117 95 123" fill="#fff9ed" id="id-android-male-6.8_android_1-165">
+</polygon >
+<polygon points="103 157 106 151 115 163" fill="#cb9071" id="id-android-male-6.8_android_1-166">
+</polygon >
+<polygon points="75 184 66 180 65 173 70 163 76 158 76 163 70 172 70 175 76 176 88 180" fill="url(#id-android-male-6.8_android_1-26)" id="id-android-male-6.8_android_1-167">
+</polygon >
+<polygon points="70 172 79 172 76 163 71 164" fill="url(#id-android-male-6.8_android_1-27)" id="id-android-male-6.8_android_1-168">
+</polygon >
+<polygon points="120 173 120 179 114 184 101 183 111 182 117 177" fill="#a46b65" id="id-android-male-6.8_android_1-169">
+</polygon >
+<polygon points="89 181 93 183 97 182 99 179 84 176" fill="#bb8e78" id="id-android-male-6.8_android_1-170">
+</polygon >
+<polygon points="97 182 99 179 84 176" fill="#a77563" id="id-android-male-6.8_android_1-170">
+</polygon >
+<path d="M 77 180 C 78 180 83 180 90 180 C 89 179 88 177 86 177 C 85 176 83 175 79 174 C 77 174 75 175 75 176 C 74 178 75 179 77 180 Z" fill="url(#id-android-male-6.8_android_1-28)" id="id-android-male-6.8_android_1-172">
+</path >
+<path d="M 96 180 L 99 176 L 107 173 C 111 175 112 176 109 178 C 107 180 103 181 96 180 Z" fill="url(#id-android-male-6.8_android_1-29)" id="id-android-male-6.8_android_1-173">
+</path >
+<polygon points="30 128 57 124 72 126 72 114 48 102 19 114" fill="url(#id-android-male-6.8_android_1-30)" id="id-android-male-6.8_android_1-174">
+</polygon >
+<polygon points="36 127 57 124 69 126 60 108 53 104" fill="url(#id-android-male-6.8_android_1-31)" id="id-android-male-6.8_android_1-174">
+</polygon >
+<polygon points="37 129 41 135 33 132 33 130" fill="#2f1a10" opacity="0.429" id="id-android-male-6.8_android_1-176">
+</polygon >
+<polygon points="48 138 69 135 40 148 33 144 40 138" fill="#deac91" id="id-android-male-6.8_android_1-140">
+</polygon >
+<path d="M 22 130 C 27 129 30 128 32 127 C 40 124 47 122 52 122 C 60 123 66 126 70 133 L 69 135 L 67 133 L 66 132 L 36 130 L 41 135 L 32 133 L 22 130 Z" fill="#35221d" id="id-android-male-6.8_android_1-178">
+</path >
+<polygon points="36 130 41 135 50 135 62 133 65 130 58 127 43 126" fill="#e5e2f2" id="id-android-male-6.8_android_1-176">
+</polygon >
+<path d="M 54 135 C 56 134 58 131 59 127 C 57 125 55 124 51 124 C 48 124 45 125 43 126 C 43 129 44 131 44 132 C 45 133 49 136 54 135 Z" fill="#2c1e19" id="id-android-male-6.8_android_1-176">
+</path >
+<polygon points="62 133 65 130 67 133" fill="#c37c79" id="id-android-male-6.8_android_1-176">
+</polygon >
+<polygon points="36 130 41 135 49 126 43 126" fill="#2f1a10" opacity="0.429" id="id-android-male-6.8_android_1-176">
+</polygon >
+<path d="M 50 131 L 50 134 C 51 134 53 134 54 133 C 54 133 55 132 56 131 C 54 131 53 131 52 131 C 51 131 50 131 50 131 Z" fill="#384239" id="id-android-male-6.8_android_1-183">
+</path >
+<polygon points="108 131 117 132 137 124 156 110 117 108" fill="#dfaf93" id="id-android-male-6.8_android_1-184">
+</polygon >
+<polygon points="134 148 151 141 164 122 161 110 155 106 135 126 140 132 132 143 137 143" fill="url(#id-android-male-6.8_android_1-32)" id="id-android-male-6.8_android_1-185">
+</polygon >
+<polygon points="46 130 50 129 50 127 46 127" fill="#c2bac8" id="id-android-male-6.8_android_1-186">
+</polygon >
+<polygon points="48 138 54 142 59 136" fill="#efcbb6" id="id-android-male-6.8_android_1-187">
+</polygon >
+<path d="M 73 115 L 63 111 C 49 110 38 110 32 111 C 25 111 20 115 17 121 C 18 115 19 111 20 109 C 22 106 24 103 27 101 L 27 104 L 30 100 C 33 99 36 98 41 98 C 45 98 52 99 61 100 L 65 106 L 65 102 L 69 102 L 73 115 Z" fill="url(#id-android-male-6.8_android_1-33)" id="id-android-male-6.8_android_1-188">
+</path >
+<polygon points="73 115 63 111 71 106 71 108 75 106" fill="#815a4e" id="id-android-male-6.8_android_1-188">
+</polygon >
+<polygon points="108 131 108 111 118 111 123 116" fill="#c78c74" id="id-android-male-6.8_android_1-190">
+</polygon >
+<polygon points="129 125 123 116 129 116 136 114 133 124" fill="#f5d3bd" id="id-android-male-6.8_android_1-191">
+</polygon >
+<path d="M 116 133 C 115 134 115 135 114 135 C 114 135 114 134 114 133 C 115 132 116 130 117 130 C 121 125 127 123 133 123 C 141 123 147 125 154 129 L 160 132 L 150 135 L 140 135 L 116 133 Z" fill="#402c24" id="id-android-male-6.8_android_1-192">
+</path >
+<path d="M 108 113 L 105 103 L 111 103 L 109 109 L 117 101 C 122 100 127 99 133 98 C 139 98 143 98 146 99 L 139 102 L 150 100 L 163 109 L 164 122 C 162 115 159 111 155 110 C 152 110 147 110 138 111 L 125 111 L 108 113 Z" fill="url(#id-android-male-6.8_android_1-34)" id="id-android-male-6.8_android_1-193">
+</path >
+<path d="M 150 100 L 163 109 C 162 110 159 111 155 110 C 152 110 147 110 138 111 L 125 111 L 150 100 Z" fill="url(#id-android-male-6.8_android_1-35)" id="id-android-male-6.8_android_1-193">
+</path >
+<path d="M 149 132 C 146 128 141 125 135 125 C 129 125 124 127 118 131 L 120 134 C 126 135 130 135 133 136 C 135 136 138 136 142 136 L 149 132 Z" fill="#eae6fb" id="id-android-male-6.8_android_1-195">
+</path >
+<path d="M 140 126 C 138 125 137 125 135 125 C 132 125 128 125 124 127 C 125 132 128 135 133 135 C 138 135 140 132 140 126 Z" fill="#2e2020" id="id-android-male-6.8_android_1-195">
+</path >
+<path d="M 149 132 C 146 128 141 125 135 125 C 129 125 124 127 118 131 L 120 134 C 124 130 128 128 133 128 C 138 128 142 130 145 134 L 149 132 Z" fill="#3e2f25" opacity="0.326" id="id-android-male-6.8_android_1-195">
+</path >
+<polygon points="118 131 116 134 120 134" fill="#b4796d" id="id-android-male-6.8_android_1-195">
+</polygon >
+<polygon points="129 130 129 127 132 126 132 128" fill="#e6e2f6" id="id-android-male-6.8_android_1-199">
+</polygon >
+<path d="M 132 134 C 134 135 135 135 136 134 C 137 133 138 132 139 130 L 134 130 L 132 134 Z" fill="#384039" id="id-android-male-6.8_android_1-200">
+</path >
+<polygon points="66 231 97 229 107 229 119 223 119 213 60 215 57 221" fill="#dca493" id="id-android-male-6.8_android_1-201">
+</polygon >
+<polygon points="118 217 124 214 101 203 71 206 60 215 61 217" fill="#5f2522" id="id-android-male-6.8_android_1-202">
+</polygon >
+<polygon points="114 135 135 137 150 135 144 135 116 133" fill="#b58e82" id="id-android-male-6.8_android_1-203">
+</polygon >
+<polygon points="106 225 97 229 85 229 77 224" fill="#a26357" id="id-android-male-6.8_android_1-204">
+</polygon >
+<polygon points="85 229 77 224 101 225" fill="#763932" id="id-android-male-6.8_android_1-204">
+</polygon >
+<path d="M 60 215 L 59 217 L 77 225 L 105 226 L 119 217 C 115 214 110 213 106 212 C 102 212 90 212 72 213 L 65 217 L 60 215 Z" fill="url(#id-android-male-6.8_android_1-36)" id="id-android-male-6.8_android_1-206">
+</path >
+<path d="M 80 221 L 74 218 C 81 217 87 217 91 217 C 95 216 100 217 107 217 L 100 221 C 96 220 94 219 91 219 C 89 219 85 220 80 221 Z" fill="url(#id-android-male-6.8_android_1-37)" id="id-android-male-6.8_android_1-207">
+</path >
+<path d="M 59 215 L 60 210 C 65 207 69 204 71 203 C 74 201 78 199 83 196 L 91 200 L 100 196 L 114 203 L 124 213 L 116 213 L 103 208 L 91 206 L 76 208 L 64 215 L 59 215 Z" fill="url(#id-android-male-6.8_android_1-38)" id="id-android-male-6.8_android_1-208">
+</path >
+<path d="M 71 203 C 74 201 78 199 83 196 L 91 200 L 100 196 L 114 203 L 103 208 L 91 206 L 76 208 L 71 203 Z" fill="url(#id-android-male-6.8_android_1-39)" id="id-android-male-6.8_android_1-208">
+</path >
+<path d="M 76 200 C 77 199 80 198 83 196 L 91 200 L 91 206 L 82 208 L 76 200 Z" fill="#e696a5" id="id-android-male-6.8_android_1-208">
+</path >
+</g >
+</g >
+<g transform="translate(0,144)" id="id-android-male-6.8_android_1-211">
+<g transform="translate(19,423)" id="id-android-male-6.8_android_1-212">
+<path d="M 25 333 C 73 234 96 184 96 184 C 110 173 117 168 117 168 C 121 130 123 111 123 111 C 118 109 116 108 116 108 C 113 119 111 124 111 124 C 107 121 105 119 105 119 C 111 79 115 59 115 59 L 120 56 C 124 66 126 71 126 71 C 130 69 132 68 132 68 C 128 57 126 51 126 51 C 130 49 132 48 132 48 C 135 29 136 20 136 20 C 89 7 65 0 65 0 C 63 42 62 63 62 63 C 68 64 71 64 71 64 C 74 49 75 42 75 42 C 79 42 81 42 81 42 C 76 69 74 82 74 82 C 61 82 55 82 55 82 C 31 137 11 199 0 280 C 17 316 25 333 25 333 Z" fill="#0e1728" id="id-android-male-6.8_android_1-213">
+</path >
+<path d="M 25 333 C 43 292 56 249 63 202 C 43 192 33 186 33 186 L 16 198 C 9 225 4 252 0 280 C 17 316 25 333 25 333 Z" fill="#29354c" id="id-android-male-6.8_android_1-214">
+</path >
+<path d="M 112 162 C 112 165 113 167 113 167 C 98 178 90 183 90 183 L 90 179 C 105 168 112 162 112 162 Z" fill="#522039" id="id-android-male-6.8_android_1-215">
+</path >
+<path d="M 93 169 C 89 166 87 165 87 165 L 106 148 C 109 132 111 124 111 124 C 113 117 115 114 115 114 L 112 152 C 99 163 93 169 93 169 Z" fill="#444f60" id="id-android-male-6.8_android_1-216">
+</path >
+<path d="M 82 166 C 76 135 73 119 73 119 C 93 127 103 131 103 131 L 104 147 C 89 159 82 166 82 166 Z" fill="url(#id-android-male-6.8_android_1-40)" id="id-android-male-6.8_android_1-217">
+</path >
+<path d="M 59 88 C 70 107 76 116 76 116 C 84 104 89 98 89 98 C 97 40 101 10 101 10 L 82 5 C 82 30 81 42 81 42 L 76 86 C 64 87 59 88 59 88 Z" fill="#25335d" id="id-android-male-6.8_android_1-218">
+</path >
+<path d="M 55 82 L 82 103 L 73 82 C 61 82 55 82 55 82 Z" fill="#5677b0" id="id-android-male-6.8_android_1-219">
+</path >
+<path d="M 76 116 C 87 117 92 117 92 117 C 100 108 104 103 104 103 L 90 87 L 88 99 C 80 110 76 116 76 116 Z" fill="#2f3253" id="id-android-male-6.8_android_1-220">
+</path >
+<path d="M 76 116 C 85 117 89 117 89 117 L 106 11 L 101 10 L 88 99 C 80 110 76 116 76 116 Z" fill="url(#id-android-male-6.8_android_1-41)" id="id-android-male-6.8_android_1-221">
+</path >
+<path d="M 105 19 C 113 34 117 41 117 41 C 109 81 106 101 106 101 L 94 88 C 101 42 105 19 105 19 Z" fill="#42545e" fill-opacity="0.416" id="id-android-male-6.8_android_1-222">
+</path >
+<path d="M 64 51 C 68 51 70 51 70 51 C 75 25 78 12 78 12 L 71 10 C 66 37 64 51 64 51 Z" fill="#434f5f" id="id-android-male-6.8_android_1-223">
+</path >
+<path d="M 60 40 C 65 41 68 42 68 42 C 71 19 73 7 73 7 L 62 2 C 60 27 60 40 60 40 Z" fill="#842635" id="id-android-male-6.8_android_1-224">
+</path >
+<path d="M 62 2 C 61 8 61 11 61 11 C 67 10 70 10 70 10 L 70 6 C 65 3 62 2 62 2 Z" fill="#cb5b6c" id="id-android-male-6.8_android_1-225">
+</path >
+</g >
+<g transform="translate(151,0)" id="id-android-male-6.8_android_1-226">
+<path d="M 110 460 L 164 543 C 211 544 235 544 235 544 C 267 487 283 458 283 458 C 343 362 373 314 373 314 C 369 293 366 282 366 282 C 381 256 389 242 389 242 C 393 241 395 240 395 240 C 396 244 397 247 397 247 C 399 245 400 245 400 245 C 401 236 402 231 402 231 C 389 223 383 218 383 218 C 372 214 367 212 367 212 C 298 179 264 163 264 163 C 261 157 259 153 259 153 C 259 153 257 136 253 102 C 255 98 257 96 257 96 C 262 77 275 38 280 10 C 261 26 251 34 251 34 C 240 24 235 19 235 19 C 234 6 234 0 234 0 C 232 0 231 0 231 0 C 231 14 232 20 232 20 C 243 32 248 38 248 38 C 243 47 234 91 195 91 C 158 91 141 75 140 72 C 128 48 122 36 122 36 C 139 25 147 19 147 19 C 147 6 147 0 147 0 C 145 0 144 0 144 0 C 144 10 144 16 144 16 C 128 27 121 33 121 33 C 116 26 113 20 105 15 C 113 66 117 92 117 92 C 123 95 125 97 125 97 C 118 140 114 162 114 162 C 102 167 96 170 96 170 C 60 195 42 207 17 217 C 6 219 0 220 0 220 C 6 233 9 239 9 239 C 25 275 33 293 33 293 L 26 320 C 82 413 110 460 110 460 Z" fill="#101824" id="id-android-male-6.8_android_1-227">
+</path >
+<path d="M 158 327 C 206 326 230 326 230 326 C 216 345 209 355 209 355 L 182 357 C 166 337 158 327 158 327 Z" stroke="#979797" id="id-android-male-6.8_android_1-228">
+</path >
+<path d="M 179 334 C 198 334 207 334 207 334 C 206 346 205 352 205 352 L 183 352 C 180 340 179 334 179 334 Z" stroke="#979797" id="id-android-male-6.8_android_1-229">
+</path >
+<path d="M 118 244 C 144 287 157 309 157 309 C 205 309 229 309 229 309 C 257 264 271 242 271 242 C 236 242 218 242 218 242 C 209 268 205 280 205 280 C 187 281 179 281 179 281 L 161 243 C 132 244 118 244 118 244 Z" fill="#09365e" id="id-android-male-6.8_android_1-230">
+</path >
+<path d="M 207 281 C 215 257 219 245 219 245 C 234 248 245 255 253 267 L 230 303 C 215 288 207 281 207 281 Z" fill="#155082" id="id-android-male-6.8_android_1-231">
+</path >
+<path d="M 177 282 C 163 297 157 304 157 304 C 140 277 132 263 132 263 C 137 250 148 247 161 247 C 172 271 177 282 177 282 Z" fill="#0f4d7f" id="id-android-male-6.8_android_1-232">
+</path >
+<path d="M 166 305 C 200 305 216 305 216 305 C 205 293 200 286 200 286 L 182 286 C 171 299 166 305 166 305 Z" fill="#00e900" id="id-android-male-6.8_android_1-233">
+</path >
+<path d="M 180 279 C 196 279 204 279 204 279 C 208 266 210 259 210 259 C 218 226 222 210 222 210 C 207 210 200 210 200 210 C 194 238 192 253 192 253 C 187 247 185 244 185 244 C 189 221 190 210 190 210 C 173 210 164 210 164 210 L 171 259 C 177 272 180 279 180 279 Z" fill="#1a2145" id="id-android-male-6.8_android_1-234">
+</path >
+<path d="M 130 202 C 140 202 146 202 146 202 C 158 226 165 237 165 237 C 160 216 157 206 157 206 C 163 206 166 205 166 205 C 160 183 160 165 146 136 C 140 117 137 108 137 108 L 129 100 L 120 162 L 130 202 Z" fill="#26313e" id="id-android-male-6.8_android_1-235">
+</path >
+<path d="M 190 210 L 185 244 L 192 253 C 197 224 200 210 200 210 C 194 208 190 206 188 206 C 187 206 188 208 190 210 Z" fill="#c00000" id="id-android-male-6.8_android_1-236">
+</path >
+<path d="M 12 219 L 19 214 C 58 199 78 181 102 165 C 121 190 130 202 130 202 C 138 202 141 202 141 202 C 134 192 131 187 131 187 C 135 134 137 108 137 108 C 139 108 140 108 140 108 C 145 117 147 122 147 122 C 142 166 139 188 139 188 C 147 198 150 203 150 203 C 147 202 146 202 146 202 C 155 227 160 240 160 240 C 129 240 114 240 114 240 C 106 222 103 213 103 213 C 72 214 57 215 57 215 L 49 232 C 43 229 27 223 12 219 Z" fill="#577e9a" id="id-android-male-6.8_android_1-237">
+</path >
+<path d="M 92 201 C 92 208 99 211 99 211 L 103 211 C 114 230 114 240 114 240 C 121 239 125 239 125 239 C 119 229 120 221 118 215 C 114 208 105 199 102 191 C 108 187 109 185 109 185 L 99 167 C 72 185 48 203 19 214 L 12 219 C 29 222 40 227 45 228 C 46 221 46 217 46 217 C 81 204 92 197 92 197 L 98 193 L 92 201 Z" fill="#b8c9d5" id="id-android-male-6.8_android_1-238">
+</path >
+<path d="M 234 203 C 221 226 217 237 217 237 C 218 216 218 205 218 205 C 212 205 209 205 209 205 C 222 149 228 122 228 122 L 247 100 C 250 113 253 132 255 156 C 253 180 253 193 253 193 L 249 199 L 234 203 Z" fill="#253549" id="id-android-male-6.8_android_1-238">
+</path >
+<path d="M 133 205 L 145 205 C 155 228 160 240 160 240 L 152 239 C 139 216 133 205 133 205 Z" fill="#789db0" id="id-android-male-6.8_android_1-240">
+</path >
+<path d="M 251 199 C 264 175 270 163 270 163 C 342 199 378 216 378 216 C 317 218 286 219 286 219 C 274 232 268 239 268 239 C 235 240 218 240 218 240 C 229 215 234 203 234 203 C 232 201 232 200 232 200 C 236 194 238 191 238 191 C 233 142 230 117 230 117 C 239 106 244 101 244 101 C 247 160 248 189 248 189 L 244 199 L 251 199 Z" fill="url(#id-android-male-6.8_android_1-42)" id="id-android-male-6.8_android_1-241">
+</path >
+<path d="M 251 199 C 263 226 268 239 268 239 C 279 227 284 221 284 221 L 256 191 L 251 199 Z" fill="#89a7b5" id="id-android-male-6.8_android_1-242">
+</path >
+<path d="M 265 176 C 296 204 312 218 312 218 C 328 218 336 218 336 218 C 344 212 348 209 348 209 L 269 168 C 266 173 265 176 265 176 Z" fill="url(#id-android-male-6.8_android_1-43)" id="id-android-male-6.8_android_1-243">
+</path >
+<path d="M 269 168 C 270 165 270 163 270 163 C 344 199 382 218 382 218 L 345 230 C 338 222 335 218 335 218 L 348 209 L 269 168 Z" fill="#dce1d7" id="id-android-male-6.8_android_1-244">
+</path >
+<polygon points="160 124 175 135 177 191 174 191" fill="#223540" id="id-android-male-6.8_android_1-245">
+</polygon >
+<polygon points="197 191 202 191 207 126 193 136" fill="#223540" id="id-android-male-6.8_android_1-246">
+</polygon >
+<polygon points="224 185 226 198 217 196 217 193" fill="#00ef00" id="id-android-male-6.8_android_1-247">
+</polygon >
+<path d="M 147 200 C 153 199 156 199 156 199 C 155 194 150 189 146 187 L 147 200 Z" fill="#00ef00" id="id-android-male-6.8_android_1-248">
+</path >
+<path d="M 164 114 C 177 121 184 125 184 125 C 196 126 203 125 208 123 C 216 116 221 112 221 112 C 209 114 203 115 203 115 C 210 103 214 96 214 96 C 200 94 193 93 193 93 C 176 96 167 98 167 98 C 171 107 178 110 184 112 C 171 114 164 114 164 114 Z" fill="#2c3b4d" id="id-android-male-6.8_android_1-249">
+</path >
+<path d="M 184 107 L 193 93 L 167 98 C 169 104 174 107 184 107 Z" fill="#728dde" id="id-android-male-6.8_android_1-250">
+</path >
+<path d="M 111 28 C 116 31 119 37 123 45 L 130 80 L 162 109 L 123 92 L 111 28 Z" fill="#2f4779" id="id-android-male-6.8_android_1-251">
+</path >
+<path d="M 275 28 C 266 74 261 97 261 97 C 234 107 220 111 220 111 L 258 79 C 268 45 273 28 275 28 Z" fill="#2e4973" id="id-android-male-6.8_android_1-252">
+</path >
+<path d="M 167 484 C 178 504 183 514 183 514 C 187 505 192 498 197 491 C 204 498 209 507 213 518 C 225 494 231 482 231 482 C 220 473 209 466 196 461 C 184 467 174 475 167 484 Z" fill="#0b3050" id="id-android-male-6.8_android_1-253">
+</path >
+<path d="M 192 532 C 201 532 206 532 206 532 C 210 523 211 519 211 519 C 208 509 203 501 197 497 C 192 503 188 510 185 517 L 192 532 Z" fill="#123a74" id="id-android-male-6.8_android_1-254">
+</path >
+<path d="M 199 459 C 200 431 200 418 200 418 C 208 409 213 405 213 405 C 256 438 277 455 277 455 L 257 491 C 218 469 199 459 199 459 Z" fill="#102e4f" id="id-android-male-6.8_android_1-255">
+</path >
+<path d="M 214 413 C 232 434 253 447 275 460 L 257 491 L 220 460 C 215 447 213 431 214 413 Z" fill="url(#id-android-male-6.8_android_1-44)" id="id-android-male-6.8_android_1-256">
+</path >
+<path d="M 143 495 C 136 495 122 471 122 457 L 178 408 C 187 416 191 420 191 420 C 192 432 191 444 190 455 L 143 495 Z" fill="#0f304d" id="id-android-male-6.8_android_1-257">
+</path >
+<path d="M 157 481 C 169 468 182 455 189 441 L 189 420 L 178 413 L 154 433 C 162 439 166 448 167 461 L 157 481 Z" fill="#50647a" id="id-android-male-6.8_android_1-258">
+</path >
+<path d="M 187 512 L 208 511 C 205 506 202 501 197 497 C 192 504 189 509 187 512 Z" fill="#00fa00" id="id-android-male-6.8_android_1-259">
+</path >
+</g >
+<g transform="translate(172,1289)" id="id-android-male-6.8_android_1-260">
+<path d="M 3 16 C 7 57 3 55 0 75 L 125 75 L 125 60 L 114 41 L 114 10 L 84 24 L 3 16 Z" fill="#081110" id="id-android-male-6.8_android_1-261">
+</path >
+<polygon points="12 75 20 38 28 75" fill="#10263c" id="id-android-male-6.8_android_1-262">
+</polygon >
+<polygon points="71 75 73 71 82 71 97 54 108 64 104 75" fill="#1b3146" id="id-android-male-6.8_android_1-263">
+</polygon >
+<path d="M 281 75 C 287 41 290 25 290 25 L 286 0 L 321 15 L 405 31 C 406 46 407 60 411 75 L 281 75 Z" fill="#0b100f" id="id-android-male-6.8_android_1-264">
+</path >
+<path d="M 296 75 C 300 55 303 43 306 36 L 339 69 L 365 75 C 319 75 296 75 296 75 Z" fill="#162832" id="id-android-male-6.8_android_1-265">
+</path >
+<path d="M 388 75 L 398 55 L 405 75 C 394 75 388 75 388 75 Z" fill="#123242" id="id-android-male-6.8_android_1-266">
+</path >
+</g >
+<g transform="translate(11,505)" id="id-android-male-6.8_android_1-267">
+<path d="M 6 168 L 27 214 L 60 144 L 54 124 C 37 117 16 110 9 101 C 7 125 5 148 6 168 Z" fill="url(#id-android-male-6.8_android_1-45)" id="id-android-male-6.8_android_1-268">
+</path >
+<path d="M 65 133 C 61 123 59 118 59 118 C 32 104 18 98 18 98 C 13 97 10 97 10 97 L 10 66 L 55 0 L 79 39 L 85 85 C 71 117 65 133 65 133 Z" fill="url(#id-android-male-6.8_android_1-46)" id="id-android-male-6.8_android_1-269">
+</path >
+<path d="M 42 110 L 16 97 C 12 97 10 97 10 97 C 10 76 10 66 10 66 C 21 71 26 73 26 73 L 48 55 C 44 91 42 110 42 110 Z" fill="url(#id-android-male-6.8_android_1-47)" id="id-android-male-6.8_android_1-270">
+</path >
+<path d="M 0 329 L 54 315 C 71 254 93 192 124 130 C 129 113 131 96 132 78 L 103 101 C 82 147 56 194 36 239 C 33 241 31 241 31 241 C 15 210 8 195 8 195 L 2 196 L 0 329 Z" fill="url(#id-android-male-6.8_android_1-48)" id="id-android-male-6.8_android_1-271">
+</path >
+<polygon points="46 217 50 316 12 326 28 236 31 241 36 239" fill="url(#id-android-male-6.8_android_1-49)" id="id-android-male-6.8_android_1-272">
+</polygon >
+<path d="M 49 281 C 80 192 101 138 113 121 L 113 93 L 103 101 L 46 217 C 48 260 49 281 49 281 Z" fill="url(#id-android-male-6.8_android_1-50)" id="id-android-male-6.8_android_1-273">
+</path >
+<path d="M 41 119 C 30 178 24 208 24 208 C 26 212 27 214 27 214 C 49 167 60 144 60 144 L 55 125 C 46 121 41 119 41 119 Z" fill="url(#id-android-male-6.8_android_1-51)" id="id-android-male-6.8_android_1-274">
+</path >
+</g >
+<g transform="translate(152,217)" id="id-android-male-6.8_android_1-275">
+<path d="M 0 6 C 32 14 48 19 48 19 C 53 7 56 2 56 2 C 82 1 96 0 96 0 C 134 63 153 94 153 94 C 203 94 229 94 229 94 C 266 36 285 7 285 7 C 313 6 326 6 326 6 L 336 16 L 382 1 C 394 10 401 14 401 14 C 366 26 349 31 349 31 C 333 31 325 31 325 31 C 325 34 325 36 325 36 C 342 36 350 37 350 37 C 375 119 387 160 387 160 C 387 166 386 169 386 169 C 367 208 358 228 358 228 C 328 238 312 243 312 243 C 293 243 283 243 283 243 C 230 203 204 182 204 182 C 187 183 179 183 179 183 C 131 224 107 244 107 244 C 86 248 75 250 75 250 C 40 239 23 234 23 234 C 19 226 18 222 18 222 L 10 161 C 20 123 25 103 25 103 C 40 68 47 50 47 50 C 46 43 46 39 46 39 C 60 35 67 33 67 33 C 67 31 67 30 67 30 C 55 30 49 31 49 31 L 7 20 C 2 10 0 6 0 6 Z" fill="url(#id-android-male-6.8_android_1-52)" id="id-android-male-6.8_android_1-276">
+</path >
+<path d="M 76 250 L 101 245 C 120 224 152 204 180 183 L 204 182 C 255 222 281 242 281 242 C 298 243 307 243 307 243 L 318 211 C 254 211 220 179 192 140 C 117 188 80 213 80 213 L 17 214 L 18 223 L 23 234 C 58 244 76 250 76 250 Z" fill="url(#id-android-male-6.8_android_1-53)" id="id-android-male-6.8_android_1-277">
+</path >
+<path d="M 101 245 C 100 230 99 222 99 222 C 62 216 44 214 44 214 C 38 222 35 226 35 226 C 42 232 45 235 45 235 L 93 247 C 98 246 101 245 101 245 Z" fill="#bc7b65" id="id-android-male-6.8_android_1-278">
+</path >
+<path d="M 73 216 C 57 213 50 212 50 212 C 48 203 48 198 48 198 C 57 188 61 184 61 184 C 75 189 82 192 82 192 L 82 200 C 76 211 73 216 73 216 Z" fill="#ba7667" id="id-android-male-6.8_android_1-279">
+</path >
+<path d="M 74 214 C 64 213 59 212 59 212 C 62 207 64 205 64 205 C 61 200 60 198 60 198 C 65 199 68 199 68 199 C 75 197 79 196 79 196 L 79 204 C 76 211 74 214 74 214 Z" fill="#c7878d" id="id-android-male-6.8_android_1-280">
+</path >
+<path d="M 197 182 C 197 173 196 168 196 168 L 212 189 L 204 182 C 199 182 197 182 197 182 Z" fill="#ee8f70" id="id-android-male-6.8_android_1-281">
+</path >
+<path d="M 141 200 C 154 176 160 165 160 165 C 180 148 190 140 190 140 C 186 154 189 168 192 183 C 184 183 180 183 180 183 L 158 201 L 141 200 Z" fill="#bc7b65" id="id-android-male-6.8_android_1-282">
+</path >
+<path d="M 269 217 L 336 216 L 307 243 C 282 235 269 226 269 217 Z" fill="#bc7b65" id="id-android-male-6.8_android_1-283">
+</path >
+<path d="M 324 216 C 340 206 349 202 349 202 C 346 193 340 188 330 188 C 323 189 318 195 314 203 C 321 212 324 216 324 216 Z" fill="#ba7667" id="id-android-male-6.8_android_1-284">
+</path >
+<path d="M 324 216 C 327 208 329 203 329 203 L 334 189 C 341 190 346 194 349 202 C 332 211 324 216 324 216 Z" fill="#a86056" id="id-android-male-6.8_android_1-285">
+</path >
+<path d="M 322 201 C 326 204 327 206 327 206 L 335 199 C 329 198 325 199 322 201 Z" fill="#c7878d" id="id-android-male-6.8_android_1-286">
+</path >
+<path d="M 316 243 C 349 220 364 188 387 160 L 386 169 L 358 230 L 316 243 Z" fill="#a1605d" id="id-android-male-6.8_android_1-287">
+</path >
+<path d="M 237 82 C 299 81 331 81 331 81 C 316 63 302 45 267 35 C 247 67 237 82 237 82 Z" fill="url(#id-android-male-6.8_android_1-54)" id="id-android-male-6.8_android_1-288">
+</path >
+<path d="M 157 110 C 103 137 77 150 77 150 C 88 185 94 203 94 203 L 192 139 L 180 140 C 165 120 157 110 157 110 Z" fill="url(#id-android-male-6.8_android_1-55)" id="id-android-male-6.8_android_1-289">
+</path >
+</g >
+<g transform="translate(616,733)" id="id-android-male-6.8_android_1-290">
+<path d="M 15 80 L 52 0 L 66 125 L 61 134 L 91 230 C 79 264 73 281 73 281 C 60 300 53 310 53 310 C 29 319 17 323 17 323 C 15 300 41 310 41 292 C 25 294 17 295 17 295 C 18 290 18 287 18 287 C 26 283 32 277 42 276 C 50 261 54 253 54 253 C 49 239 47 232 47 232 C 37 224 33 220 33 220 C 33 254 33 271 33 271 L 25 281 C 18 281 15 281 15 281 C 9 264 8 249 11 235 C 4 195 0 175 0 175 C 11 158 17 150 17 150 C 27 136 32 130 32 130 L 25 121 L 15 80 Z" fill="#121d2e" id="id-android-male-6.8_android_1-291">
+</path >
+<path d="M 15 247 C 25 247 29 247 29 247 C 28 230 29 216 35 207 C 34 169 34 150 34 150 C 26 152 22 153 22 153 L 8 184 C 13 223 16 244 15 247 Z" fill="#76abcf" id="id-android-male-6.8_android_1-292">
+</path >
+<path d="M 35 207 C 29 205 27 204 27 204 L 12 215 L 15 247 L 29 247 C 27 230 29 217 35 207 Z" fill="#447ea6" id="id-android-male-6.8_android_1-293">
+</path >
+<path d="M 12 215 C 22 208 27 204 27 204 L 9 195 L 12 215 Z" fill="#a9ceef" id="id-android-male-6.8_android_1-294">
+</path >
+<path d="M 17 149 C 31 149 38 149 38 149 C 39 187 39 206 39 206 C 36 211 34 214 34 214 C 49 225 57 230 57 230 C 82 227 94 225 94 225 C 76 164 67 133 67 133 L 24 129 C 20 143 17 149 17 149 Z" fill="#366588" id="id-android-male-6.8_android_1-295">
+</path >
+<path d="M 17 149 C 22 149 24 149 24 149 L 31 130 L 24 129 C 20 143 17 149 17 149 Z" fill="#427e9c" id="id-android-male-6.8_android_1-296">
+</path >
+<path d="M 45 131 C 47 155 48 166 48 166 L 83 226 L 94 225 L 67 133 C 53 132 45 131 45 131 Z" fill="url(#id-android-male-6.8_android_1-56)" id="id-android-male-6.8_android_1-297">
+</path >
+<path d="M 38 159 L 39 206 C 36 211 34 214 34 214 C 37 216 38 217 38 217 L 55 192 L 38 159 Z" fill="#4d7d9e" id="id-android-male-6.8_android_1-298">
+</path >
+<path d="M 91 230 C 73 233 64 234 64 234 C 58 257 56 268 56 268 L 76 281 C 86 247 91 230 91 230 Z" fill="#4b7ea3" id="id-android-male-6.8_android_1-299">
+</path >
+<path d="M 86 247 L 78 234 L 91 230 C 88 241 86 247 86 247 Z" fill="#c9f1fe" id="id-android-male-6.8_android_1-300">
+</path >
+<path d="M 53 308 C 51 313 50 315 50 315 C 26 325 15 329 15 329 L 19 320 C 41 312 53 308 53 308 Z" fill="#a0b6c9" id="id-android-male-6.8_android_1-301">
+</path >
+</g >
+<g transform="translate(617,645) scale(-1,1) translate(-617,-645) translate(547,445)" id="id-android-male-6.8_android_1-302">
+<path d="M 29 333 C 76 234 100 184 100 184 C 114 173 121 168 121 168 C 125 130 126 111 126 111 C 122 109 120 108 120 108 C 116 119 115 124 115 124 C 110 121 108 119 108 119 C 115 79 118 59 118 59 L 124 56 C 128 66 130 71 130 71 C 133 69 135 68 135 68 C 132 57 130 51 130 51 C 134 49 136 48 136 48 C 139 29 140 20 140 20 C 92 7 69 0 69 0 C 66 42 65 63 65 63 C 71 64 75 64 75 64 C 77 49 78 42 78 42 C 83 42 85 42 85 42 C 80 69 77 82 77 82 C 65 82 59 82 59 82 C 35 137 14 199 4 280 C 20 316 29 333 29 333 Z" fill="#0e1728" id="id-android-male-6.8_android_1-213">
+</path >
+<path d="M 20 399 C 47 299 62 233 66 202 C 46 192 36 186 36 186 L 19 198 C 13 225 9 251 5 280 L 0 371 L 20 399 Z" fill="#29354c" id="id-android-male-6.8_android_1-214">
+</path >
+<path d="M 116 162 C 116 165 116 167 116 167 C 101 178 94 183 94 183 L 93 179 C 108 168 116 162 116 162 Z" fill="#522039" id="id-android-male-6.8_android_1-215">
+</path >
+<path d="M 96 169 C 93 166 91 165 91 165 L 110 148 C 113 132 115 124 115 124 C 117 117 118 114 118 114 L 115 152 C 103 163 96 169 96 169 Z" fill="#444f60" id="id-android-male-6.8_android_1-216">
+</path >
+<path d="M 85 166 C 79 135 76 119 76 119 C 97 127 107 131 107 131 L 108 147 C 93 159 85 166 85 166 Z" fill="url(#id-android-male-6.8_android_1-40)" id="id-android-male-6.8_android_1-217">
+</path >
+<path d="M 62 88 C 74 107 80 116 80 116 C 88 104 92 98 92 98 C 101 40 105 10 105 10 L 86 5 C 85 30 85 42 85 42 L 79 86 C 68 87 62 88 62 88 Z" fill="#25335d" id="id-android-male-6.8_android_1-218">
+</path >
+<path d="M 59 82 L 85 103 L 76 82 C 64 82 59 82 59 82 Z" fill="#5677b0" id="id-android-male-6.8_android_1-219">
+</path >
+<path d="M 80 116 C 90 117 95 117 95 117 C 104 108 108 103 108 103 L 94 87 L 92 99 C 84 110 80 116 80 116 Z" fill="#2f3253" id="id-android-male-6.8_android_1-220">
+</path >
+<path d="M 80 116 C 89 117 93 117 93 117 L 109 11 L 105 10 L 92 99 C 84 110 80 116 80 116 Z" fill="url(#id-android-male-6.8_android_1-41)" id="id-android-male-6.8_android_1-221">
+</path >
+<path d="M 108 19 C 116 34 120 41 120 41 C 113 81 109 101 109 101 L 97 88 C 104 42 108 19 108 19 Z" fill="#42545e" fill-opacity="0.416" id="id-android-male-6.8_android_1-222">
+</path >
+<path d="M 67 51 C 71 51 73 51 73 51 C 79 25 82 12 82 12 L 74 10 C 70 37 67 51 67 51 Z" fill="#434f5f" id="id-android-male-6.8_android_1-223">
+</path >
+<path d="M 63 40 C 69 41 71 42 71 42 C 75 19 77 7 77 7 L 65 2 C 64 27 63 40 63 40 Z" fill="#842635" id="id-android-male-6.8_android_1-224">
+</path >
+<path d="M 65 2 C 65 8 65 11 65 11 C 71 10 74 10 74 10 L 74 6 C 68 3 65 2 65 2 Z" fill="#cb5b6c" id="id-android-male-6.8_android_1-225">
+</path >
+<path d="M 12 340 C 16 334 18 331 18 331 C 14 328 11 327 7 327 C 10 336 12 340 12 340 Z" fill="#9eaac2" id="id-android-male-6.8_android_1-316">
+</path >
+<path d="M 26 298 C 24 316 23 325 23 325 C 18 327 13 326 6 322 C 7 305 7 296 7 296 L 7 296 L 7 296 C 11 289 22 295 26 298 Z M 10 295 C 10 295 10 301 9 311 C 9 311 13 313 21 316 C 21 316 21 315 21 312 L 21 312 L 21 313 L 21 313 C 17 312 15 310 14 307 C 13 308 12 309 10 309 L 10 309 L 10 309 L 10 307 L 10 307 C 12 307 13 306 13 304 C 13 301 13 300 10 299 L 10 299 L 10 299 L 10 297 L 10 297 C 13 298 15 299 15 301 C 17 300 19 299 22 301 L 22 301 L 23 301 C 23 300 23 299 23 299 L 23 299 Z M 23 301 L 22 303 L 22 302 C 18 301 16 302 16 305 L 16 305 L 16 305 L 16 305 L 16 305 C 16 308 18 310 21 311 L 21 311 L 22 311 C 22 309 22 306 23 301 L 23 301 Z" fill="#8996ae" id="id-android-male-6.8_android_1-317">
+</path >
+</g >
+<g transform="translate(561,531)" id="id-android-male-6.8_android_1-318">
+<path d="M 65 130 C 69 121 71 116 71 116 C 99 102 113 96 113 96 C 117 96 119 96 119 96 C 119 77 119 67 119 67 C 92 22 78 0 78 0 C 61 23 53 35 53 35 L 45 81 C 58 114 65 130 65 130 Z" fill="#f7bf9b" id="id-android-male-6.8_android_1-319">
+</path >
+<path d="M 78 0 C 74 6 71 10 71 10 L 120 87 L 120 67 C 92 22 78 0 78 0 Z" fill="#b46b5b" id="id-android-male-6.8_android_1-320">
+</path >
+<polygon points="45 81 71 11 53 35" fill="#dd9e81" id="id-android-male-6.8_android_1-321">
+</polygon >
+<path d="M 66 23 L 77 113 L 72 116 L 65 131 L 45 81 C 59 43 66 23 66 23 Z" fill="#ffddc8" id="id-android-male-6.8_android_1-322">
+</path >
+<path d="M 91 106 L 113 96 L 120 96 C 120 90 120 87 120 87 L 91 42 L 91 106 Z" fill="url(#id-android-male-6.8_android_1-59)" id="id-android-male-6.8_android_1-323">
+</path >
+<path d="M 69 142 C 73 129 75 123 75 123 C 103 113 117 108 117 108 C 119 106 119 106 119 106 C 121 145 122 165 122 165 L 103 221 C 80 169 69 142 69 142 Z" fill="#f7bf9b" id="id-android-male-6.8_android_1-324">
+</path >
+<path d="M 90 117 L 88 186 L 69 142 L 75 123 C 85 119 90 117 90 117 Z" fill="#ffddc8" id="id-android-male-6.8_android_1-325">
+</path >
+<polygon points="97 115 117 108 120 106 122 165 103 221" fill="url(#id-android-male-6.8_android_1-60)" id="id-android-male-6.8_android_1-326">
+</polygon >
+<path d="M 89 245 C 77 272 70 286 70 286 C 68 298 67 304 67 304 C 54 240 27 182 3 120 C 1 90 0 75 0 75 L 27 99 L 80 209 C 86 233 89 245 89 245 Z" fill="url(#id-android-male-6.8_android_1-61)" id="id-android-male-6.8_android_1-327">
+</path >
+<path d="M 17 91 C 17 110 17 119 17 119 C 48 177 65 234 67 290 L 80 209 L 27 99 C 21 94 17 91 17 91 Z" fill="#f7bf9b" id="id-android-male-6.8_android_1-328">
+</path >
+</g >
+<g transform="translate(164,994)" id="id-android-male-6.8_android_1-329">
+<path d="M 116 0 C 151 31 169 46 169 46 C 144 158 132 214 132 214 C 133 243 138 277 130 301 C 105 313 93 318 93 318 C 91 346 90 360 90 360 C 76 363 60 366 43 369 C 42 346 41 335 41 335 C 14 313 0 301 0 301 C 0 277 0 264 0 264 C 16 244 24 234 24 234 L 32 125 C 88 42 116 0 116 0 Z" fill="url(#id-android-male-6.8_android_1-62)" id="id-android-male-6.8_android_1-330">
+</path >
+<path d="M 116 0 C 103 18 97 27 97 27 L 134 254 L 132 214 L 169 46 C 133 15 116 0 116 0 Z" fill="#d08f78" id="id-android-male-6.8_android_1-331">
+</path >
+<path d="M 97 27 L 32 125 C 27 197 24 234 24 234 C 14 246 9 253 9 253 C 9 284 9 300 9 300 C 32 309 44 314 44 314 C 51 303 55 297 55 297 C 75 316 85 325 85 325 C 93 308 96 300 96 300 C 79 274 71 261 71 261 C 92 272 102 278 102 278 L 128 212 L 97 27 Z" fill="url(#id-android-male-6.8_android_1-63)" id="id-android-male-6.8_android_1-332">
+</path >
+<g transform="translate(51,100)" id="id-android-male-6.8_android_1-333">
+<path d="M 33 1 L 33 62 L 1 62 L 1 1 L 33 1 Z M 29 32 L 16 43 L 4 32 L 2 34 L 14 45 L 3 56 L 5 58 L 16 47 L 28 58 L 30 56 L 19 45 L 31 34 L 29 32 Z M 6 6 L 4 8 L 15 18 L 3 29 L 5 31 L 31 8 L 29 6 L 17 16 L 6 6 Z" fill="#5b0000" id="id-android-male-6.8_android_1-317">
+</path >
+<polygon points="28 80 30 82 18 92 16 90" fill="#621204" id="id-android-male-6.8_android_1-335" fill-rule="nonzero">
+</polygon >
+<polygon points="13 80 15 82 3 92 1 90" transform="translate(8,86) scale(-1,1) translate(-8,-86)" fill="#621204" id="id-android-male-6.8_android_1-336" fill-rule="nonzero">
+</polygon >
+<polygon points="13 106 15 108 3 119 1 117" transform="translate(8,112) scale(-1,1) translate(-8,-112)" fill="#621204" id="id-android-male-6.8_android_1-337" fill-rule="nonzero">
+</polygon >
+<polygon points="29 120 31 122 19 132 17 130" transform="translate(24,126) scale(-1,1) translate(-24,-126)" fill="#621204" id="id-android-male-6.8_android_1-338" fill-rule="nonzero">
+</polygon >
+<polygon points="13 93 15 95 3 106 1 104" fill="#621204" id="id-android-male-6.8_android_1-339" fill-rule="nonzero">
+</polygon >
+<polygon points="13 120 15 122 3 132 1 130" fill="#621204" id="id-android-male-6.8_android_1-340" fill-rule="nonzero">
+</polygon >
+<polygon points="29 106 31 108 19 119 17 117" fill="#621204" id="id-android-male-6.8_android_1-341" fill-rule="nonzero">
+</polygon >
+</g >
+</g >
+<g transform="translate(380,989)" id="id-android-male-6.8_android_1-342">
+<path d="M 45 0 C 15 34 0 51 0 51 C 9 91 32 134 46 176 C 62 257 70 297 70 297 C 99 309 114 315 114 315 C 129 344 137 358 137 358 C 165 364 180 368 180 368 C 184 344 187 331 187 331 C 194 331 197 331 197 331 C 197 285 197 261 197 261 C 175 240 164 229 164 229 L 140 128 C 76 43 45 0 45 0 Z" fill="url(#id-android-male-6.8_android_1-64)" id="id-android-male-6.8_android_1-343">
+</path >
+<path d="M 107 84 L 93 214 C 109 262 135 305 170 341 L 185 341 L 187 331 L 197 331 L 197 261 L 164 229 L 140 128 L 107 84 Z" fill="url(#id-android-male-6.8_android_1-65)" id="id-android-male-6.8_android_1-344">
+</path >
+<polygon points="156 275 181 271 160 329 144 310" fill="#ebb5a6" id="id-android-male-6.8_android_1-345">
+</polygon >
+<path d="M 93 212 L 80 186 L 45 0 L 107 84 C 97 169 93 212 93 212 Z" fill="url(#id-android-male-6.8_android_1-66)" opacity="0.792" id="id-android-male-6.8_android_1-346">
+</path >
+<path d="M 137 358 C 147 360 152 361 152 361 C 144 324 140 305 140 305 L 128 288 L 70 297 L 114 315 C 129 344 137 358 137 358 Z" fill="url(#id-android-male-6.8_android_1-67)" id="id-android-male-6.8_android_1-347">
+</path >
+<path d="M 45 0 L 24 24 C 32 78 44 131 80 184 C 57 61 45 0 45 0 Z" fill="url(#id-android-male-6.8_android_1-68)" id="id-android-male-6.8_android_1-348">
+</path >
+</g >
+<g transform="translate(0,821)">
+<path d="M 18 11 C 48 4 62 0 62 0 C 59 10 56 19 55 26 C 56 36 58 46 58 46 C 65 60 76 76 89 92 C 91 122 82 152 88 163 C 86 185 85 196 85 196 C 79 197 76 198 76 198 C 66 196 64 183 64 166 C 64 152 64 145 64 145 C 60 141 59 138 59 138 C 50 146 46 150 46 150 C 45 165 44 173 44 173 C 53 187 58 194 58 194 C 68 196 80 197 85 209 C 69 209 60 210 60 210 C 61 219 75 220 83 225 C 90 237 93 244 93 244 C 67 242 54 241 54 241 C 52 232 51 227 51 227 C 46 223 42 219 33 211 C 14 173 4 154 4 154 C 14 85 18 50 18 50 L 15 43 C 17 21 18 11 18 11 Z" fill="#141c27" id="id-android-male-6.8_android_1-349">
+</path >
+<path d="M 0 152 C 26 152 40 152 40 152 C 53 140 59 133 59 133 C 56 130 54 126 53 121 C 50 86 49 69 49 69 L 71 68 C 62 53 58 46 58 46 C 43 49 28 50 13 52 C 4 119 0 152 0 152 Z" fill="#497fa4" id="id-android-male-6.8_android_1-350">
+</path >
+<path d="M 1 148 C 13 156 23 124 30 53 L 13 55 C 5 117 1 148 1 148 Z" fill="#7caccb" id="id-android-male-6.8_android_1-351">
+</path >
+<path d="M 1 152 C 1 150 1 149 1 149 L 36 149 L 53 121 C 54 126 56 130 59 133 L 40 152 L 1 152 Z" fill="#286082" id="id-android-male-6.8_android_1-352">
+</path >
+<path d="M 53 73 C 63 73 68 73 68 73 C 80 86 86 93 86 93 C 83 139 82 162 82 162 C 73 164 69 165 69 165 C 67 145 66 134 66 134 L 58 123 C 55 90 53 73 53 73 Z" fill="#49799d" id="id-android-male-6.8_android_1-353">
+</path >
+<path d="M 65 73 L 73 128 L 69 165 L 82 162 L 86 93 L 69 73 C 66 73 65 73 65 73 Z" fill="#aed6ea" id="id-android-male-6.8_android_1-354">
+</path >
+<path d="M 61 68 L 71 68 C 63 53 59 46 59 46 L 55 47 L 61 68 Z" fill="#abd1eb" id="id-android-male-6.8_android_1-355">
+</path >
+<path d="M 2 159 C 22 158 32 157 32 157 C 45 186 51 201 51 201 L 30 213 C 11 177 2 159 2 159 Z" fill="#386a90" id="id-android-male-6.8_android_1-356">
+</path >
+<path d="M 13 159 C 35 161 36 185 47 198 L 30 159 L 13 159 Z" fill="#a0d1e3" id="id-android-male-6.8_android_1-357">
+</path >
+<path d="M 51 227 L 88 235 L 93 244 L 54 241 C 52 232 51 227 51 227 Z" fill="#4f7494" id="id-android-male-6.8_android_1-358">
+</path >
+</g >
+<g transform="translate(177,495)" id="id-android-male-6.8_android_1-359">
+<path d="M 51 57 L 19 38 L 14 44 L 25 89 C 10 126 3 144 3 144 C 1 179 0 196 0 196 C 49 282 74 326 74 326 C 93 436 102 491 102 491 C 131 520 146 535 146 535 C 154 487 158 462 158 462 C 153 460 150 458 150 458 C 150 456 151 455 151 455 C 187 454 205 454 205 454 C 202 456 199 459 193 462 C 206 509 212 533 212 533 C 237 505 250 491 250 491 C 275 367 287 305 287 305 C 325 235 344 200 344 200 C 344 163 344 145 344 145 C 328 106 321 87 321 87 C 327 56 330 40 330 40 C 328 38 327 36 327 36 C 309 47 300 53 300 53 L 237 0 L 202 1 L 183 43 L 163 43 L 143 4 L 110 5 L 51 57 Z" fill="#181513" id="id-android-male-6.8_android_1-360">
+</path >
+<polygon points="243 333 284 308 280 154 276 152 232 298" fill="#252935" id="id-android-male-6.8_android_1-361">
+</polygon >
+<polygon points="242 296 247 296 280 154 330 131 322 125 276 152" fill="#19385b" id="id-android-male-6.8_android_1-362">
+</polygon >
+<path d="M 68 310 L 103 333 L 119 303 C 92 197 79 144 79 144 L 60 150 L 68 310 Z" fill="#131717" id="id-android-male-6.8_android_1-363">
+</path >
+<path d="M 99 299 C 101 297 103 296 103 296 C 76 199 62 150 62 150 C 37 134 24 126 24 126 C 19 129 17 131 17 131 L 58 153 C 85 251 99 299 99 299 Z" fill="#1d3a59" id="id-android-male-6.8_android_1-364">
+</path >
+<polygon points="103 333 60 152 68 310" fill="#1e2227" id="id-android-male-6.8_android_1-365">
+</polygon >
+<path d="M 126 507 C 112 492 105 484 105 484 C 101 456 99 443 99 443 L 116 470 C 123 495 126 507 126 507 Z" fill="#1d81a0" id="id-android-male-6.8_android_1-366">
+</path >
+<path d="M 228 508 C 233 485 236 473 236 473 C 236 473 256 441 256 441 L 249 483 C 235 499 228 508 228 508 Z" fill="#0281a3" id="id-android-male-6.8_android_1-367">
+</path >
+<path d="M 151 455 C 134 439 125 431 125 431 C 125 410 105 379 110 336 L 125 303 C 141 290 157 278 173 277 C 190 277 209 290 228 305 C 238 337 243 352 243 352 L 229 434 L 204 455 C 168 455 151 455 151 455 Z" fill="#252935" id="id-android-male-6.8_android_1-368">
+</path >
+<path d="M 155 455 C 143 401 131 349 125 303 C 141 289 157 279 173 277 C 191 278 207 288 222 301 L 200 455 L 155 455 Z" fill="url(#id-android-male-6.8_android_1-69)" id="id-android-male-6.8_android_1-369">
+</path >
+<path d="M 173 294 C 174 314 174 325 174 325 C 185 332 190 335 190 335 L 205 374 C 202 428 200 455 200 455 C 213 363 220 317 220 317 C 213 339 209 350 209 350 C 204 350 202 350 202 350 C 195 340 192 335 192 335 L 177 322 C 175 303 173 294 173 294 Z" fill="#8fadeb" id="id-android-male-6.8_android_1-370">
+</path >
+<path d="M 171 323 C 162 332 154 344 149 359 L 141 359 L 125 303 C 137 293 150 284 162 279 L 173 294 C 172 313 171 323 171 323 Z" fill="url(#id-android-male-6.8_android_1-70)" id="id-android-male-6.8_android_1-371">
+</path >
+<path d="M 210 387 C 221 371 231 367 241 363 C 242 356 243 352 243 352 C 240 344 239 341 239 341 L 215 351 C 212 375 210 387 210 387 Z" fill="#48475f" id="id-android-male-6.8_android_1-372">
+</path >
+<path d="M 110 336 C 117 349 125 358 135 363 C 138 375 139 381 139 381 L 111 371 C 109 360 108 348 110 336 Z" fill="#514249" id="id-android-male-6.8_android_1-373">
+</path >
+<path d="M 246 339 C 272 325 285 317 285 317 L 287 307 L 243 333 L 231 294 L 228 305 L 243 352 L 229 434 C 213 447 205 454 205 454 C 223 442 232 436 232 436 L 249 350 C 247 343 246 339 246 339 Z" fill="#000305" id="id-android-male-6.8_android_1-374">
+</path >
+<path d="M 246 339 C 249 347 250 350 250 350 L 284 322 L 285 317 C 259 332 246 339 246 339 Z" fill="#2f333d" id="id-android-male-6.8_android_1-375">
+</path >
+<path d="M 74 326 C 94 338 104 344 104 344 C 103 350 103 356 103 359 C 95 345 85 338 75 331 L 74 326 Z" fill="#31353e" id="id-android-male-6.8_android_1-376">
+</path >
+</g >
+<g transform="translate(228,478)" id="id-android-male-6.8_android_1-377">
+<path d="M 68 320 L 75 319 C 94 303 110 295 123 294 C 134 293 153 303 177 323 L 218 160 L 245 139 L 244 72 L 181 16 C 164 6 156 1 156 1 C 138 37 128 54 128 54 C 120 54 115 54 115 54 C 96 18 86 0 86 0 L 61 21 L 0 75 L 3 142 L 28 162 L 68 320 Z" fill="url(#id-android-male-6.8_android_1-71)" id="id-android-male-6.8_android_1-378">
+</path >
+<path d="M 66 22 C 79 11 85 5 85 5 C 104 42 113 60 113 60 C 125 60 131 59 131 59 C 148 24 157 7 157 7 C 170 15 177 18 177 18 C 161 81 153 112 153 112 L 96 113 C 76 53 66 22 66 22 Z" stroke="#979797" id="id-android-male-6.8_android_1-379">
+</path >
+<path d="M 27 58 C 37 85 42 99 42 99 L 25 156 L 5 140 L 2 79 C 19 65 27 58 27 58 Z" fill="url(#id-android-male-6.8_android_1-72)" id="id-android-male-6.8_android_1-380">
+</path >
+<path d="M 228 150 C 216 121 210 107 210 107 L 221 56 L 242 73 L 243 138 C 233 146 228 150 228 150 Z" fill="#a05a5c" id="id-android-male-6.8_android_1-381">
+</path >
+<path d="M 126 93 L 126 60 L 132 59 L 157 7 C 170 15 177 18 177 18 L 171 41 C 141 76 126 93 126 93 Z" fill="url(#id-android-male-6.8_android_1-73)" opacity="0.758" id="id-android-male-6.8_android_1-382">
+</path >
+<path d="M 29 165 C 56 243 69 282 69 282 C 88 294 97 300 97 300 C 101 298 106 296 112 294 L 111 297 C 97 302 86 311 75 319 L 68 320 C 42 216 29 165 29 165 Z" fill="url(#id-android-male-6.8_android_1-74)" id="id-android-male-6.8_android_1-383">
+</path >
+<path d="M 132 294 C 140 296 146 298 149 300 C 162 298 169 298 169 298 L 210 192 L 177 323 C 163 312 149 300 133 296 C 133 294 132 294 132 294 Z" fill="url(#id-android-male-6.8_android_1-75)" id="id-android-male-6.8_android_1-384">
+</path >
+<path d="M 86 0 L 115 54 L 128 54 L 156 1 L 181 16 L 244 72 L 245 139 L 218 160 L 217 158 L 243 138 C 243 138 243 116 242 73 C 242 73 221 55 180 20 C 180 20 172 53 157 117 L 157 117 L 125 118 L 125 118 L 125 118 C 125 119 125 119 125 119 L 125 119 C 125 120 125 120 125 120 L 125 120 C 125 121 125 121 125 122 L 125 123 C 125 136 125 176 126 242 C 126 242 128 260 133 296 L 133 296 L 133 296 C 133 296 129 301 122 311 C 122 311 119 306 111 297 C 114 279 117 261 121 243 L 121 243 L 121 243 C 121 241 121 199 120 118 C 120 118 120 118 120 118 L 120 118 C 120 118 120 118 120 118 L 120 118 C 118 118 109 118 94 118 C 94 118 84 88 63 27 C 63 27 42 44 2 79 C 2 79 3 99 5 140 C 5 140 13 146 29 159 L 29 159 L 28 159 C 28 160 28 160 28 162 C 28 162 20 155 3 142 L 3 142 L 0 75 C 29 50 57 24 86 0 L 86 0 Z M 86 6 L 66 22 C 85 82 95 112 95 113 L 95 114 L 95 114 C 132 113 151 113 153 113 L 153 113 C 153 113 153 113 153 113 L 153 113 L 153 113 C 170 50 178 19 178 19 C 164 10 157 6 157 6 C 140 42 132 60 132 60 C 120 60 114 60 113 60 L 113 60 C 113 60 113 60 113 60 L 112 60 L 112 60 C 95 24 86 6 86 6 Z" fill="#271012" id="id-android-male-6.8_android_1-317">
+</path >
+<polygon points="123 311 133 296 126 242 123 242" fill="#472f34" id="id-android-male-6.8_android_1-386">
+</polygon >
+<path d="M 29 159 L 93 115 C 94 117 94 118 94 118 L 29 165 C 28 163 28 161 29 159 Z" fill="#751211" id="id-android-male-6.8_android_1-387">
+</path >
+<path d="M 157 115 L 217 158 C 218 160 218 160 218 160 C 218 162 218 163 218 163 L 155 118 L 157 115 Z" fill="#751211" id="id-android-male-6.8_android_1-388">
+</path >
+</g >
+<g transform="translate(62,212)" id="id-android-male-6.8_android_1-389">
+<path d="M 94 218 C 104 225 109 228 109 228 C 119 228 124 227 124 227 C 118 214 116 208 116 208 L 115 200 L 100 166 C 114 109 122 80 122 80 C 120 76 119 74 119 74 L 94 165 C 94 200 94 218 94 218 Z" fill="#591020" id="id-android-male-6.8_android_1-390">
+</path >
+<path d="M 109 228 C 106 233 105 236 105 236 C 98 233 94 231 94 231 C 94 222 95 217 95 217 C 68 188 34 177 1 162 C 1 155 1 152 1 152 C 13 78 19 41 19 41 C 63 14 86 0 86 0 L 93 8 L 124 87 L 115 108 L 100 166 C 106 207 109 228 109 228 Z" fill="url(#id-android-male-6.8_android_1-76)" id="id-android-male-6.8_android_1-391">
+</path >
+<polygon points="40 176 55 171 60 187" fill="#00e500" id="id-android-male-6.8_android_1-392">
+</polygon >
+<path d="M 22 42 L 80 10 L 77 93 C 60 72 42 53 22 42 Z" fill="#aeadc9" fill-opacity="0.361" id="id-android-male-6.8_android_1-393">
+</path >
+<path d="M 95 217 C 94 229 94 235 94 235 C 31 216 0 207 0 207 C 1 195 4 180 6 164 C 51 181 80 199 95 217 Z" fill="#0e1723" id="id-android-male-6.8_android_1-394">
+</path >
+<path d="M 16 173 C 12 194 11 205 11 205 C 44 216 61 221 61 221 L 65 197 C 50 189 34 181 16 173 Z" fill="#00416c" id="id-android-male-6.8_android_1-395">
+</path >
+<path d="M 27 178 C 32 182 34 193 31 211 C 36 212 39 212 39 212 C 38 205 39 199 40 195 C 42 192 45 189 49 189 C 34 182 27 178 27 178 Z" fill="#5b8fd1" id="id-android-male-6.8_android_1-396">
+</path >
+</g >
+<g transform="translate(510,236)" id="id-android-male-6.8_android_1-397">
+<path d="M 0 211 C 12 208 18 207 18 207 C 20 187 21 177 21 177 C 33 155 38 143 38 143 C 22 81 14 50 14 50 L 42 15 L 41 9 L 36 4 L 30 6 L 8 46 L 12 82 L 29 150 L 0 211 Z" fill="#6f1622" id="id-android-male-6.8_android_1-398">
+</path >
+<path d="M 14 50 L 38 143 C 27 166 21 177 21 177 C 21 209 21 225 21 225 C 23 230 24 233 24 233 C 32 229 36 228 36 228 C 32 218 30 213 30 213 C 58 189 91 169 125 152 C 121 110 116 68 111 26 L 51 0 L 14 50 Z" fill="url(#id-android-male-6.8_android_1-77)" id="id-android-male-6.8_android_1-399">
+</path >
+<path d="M 105 161 C 96 152 92 148 92 148 C 98 127 99 89 98 44 C 82 26 73 17 73 17 L 105 34 C 108 93 108 135 105 161 Z" fill="#c6cbe5" fill-opacity="0.543" id="id-android-male-6.8_android_1-400">
+</path >
+<path d="M 73 178 C 73 173 76 166 79 159 L 94 166 L 73 178 Z" fill="#00df00" id="id-android-male-6.8_android_1-401">
+</path >
+<path d="M 30 213 C 35 225 37 231 37 231 C 97 213 127 204 127 204 L 117 156 C 82 174 53 193 30 213 Z" fill="#22282c" id="id-android-male-6.8_android_1-402">
+</path >
+<path d="M 65 215 C 100 202 118 196 118 196 C 111 175 108 165 108 165 C 92 173 77 182 62 193 C 64 207 65 215 65 215 Z" fill="#0d3f6d" id="id-android-male-6.8_android_1-403">
+</path >
+<path d="M 88 206 L 97 203 C 94 197 90 180 97 173 L 78 183 C 87 185 88 195 88 206 Z" fill="#6394e3" id="id-android-male-6.8_android_1-404">
+</path >
+<path d="M 125 152 C 125 155 126 156 126 156 C 77 176 42 200 19 229 L 17 221 C 55 189 91 165 125 152 Z" fill="#3d1b17" id="id-android-male-6.8_android_1-405">
+</path >
+</g >
+<path d="M 8 796 C 8 802 8 805 8 805 C 23 797 30 793 30 793 C 38 793 42 793 42 793 C 42 786 42 783 42 783 L 28 783 C 15 792 8 796 8 796 Z" fill="#343f58" id="id-android-male-6.8_android_1-406">
+</path >
+<path d="M 8 805 C 12 806 14 807 14 807 C 24 801 29 798 29 798 C 37 798 41 798 41 798 L 42 793 L 30 793 C 15 801 8 805 8 805 Z" fill="#1c1822" id="id-android-male-6.8_android_1-407">
+</path >
+<polygon points="28 783 30 793 42 793 42 783" fill="#5b8dd6" id="id-android-male-6.8_android_1-408">
+</polygon >
+<path d="M 502 254 C 505 264 507 270 507 270 C 467 252 454 235 453 236 L 494 236 C 499 244 502 248 502 248 C 486 248 478 248 478 248 L 478 253 L 502 254 Z" fill="#ca724b" opacity="0.606" id="id-android-male-6.8_android_1-238">
+</path >
+<path d="M 199 256 C 199 260 199 263 200 267 C 236 243 254 230 254 230 L 208 230 C 204 238 201 244 200 247 C 213 247 219 247 219 247 L 220 250 L 199 256 Z" fill="#bd633e" opacity="0.566" id="id-android-male-6.8_android_1-238">
+</path >
+<path d="M 168 1253 C 168 1247 169 1244 169 1244 C 179 1231 184 1224 184 1224 C 189 1150 192 1113 192 1113 C 250 1027 279 985 279 985 C 309 1015 323 1030 323 1030 L 317 1031 L 279 994 L 196 1119 L 187 1228 C 175 1245 168 1253 168 1253 Z" fill="#210101" id="id-android-male-6.8_android_1-411">
+</path >
+<path d="M 427 986 C 425 988 424 989 424 989 C 488 1075 520 1118 520 1118 C 535 1184 543 1218 543 1218 C 565 1239 576 1250 576 1250 C 578 1246 578 1244 578 1244 C 556 1221 545 1210 545 1210 L 525 1118 C 460 1030 427 986 427 986 Z" fill="#210101" id="id-android-male-6.8_android_1-412">
+</path >
+<g id="id-android-male-6.8_android_1-413">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-android-male-6.8_android_1-85" filter="url(#id-android-male-6.8_android_1-78)">
+</use >
+<use fill="#00ff00" xlink:href="#id-android-male-6.8_android_1-85" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-android-male-6.8_android_1-417">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-android-male-6.8_android_1-94" filter="url(#id-android-male-6.8_android_1-87)">
+</use >
+<use fill="#00ff00" xlink:href="#id-android-male-6.8_android_1-94" fill-rule="evenodd">
+</use >
+</g >
+<path d="M 162 1253 C 176 1234 184 1224 184 1224 C 190 1151 194 1115 194 1115 C 251 1028 280 985 280 985 C 261 875 252 820 252 820 C 202 734 177 690 177 690 C 142 830 124 900 124 900 L 133 1178 C 153 1228 162 1253 162 1253 Z" fill="url(#id-android-male-6.8_android_1-96)" id="id-android-male-6.8_android_1-421">
+</path >
+<path d="M 210 852 C 223 864 230 869 230 869 C 248 969 257 1018 257 1018 L 236 1048 C 219 917 210 852 210 852 Z" fill="url(#id-android-male-6.8_android_1-97)" id="id-android-male-6.8_android_1-422">
+</path >
+<path d="M 241 886 C 251 894 256 898 256 898 C 265 943 269 966 269 966 L 253 957 C 245 909 241 886 241 886 Z" fill="url(#id-android-male-6.8_android_1-98)" id="id-android-male-6.8_android_1-423">
+</path >
+<path d="M 157 772 C 163 748 169 725 169 725 C 175 739 180 753 183 766 C 190 938 152 991 189 1119 C 177 1132 168 1140 161 1142 C 146 1062 194 837 157 772 Z" fill="url(#id-android-male-6.8_android_1-99)" id="id-android-male-6.8_android_1-424">
+</path >
+<path d="M 426 986 C 452 862 464 800 464 800 C 502 730 521 695 521 695 C 529 710 533 718 533 718 C 533 751 534 768 534 768 C 555 815 572 879 589 932 C 599 1010 607 1089 604 1174 C 587 1220 578 1244 578 1244 C 556 1222 545 1210 545 1210 L 524 1119 C 459 1031 426 986 426 986 Z" fill="url(#id-android-male-6.8_android_1-100)" id="id-android-male-6.8_android_1-425">
+</path >
+<path d="M 520 751 C 518 772 516 782 516 782 C 563 933 576 1064 555 1177 C 559 1195 561 1204 561 1204 C 574 1148 577 1075 567 985 C 540 802 520 751 520 751 Z" fill="url(#id-android-male-6.8_android_1-101)" id="id-android-male-6.8_android_1-426">
+</path >
+<path d="M 532 1075 C 538 1045 540 1030 540 1030 C 556 1019 563 1013 563 1013 L 564 1057 C 543 1069 532 1075 532 1075 Z" fill="#9c9be6" fill-opacity="0.306" id="id-android-male-6.8_android_1-427">
+</path >
+<path d="M 546 1011 C 548 975 550 957 550 957 C 559 958 563 958 563 958 L 569 998 C 553 1007 546 1011 546 1011 Z" fill="#9c9be6" fill-opacity="0.306" id="id-android-male-6.8_android_1-428">
+</path >
+<path d="M 516 783 C 524 810 528 824 528 824 C 522 877 520 903 520 903 L 505 895 C 512 821 516 783 516 783 Z" fill="url(#id-android-male-6.8_android_1-102)" id="id-android-male-6.8_android_1-429">
+</path >
+<path d="M 198 1096 C 196 1085 196 1079 196 1079 L 212 1078 C 203 1090 198 1096 198 1096 Z" fill="#00ff00" id="id-android-male-6.8_android_1-430">
+</path >
+<path d="M 219 1070 C 217 1067 216 1066 216 1066 C 227 1051 232 1043 232 1043 L 236 1046 C 224 1062 219 1070 219 1070 Z" fill="#00ff00" id="id-android-male-6.8_android_1-431">
+</path >
+<path d="M 465 460 C 495 451 510 447 510 447 C 515 448 518 448 518 448 C 505 478 498 493 498 493 C 492 493 489 493 489 493 C 480 518 476 530 476 530 C 480 540 483 545 483 545 C 479 547 477 548 477 548 C 451 526 437 514 437 514 L 445 508 C 459 476 465 460 465 460 Z" fill="#000000" id="id-android-male-6.8_android_1-432">
+</path >
+<polygon points="208 459 208 493 233 499 212 547 229 555 258 531 266 493 250 468 253 458 229 464" fill="#000000" id="id-android-male-6.8_android_1-433">
+</polygon >
+<polygon points="174 449 188 483 193 537 229 555 292 502 261 456 229 464" fill="url(#id-android-male-6.8_android_1-103)" id="id-android-male-6.8_android_1-434">
+</polygon >
+<polygon points="435 454 410 498 476 553 508 532 513 486 528 443 464 457" fill="url(#id-android-male-6.8_android_1-104)" id="id-android-male-6.8_android_1-435">
+</polygon >
+<path d="M 483 545 L 475 530 L 489 493 L 498 493 L 518 448 C 510 478 501 509 504 532 L 483 545 Z" fill="#908696" fill-opacity="0.916" id="id-android-male-6.8_android_1-436">
+</path >
+<polygon points="416 496 437 515 445 508 465 460 435 460" fill="#82757f" fill-opacity="0.694" id="id-android-male-6.8_android_1-437">
+</polygon >
+<path d="M 208 459 L 200 473 L 195 458 L 174 449 C 192 479 200 494 200 494 L 198 539 L 212 547 L 233 499 L 208 493 L 208 459 Z" fill="#8c7887" fill-opacity="0.792" id="id-android-male-6.8_android_1-438">
+</path >
+</g >
+</g >
+<defs >
+</defs >
+<g transform="translate(419,1022)" id="id-male-12_pants-0">
+<path d="M 522 737 L 347 737 C 342 727 339 718 329 710 C 329 710 329 710 329 710 C 320 702 318 696 329 689 L 327 682 L 321 680 L 318 636 L 325 636 L 304 632 C 295 625 289 611 287 600 C 287 591 293 586 297 577 L 295 575 L 266 535 L 267 529 L 279 512 L 279 511 C 263 487 268 474 268 450 L 251 446 L 237 431 C 234 437 224 462 219 473 L 232 482 L 226 491 L 225 492 C 225 492 233 513 233 513 C 226 524 216 556 200 559 C 201 569 202 578 203 588 C 203 588 203 588 203 588 C 204 592 204 597 205 602 L 193 615 C 194 624 199 654 201 663 L 189 675 L 196 693 L 179 703 L 176 709 L 173 712 C 173 720 173 729 174 737 L 20 737 L 22 718 C 22 718 13 713 15 705 C 18 697 38 643 38 643 C 42 629 44 615 44 600 L 35 597 C 28 598 31 571 31 570 C 23 566 6 547 0 541 L 10 513 L 13 497 L 12 496 L 5 491 C 7 436 6 379 12 324 L 3 323 C 3 322 18 231 18 230 L 24 228 C 35 183 49 119 55 74 C 56 72 57 65 69 57 C 58 46 68 18 66 4 C 67 2 70 0 72 0 L 76 6 C 185 20 306 34 414 6 C 417 0 427 1 428 9 C 428 9 427 53 428 62 C 429 68 423 72 422 71 C 431 76 437 82 438 93 C 442 108 446 123 449 138 L 449 138 C 455 163 462 189 468 215 L 472 213 C 472 214 495 305 495 306 L 487 309 C 493 366 508 442 512 499 L 494 510 L 507 538 L 505 555 L 497 573 L 476 588 L 485 601 C 487 602 485 619 481 623 L 500 667 C 500 667 499 675 496 681 C 496 681 504 679 506 682 C 508 685 512 708 512 708 L 522 737 Z" fill="#2d1c20" id="id-male-12_pants-1">
+</path >
+<path d="M 464 737 L 347 737 L 338 719 C 327 708 312 700 329 689 L 327 682 L 321 680 L 318 636 L 325 636 L 304 632 C 304 632 297 626 295 622 C 284 597 285 600 297 577 L 295 575 L 266 535 L 267 529 L 279 512 L 279 511 C 263 487 268 474 268 450 L 251 446 L 237 431 C 234 437 221 469 219 473 L 232 482 L 226 491 L 225 492 L 233 513 C 231 515 212 561 200 559 C 201 570 205 591 205 602 L 193 615 L 201 663 L 189 675 L 196 693 L 179 703 L 176 709 L 173 712 C 173 720 173 729 174 737 L 94 737 L 41 631 C 43 625 43 607 44 600 L 35 597 C 28 598 31 571 31 570 L 26 567 L 31 523 C 40 526 105 547 125 543 C 140 539 141 470 141 469 C 157 456 192 428 209 415 C 227 419 252 425 270 432 L 270 426 L 308 392 L 477 506 C 458 581 423 640 464 737 Z" fill="#392529" id="id-male-12_pants-1">
+</path >
+<polygon points="83 601 152 609 106 626" fill="#452f2f" id="id-male-12_pants-1">
+</polygon >
+<path d="M 204 597 L 204 601 L 181 601 L 167 593 L 57 579 L 95 565 L 75 536 C 81 536 100 539 105 539 C 107 540 153 574 156 576 L 201 571 L 204 597 Z" fill="#452f2f" id="id-male-12_pants-1">
+</path >
+<path d="M 227 417 L 226 419 L 226 419 L 188 450 L 222 466 C 222 466 219 473 219 473 L 225 477 L 137 514 L 135 515 L 121 483 L 211 415 L 227 417 Z" fill="#473131" id="id-male-12_pants-1">
+</path >
+<polygon points="282 506 306 523 359 489 316 437" fill="#473131" id="id-male-12_pants-1">
+</polygon >
+<path d="M 359 632 L 421 613 L 387 637 L 336 717 C 325 706 314 699 329 689 L 327 682 L 321 680 L 318 636 L 325 636 L 304 632 C 297 627 290 612 287 600 L 364 568 L 364 584 C 374 574 422 553 435 547 L 443 547 L 365 610 L 300 610 L 299 624 L 359 632 Z" fill="#463030" id="id-male-12_pants-1">
+</path >
+<path d="M 365 618 L 417 589 L 455 545 L 477 541 L 495 565 C 465 580 397 610 365 618 Z" fill="#463030" id="id-male-12_pants-1">
+</path >
+<path d="M 55 153 L 88 131 L 70 167 L 31 196 C 39 167 51 104 56 73 L 99 88 L 56 133 L 55 153 Z" fill="#392f48" id="id-male-12_pants-1">
+</path >
+<polygon points="89 113 120 105 112 123" fill="#3d292b" id="id-male-12_pants-1">
+</polygon >
+<path d="M 449 138 L 414 105 L 404 161 L 379 231 L 311 211 L 295 154 L 262 166 L 300 224 L 228 225 L 247 206 L 245 103 L 191 216 L 163 211 C 166 194 173 159 177 142 L 153 135 L 151 134 C 152 130 162 92 163 88 C 216 93 281 96 333 92 C 336 107 343 143 345 157 L 376 83 L 424 73 C 442 81 440 107 449 138 Z" fill="#4c3635" id="id-male-12_pants-1">
+</path >
+<path d="M 357 27 L 357 76 C 267 95 155 80 68 57 C 59 50 68 7 66 4 C 67 2 70 0 72 0 L 76 6 C 155 17 271 28 350 17 L 357 27 Z" fill="#473231" id="id-male-12_pants-1">
+</path >
+<path d="M 341 18 L 339 75 L 311 82 L 218 82 L 162 73 L 158 15 C 227 21 278 26 341 18 Z" fill="#534048" id="id-male-12_pants-1">
+</path >
+<polygon points="163 88 226 93 186 110 161 95" fill="#352125" id="id-male-12_pants-1">
+</polygon >
+<path d="M 341 135 L 341 141 L 336 136 L 339 134 L 337 122 L 309 114 L 323 105 L 277 96 C 288 93 321 93 333 92 L 341 135 Z" fill="#3a2529" id="id-male-12_pants-1">
+</path >
+<polygon points="171 172 177 142 153 135 221 113" fill="#3c282a" id="id-male-12_pants-1">
+</polygon >
+<polygon points="247 94 190 172 200 110 238 94" fill="#584553" id="id-male-12_pants-1">
+</polygon >
+<polygon points="199 120 195 143 221 113" fill="#4d3a45" id="id-male-12_pants-1">
+</polygon >
+<polygon points="253 167 265 162 265 141 299 113 249 95" fill="#55424b" id="id-male-12_pants-1">
+</polygon >
+<path d="M 438 90 L 393 89 L 424 73 C 432 77 437 81 438 90 Z" fill="#3a324b" id="id-male-12_pants-1">
+</path >
+<path d="M 464 198 L 439 185 L 414 108 L 451 146 C 456 165 460 185 464 198 Z" fill="#2c2332" id="id-male-12_pants-1">
+</path >
+<path d="M 512 499 C 502 506 481 515 450 526 L 440 525 L 392 559 L 344 509 L 361 487 C 366 482 299 409 295 403 C 295 403 287 394 287 394 C 276 399 253 410 243 417 L 212 393 L 208 397 L 139 466 L 167 489 C 166 490 143 514 141 512 C 138 518 131 531 128 538 L 102 534 L 68 512 C 60 513 49 512 42 511 C 35 507 10 496 5 491 C 7 436 6 379 12 324 L 3 323 C 3 322 18 231 18 230 L 24 228 C 24 228 30 202 30 201 C 43 196 59 188 73 186 L 96 139 L 118 142 L 148 129 L 148 144 L 165 147 L 165 165 C 167 173 171 189 173 197 C 248 215 248 213 323 200 L 332 183 L 339 156 L 347 156 C 347 155 348 134 348 132 L 378 155 L 404 152 C 409 164 418 185 423 196 L 426 197 L 465 206 C 466 209 467 212 468 214 L 472 213 C 472 213 495 305 495 306 L 487 309 C 493 366 508 442 512 499 Z" fill="#a94125" id="id-male-12_pants-1">
+</path >
+<path d="M 522 737 L 417 737 L 404 705 L 383 703 L 368 697 C 370 693 374 638 374 635 L 429 637 L 453 614 L 469 595 L 480 619 L 484 615 C 484 618 480 622 482 625 C 482 625 493 651 493 651 L 500 667 C 500 668 498 678 496 681 C 498 680 504 679 506 682 C 508 685 512 708 512 708 L 522 737 Z" fill="#7b2c18" id="id-male-12_pants-1">
+</path >
+<path d="M 147 688 L 97 717 L 94 737 L 20 737 L 22 718 C 18 716 13 711 15 705 C 18 697 38 643 38 643 L 43 622 L 44 600 L 54 604 L 72 632 L 72 632 L 74 635 L 108 635 L 120 630 C 120 630 137 677 147 688 Z" fill="#4c1911" id="id-male-12_pants-1">
+</path >
+<polygon points="481 618 425 688 374 641 374 635 429 637 453 614 469 595 480 619" fill="#993d21" id="id-male-12_pants-1">
+</polygon >
+<path d="M 499 680 C 492 689 482 703 475 711 C 475 711 472 727 470 737 L 522 737 L 512 708 C 512 708 508 685 506 682 C 504 680 501 680 499 680 Z" fill="#4a1a11" id="id-male-12_pants-1">
+</path >
+<path d="M 417 737 L 481 737 C 480 727 478 702 478 693 L 456 721 L 435 682 L 406 709 L 417 737 Z" fill="#581d0f" id="id-male-12_pants-1">
+</path >
+<path d="M 499 680 L 499 680 C 489 693 474 711 464 724 C 470 707 486 668 493 651 C 493 651 500 667 500 667 C 500 668 498 678 496 681 C 497 681 498 681 499 680 L 499 680 Z" fill="#702915" id="id-male-12_pants-1">
+</path >
+<path d="M 500 667 C 499 670 499 672 498 675 L 473 702 L 473 702 C 469 706 460 714 456 719 L 438 682 L 482 625 L 500 667 Z" fill="#993d21" id="id-male-12_pants-1">
+</path >
+<path d="M 43 654 L 65 681 L 42 726 L 15 708 C 24 672 46 634 44 600 L 54 604 L 72 632 L 60 667 L 43 654 Z" fill="#7e3c1b" id="id-male-12_pants-1">
+</path >
+<path d="M 147 688 L 97 717 L 97 717 C 91 708 67 674 60 667 L 72 632 L 72 632 L 74 635 L 108 635 L 120 630 C 120 630 137 677 147 688 Z" fill="#682712" id="id-male-12_pants-1">
+</path >
+<path d="M 97 717 L 94 737 L 20 737 L 22 718 C 22 718 21 718 20 717 L 46 732 L 70 678 L 97 717 Z" fill="#541b0d" id="id-male-12_pants-1">
+</path >
+<path d="M 131 257 L 133 528 C 131 532 129 535 128 538 L 102 534 L 68 512 C 60 513 49 512 42 511 C 35 507 10 496 5 491 C 7 436 6 379 12 324 L 3 323 C 3 322 18 231 18 230 L 24 228 C 24 228 30 202 30 201 C 43 196 59 188 73 186 L 96 139 L 118 142 L 135 135 L 131 257 Z" fill="#752a16" id="id-male-12_pants-1">
+</path >
+<path d="M 46 500 L 47 511 C 44 513 16 498 13 496 C 13 497 5 492 5 491 C 7 436 6 379 12 324 L 3 323 C 3 322 18 231 18 230 L 43 224 C 43 228 31 320 31 322 L 62 384 L 34 377 L 45 493 L 46 500 Z" fill="#8d411f" id="id-male-12_pants-1">
+</path >
+<path d="M 129 213 L 69 212 C 68 212 61 218 60 218 L 25 226 L 25 226 L 30 201 C 42 196 59 189 72 186 L 72 192 L 80 187 L 101 144 L 129 213 Z" fill="#6c2111" id="id-male-12_pants-1">
+</path >
+<polygon points="47 194 44 220 44 222 25 226 25 226 30 201" fill="#732915" id="id-male-12_pants-1">
+</polygon >
+<polygon points="246 228 214 300 174 328 163 308 190 201 245 212" fill="#d25428" id="id-male-12_pants-1">
+</polygon >
+<path d="M 295 403 L 287 393 C 276 399 253 410 243 417 L 212 393 L 208 397 L 215 304 L 236 363 L 264 328 L 254 294 L 274 272 L 295 403 Z" fill="#ab2924" id="id-male-12_pants-1">
+</path >
+<polygon points="281 294 309 332 295 366" fill="#c84227" id="id-male-12_pants-1">
+</polygon >
+<polygon points="488 422 454 524 450 526 440 525 438 526 414 514 335 431 454 380 426 517" fill="#d95827" id="id-male-12_pants-1">
+</polygon >
+<polygon points="425 328 314 323 273 256 254 286 256 211 323 201 332 183 339 157 347 157 347 154 372 151 378 155 404 152 413 172 351 199 423 195 425 195 426 197 443 222" fill="#ed6124" id="id-male-12_pants-1">
+</polygon >
+<path d="M 467 214 C 451 222 404 229 386 232 L 302 230 C 353 231 418 223 467 211 C 467 212 467 214 467 214 Z" fill="#b42e26" id="id-male-12_pants-1">
+</path >
+<path d="M 511 487 C 483 495 442 506 414 513 L 408 510 L 324 431 C 317 376 307 289 300 233 C 300 233 324 324 324 324 L 426 326 C 427 327 493 305 495 305 L 495 306 L 487 309 L 488 313 L 425 332 L 327 336 C 329 354 333 417 334 433 L 416 508 L 511 480 L 511 487 Z" fill="#b22d25" id="id-male-12_pants-1">
+</path >
+<path d="M 187 221 L 187 226 L 174 324 L 174 327 L 167 415 L 155 428 L 163 322 L 161 319 L 155 316 L 51 314 C 39 318 19 324 6 329 L 6 325 L 49 308 L 165 311 L 167 311 L 185 225 C 179 224 65 221 56 221 C 48 223 26 229 18 231 L 18 230 L 24 228 C 24 227 25 226 25 226 C 32 224 49 219 57 217 L 61 217 L 185 221 L 187 221 Z" fill="#792016" id="id-male-12_pants-1">
+</path >
+<path d="M 86 491 C 86 492 76 502 76 502 C 75 502 55 501 46 500 C 45 503 7 482 5 482 C 5 478 5 475 5 471 L 43 492 L 45 493 L 71 495 L 84 482 C 84 482 87 490 86 491 Z" fill="#752b16" id="id-male-12_pants-1">
+</path >
+<path d="M 86 491 C 86 492 76 502 76 502 C 75 502 55 501 46 500 L 45 493 L 71 495 L 84 482 C 84 482 87 490 86 491 Z" fill="#792016" id="id-male-12_pants-1">
+</path >
+<path d="M 186 518 L 185 517 C 185 517 186 512 186 512 L 161 494 L 135 523 L 121 548 L 127 553 L 123 556 L 106 551 C 105 546 105 538 104 533 C 103 534 100 538 99 539 C 99 540 102 554 102 555 L 125 562 L 133 555 L 152 568 C 154 567 160 563 161 561 L 170 562 C 170 562 191 523 191 523 L 186 518 Z M 138 547 L 138 543 L 159 508 C 159 508 160 507 160 507 C 160 507 165 511 166 511 L 145 553 L 138 547 Z" fill="#485062" id="id-male-12_pants-47" fill-rule="nonzero">
+</path >
+<path d="M 191 523 L 170 562 L 161 561 C 160 563 154 567 152 568 L 133 555 L 125 562 L 102 555 L 99 539 L 104 533 L 106 551 L 123 556 C 125 554 131 551 133 550 L 133 538 L 139 537 C 139 540 138 544 138 547 L 145 553 L 166 511 L 160 507 L 167 498 L 186 512 C 186 512 185 517 185 517 L 191 523 Z" fill="#80899d" id="id-male-12_pants-1">
+</path >
+<path d="M 233 513 C 231 515 212 561 200 559 L 200 560 L 172 564 L 160 562 L 160 561 C 158 560 148 554 146 553 L 167 510 L 185 517 L 185 517 L 186 518 L 220 512 L 220 500 L 224 491 L 226 491 L 225 492 L 233 513 Z" fill="#050606" id="id-male-12_pants-1">
+</path >
+<path d="M 191 523 L 170 562 C 169 562 158 560 157 559 L 179 519 L 191 523 Z" fill="#20376c" id="id-male-12_pants-1">
+</path >
+<path d="M 346 580 L 295 575 L 266 535 L 267 529 L 279 512 L 282 515 C 282 515 276 526 277 533 C 277 540 275 539 284 543 C 294 546 310 547 310 547 L 346 580 Z" fill="#050606" id="id-male-12_pants-1">
+</path >
+<path d="M 380 546 L 352 517 L 316 548 L 309 548 L 340 578 L 342 580 L 352 581 L 356 577 C 356 577 357 577 358 578 C 362 565 372 556 381 548 L 380 546 Z M 356 570 L 355 569 L 329 545 L 336 538 C 341 542 358 558 363 562 L 356 570 Z" fill="#1d2e5b" id="id-male-12_pants-47" fill-rule="nonzero">
+</path >
+<polygon points="382 560 363 580 357 578 353 572 368 556 341 532 322 550 315 549 314 541 339 519 375 554 374 556" fill="#4e576a" id="id-male-12_pants-1">
+</polygon >
+<polygon points="373 570 363 580 357 578 353 572 360 565" fill="#7e879b" id="id-male-12_pants-1">
+</polygon >
+<polygon points="331 520 340 536 344 523" fill="#7b8498" id="id-male-12_pants-1">
+</polygon >
+<polygon points="356 543 361 544 361 555 371 562 390 558 391 548 390 546 393 542 396 545 394 561 370 567 357 558" fill="#7e879b" id="id-male-12_pants-1">
+</polygon >
+<polygon points="121 634 126 634 193 616 201 657 145 682" fill="#050606" id="id-male-12_pants-1">
+</polygon >
+<polygon points="125 631 149 684 174 671 152 623" fill="#3f4556" id="id-male-12_pants-1">
+</polygon >
+<polygon points="128 631 130 640 154 630 151 624" fill="#747c91" id="id-male-12_pants-1">
+</polygon >
+<path d="M 318 636 C 321 634 370 638 374 638 L 368 692 L 322 680 L 318 636 Z" fill="#050606" id="id-male-12_pants-1">
+</path >
+<polygon points="336 688 362 696 369 634 340 633" fill="#3f4556" id="id-male-12_pants-1">
+</polygon >
+<polygon points="344 634 341 642 369 641 369 634" fill="#626c7e" id="id-male-12_pants-1">
+</polygon >
+<path d="M 395 71 L 395 80 L 363 82 L 360 76 L 373 74 L 371 24 L 358 26 C 358 25 358 19 358 19 L 393 15 L 393 22 L 381 23 L 383 73 L 395 71 Z" fill="#7f889e" id="id-male-12_pants-1">
+</path >
+<polygon points="370 18 363 25 358 26 358 19" fill="#cfd2d6" id="id-male-12_pants-1">
+</polygon >
+<polygon points="362 77 372 75 364 81" fill="#cfd2d6" id="id-male-12_pants-1">
+</polygon >
+<path d="M 428 62 C 428 63 428 64 428 65 L 396 69 L 395 22 L 428 8 C 428 9 427 52 428 62 Z" fill="#050606" id="id-male-12_pants-1">
+</path >
+<path d="M 67 56 C 154 79 265 79 356 75 L 356 28 L 321 29 L 319 31 C 258 31 112 21 66 6 L 67 56 Z" fill="#050606" id="id-male-12_pants-1">
+</path >
+<path d="M 115 69 L 114 78 L 109 78 L 108 128 L 115 135 C 116 168 112 224 106 256 L 103 534 L 105 543 L 134 544 C 132 418 133 252 145 129 L 150 127 L 155 84 L 148 83 L 148 74 L 115 69 Z" fill="#050606" id="id-male-12_pants-1">
+</path >
+<polygon points="110 82 114 80 153 85 145 88" fill="#474465" id="id-male-12_pants-1">
+</polygon >
+<polygon points="116 93 114 101 143 104" fill="#474465" id="id-male-12_pants-1">
+</polygon >
+<polygon points="112 113 110 127 126 134 145 127 145 117" fill="#474465" id="id-male-12_pants-1">
+</polygon >
+<path d="M 349 89 L 349 80 L 359 78 C 359 78 356 86 381 83 L 387 84 L 388 135 L 380 140 C 379 174 385 230 390 263 L 393 541 L 391 546 L 362 546 C 364 430 362 247 351 136 L 346 131 L 342 88 L 349 89 Z" fill="#050606" id="id-male-12_pants-1">
+</path >
+<polygon points="344 91 351 94 386 88 381 86" fill="#474465" id="id-male-12_pants-1">
+</polygon >
+<polygon points="353 109 381 100 382 108" fill="#474465" id="id-male-12_pants-1">
+</polygon >
+<polygon points="352 122 384 120 386 132 372 140 352 133" fill="#474465" id="id-male-12_pants-1">
+</polygon >
+</g >
+<defs >
+</defs >
+<g transform="translate(510,246)" id="id-male-25_31_hair-0">
+<path d="M 61 181 L 79 177 L 130 171 L 140 161 L 152 162 L 159 169 C 199 168 208 171 244 153 C 241 150 240 131 236 129 C 195 100 93 108 61 133 L 61 181 Z" fill="#000000" opacity="0.289" id="id-male-25_31_hair-1">
+</path >
+<g transform="translate(0,143)" id="id-male-25_31_hair-2">
+</g >
+<g transform="translate(12,0)" fill="#b01f23" id="id-male-25_31_hair-3">
+<path d="M 278 159 L 278 163 L 260 161 C 250 156 230 139 216 136 C 174 134 117 125 63 132 C 37 148 34 158 0 157 L 34 121 C 28 106 48 60 50 28 C 51 28 96 12 107 4 C 171 -6 166 8 221 22 L 221 26 L 224 28 C 224 28 232 84 247 113 C 246 116 244 126 242 128 C 252 138 264 155 278 159 Z" id="id-male-25_31_hair-1">
+</path >
+</g >
+<g transform="translate(0,1)" fill="#f04a23" id="id-male-25_31_hair-5" fill-rule="nonzero">
+<path d="M 285 156 C 281 155 279 152 276 150 C 269 145 264 137 256 130 C 244 114 228 102 211 93 L 225 97 L 243 109 L 258 113 C 258 112 258 112 258 112 C 243 83 235 27 235 27 L 233 25 L 233 21 C 177 7 182 -6 119 3 C 117 4 101 19 100 20 L 110 19 L 122 21 L 110 21 L 98 25 L 100 69 L 89 75 L 140 78 L 187 86 C 164 84 99 85 99 85 L 70 97 L 45 121 L 70 101 L 86 93 L 76 121 L 28 155 L 5 156 L 0 167 C 24 169 55 141 74 129 L 100 126 C 119 126 133 126 143 126 C 164 127 174 128 189 129 C 203 130 222 131 228 132 C 239 135 262 154 271 161 L 289 163 C 289 161 289 160 290 158 C 288 158 286 157 285 156 Z M 190 21 C 157 16 153 13 126 21 L 151 13 C 151 13 192 17 192 17 C 192 18 198 22 199 22 L 182 7 L 225 25 L 209 32 C 209 32 199 22 190 21 Z" id="id-male-25_31_hair-6">
+</path >
+</g >
+<g transform="translate(76,24)" id="id-male-25_31_hair-7">
+<polygon points="115 0 124 3 134 13 156 5 154 65 130 22 105 50 119 14" fill="#f27283" id="id-male-25_31_hair-1">
+</polygon >
+<polygon points="136 70 150 78 184 122 153 103 95 99 132 97 121 67" fill="#f27283" id="id-male-25_31_hair-1">
+</polygon >
+<polygon points="7 88 35 91 0 99" fill="#9c5023" id="id-male-25_31_hair-1">
+</polygon >
+<path d="M 4 90 L 5 92 L 36 92 L 39 71 C 39 71 38 70 37 69 C 30 73 5 89 4 90 Z" fill="#24110a" id="id-male-25_31_hair-1">
+</path >
+<polygon points="4 90 33 90 37 69 12 69" fill="#848dc6" id="id-male-25_31_hair-1">
+</polygon >
+<polygon points="34 71 31 88 8 88 13 72" fill="#677093" id="id-male-25_31_hair-1">
+</polygon >
+<path d="M 65 6 C 68 5 71 3 75 0 L 85 6 L 84 8 L 75 3 C 75 3 72 5 67 8 L 65 6 Z" fill="#dfd8bf" id="id-male-25_31_hair-1">
+</path >
+<polygon points="98 27 95 27 98 19 93 15 95 13 101 18" fill="#dfd8bf" id="id-male-25_31_hair-1">
+</polygon >
+<polygon points="79 50 69 50 69 47 79 47" fill="#dfd8bf" id="id-male-25_31_hair-1">
+</polygon >
+<path d="M 63 44 L 55 20 L 75 5 L 95 19 L 88 44 L 63 44 Z M 57 20 L 64 42 L 87 42 L 93 20 L 75 8 L 57 20 Z" fill="#dfd8bf" id="id-male-25_31_hair-6" fill-rule="nonzero">
+</path >
+<polygon points="75 12 80 15 80 22 75 25 70 21 70 15" fill="#dfd8bf" id="id-male-25_31_hair-1">
+</polygon >
+<polygon points="82 24 87 27 87 34 82 36 76 33 76 27" fill="#dfd8bf" id="id-male-25_31_hair-1">
+</polygon >
+<polygon points="68 24 73 27 73 33 68 36 63 33 63 27" fill="#dfd8bf" id="id-male-25_31_hair-1">
+</polygon >
+</g >
+<polygon points="129 50 126 50 129 41 124 38 126 36 132 41" transform="translate(128,43) scale(-1,1) translate(-128,-43)" fill="#dfd8bf" id="id-male-25_31_hair-1">
+</polygon >
+</g >
+<defs >
+</defs >
+<g transform="translate(1201,1625)" fill="black" opacity="1" id="id-icons-Android-0" fill-rule="nonzero">
+<path d="M 48 18 C 56 20 62 25 67 31 C 71 38 74 45 74 53 C 74 54 74 55 74 56 C 74 57 74 57 73 58 L 73 61 L 71 61 C 67 61 64 62 62 64 C 60 67 59 69 59 73 L 59 83 L 57 84 C 54 86 51 87 48 88 C 44 89 41 90 37 90 C 33 90 30 89 26 88 C 23 87 20 86 17 84 L 15 83 L 15 73 C 15 69 14 66 12 64 L 12 64 C 10 62 7 61 3 61 L 1 61 L 0 58 C 0 57 0 57 0 56 C 0 55 0 54 0 53 C 0 51 0 48 1 46 C 1 44 2 41 3 39 C 5 34 8 30 12 26 C 16 22 20 20 26 18 L 28 17 L 29 20 C 29 20 30 21 30 21 C 31 22 31 22 32 22 L 42 22 C 43 22 43 22 44 21 C 44 21 44 20 45 20 L 46 17 L 48 18 L 48 18 Z M 62 35 C 59 30 54 27 49 24 C 48 25 48 26 47 26 C 46 27 44 28 42 28 L 32 28 C 30 28 28 27 27 26 C 26 26 26 25 25 24 C 22 26 19 28 16 30 C 13 33 10 37 8 41 C 7 43 7 45 7 47 C 6 49 6 51 6 53 C 6 54 6 54 6 55 C 10 56 13 58 16 60 L 16 60 C 19 63 21 68 21 73 L 21 80 C 23 81 26 82 28 83 C 31 84 34 84 37 84 C 40 84 43 84 46 83 C 48 82 51 81 53 80 L 53 73 C 53 68 55 63 58 60 C 61 58 64 56 68 55 C 68 54 68 54 68 53 C 68 46 66 40 62 35 L 62 35 Z" id="id-icons-Android-1">
+</path >
+<path d="M 22 36 C 24 36 27 37 28 39 L 28 39 C 30 41 31 43 31 45 C 31 48 30 50 28 52 L 28 52 C 27 53 24 54 22 54 C 19 54 17 53 16 52 L 16 52 C 14 50 13 48 13 45 C 13 43 14 41 16 39 C 17 37 19 36 22 36 L 22 36 Z M 24 43 C 24 43 23 42 22 42 C 21 42 20 43 20 43 C 19 44 19 45 19 45 C 19 46 19 47 20 48 L 20 48 C 20 48 21 48 22 48 C 23 48 24 48 24 48 L 24 48 C 25 47 25 46 25 45 C 25 45 25 44 24 43 L 24 43 Z" id="id-icons-Android-1">
+</path >
+<path d="M 52 36 C 54 36 57 37 58 39 L 58 39 C 60 41 61 43 61 45 C 61 48 60 50 58 52 L 58 52 C 57 53 54 54 52 54 C 49 54 47 53 46 52 L 46 52 C 44 50 43 48 43 45 C 43 43 44 41 46 39 C 47 37 49 36 52 36 L 52 36 Z M 54 43 C 54 43 53 42 52 42 C 51 42 50 43 50 43 C 49 44 49 45 49 45 C 49 46 49 47 50 48 L 50 48 C 50 48 51 48 52 48 C 53 48 54 48 54 48 L 54 48 C 55 47 55 46 55 45 C 55 45 55 44 54 43 L 54 43 Z" id="id-icons-Android-1">
+</path >
+<path d="M 37 0 C 41 0 44 2 47 4 L 47 4 C 49 7 51 10 51 14 L 51 19 C 51 21 50 23 48 25 L 48 25 C 47 27 44 28 42 28 L 32 28 C 30 28 27 27 26 25 C 24 23 23 21 23 19 L 23 14 C 23 10 25 7 27 4 L 27 4 C 30 2 33 0 37 0 L 37 0 Z M 42 8 C 41 7 39 6 37 6 C 35 6 33 7 31 8 L 31 8 C 30 10 29 12 29 14 L 29 19 C 29 20 29 20 30 21 C 30 21 31 22 32 22 L 42 22 C 43 22 43 21 44 21 L 44 21 C 44 20 45 20 45 19 L 45 14 C 45 12 44 10 43 8 L 43 8 L 42 8 Z" id="id-icons-Android-1">
+</path >
+</g >
+  <defs>
+      <linearGradient id="Gradient1">
+        <stop class="stop1" offset="0%"/>
+        <stop class="stop2" offset="100%"/>
+      </linearGradient>
+      <style type="text/css"><![CDATA[
+        #tbar { fill: url(#Gradient1); }
+        .stop1 { stop-color: red; }
+        .stop2 { stop-color: blue; }
+      ]]></style>
+  </defs>
+<text x="50" y="115" font-family="Trebuchet MS" font-weight="900" font-size="5.5em" letter-spacing="-3.0" text-transform="uppercase" fill="black">BIZARRE PRACTICAL</text>
+<text x="50" y="180" font-family="Trebuchet MS" font-size="3.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">ANDROID | SERVICE</text>
+<g transform="translate(55,195)">
+  <rect id="tbar" y="0" width="185" height="13" fill="url(#Gradient1)"></rect>
+  <rect x="46" y="1" width="138" height="11" fill="#E3E3E3"></rect>
+</g>
+<text x="50" y="270" font-family="Trebuchet MS" font-size="3.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">CB-03072</text>
+
+<g transform="translate(50,1430)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">BODY</text>
+  <rect width="82" height="30" fill="black"></rect>
+  <rect width="190" height="30" fill="none" stroke="black"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="900" letter-spacing="0" text-transform="uppercase" fill="black">13</text>
+</g>
+<g transform="translate(50,1505)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">MIND</text>
+  <rect width="51" height="30" fill="black"></rect>
+  <rect width="190" height="30" fill="none" stroke="black"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.3em" font-weight="900" letter-spacing="0" text-transform="uppercase" fill="black">8</text>
+</g>
+<g transform="translate(50,1580)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">SOUL</text>
+  <rect width="95" height="30" fill="black"></rect>
+  <rect width="190" height="30" fill="none" stroke="black"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="900" letter-spacing="0" text-transform="uppercase" fill="black">15</text>
+</g>
+<g transform="translate(50,1675)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">TRAITS</text>
+  <rect width="32" height="30" fill="black"></rect>
+  <rect width="190" height="30" fill="none" stroke="black"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="900" letter-spacing="0" text-transform="uppercase" fill="black">2</text>
+</g>
+</svg>

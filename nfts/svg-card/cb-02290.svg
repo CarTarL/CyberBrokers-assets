@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-0">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-1" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-8">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-9" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-16">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-17" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-24">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-25" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-32">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-33" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-40">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-41" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-48">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-49" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-56">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-57" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-64">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-65" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-72">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-73" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-80">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-81" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-88">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-89" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-96">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-97" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-104">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-105" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-112">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-113" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-120">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-121" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-128">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-129" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-136">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-137" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-144">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-145" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-152">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-153" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-160">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-161" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-168">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-169" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-176">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-177" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-184">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-185" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+</defs >
+<g stroke="none" stroke-width="1" fill="none" id="id-bg-86-Artboard-192" fill-rule="evenodd">
+<g id="id-bg-86-Artboard-193">
+<rect fill="#969696" width="1320" height="1760" x="0" y="0" id="id-bg-86-Artboard-194">
+</rect >
+<g transform="translate(38,417)" id="id-bg-86-Artboard-195">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-0" filter="url(#id-bg-86-Artboard-1)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-0" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-8" filter="url(#id-bg-86-Artboard-9)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-8" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-16" filter="url(#id-bg-86-Artboard-17)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-16" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-24" filter="url(#id-bg-86-Artboard-25)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-24" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-32" filter="url(#id-bg-86-Artboard-33)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-32" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-40" filter="url(#id-bg-86-Artboard-41)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-40" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-48" filter="url(#id-bg-86-Artboard-49)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-48" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-56" filter="url(#id-bg-86-Artboard-57)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-56" fill-rule="evenodd">
+</use >
+</g >
+</g >
+<g transform="translate(467,417)" id="id-bg-86-Artboard-228">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-64" filter="url(#id-bg-86-Artboard-65)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-64" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-72" filter="url(#id-bg-86-Artboard-73)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-72" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-80" filter="url(#id-bg-86-Artboard-81)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-80" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-88" filter="url(#id-bg-86-Artboard-89)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-88" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-96" filter="url(#id-bg-86-Artboard-97)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-96" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-104" filter="url(#id-bg-86-Artboard-105)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-104" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-112" filter="url(#id-bg-86-Artboard-113)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-112" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-120" filter="url(#id-bg-86-Artboard-121)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-120" fill-rule="evenodd">
+</use >
+</g >
+</g >
+<g transform="translate(894,417)" id="id-bg-86-Artboard-261">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-128" filter="url(#id-bg-86-Artboard-129)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-128" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-136" filter="url(#id-bg-86-Artboard-137)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-136" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-144" filter="url(#id-bg-86-Artboard-145)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-144" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-152" filter="url(#id-bg-86-Artboard-153)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-152" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-160" filter="url(#id-bg-86-Artboard-161)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-160" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-168" filter="url(#id-bg-86-Artboard-169)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-168" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-176" filter="url(#id-bg-86-Artboard-177)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-176" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-184" filter="url(#id-bg-86-Artboard-185)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-184" fill-rule="evenodd">
+</use >
+</g >
+</g >
+</g >
+</g >
+<defs >
+<linearGradient x1="33%" y1="61%" x2="62%" y2="16%" id="id-demon-male-1_wings_red-0">
+<stop stop-color="#6b0019" offset="0%">
+</stop >
+<stop stop-color="#181214" offset="76%">
+</stop >
+<stop stop-color="#000000" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="27%" y1="50%" x2="66%" y2="45%" id="id-demon-male-1_wings_red-1">
+<stop stop-color="#330f1b" offset="0%">
+</stop >
+<stop stop-color="#181214" offset="16%">
+</stop >
+<stop stop-color="#6b0019" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="58%" y1="5%" x2="50%" y2="100%" id="id-demon-male-1_wings_red-2">
+<stop stop-color="#000000" offset="0%">
+</stop >
+<stop stop-color="#1b1111" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(43,292)" id="id-demon-male-1_wings_red-3">
+<g transform="translate(0,7)" id="id-demon-male-1_wings_red-4">
+<path d="M 81 1363 C 89 1351 96 1339 102 1328 L 81 1220 C 81 1315 81 1363 81 1363 Z" fill="#131313" id="id-demon-male-1_wings_red-5">
+</path >
+<path d="M 138 1397 C 133 1397 131 1397 131 1397 C 93 1200 73 1035 69 902 C 67 814 67 712 71 604 C 55 634 47 649 47 649 C 44 652 43 653 43 653 C 75 567 93 489 98 420 C 84 440 72 465 61 497 C 72 445 86 395 104 347 C 106 297 110 238 104 217 C 94 200 77 227 60 260 C 63 219 68 188 75 166 C 62 165 52 173 47 189 C 47 148 77 109 101 99 C 99 109 101 120 111 134 C 124 126 131 122 131 122 C 160 146 175 158 175 158 C 163 155 151 152 141 152 C 150 176 170 212 202 259 L 289 525 C 346 619 398 687 442 729 C 444 733 447 738 446 742 C 405 716 385 703 385 703 C 348 686 272 620 268 675 C 277 747 292 835 306 881 C 300 880 297 880 297 880 C 248 826 223 800 223 800 C 218 955 216 1032 216 1032 C 213 870 212 788 212 788 C 206 783 203 780 203 780 C 200 884 201 960 206 1009 C 214 1157 217 1264 231 1328 C 213 1286 205 1265 205 1265 L 199 1397 C 197 1397 196 1397 196 1397 C 181 1341 177 1265 176 1182 C 148 1084 133 1035 133 1035 L 120 1182 C 124 1250 127 1318 138 1397 Z" fill="#131313" id="id-demon-male-1_wings_red-6">
+</path >
+<path d="M 202 259 C 231 271 253 279 269 284 C 242 287 228 289 228 289 C 242 305 275 317 307 329 C 301 333 287 333 277 335 C 292 347 316 367 332 361 C 355 354 379 346 393 328 C 392 332 388 336 391 341 C 387 348 389 349 394 344 C 398 344 404 339 412 327 C 414 328 414 328 414 328 C 411 336 410 340 410 340 C 406 356 410 356 417 349 C 409 345 410 338 421 326 C 435 308 448 289 459 270 C 431 284 410 294 396 298 C 409 293 420 288 428 281 C 454 263 470 241 477 215 C 478 181 449 153 418 125 C 422 136 423 141 423 141 C 403 114 393 101 393 101 C 390 95 389 92 389 92 C 388 97 388 99 388 99 C 373 63 365 44 365 44 C 361 26 359 17 359 17 C 357 14 354 12 350 10 C 368 -1 399 -1 433 1 C 418 2 379 10 373 27 C 373 44 407 84 438 100 C 455 105 463 108 463 108 C 468 105 472 99 472 89 C 457 76 451 59 439 45 C 451 49 457 51 457 51 C 471 59 478 63 478 63 C 482 64 483 64 483 64 L 510 61 C 509 70 513 82 514 92 C 527 102 533 107 533 107 C 532 116 531 121 531 121 C 536 122 547 120 551 122 C 552 130 547 137 543 144 C 552 156 557 162 557 162 C 558 187 560 213 556 240 C 574 232 583 228 583 228 C 575 235 566 242 554 248 C 549 275 524 273 504 277 C 493 282 483 288 473 291 C 468 296 463 299 457 299 C 450 311 442 324 432 337 C 463 352 478 360 478 360 C 509 408 538 460 563 517 C 560 544 473 472 439 472 C 402 472 329 502 319 522 C 314 550 342 603 404 681 C 395 678 386 675 378 667 C 288 540 209 408 147 270 L 114 179 L 118 166 L 193 255 L 202 259 Z" fill="url(#id-demon-male-1_wings_red-0)" id="id-demon-male-1_wings_red-7">
+</path >
+<path d="M 70 348 L 16 444 C 26 435 35 426 46 421 L 70 348 Z" fill="#202228" id="id-demon-male-1_wings_red-8">
+</path >
+<path d="M 69 504 C 57 558 34 598 0 623 L 45 600 C 61 536 69 504 69 504 Z" fill="#131313" id="id-demon-male-1_wings_red-9">
+</path >
+<path d="M 52 740 C 51 768 43 790 28 804 C 38 892 47 957 56 998 L 65 1077 C 62 1038 59 1008 58 989 C 51 840 52 765 52 740 Z" fill="#131313" id="id-demon-male-1_wings_red-10">
+</path >
+<path d="M 180 620 C 214 719 245 782 276 856 L 297 880 C 303 881 306 881 306 881 C 227 598 188 457 188 457 C 190 456 191 456 191 456 C 280 614 409 712 395 709 C 412 720 421 725 421 725 C 300 597 264 521 262 522 C 170 398 152 322 151 322 C 123 229 109 182 109 182 C 95 197 82 212 76 230 C 85 219 97 203 104 217 C 110 233 106 296 104 348 C 89 388 75 436 61 497 C 73 462 85 438 98 420 C 93 497 71 575 43 653 L 47 649 L 71 604 C 62 876 77 1110 115 1307 C 95 1041 90 863 102 772 C 141 1015 182 1187 224 1290 C 221 1258 220 1243 220 1243 C 187 1098 165 993 153 929 C 113 598 122 429 122 429 C 135 477 147 519 159 556 C 166 552 173 561 180 585 C 185 607 185 618 180 620 Z" fill="#202228" id="id-demon-male-1_wings_red-11">
+</path >
+<path d="M 171 476 C 232 671 263 768 263 768 L 202 528 C 181 494 171 476 171 476 Z" fill="#c5d0f0" id="id-demon-male-1_wings_red-12">
+</path >
+<path d="M 232 453 L 146 317 L 109 182 C 159 313 200 403 232 453 Z" fill="#c6d1ef" id="id-demon-male-1_wings_red-13">
+</path >
+<ellipse transform="translate(142,401) rotate(-18) translate(-142,-401)" cx="142" cy="401" fill="#131313" id="id-demon-male-1_wings_red-14" rx="5" ry="5">
+</ellipse >
+<path d="M 49 170 C 65 149 80 136 93 126 C 99 117 99 110 95 102 C 80 112 57 136 49 170 Z" fill="#23252e" id="id-demon-male-1_wings_red-15">
+</path >
+<path d="M 108 130 C 97 155 91 168 91 168 C 115 148 141 146 168 153 L 131 122 L 111 134 C 109 131 108 130 108 130 Z" fill="#23252e" id="id-demon-male-1_wings_red-16">
+</path >
+<path d="M 129 123 C 129 130 129 135 128 139 C 138 138 149 142 161 147 L 131 122 C 130 123 129 123 129 123 Z" fill="#23252e" id="id-demon-male-1_wings_red-17">
+</path >
+</g >
+<g transform="translate(668,0)" id="id-demon-male-1_wings_red-18">
+<polygon points="349 1391 346 1290 381 1177" fill="#131313" id="id-demon-male-1_wings_red-19">
+</polygon >
+<path d="M 475 120 C 501 137 519 163 525 202 C 526 210 526 217 527 223 C 521 208 514 194 500 197 C 506 227 510 262 510 301 C 508 296 505 291 503 286 L 502 284 C 492 262 482 241 468 251 C 461 257 461 295 462 334 L 462 338 L 462 338 L 462 341 C 463 360 463 379 462 394 C 475 443 487 494 498 545 C 490 516 480 491 466 470 C 471 523 473 550 473 550 C 482 600 491 637 499 661 C 504 685 507 697 507 697 C 498 682 491 667 484 652 C 476 936 470 1065 419 1261 C 425 1288 429 1316 428 1347 C 426 1362 424 1380 422 1404 L 420 1404 L 420 1404 L 415 1277 C 402 1327 390 1374 377 1402 C 400 1344 404 1291 412 1243 C 405 1180 400 1180 398 1147 C 399 1117 404 1086 417 1055 C 415 1037 415 1028 415 1028 C 382 1125 366 1174 366 1174 C 359 1190 351 1207 343 1224 L 340 1228 C 336 1236 332 1244 329 1252 C 343 1175 352 1053 358 897 C 351 885 343 879 333 881 C 322 882 310 890 297 905 L 193 1127 L 268 901 L 265 901 L 271 881 C 284 825 293 770 300 718 C 294 669 229 726 193 743 L 137 779 C 136 775 138 771 141 767 C 244 669 320 524 394 376 C 444 257 469 198 469 198 C 466 192 465 189 465 189 C 443 183 432 180 432 180 C 421 181 410 183 397 188 C 427 160 442 146 442 146 C 457 155 464 159 464 159 C 473 145 476 132 475 120 Z M 418 1077 C 410 1110 406 1134 405 1151 C 405 1181 408 1209 413 1233 C 419 1175 422 1146 422 1145 L 422 1145 L 422 1145 L 418 1077 Z M 358 813 C 336 833 325 843 325 843 L 306 886 C 335 861 353 851 358 855 C 358 828 358 814 358 813 L 358 813 C 358 813 358 813 358 813 L 358 813 L 358 813 Z" fill="#131313" id="id-demon-male-1_wings_red-20">
+</path >
+<path d="M 451 1194 C 458 1178 468 1167 477 1153 L 467 1081 L 451 1194 Z" fill="#131313" id="id-demon-male-1_wings_red-21">
+</path >
+<path d="M 272 886 C 295 858 306 845 306 845 C 343 763 362 723 362 723 C 374 685 381 666 381 666 C 380 664 379 662 379 662 C 378 663 377 663 377 663 C 376 660 379 649 384 631 C 389 611 395 603 402 606 C 418 564 430 521 442 478 C 443 502 443 526 440 549 C 435 676 420 802 402 927 C 386 1019 362 1107 338 1194 L 333 1224 C 376 1121 417 999 449 806 C 459 933 441 1077 427 1226 C 487 964 476 813 484 652 L 495 675 L 473 550 L 466 470 C 489 506 490 523 498 545 L 462 394 C 461 325 462 278 466 253 C 473 244 482 248 492 264 L 462 214 C 417 303 401 388 346 478 L 342 494 L 420 358 C 394 428 366 498 309 568 C 271 633 222 699 159 765 L 184 748 C 274 656 331 583 375 506 L 378 507 C 322 721 287 848 272 886 Z" fill="#202228" id="id-demon-male-1_wings_red-22">
+</path >
+<path d="M 482 198 C 465 178 438 174 405 181 L 442 146 L 464 159 L 466 155 L 482 198 Z" fill="#202228" id="id-demon-male-1_wings_red-23">
+</path >
+<path d="M 462 175 L 439 149 L 442 146 L 464 159 C 464 163 464 169 462 175 Z" fill="#939fba" id="id-demon-male-1_wings_red-24">
+</path >
+<path d="M 481 124 C 476 134 478 143 485 153 C 497 166 511 182 525 199 C 520 170 507 144 481 124 Z" fill="#202228" id="id-demon-male-1_wings_red-25">
+</path >
+<path d="M 519 176 C 500 159 489 150 486 150 L 484 126 C 501 139 512 156 519 176 Z" fill="#939fba" id="id-demon-male-1_wings_red-26">
+</path >
+<path d="M 464 257 C 456 301 451 338 450 367 C 448 372 447 378 446 383 C 436 426 426 466 415 503 C 434 468 447 421 463 379 C 463 333 462 301 464 257 Z" fill="#939fba" id="id-demon-male-1_wings_red-27">
+</path >
+<path d="M 463 380 L 451 409 C 467 453 483 496 498 545 C 487 485 475 440 463 394 L 463 380 Z" fill="#c4d0ef" id="id-demon-male-1_wings_red-28">
+</path >
+<path d="M 473 550 L 475 614 L 495 675 L 507 697 L 499 661 C 486 613 477 576 473 550 Z" fill="#c4d0ef" id="id-demon-male-1_wings_red-29">
+</path >
+<path d="M 498 827 C 500 780 500 745 499 723 L 518 770 C 505 797 499 816 498 827 Z" fill="#131313" id="id-demon-male-1_wings_red-30">
+</path >
+<path d="M 406 955 C 431 736 444 626 444 626 L 443 798 C 419 903 406 955 406 955 Z" fill="#939fba" id="id-demon-male-1_wings_red-31">
+</path >
+<ellipse cx="423" cy="452" fill="#131313" id="id-demon-male-1_wings_red-14" rx="6" ry="5">
+</ellipse >
+<path d="M 141 767 C 173 725 195 697 207 683 C 240 634 255 598 252 573 C 241 553 175 522 134 522 C 112 522 26 592 19 568 C 19 559 63 464 95 407 C 126 389 171 366 171 366 C 181 385 203 399 238 409 C 246 415 264 406 293 381 C 276 380 266 378 263 375 C 309 356 335 342 341 333 C 315 328 302 326 302 326 L 365 303 C 401 255 420 216 432 180 L 465 189 L 470 198 C 379 445 275 630 157 755 L 137 774 L 141 767 Z" fill="url(#id-demon-male-1_wings_red-1)" id="id-demon-male-1_wings_red-33">
+</path >
+<path d="M 263 375 L 271 378 L 345 353 C 290 368 263 375 263 375 Z" fill="#c6d3f1" id="id-demon-male-1_wings_red-34">
+</path >
+<polygon points="308 324 372 300 347 326" stroke="#979797" id="id-demon-male-1_wings_red-35">
+</polygon >
+<polygon points="385 276 372 300 341 333 302 326 365 303" fill="#c4d0ef" id="id-demon-male-1_wings_red-36">
+</polygon >
+<path d="M 122 2 C 160 6 178 18 185 33 C 186 46 174 67 150 97 C 150 97 140 104 120 119 C 120 119 111 123 94 129 C 88 125 85 117 84 106 C 94 99 109 63 117 54 C 112 56 106 59 98 63 C 98 63 90 68 76 77 C 75 78 64 77 44 74 C 44 74 43 86 41 111 C 41 111 35 116 22 128 C 22 128 23 133 24 144 C 12 143 6 144 4 146 C 3 149 7 157 14 171 C 14 171 9 178 0 192 C -1 238 2 271 8 290 C 14 317 36 315 60 319 C 95 326 147 344 162 328 C 162 327 159 325 154 322 C 151 328 136 316 111 283 C 101 272 92 258 86 239 L 87 232 C 89 243 93 251 97 259 C 108 271 121 286 133 298 C 111 272 93 244 94 208 C 108 181 126 169 142 149 L 137 167 L 167 121 L 171 111 L 172 120 C 183 91 190 69 194 55 C 196 48 198 37 200 21 C 203 17 206 14 210 12 C 192 1 162 -2 122 2 Z" fill="url(#id-demon-male-1_wings_red-2)" id="id-demon-male-1_wings_red-37">
+</path >
+</g >
+</g >
+<defs >
+<filter width="155%" height="561%" x="-27%" y="-230%" id="id-demon-male-2_foreground_overlay_halo_back_green-0" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="30">
+</feGaussianBlur >
+</filter >
+<linearGradient x1="87%" y1="158%" x2="23%" y2="158%" id="id-demon-male-2_foreground_overlay_halo_back_green-1">
+<stop stop-color="#00781b" offset="0%">
+</stop >
+<stop stop-color="#185000" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(494,196)" id="id-demon-male-2_foreground_overlay_halo_back_green-2">
+<path d="M 168 41 C 254 41 329 20 330 7 C 331 -7 250 25 165 25 C 80 25 0 -10 0 7 C 0 23 83 41 168 41 Z" fill="#00ff3e" id="id-demon-male-2_foreground_overlay_halo_back_green-3" filter="url(#id-demon-male-2_foreground_overlay_halo_back_green-0)">
+</path >
+<path d="M 164 28 C 250 28 320 24 320 7 C 320 3 315 1 304 1 C 298 10 249 14 157 14 C 65 14 22 10 28 0 C 18 1 13 3 13 7 C 13 24 78 28 164 28 Z" fill="#003f05" id="id-demon-male-2_foreground_overlay_halo_back_green-3">
+</path >
+<path d="M 28 14 C 53 22 95 25 156 25 C 217 25 265 22 300 15 C 249 20 201 22 156 22 C 111 22 68 19 28 14 Z" fill="url(#id-demon-male-2_foreground_overlay_halo_back_green-1)" id="id-demon-male-2_foreground_overlay_halo_back_green-6">
+</path >
+</g >
+<defs >
+<linearGradient x1="50%" y1="6%" x2="50%" y2="100%" id="id-demon-male-4_body_black-0">
+<stop stop-color="#37353f" offset="0%">
+</stop >
+<stop stop-color="#3f4a6b" offset="8%">
+</stop >
+<stop stop-color="#272436" offset="21%">
+</stop >
+<stop stop-color="#2d2c3b" offset="34%">
+</stop >
+<stop stop-color="#161424" offset="53%">
+</stop >
+<stop stop-color="#130f1e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="-10%" x2="50%" y2="84%" id="id-demon-male-4_body_black-1">
+<stop stop-color="#3e4271" offset="0%">
+</stop >
+<stop stop-color="#414270" offset="47%">
+</stop >
+<stop stop-color="#3b3973" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="57%" y1="50%" x2="47%" y2="56%" id="id-demon-male-4_body_black-2">
+<stop stop-color="#1a1821" offset="0%">
+</stop >
+<stop stop-color="#0b0f10" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="35%" x2="55%" y2="47%" id="id-demon-male-4_body_black-3">
+<stop stop-color="#111720" offset="0%">
+</stop >
+<stop stop-color="#131819" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="54%" y1="31%" x2="47%" y2="81%" id="id-demon-male-4_body_black-4">
+<stop stop-color="#38363e" offset="0%">
+</stop >
+<stop stop-color="#2a2737" offset="20%">
+</stop >
+<stop stop-color="#2c2c2c" offset="71%">
+</stop >
+<stop stop-color="#2b2b2b" offset="81%">
+</stop >
+<stop stop-color="#212121" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="43%" y1="38%" x2="54%" y2="44%" id="id-demon-male-4_body_black-5">
+<stop stop-color="#141c34" offset="0%">
+</stop >
+<stop stop-color="#151d35" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="26%" x2="59%" y2="75%" id="id-demon-male-4_body_black-6">
+<stop stop-color="#606060" offset="0%">
+</stop >
+<stop stop-color="#2a2a2a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="41%" x2="49%" y2="66%" id="id-demon-male-4_body_black-7">
+<stop stop-color="#242c2f" offset="0%">
+</stop >
+<stop stop-color="#2c3235" offset="27%">
+</stop >
+<stop stop-color="#303940" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="63%" y1="4%" x2="25%" y2="77%" id="id-demon-male-4_body_black-8">
+<stop stop-color="#364261" offset="0%">
+</stop >
+<stop stop-color="#425588" offset="51%">
+</stop >
+<stop stop-color="#2c3355" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="23%" x2="41%" y2="77%" id="id-demon-male-4_body_black-9">
+<stop stop-color="#151718" offset="0%">
+</stop >
+<stop stop-color="#1d2021" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="47%" y1="22%" x2="55%" y2="89%" id="id-demon-male-4_body_black-10">
+<stop stop-color="#424a4f" offset="0%">
+</stop >
+<stop stop-color="#484f52" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="86%" y1="87%" x2="12%" y2="66%" id="id-demon-male-4_body_black-11">
+<stop stop-color="#29282a" offset="0%">
+</stop >
+<stop stop-color="#3b3c3c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="71%" y1="11%" x2="50%" y2="100%" id="id-demon-male-4_body_black-12">
+<stop stop-color="#5a6164" offset="0%">
+</stop >
+<stop stop-color="#383838" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="46%" x2="56%" y2="43%" id="id-demon-male-4_body_black-13">
+<stop stop-color="#28282a" offset="0%">
+</stop >
+<stop stop-color="#202020" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="27%" y1="50%" x2="68%" y2="64%" id="id-demon-male-4_body_black-14">
+<stop stop-color="#4f5356" offset="0%">
+</stop >
+<stop stop-color="#535657" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="26%" y1="83%" x2="92%" y2="50%" id="id-demon-male-4_body_black-15">
+<stop stop-color="#41454f" offset="0%">
+</stop >
+<stop stop-color="#5a6264" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="17%" y1="56%" x2="85%" y2="45%" id="id-demon-male-4_body_black-16">
+<stop stop-color="#545e68" offset="0%">
+</stop >
+<stop stop-color="#586269" offset="53%" stop-opacity="0.52">
+</stop >
+<stop stop-color="#5c6366" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="17%" y1="24%" x2="74%" y2="87%" id="id-demon-male-4_body_black-17">
+<stop stop-color="#616161" offset="0%">
+</stop >
+<stop stop-color="#505050" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="26%" y1="42%" x2="80%" y2="75%" id="id-demon-male-4_body_black-18">
+<stop stop-color="#676767" offset="0%">
+</stop >
+<stop stop-color="#656565" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="29%" y1="56%" x2="77%" y2="50%" id="id-demon-male-4_body_black-19">
+<stop stop-color="#686868" offset="0%">
+</stop >
+<stop stop-color="#515151" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="72%" y1="27%" x2="34%" y2="74%" id="id-demon-male-4_body_black-20">
+<stop stop-color="#505354" offset="0%">
+</stop >
+<stop stop-color="#3d3f40" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="100%" x2="40%" y2="0%" id="id-demon-male-4_body_black-21">
+<stop stop-color="#686283" offset="0%">
+</stop >
+<stop stop-color="#696382" offset="46%">
+</stop >
+<stop stop-color="#4d4c52" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="52%" y1="13%" x2="59%" y2="75%" id="id-demon-male-4_body_black-22">
+<stop stop-color="#171426" offset="0%">
+</stop >
+<stop stop-color="#221c3c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="28%" y1="76%" x2="73%" y2="20%" id="id-demon-male-4_body_black-23">
+<stop stop-color="#292341" offset="0%">
+</stop >
+<stop stop-color="#181529" offset="67%">
+</stop >
+<stop stop-color="#221c3b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-demon-male-4_body_black-24">
+<stop stop-color="#2a2348" offset="0%">
+</stop >
+<stop stop-color="#181429" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="59%" x2="24%" y2="66%" id="id-demon-male-4_body_black-25">
+<stop stop-color="#303030" offset="0%">
+</stop >
+<stop stop-color="#45444a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="41%" y1="11%" x2="64%" y2="63%" id="id-demon-male-4_body_black-26">
+<stop stop-color="#393939" offset="0%">
+</stop >
+<stop stop-color="#2a2a2a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="19%" y1="58%" x2="66%" y2="43%" id="id-demon-male-4_body_black-27">
+<stop stop-color="#646465" offset="0%">
+</stop >
+<stop stop-color="#5e5e5e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="29%" y1="43%" x2="65%" y2="100%" id="id-demon-male-4_body_black-28">
+<stop stop-color="#616161" offset="0%">
+</stop >
+<stop stop-color="#4b4b4d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="13%" y1="78%" x2="84%" y2="50%" id="id-demon-male-4_body_black-29">
+<stop stop-color="#323232" offset="0%">
+</stop >
+<stop stop-color="#434343" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="28%" x2="64%" y2="55%" id="id-demon-male-4_body_black-30">
+<stop stop-color="#606060" offset="0%">
+</stop >
+<stop stop-color="#5d5d5d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="40%" y1="55%" x2="62%" y2="71%" id="id-demon-male-4_body_black-31">
+<stop stop-color="#4e4e50" offset="0%">
+</stop >
+<stop stop-color="#444444" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="62%" y1="19%" x2="50%" y2="99%" id="id-demon-male-4_body_black-32">
+<stop stop-color="#353663" offset="0%">
+</stop >
+<stop stop-color="#28284c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="18%" x2="51%" y2="67%" id="id-demon-male-4_body_black-33">
+<stop stop-color="#524f98" offset="0%">
+</stop >
+<stop stop-color="#464373" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-demon-male-4_body_black-34">
+<stop stop-color="#403f85" offset="0%">
+</stop >
+<stop stop-color="#262e59" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="50%" x2="58%" y2="50%" id="id-demon-male-4_body_black-35">
+<stop stop-color="#474747" offset="0%">
+</stop >
+<stop stop-color="#5e5e5e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="33%" y1="74%" x2="77%" y2="42%" id="id-demon-male-4_body_black-36">
+<stop stop-color="#44424f" offset="0%">
+</stop >
+<stop stop-color="#424246" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-demon-male-4_body_black-37">
+<stop stop-color="#1c2936" offset="0%">
+</stop >
+<stop stop-color="#09181f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="47%" y1="47%" x2="53%" y2="50%" id="id-demon-male-4_body_black-38">
+<stop stop-color="#171f25" offset="0%">
+</stop >
+<stop stop-color="#0f171d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-demon-male-4_body_black-39">
+<stop stop-color="#13191c" offset="0%">
+</stop >
+<stop stop-color="#070e11" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="53%" y2="50%" id="id-demon-male-4_body_black-40">
+<stop stop-color="#212025" offset="0%">
+</stop >
+<stop stop-color="#24262d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="53%" x2="52%" y2="56%" id="id-demon-male-4_body_black-41">
+<stop stop-color="#1d1d26" offset="0%">
+</stop >
+<stop stop-color="#0d0d15" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-demon-male-4_body_black-42">
+<stop stop-color="#22262a" offset="0%">
+</stop >
+<stop stop-color="#131a20" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="49%" y1="20%" x2="52%" y2="96%" id="id-demon-male-4_body_black-43">
+<stop stop-color="#181c1d" offset="0%">
+</stop >
+<stop stop-color="#090d10" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="99%" id="id-demon-male-4_body_black-44">
+<stop stop-color="#2b2b2b" offset="0%">
+</stop >
+<stop stop-color="#1d1c1e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="33%" y1="37%" x2="36%" y2="66%" id="id-demon-male-4_body_black-45">
+<stop stop-color="#37393c" offset="0%">
+</stop >
+<stop stop-color="#171717" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="53%" y1="5%" x2="47%" y2="91%" id="id-demon-male-4_body_black-46">
+<stop stop-color="#51585b" offset="0%">
+</stop >
+<stop stop-color="#343a3d" offset="82%">
+</stop >
+<stop stop-color="#5b6063" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="62%" y1="61%" x2="50%" y2="36%" id="id-demon-male-4_body_black-47">
+<stop stop-color="#3b4041" offset="0%">
+</stop >
+<stop stop-color="#1e2023" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="13%" x2="57%" y2="81%" id="id-demon-male-4_body_black-48">
+<stop stop-color="#42484a" offset="0%">
+</stop >
+<stop stop-color="#53585a" offset="52%">
+</stop >
+<stop stop-color="#788084" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="54%" y2="88%" id="id-demon-male-4_body_black-49">
+<stop stop-color="#5e8697" offset="0%">
+</stop >
+<stop stop-color="#4a616a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="36%" y1="75%" x2="36%" y2="18%" id="id-demon-male-4_body_black-50">
+<stop stop-color="#415860" offset="0%">
+</stop >
+<stop stop-color="#1f2c31" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="2%" x2="48%" y2="96%" id="id-demon-male-4_body_black-51">
+<stop stop-color="#11191b" offset="0%">
+</stop >
+<stop stop-color="#638d99" offset="11%">
+</stop >
+<stop stop-color="#7093a0" offset="33%">
+</stop >
+<stop stop-color="#8daab6" offset="58%">
+</stop >
+<stop stop-color="#526168" offset="93%">
+</stop >
+<stop stop-color="#576167" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="62%" y1="37%" x2="30%" y2="59%" id="id-demon-male-4_body_black-52">
+<stop stop-color="#5d8496" offset="0%">
+</stop >
+<stop stop-color="#598192" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="12%" y1="48%" x2="58%" y2="51%" id="id-demon-male-4_body_black-53">
+<stop stop-color="#83a9b7" offset="0%">
+</stop >
+<stop stop-color="#7296a4" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="76%" y1="54%" x2="27%" y2="47%" id="id-demon-male-4_body_black-54">
+<stop stop-color="#809fac" offset="0%">
+</stop >
+<stop stop-color="#81a9b8" offset="100%">
+</stop >
+</linearGradient >
+<radialGradient cx="50%" cy="59%" r="65%" id="id-demon-male-4_body_black-55" fx="50%" fy="59%" gradientTransform="translate(0.5,0.593) scale(0.791,1) rotate(-143) translate(-0.5,-0.593)">
+<stop stop-color="#83a5b2" offset="0%">
+</stop >
+<stop stop-color="#598393" offset="66%">
+</stop >
+<stop stop-color="#536677" offset="100%">
+</stop >
+</radialGradient >
+<linearGradient x1="69%" y1="50%" x2="50%" y2="60%" id="id-demon-male-4_body_black-56">
+<stop stop-color="#7e8e96" offset="0%">
+</stop >
+<stop stop-color="#8a9ea5" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="35%" y1="38%" x2="129%" y2="50%" id="id-demon-male-4_body_black-57">
+<stop stop-color="#57727a" offset="0%">
+</stop >
+<stop stop-color="#323e42" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="58%" x2="50%" y2="58%" id="id-demon-male-4_body_black-58">
+<stop stop-color="#373b3e" offset="0%">
+</stop >
+<stop stop-color="#2b3031" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="49%" y1="83%" x2="53%" y2="51%" id="id-demon-male-4_body_black-59">
+<stop stop-color="#1e2020" offset="0%">
+</stop >
+<stop stop-color="#303437" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="68%" x2="19%" y2="50%" id="id-demon-male-4_body_black-60">
+<stop stop-color="#7296a4" offset="0%">
+</stop >
+<stop stop-color="#5e8391" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="49%" y1="57%" x2="33%" y2="25%" id="id-demon-male-4_body_black-61">
+<stop stop-color="#4a5a61" offset="0%">
+</stop >
+<stop stop-color="#31444a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="6%" x2="50%" y2="50%" id="id-demon-male-4_body_black-62">
+<stop stop-color="#6a8a96" offset="0%">
+</stop >
+<stop stop-color="#54636a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="33%" x2="57%" y2="50%" id="id-demon-male-4_body_black-63">
+<stop stop-color="#5e6a70" offset="0%">
+</stop >
+<stop stop-color="#3a3f41" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="26%" x2="42%" y2="54%" id="id-demon-male-4_body_black-64">
+<stop stop-color="#242729" offset="0%">
+</stop >
+<stop stop-color="#3f4548" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="100%" x2="55%" y2="55%" id="id-demon-male-4_body_black-65">
+<stop stop-color="#1e2020" offset="0%">
+</stop >
+<stop stop-color="#1d1f20" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="54%" y1="12%" x2="47%" y2="56%" id="id-demon-male-4_body_black-66">
+<stop stop-color="#507888" offset="0%">
+</stop >
+<stop stop-color="#3b5560" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-demon-male-4_body_black-67">
+<stop stop-color="#5b6c74" offset="0%">
+</stop >
+<stop stop-color="#5a6b72" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="5%" y1="65%" x2="100%" y2="65%" id="id-demon-male-4_body_black-68">
+<stop stop-color="#819fac" offset="0%">
+</stop >
+<stop stop-color="#657d86" offset="28%">
+</stop >
+<stop stop-color="#445257" offset="67%">
+</stop >
+<stop stop-color="#667d85" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="91%" x2="53%" y2="64%" id="id-demon-male-4_body_black-69">
+<stop stop-color="#505e63" offset="0%">
+</stop >
+<stop stop-color="#586b73" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="70%" y1="50%" x2="41%" y2="50%" id="id-demon-male-4_body_black-70">
+<stop stop-color="#46555d" offset="0%">
+</stop >
+<stop stop-color="#445760" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-demon-male-4_body_black-71">
+<stop stop-color="#60757f" offset="0%">
+</stop >
+<stop stop-color="#667f88" offset="48%">
+</stop >
+<stop stop-color="#68838e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="38%" y1="14%" x2="50%" y2="79%" id="id-demon-male-4_body_black-72">
+<stop stop-color="#7b9aa7" offset="0%">
+</stop >
+<stop stop-color="#3f4d53" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="3%" y1="0%" x2="50%" y2="66%" id="id-demon-male-4_body_black-73">
+<stop stop-color="#50616a" offset="0%">
+</stop >
+<stop stop-color="#607983" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="22%" y1="62%" x2="87%" y2="62%" id="id-demon-male-4_body_black-74">
+<stop stop-color="#7aa0b0" offset="0%">
+</stop >
+<stop stop-color="#81a6b4" offset="43%">
+</stop >
+<stop stop-color="#58717a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="13%" y1="69%" x2="100%" y2="69%" id="id-demon-male-4_body_black-75">
+<stop stop-color="#6c94a5" offset="0%">
+</stop >
+<stop stop-color="#81a6b4" offset="48%">
+</stop >
+<stop stop-color="#516b77" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="65%" x2="78%" y2="65%" id="id-demon-male-4_body_black-76">
+<stop stop-color="#4a575b" offset="0%">
+</stop >
+<stop stop-color="#3b4447" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="42%" x2="33%" y2="50%" id="id-demon-male-4_body_black-77">
+<stop stop-color="#11181d" offset="0%">
+</stop >
+<stop stop-color="#121b1e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="42%" x2="33%" y2="50%" id="id-demon-male-4_body_black-78">
+<stop stop-color="#11181d" offset="0%">
+</stop >
+<stop stop-color="#121b1e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="74%" id="id-demon-male-4_body_black-79">
+<stop stop-color="#4c595e" offset="0%">
+</stop >
+<stop stop-color="#485359" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="80%" y1="50%" x2="7%" y2="50%" id="id-demon-male-4_body_black-80">
+<stop stop-color="#7a8d95" offset="0%" stop-opacity="0">
+</stop >
+<stop stop-color="#798d95" offset="55%">
+</stop >
+<stop stop-color="#798b93" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="id-demon-male-4_body_black-81">
+<stop stop-color="#293033" offset="0%">
+</stop >
+<stop stop-color="#1d2324" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="83%" x2="92%" y2="83%" id="id-demon-male-4_body_black-82">
+<stop stop-color="#1f262c" offset="0%" stop-opacity="0">
+</stop >
+<stop stop-color="#1d2324" offset="58%">
+</stop >
+<stop stop-color="#20272b" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(297,259)" id="id-demon-male-4_body_black-83">
+<path d="M 532 770 C 544 779 550 783 550 783 C 540 808 535 821 535 821 L 537 789 C 533 776 532 770 532 770 Z" fill="#adb8d6" id="id-demon-male-4_body_black-84">
+</path >
+<path d="M 541 777 C 535 794 528 808 520 818 L 544 798 L 550 783 C 544 779 541 777 541 777 Z" fill="#adb8d6" id="id-demon-male-4_body_black-85">
+</path >
+<path d="M 551 880 C 554 864 556 856 556 856 L 545 850 C 549 870 551 880 551 880 Z" fill="#17161b" id="id-demon-male-4_body_black-86">
+</path >
+<g transform="translate(7,0)" id="id-demon-male-4_body_black-87">
+<g transform="translate(0,214)" id="id-demon-male-4_body_black-88">
+<polygon points="174 662 139 824 137 906 146 1082 171 1154 176 1211 174 1230 175 1284 287 1284 284 1265 308 1195 306 1124 345 952 343 912 353 879 362 881 371 877 383 904 391 970 434 1079 457 1202 475 1252 475 1284 596 1284 600 1225 591 1146 609 1103 612 997 596 842 545 671 539 640 528 606 531 569 509 498 522 403 539 360 539 348 563 464 576 498 585 574 637 704 646 760 646 778 626 822 624 853 631 879 629 901 632 920 637 931 647 931 657 920 655 877 659 867 670 874 672 899 676 903 667 923 644 934 643 945 666 939 664 948 643 960 640 982 657 971 674 969 690 945 701 933 704 926 707 923 713 892 718 871 704 832 696 786 703 768 693 725 693 521 652 425 629 282 626 203 612 175 567 156 548 141 530 139 479 114 422 73 416 42 415 1 285 0 284 73 279 83 242 114 196 137 171 139 155 156 108 175 91 228 91 287 68 431 30 516 23 602 28 725 16 764 21 782 0 874 18 932 49 968 59 970 83 982 83 965 78 960 57 949 55 941 78 948 78 936 66 929 53 923 45 906 51 875 61 866 66 877 63 922 75 927 86 925 93 899 90 877 96 856 96 824 75 778 77 738 108 637 139 562 142 495 159 458 180 358 199 403 203 461 211 504 188 564 191 608" fill="url(#id-demon-male-4_body_black-0)" id="id-demon-male-4_body_black-89">
+</polygon >
+<polygon points="91 287 68 431 30 516 23 602 72 688 117 614 98 452 109 469 123 336 102 372 109 294 88 309 109 285" fill="url(#id-demon-male-4_body_black-1)" id="id-demon-male-4_body_black-89">
+</polygon >
+<polygon points="383 906 391 972 434 1081 457 1204 475 1254 475 1287 596 1287 600 1226 591 1148 609 1105 612 999 602 904 584 908 584 846 535 683 456 705 382 878" fill="url(#id-demon-male-4_body_black-2)" id="id-demon-male-4_body_black-89">
+</polygon >
+<polygon points="137 907 146 1083 171 1156 176 1212 174 1232 175 1286 175 1287 287 1287 284 1266 308 1197 306 1126 345 954 343 923 293 814 263 724 247 711" fill="url(#id-demon-male-4_body_black-3)" id="id-demon-male-4_body_black-89">
+</polygon >
+<polygon points="545 673 539 641 528 608 531 571 509 500 522 405 539 361 539 350 563 465 576 500 601 540 660 491 688 529 652 427 629 283 626 205 612 177 568 157 548 142 530 141 479 116 422 75 416 44 415 3 360 3 360 715 462 724" fill="url(#id-demon-male-4_body_black-4)" id="id-demon-male-4_body_black-89">
+</polygon >
+<polygon points="83 984 59 972 49 970 21 932 19 903 7 879 0 874 11 824 38 786 38 814 56 786 78 800 91 822 83 879 69 882 63 855 51 877 45 908 47 930 37 930 50 938 53 954 49 960 56 956 83 973" fill="#1d2848" id="id-demon-male-4_body_black-94">
+</polygon >
+<polygon points="66 855 69 882 63 855 51 877 45 908 42 870 58 825" fill="url(#id-demon-male-4_body_black-5)" id="id-demon-male-4_body_black-94">
+</polygon >
+<polygon points="83 879 69 882 70 868" fill="#1f2f52" id="id-demon-male-4_body_black-94">
+</polygon >
+<polygon points="198 362 181 359 167 284" fill="#18191f" id="id-demon-male-4_body_black-97">
+</polygon >
+<polygon points="481 376 513 349 557 292 522 368" fill="#3b3945" id="id-demon-male-4_body_black-98">
+</polygon >
+<polygon points="313 697 260 560 246 448 259 424 355 408 361 366 317 404 285 409 267 378 313 343 394 351 431 378 420 404 368 399 371 404 449 421 466 441 449 510 466 547 406 697 358 717" fill="url(#id-demon-male-4_body_black-6)" id="id-demon-male-4_body_black-99">
+</polygon >
+<polygon points="410 90 430 82 423 76 416 45 416 7 283 9 284 46 283 76 278 86 244 114 195 139 366 139 390 70 410 26" fill="url(#id-demon-male-4_body_black-7)" id="id-demon-male-4_body_black-100">
+</polygon >
+<polygon points="182 180 133 231 97 289 97 231 113 182 165 159" fill="url(#id-demon-male-4_body_black-8)" id="id-demon-male-4_body_black-101">
+</polygon >
+<polygon points="346 107 384 55 409 31 414 23 299 31" fill="url(#id-demon-male-4_body_black-9)" id="id-demon-male-4_body_black-102">
+</polygon >
+<polygon points="287 93 295 32 323 129" fill="url(#id-demon-male-4_body_black-10)" id="id-demon-male-4_body_black-103">
+</polygon >
+<polygon points="336 139 314 151 270 146 224 139" fill="#56646c" id="id-demon-male-4_body_black-104">
+</polygon >
+<polygon points="410 84 409 136 461 129" fill="url(#id-demon-male-4_body_black-11)" id="id-demon-male-4_body_black-105">
+</polygon >
+<polygon points="173 246 167 286 191 351 263 386 328 330 359 330 359 152 348 139 336 139 309 152" fill="url(#id-demon-male-4_body_black-12)" id="id-demon-male-4_body_black-106">
+</polygon >
+<polygon points="464 159 516 190 500 159" fill="url(#id-demon-male-4_body_black-13)" id="id-demon-male-4_body_black-107">
+</polygon >
+<polygon points="302 36 346 72 382 62 409 37 416 28 416 13" fill="#0f0f0f" id="id-demon-male-4_body_black-108">
+</polygon >
+<polygon points="263 151 191 202 219 151" fill="#333c46" id="id-demon-male-4_body_black-109">
+</polygon >
+<polygon points="154 206 170 170 122 188" fill="#445274" id="id-demon-male-4_body_black-110">
+</polygon >
+<polygon points="361 284 344 299 323 318 305 354 360 347 359 305" fill="#474747" id="id-demon-male-4_body_black-111">
+</polygon >
+<polygon points="260 361 265 387 203 371 191 347" fill="#2b2d31" id="id-demon-male-4_body_black-112">
+</polygon >
+<polygon points="477 341 477 335 488 326 496 325 509 338 496 348 485 354" fill="#232428" id="id-demon-male-4_body_black-113">
+</polygon >
+<polygon points="314 151 342 220 317 293 237 351 209 318 172 251 185 205 270 146" fill="url(#id-demon-male-4_body_black-14)" id="id-demon-male-4_body_black-114">
+</polygon >
+<polygon points="314 151 330 238 209 318 172 251 185 205 270 146" fill="url(#id-demon-male-4_body_black-15)" id="id-demon-male-4_body_black-114">
+</polygon >
+<polygon points="314 151 350 205 220 227 185 205 270 146" fill="url(#id-demon-male-4_body_black-16)" opacity="0.369" id="id-demon-male-4_body_black-114">
+</polygon >
+<polygon points="211 335 223 322 242 327 244 332 235 353 213 349" fill="#232427" id="id-demon-male-4_body_black-117">
+</polygon >
+<polygon points="224 339 226 342 226 345 222 349 235 350 242 333 230 338 227 335" fill="#3a3b40" id="id-demon-male-4_body_black-118">
+</polygon >
+<polygon points="488 343 491 347 486 351 479 338 489 327 495 327 493 336" fill="#37393e" id="id-demon-male-4_body_black-119">
+</polygon >
+<polygon points="485 339 488 343 493 337" fill="#606060" id="id-demon-male-4_body_black-120">
+</polygon >
+<polygon points="359 162 359 291 406 325 455 347 529 267 463 182 415 166" fill="url(#id-demon-male-4_body_black-17)" id="id-demon-male-4_body_black-121">
+</polygon >
+<polygon points="359 178 359 281 391 302 391 249 489 270 461 189 415 166" fill="url(#id-demon-male-4_body_black-18)" id="id-demon-male-4_body_black-121">
+</polygon >
+<polygon points="359 178 359 219 472 220 461 189 415 166 371 163" fill="url(#id-demon-male-4_body_black-19)" id="id-demon-male-4_body_black-121">
+</polygon >
+<polygon points="358 178 372 168 440 156 413 137 378 158 411 80 396 60 358 146" fill="url(#id-demon-male-4_body_black-20)" id="id-demon-male-4_body_black-124">
+</polygon >
+<polygon points="346 140 358 152 372 129 400 48 369 86 364 130" fill="#606568" id="id-demon-male-4_body_black-125">
+</polygon >
+<polygon points="591 281 601 226 559 159 514 159 523 138 499 156 571 263" fill="url(#id-demon-male-4_body_black-21)" id="id-demon-male-4_body_black-126">
+</polygon >
+<polygon points="611 296 626 332 629 285 629 225 614 207 617 251" fill="#443c69" id="id-demon-male-4_body_black-127">
+</polygon >
+<polygon points="554 159 567 157 612 177 614 192 579 175 603 207 601 226" fill="#312c41" id="id-demon-male-4_body_black-128">
+</polygon >
+<polygon points="641 823 648 826 697 896 713 873 682 781" fill="url(#id-demon-male-4_body_black-22)" id="id-demon-male-4_body_black-129">
+</polygon >
+<polygon points="625 840 700 762 688 738 679 784 648 776 626 822" fill="url(#id-demon-male-4_body_black-23)" id="id-demon-male-4_body_black-129">
+</polygon >
+<polygon points="648 862 648 845 661 825 661 870 654 878 657 922 652 929 637 929 632 914 632 893 632 877 644 888" fill="#0f0d19" id="id-demon-male-4_body_black-131">
+</polygon >
+<polygon points="554 375 577 333 607 451 594 508 568 462" fill="#3f3a53" id="id-demon-male-4_body_black-132">
+</polygon >
+<polygon points="623 326 643 425 633 431 693 523 652 427 636 326 625 315" fill="#3a335b" id="id-demon-male-4_body_black-133">
+</polygon >
+<polygon points="629 273 640 343 623 314" fill="#1a1729" id="id-demon-male-4_body_black-134">
+</polygon >
+<polygon points="693 523 695 567 685 525 618 416 633 431" fill="#1b172f" id="id-demon-male-4_body_black-135">
+</polygon >
+<polygon points="640 463 599 539 601 571 634 655 646 703 650 754 658 640 660 491" fill="#3c3362" id="id-demon-male-4_body_black-136">
+</polygon >
+<polygon points="610 531 648 646 652 546 638 479" fill="#4e447a" id="id-demon-male-4_body_black-136">
+</polygon >
+<polygon points="693 748 677 730 677 700 660 491 685 525 691 552 684 727" fill="url(#id-demon-male-4_body_black-24)" id="id-demon-male-4_body_black-138">
+</polygon >
+<polygon points="691 746 703 768 693 727 695 567 691 551 683 727" fill="#413472" id="id-demon-male-4_body_black-139">
+</polygon >
+<polygon points="260 559 310 683 355 716 263 713 238 685 195 582" fill="url(#id-demon-male-4_body_black-25)" id="id-demon-male-4_body_black-140">
+</polygon >
+<polygon points="637 931 636 919 639 914 653 914 653 922 651 929 648 931 644 933" fill="#0f0c17" id="id-demon-male-4_body_black-141">
+</polygon >
+<polygon points="637 861 637 882 641 890 653 886 649 861" fill="#1c192e" id="id-demon-male-4_body_black-142">
+</polygon >
+<polygon points="691 871 693 912 688 936 669 956 671 965 696 924 696 909 705 877" fill="#1c1532" id="id-demon-male-4_body_black-143">
+</polygon >
+<polygon points="703 768 684 788 693 837 712 873 702 908 701 933 707 925 718 873 704 834 697 788" fill="#120f20" id="id-demon-male-4_body_black-144">
+</polygon >
+<polygon points="667 939 643 946 644 934 657 928 667 922 676 903 672 899 670 874 660 870 660 854 671 867 680 873 680 902 677 920" fill="#140f22" id="id-demon-male-4_body_black-145">
+</polygon >
+<polygon points="361 510 359 634 426 561 420 535" fill="url(#id-demon-male-4_body_black-26)" opacity="0.626" id="id-demon-male-4_body_black-146">
+</polygon >
+<polygon points="319 403 289 399 268 380 313 343 361 348 362 372" fill="url(#id-demon-male-4_body_black-27)" id="id-demon-male-4_body_black-147">
+</polygon >
+<polygon points="171 141 168 151 180 151 204 139 196 138" fill="#4f679b" id="id-demon-male-4_body_black-148">
+</polygon >
+<polygon points="360 546 360 584 387 551 374 540" fill="#606060" opacity="0.626" id="id-demon-male-4_body_black-149">
+</polygon >
+<polygon points="346 542 360 547 373 540 360 534" fill="#2b2b2b" id="id-demon-male-4_body_black-150">
+</polygon >
+<polygon points="325 545 277 503 259 561 308 579" fill="url(#id-demon-male-4_body_black-28)" opacity="0.758" id="id-demon-male-4_body_black-151">
+</polygon >
+<polygon points="389 499 460 467 449 510 404 520" fill="url(#id-demon-male-4_body_black-29)" id="id-demon-male-4_body_black-152">
+</polygon >
+<polygon points="364 491 361 403 420 428" fill="#676767" opacity="0.758" id="id-demon-male-4_body_black-153">
+</polygon >
+<polygon points="262 446 333 446 323 469 279 492" fill="url(#id-demon-male-4_body_black-30)" opacity="0.758" id="id-demon-male-4_body_black-154">
+</polygon >
+<polygon points="259 425 279 496 259 561 236 528 213 443 227 425 243 447" fill="url(#id-demon-male-4_body_black-31)" id="id-demon-male-4_body_black-155">
+</polygon >
+<polygon points="412 343 444 374 466 383 499 351 447 354 416 339" fill="#3a3a3a" id="id-demon-male-4_body_black-156">
+</polygon >
+<polygon points="164 252 163 278 128 284" fill="#1e212c" id="id-demon-male-4_body_black-157">
+</polygon >
+<polygon points="58 478 88 441 88 416 69 430 66 456" fill="url(#id-demon-male-4_body_black-32)" id="id-demon-male-4_body_black-158">
+</polygon >
+<polygon points="76 684 69 634 61 517 89 474 111 569" fill="url(#id-demon-male-4_body_black-33)" id="id-demon-male-4_body_black-159">
+</polygon >
+<polygon points="53 489 47 539 69 635 76 684 53 760 40 781 16 766 28 727 23 604 28 544" fill="url(#id-demon-male-4_body_black-34)" id="id-demon-male-4_body_black-160">
+</polygon >
+<polygon points="136 452 127 497 153 460 177 340 170 300" fill="#282739" id="id-demon-male-4_body_black-161">
+</polygon >
+<polygon points="181 359 159 460 143 497 142 514 123 532 109 514 108 490 127 497 153 460 177 340" fill="#201e32" id="id-demon-male-4_body_black-161">
+</polygon >
+<polygon points="38 747 28 772 38 788 44 772" fill="#19203d" id="id-demon-male-4_body_black-163">
+</polygon >
+<polygon points="359 379 342 413 361 444 377 417" fill="url(#id-demon-male-4_body_black-35)" id="id-demon-male-4_body_black-164">
+</polygon >
+<polygon points="196 581 260 561 229 519" fill="url(#id-demon-male-4_body_black-36)" id="id-demon-male-4_body_black-165">
+</polygon >
+<polygon points="74 929 66 925 69 909 78 905 86 912 83 928" fill="#070b14" id="id-demon-male-4_body_black-166">
+</polygon >
+<polygon points="20 903 7 880 21 851 28 871" fill="#1b2c52" id="id-demon-male-4_body_black-167">
+</polygon >
+<polygon points="218 1123 203 1040 191 913 171 1090 182 1169 230 1208 261 1237 270 1213 234 1175 212 1157 272 1191 281 1169" fill="url(#id-demon-male-4_body_black-37)" opacity="0.808" id="id-demon-male-4_body_black-168">
+</polygon >
+<polygon points="182 1207 181 1155 213 1106 236 1166 230 1210" fill="#0a181f" id="id-demon-male-4_body_black-169">
+</polygon >
+<polygon points="187 902 211 1137 227 1161 275 1187 299 1137 272 1009 299 918 269 791 211 836" fill="url(#id-demon-male-4_body_black-38)" id="id-demon-male-4_body_black-170">
+</polygon >
+<polygon points="288 1079 311 1040 311 942 295 903 264 1019 275 1188 301 1137" fill="url(#id-demon-male-4_body_black-39)" id="id-demon-male-4_body_black-171">
+</polygon >
+<polygon points="584 908 604 1008 608 1106 614 998 599 887" fill="#1f1d2e" id="id-demon-male-4_body_black-172">
+</polygon >
+<polygon points="430 886 488 1140 535 1115 561 925 566 886 536 816 500 786" fill="url(#id-demon-male-4_body_black-40)" id="id-demon-male-4_body_black-173">
+</polygon >
+<polygon points="581 921 588 1011 584 1112 576 1162 544 1046 566 886" fill="url(#id-demon-male-4_body_black-41)" id="id-demon-male-4_body_black-174">
+</polygon >
+<polygon points="561 1247 518 1200 472 1112 494 931 505 931 594 1188 579 1244" fill="url(#id-demon-male-4_body_black-42)" id="id-demon-male-4_body_black-175">
+</polygon >
+<polygon points="531 1221 539 1263 536 1269 516 1287 509 1287 500 1263 513 1199 488 1226 462 1170 472 1101 427 1010 398 877 469 771 518 739 536 818 500 787 433 890 477 1078 534 1212" fill="url(#id-demon-male-4_body_black-43)" id="id-demon-male-4_body_black-176">
+</polygon >
+<polygon points="321 1058 284 852 258 721 266 733 371 879 362 883 354 881 343 914 345 954" fill="#141819" id="id-demon-male-4_body_black-177">
+</polygon >
+<polygon points="429 1068 424 875 536 705 454 704 380 865 384 906 391 972" fill="#181c1d" opacity="0.394" id="id-demon-male-4_body_black-178">
+</polygon >
+<polygon points="175 1262 194 1287 206 1287 225 1226 213 1249 175 1221 174 1232" fill="#061921" id="id-demon-male-4_body_black-179">
+</polygon >
+<polygon points="528 1227 554 1234 569 1169 549 1168" fill="#151d25" id="id-demon-male-4_body_black-180">
+</polygon >
+<polygon points="546 678 545 672 539 641 528 608 531 571 509 500 522 405 539 361 539 350 547 389 542 330 558 289 517 369 528 369 517 411 499 442 509 465 488 531 507 525 522 585 449 724" fill="url(#id-demon-male-4_body_black-44)" id="id-demon-male-4_body_black-89">
+</polygon >
+<polygon points="402 722 490 609 522 585 449 723" fill="#222222" id="id-demon-male-4_body_black-182">
+</polygon >
+<polygon points="174 664 139 826 137 907 139 937 238 690 352 886 354 881 362 883 371 879 383 906 471 773 548 712 596 844 545 673 539 641 478 697 449 723 278 705 232 657 188 566 191 610" fill="url(#id-demon-male-4_body_black-45)" id="id-demon-male-4_body_black-89">
+</polygon >
+<polygon points="189 616 211 620 190 586 190 609" fill="#232329" id="id-demon-male-4_body_black-184">
+</polygon >
+<polygon points="139 836 225 709 167 697 139 826" fill="#303135" id="id-demon-male-4_body_black-185">
+</polygon >
+<polygon points="518 734 596 843 547 678" fill="#1c1b21" id="id-demon-male-4_body_black-186">
+</polygon >
+<polygon points="415 778 447 726 314 744 329 762" fill="#1a1a1a" opacity="0.52" id="id-demon-male-4_body_black-89">
+</polygon >
+<polygon points="411 685 463 666 456 573" fill="#272626" id="id-demon-male-4_body_black-188">
+</polygon >
+<polygon points="358 297 361 349 381 323" transform="translate(369,323) rotate(4) translate(-369,-323)" fill="#5f5f5f" opacity="0.625" id="id-demon-male-4_body_black-189">
+</polygon >
+</g >
+<path d="M 415 230 C 412 241 411 247 411 247 C 414 275 416 289 416 289 C 447 310 463 321 463 321 C 477 331 484 336 484 336 C 512 347 527 353 527 353 C 500 354 487 355 487 355 C 516 358 531 359 531 359 C 540 364 544 367 544 367 C 527 369 518 370 518 370 C 548 371 563 372 563 372 C 592 387 606 394 606 394 C 611 401 617 403 619 415 C 625 441 627 454 627 454 C 626 430 625 418 625 418 C 616 399 612 389 612 389 C 582 376 567 369 567 369 C 554 359 547 354 547 354 C 535 353 529 353 529 353 C 495 336 478 328 478 328 C 441 300 422 286 422 286 L 416 258 C 415 239 415 230 415 230 Z" fill="#adb8d6" id="id-demon-male-4_body_black-190">
+</path >
+<g transform="translate(244,0)" id="id-demon-male-4_body_black-191">
+<g transform="translate(0,121)" id="id-demon-male-4_body_black-192">
+<polygon points="198 13 214 3 221 9 220 24 214 38 214 43 210 54 207 65 197 69 190 63" fill="url(#id-demon-male-4_body_black-46)" id="id-demon-male-4_body_black-193">
+</polygon >
+<polygon points="197 24 208 13 216 9 219 10 219 21 214 37 195 43" fill="url(#id-demon-male-4_body_black-47)" id="id-demon-male-4_body_black-194">
+</polygon >
+<polygon points="202 38 207 34 198 25 202 22 208 23 207 17 211 16 214 38 214 43 212 48 207 51 201 45" fill="url(#id-demon-male-4_body_black-48)" id="id-demon-male-4_body_black-193">
+</polygon >
+<polygon points="211 4 214 3 221 9 221 10 219 10 216 9" fill="#a0abb0" id="id-demon-male-4_body_black-193">
+</polygon >
+<polygon points="207 65 197 69 190 63 193 42 198 49 193 61 198 67" fill="#44484a" id="id-demon-male-4_body_black-193">
+</polygon >
+<polygon points="203 62 201 53 210 49" fill="#34393b" id="id-demon-male-4_body_black-198">
+</polygon >
+<polygon points="194 44 198 46 201 44 201 32 196 31" fill="#1f2324" id="id-demon-male-4_body_black-199">
+</polygon >
+<polygon points="195 50 201 51 203 42 195 45" fill="#202425" id="id-demon-male-4_body_black-200">
+</polygon >
+<path d="M 29 70 C 23 70 19 69 18 68 C 16 66 11 52 7 45 C 4 38 1 38 0 33 C 0 29 0 20 0 6 L 7 0 L 22 9 L 29 70 Z" fill="url(#id-demon-male-4_body_black-49)" id="id-demon-male-4_body_black-201">
+</path >
+<polygon points="7 6 1 6 6 3 10 2 22 9 19 14" fill="#a0abb0" id="id-demon-male-4_body_black-201">
+</polygon >
+<path d="M 26 68 C 22 69 19 69 18 68 C 16 66 11 52 7 45 C 7 44 6 43 5 42 C 8 44 10 46 11 48 C 12 49 13 52 15 55 L 26 68 Z" fill="#65838e" id="id-demon-male-4_body_black-201">
+</path >
+<polygon points="26 68 28 64 27 53 19 60" fill="#617f8b" id="id-demon-male-4_body_black-201">
+</polygon >
+<path d="M 22 18 C 12 11 6 8 4 9 C 2 10 2 17 2 33 L 17 53 L 26 52 L 22 18 Z" fill="url(#id-demon-male-4_body_black-50)" id="id-demon-male-4_body_black-205">
+</path >
+<polygon points="11 17 18 18 17 26 14 28 22 38 21 48 11 43" fill="#415860" id="id-demon-male-4_body_black-206">
+</polygon >
+<path d="M 26 52 C 16 50 10 46 8 42 C 6 38 7 29 11 16 L 15 23 C 14 35 14 42 14 43 C 14 44 18 46 24 47 L 26 52 Z" fill="#6a91a2" id="id-demon-male-4_body_black-207">
+</path >
+<polygon points="10 30 18 26 18 18 13 20 12 17" fill="#80a6b4" id="id-demon-male-4_body_black-208">
+</polygon >
+<polygon points="19 46 17 42 21 37 24 47" fill="#6a8c98" id="id-demon-male-4_body_black-209">
+</polygon >
+</g >
+<g transform="translate(18,0)" id="id-demon-male-4_body_black-210">
+<path d="M 19 231 C 17 227 11 201 4 153 C 2 140 1 128 0 117 C -1 91 3 63 8 49 C 9 46 15 34 15 34 C 30 20 55 0 94 0 C 157 0 177 45 180 51 C 182 57 183 111 180 144 C 178 177 161 231 159 235 C 157 238 123 261 118 263 C 113 266 74 267 69 264 C 63 261 21 235 19 231 Z" fill="url(#id-demon-male-4_body_black-51)" id="id-demon-male-4_body_black-211">
+</path >
+<polygon points="19 114 13 91 20 48 48 35 140 43 136 69 104 74 77 52 55 49 38 56 41 93" fill="url(#id-demon-male-4_body_black-52)" id="id-demon-male-4_body_black-212">
+</polygon >
+<polygon points="59 105 91 113 123 105 120 100 71 87 65 90 40 87 30 101" fill="url(#id-demon-male-4_body_black-53)" id="id-demon-male-4_body_black-213">
+</polygon >
+<polygon points="50 69 93 83 124 81 131 50 98 64 101 53 79 47" fill="url(#id-demon-male-4_body_black-54)" opacity="0.556" id="id-demon-male-4_body_black-214">
+</polygon >
+<path d="M 3 143 C 2 136 1 129 1 123 C -2 88 15 34 16 33 C 30 19 56 0 94 0 C 157 0 177 45 180 51 C 182 56 183 103 181 136 L 151 101 C 153 90 154 83 153 79 C 149 60 139 49 135 47 C 130 44 99 49 94 49 C 89 49 77 43 58 42 C 54 41 47 43 37 46 C 28 60 23 68 23 69 C 11 96 16 104 13 127 C 12 131 9 136 3 143 Z" fill="url(#id-demon-male-4_body_black-55)" id="id-demon-male-4_body_black-211">
+</path >
+<polygon points="145 168 106 137 108 129 148 140 163 155" fill="url(#id-demon-male-4_body_black-56)" id="id-demon-male-4_body_black-216">
+</polygon >
+<polygon points="145 168 106 137 106 148 115 170 132 185" fill="#778a92" id="id-demon-male-4_body_black-216">
+</polygon >
+<path d="M 180 51 C 182 56 183 103 181 136 L 161 124 L 160 111 C 166 97 171 86 174 77 C 175 74 175 70 177 64 C 178 59 177 51 173 40 L 180 51 Z" fill="#4b555a" id="id-demon-male-4_body_black-211">
+</path >
+<path d="M 47 11 C 59 5 75 0 94 0 C 157 0 177 45 180 51 C 181 54 182 73 182 94 C 173 71 155 51 128 34 C 101 18 74 10 47 11 Z" fill="url(#id-demon-male-4_body_black-57)" id="id-demon-male-4_body_black-211">
+</path >
+<polygon points="179 156 157 131 147 142 161 156 143 168 147 190" fill="url(#id-demon-male-4_body_black-58)" id="id-demon-male-4_body_black-211">
+</polygon >
+<path d="M 153 211 L 163 139 L 156 131 L 175 104 L 182 68 C 182 88 182 121 180 144 C 178 177 161 231 159 235 C 157 238 123 261 118 263 L 153 211 Z" fill="url(#id-demon-male-4_body_black-59)" id="id-demon-male-4_body_black-211">
+</path >
+<polygon points="84 260 98 252 111 242 101 222 64 227 63 248" fill="#778890" id="id-demon-male-4_body_black-222">
+</polygon >
+<polygon points="32 187 43 176 21 169 40 145 20 136 8 168" fill="#86a9b6" id="id-demon-male-4_body_black-223">
+</polygon >
+<path d="M 4 155 C 4 155 4 154 4 153 C 3 148 3 143 2 139 L 12 129 L 14 97 L 20 117 L 15 145 L 20 172 L 4 155 Z" fill="#557583" id="id-demon-male-4_body_black-211">
+</path >
+<polygon points="12 135 16 120 19 114 31 129 67 132 68 135 39 148 23 138 23 131" fill="url(#id-demon-male-4_body_black-60)" id="id-demon-male-4_body_black-225">
+</polygon >
+<polygon points="17 155 10 136 22 130 24 130 24 138" fill="#557987" id="id-demon-male-4_body_black-226">
+</polygon >
+<path d="M 19 231 C 17 227 11 201 4 153 L 33 185 L 45 238 C 62 256 69 264 69 264 C 63 261 21 235 19 231 Z" fill="url(#id-demon-male-4_body_black-61)" id="id-demon-male-4_body_black-211">
+</path >
+<polygon points="57 194 44 173 33 185 45 238 60 214" fill="url(#id-demon-male-4_body_black-62)" id="id-demon-male-4_body_black-211">
+</polygon >
+<path d="M 19 231 C 18 229 16 223 14 212 C 28 230 45 243 64 252 C 83 260 101 261 116 256 L 148 212 L 171 192 C 166 214 160 233 159 235 C 157 238 123 261 118 263 C 113 266 74 267 69 264 C 63 261 21 235 19 231 Z" fill="#2a2d2f" id="id-demon-male-4_body_black-211">
+</path >
+<polygon points="116 256 151 210 143 168 131 184 128 234 112 257" fill="url(#id-demon-male-4_body_black-63)" id="id-demon-male-4_body_black-211">
+</polygon >
+<path d="M 179 156 C 174 189 161 232 159 235 C 159 235 158 236 156 236 L 147 190 L 179 156 Z" fill="url(#id-demon-male-4_body_black-64)" opacity="0.606" id="id-demon-male-4_body_black-211">
+</path >
+<path d="M 180 144 C 178 177 161 231 159 235 C 158 236 151 242 142 248 L 157 232 L 163 216 L 170 168 L 180 144 Z" fill="url(#id-demon-male-4_body_black-65)" id="id-demon-male-4_body_black-211">
+</path >
+<path d="M 134 253 C 127 258 120 262 118 263 C 113 266 74 267 69 264 C 66 262 56 256 45 249 L 72 256 L 115 262 L 134 253 Z" fill="#303438" id="id-demon-male-4_body_black-211">
+</path >
+<path d="M 1 129 C 1 125 1 121 0 117 C -1 91 3 63 8 49 C 9 46 15 34 15 34 C 16 34 16 34 16 33 L 29 29 L 12 57 L 12 86 L 1 129 Z" fill="url(#id-demon-male-4_body_black-66)" id="id-demon-male-4_body_black-211">
+</path >
+<path d="M 181 133 C 181 137 180 140 180 144 C 180 151 178 160 177 169 L 157 179 L 174 157 L 177 138 L 181 133 Z" fill="#1f2425" id="id-demon-male-4_body_black-211">
+</path >
+<path d="M 72 248 C 70 246 69 241 67 234 L 82 227 L 110 242 C 85 246 72 248 72 248 Z" fill="#99aab1" id="id-demon-male-4_body_black-236">
+</path >
+<polygon points="108 176 113 181 124 212 59 209 61 183 66 176" fill="#93abb4" id="id-demon-male-4_body_black-237">
+</polygon >
+<polygon points="82 194 73 184 76 178 111 181 97 194" fill="#7f99a4" id="id-demon-male-4_body_black-238">
+</polygon >
+<polygon points="82 193 91 197 99 194 98 180 84 180" fill="url(#id-demon-male-4_body_black-67)" id="id-demon-male-4_body_black-239">
+</polygon >
+<polygon points="82 196 82 193 91 197 99 194 99 197 90 201" fill="#7a9198" id="id-demon-male-4_body_black-239">
+</polygon >
+<polygon points="74 138 66 145 59 160 66 171 119 176 115 162 122 153 107 140 109 115" fill="url(#id-demon-male-4_body_black-68)" id="id-demon-male-4_body_black-241">
+</polygon >
+<polygon points="74 138 77 153 74 160 74 183 93 181 110 183 117 178 119 174 115 162 104 153 107 140 109 115 70 115 70 126" fill="url(#id-demon-male-4_body_black-69)" id="id-demon-male-4_body_black-241">
+</polygon >
+<polygon points="96 178 107 168 83 165 67 173 70 180" fill="#4e5f65" id="id-demon-male-4_body_black-243">
+</polygon >
+<polygon points="79 124 70 112 70 126 72 131" fill="#5f7b87" id="id-demon-male-4_body_black-241">
+</polygon >
+<polygon points="70 160 56 172 61 183 77 181 66 176" fill="#92abb5" id="id-demon-male-4_body_black-245">
+</polygon >
+<polygon points="86 136 70 113 68 101 91 108 107 104 109 112 93 136" fill="url(#id-demon-male-4_body_black-70)" id="id-demon-male-4_body_black-246">
+</polygon >
+<polygon points="95 169 104 168 115 168 102 159" fill="#64747e" id="id-demon-male-4_body_black-247">
+</polygon >
+<polygon points="85 170 97 169 102 159 97 143 95 123 87 126 81 166" fill="url(#id-demon-male-4_body_black-71)" id="id-demon-male-4_body_black-247">
+</polygon >
+<polygon points="85 170 96 169 92 157" fill="#91abb5" id="id-demon-male-4_body_black-247">
+</polygon >
+<polygon points="91 136 87 125 90 117 95 123" fill="#88a5b1" id="id-demon-male-4_body_black-250">
+</polygon >
+<polygon points="103 157 105 151 115 163" fill="#47555b" id="id-demon-male-4_body_black-251">
+</polygon >
+<polygon points="74 183 65 179 64 173 69 163 75 158 75 163 69 172 69 175 75 175 87 179" fill="url(#id-demon-male-4_body_black-72)" id="id-demon-male-4_body_black-252">
+</polygon >
+<polygon points="69 172 78 172 75 162 70 164" fill="url(#id-demon-male-4_body_black-73)" id="id-demon-male-4_body_black-253">
+</polygon >
+<polygon points="119 173 119 178 113 184 101 183 111 182 117 177" fill="#410d22" id="id-demon-male-4_body_black-254">
+</polygon >
+<polygon points="88 181 93 182 96 182 98 178 83 175" fill="#505f65" id="id-demon-male-4_body_black-255">
+</polygon >
+<polygon points="96 182 98 178 83 175" fill="#39454a" id="id-demon-male-4_body_black-255">
+</polygon >
+<path d="M 76 179 C 78 180 82 180 89 180 C 88 178 87 177 86 176 C 84 176 82 175 78 173 C 76 174 75 175 74 176 C 73 177 75 179 76 179 Z" fill="#1d2326" id="id-demon-male-4_body_black-257">
+</path >
+<path d="M 96 180 L 99 176 L 107 173 C 110 174 111 176 109 178 C 106 180 102 181 96 180 Z" fill="#1d2326" id="id-demon-male-4_body_black-258">
+</path >
+<polygon points="29 128 56 124 71 126 72 114 47 102 18 114" fill="url(#id-demon-male-4_body_black-74)" id="id-demon-male-4_body_black-259">
+</polygon >
+<polygon points="35 127 56 124 68 126 59 108 52 104" fill="url(#id-demon-male-4_body_black-75)" id="id-demon-male-4_body_black-259">
+</polygon >
+<polygon points="36 129 40 135 33 132 32 130" fill="#2f1a10" opacity="0.429" id="id-demon-male-4_body_black-261">
+</polygon >
+<polygon points="47 138 68 135 39 148 32 143 39 138" fill="#5f7b87" id="id-demon-male-4_body_black-225">
+</polygon >
+<path d="M 22 130 C 26 129 29 128 31 127 C 39 123 46 122 52 122 C 59 122 65 126 69 133 L 68 135 L 66 133 L 65 132 L 36 129 L 40 134 L 31 133 L 22 130 Z" fill="#35221d" id="id-demon-male-4_body_black-263">
+</path >
+<polygon points="35 129 40 135 49 135 62 133 64 130 58 126 43 125" fill="#e5e2f2" id="id-demon-male-4_body_black-261">
+</polygon >
+<path d="M 53 134 C 56 133 57 131 58 127 C 57 125 54 124 51 124 C 47 124 45 124 43 125 C 43 128 43 130 43 131 C 45 133 49 136 53 134 Z" fill="#2c1e19" id="id-demon-male-4_body_black-261">
+</path >
+<polygon points="62 133 64 130 66 132" fill="#c37c79" id="id-demon-male-4_body_black-261">
+</polygon >
+<polygon points="35 129 40 135 48 126 43 125" fill="#2f1a10" opacity="0.429" id="id-demon-male-4_body_black-261">
+</polygon >
+<path d="M 49 131 L 49 134 C 51 134 52 133 53 133 C 54 133 55 132 56 130 C 54 131 52 131 51 131 C 50 131 49 131 49 131 Z" fill="#384239" id="id-demon-male-4_body_black-268">
+</path >
+<polygon points="107 130 116 131 137 124 155 110 116 108" fill="#526167" id="id-demon-male-4_body_black-269">
+</polygon >
+<polygon points="133 148 150 141 163 122 161 110 155 106 134 126 139 131 131 143 136 143" fill="url(#id-demon-male-4_body_black-76)" id="id-demon-male-4_body_black-270">
+</polygon >
+<polygon points="46 129 49 129 50 127 46 127" fill="#c2bac8" id="id-demon-male-4_body_black-271">
+</polygon >
+<polygon points="47 138 53 142 59 136" fill="#688a96" id="id-demon-male-4_body_black-272">
+</polygon >
+<path d="M 72 114 L 62 111 C 48 110 38 110 31 110 C 25 111 20 114 16 120 C 17 115 18 111 20 108 C 21 106 23 103 27 101 L 27 104 L 29 99 C 32 99 36 98 40 98 C 45 98 51 99 60 99 L 64 105 L 64 101 L 69 101 L 72 114 Z" fill="url(#id-demon-male-4_body_black-77)" id="id-demon-male-4_body_black-273">
+</path >
+<polygon points="72 114 62 111 70 106 70 108 74 105" fill="#171c1d" id="id-demon-male-4_body_black-273">
+</polygon >
+<polygon points="107 130 107 111 118 111 122 116" fill="#4d5e64" id="id-demon-male-4_body_black-275">
+</polygon >
+<polygon points="128 125 122 116 128 116 135 114 132 124" fill="#869ea7" id="id-demon-male-4_body_black-276">
+</polygon >
+<path d="M 115 133 C 115 134 114 135 114 135 C 113 135 113 134 113 133 C 114 131 115 130 116 129 C 121 125 126 123 132 123 C 140 123 147 125 153 129 L 160 132 L 149 135 L 140 135 L 115 133 Z" fill="#402c24" id="id-demon-male-4_body_black-277">
+</path >
+<path d="M 107 113 L 104 103 L 110 103 L 109 109 L 116 100 C 121 99 127 99 132 98 C 138 98 143 98 146 98 L 138 102 L 149 99 L 162 109 L 163 122 C 161 115 158 111 154 110 C 152 110 146 110 137 111 L 124 111 L 107 113 Z" fill="url(#id-demon-male-4_body_black-78)" id="id-demon-male-4_body_black-278">
+</path >
+<path d="M 149 99 L 162 109 C 161 110 158 111 154 110 C 152 110 146 110 137 111 L 124 111 L 149 99 Z" fill="#171c1d" id="id-demon-male-4_body_black-278">
+</path >
+<path d="M 149 132 C 145 127 140 125 135 125 C 129 124 123 126 117 131 L 119 134 C 125 135 129 135 132 135 C 134 135 138 135 142 135 L 149 132 Z" fill="#eae6fb" id="id-demon-male-4_body_black-280">
+</path >
+<path d="M 139 125 C 137 125 136 125 135 125 C 131 125 127 125 123 127 C 124 132 127 135 132 135 C 138 135 140 132 139 125 Z" fill="#2e2020" id="id-demon-male-4_body_black-280">
+</path >
+<path d="M 149 132 C 145 127 140 125 135 125 C 129 124 123 126 117 131 L 119 134 C 123 130 127 127 132 127 C 137 127 141 130 144 134 L 149 132 Z" fill="#3e2f25" opacity="0.326" id="id-demon-male-4_body_black-280">
+</path >
+<polygon points="117 131 115 133 119 134" fill="#b4796d" id="id-demon-male-4_body_black-280">
+</polygon >
+<polygon points="128 129 128 127 132 126 132 128" fill="#e6e2f6" id="id-demon-male-4_body_black-284">
+</polygon >
+<path d="M 132 134 C 133 134 134 134 135 134 C 136 133 137 132 138 130 L 133 130 L 132 134 Z" fill="#384039" id="id-demon-male-4_body_black-285">
+</path >
+<polygon points="66 231 96 228 106 228 118 223 118 212 60 214 56 220" fill="#61747d" id="id-demon-male-4_body_black-286">
+</polygon >
+<polygon points="117 217 124 213 101 203 70 206 59 214 60 217" fill="#1d2324" id="id-demon-male-4_body_black-287">
+</polygon >
+<polygon points="114 135 135 137 149 135 143 135 115 133" fill="#b58e82" id="id-demon-male-4_body_black-288">
+</polygon >
+<polygon points="105 225 96 229 84 228 76 224" fill="#1b1f20" id="id-demon-male-4_body_black-289">
+</polygon >
+<polygon points="84 228 76 224 101 225" fill="#1b1f20" id="id-demon-male-4_body_black-289">
+</polygon >
+<path d="M 59 215 L 58 217 L 76 225 L 104 225 L 118 217 C 114 214 110 212 105 212 C 101 211 90 212 71 212 L 65 217 L 59 215 Z" fill="url(#id-demon-male-4_body_black-79)" id="id-demon-male-4_body_black-291">
+</path >
+<path d="M 79 221 L 73 218 C 80 217 86 216 90 216 C 94 216 99 216 107 217 L 99 221 C 96 220 93 219 90 219 C 88 219 85 220 79 221 Z" fill="url(#id-demon-male-4_body_black-80)" id="id-demon-male-4_body_black-292">
+</path >
+<path d="M 59 215 L 59 210 C 64 206 68 204 71 202 C 73 201 77 198 82 196 L 90 200 L 99 196 L 113 202 L 124 213 L 115 213 L 102 208 L 90 206 L 75 208 L 63 214 L 59 215 Z" fill="url(#id-demon-male-4_body_black-81)" id="id-demon-male-4_body_black-293">
+</path >
+<path d="M 71 202 C 73 201 77 198 82 196 L 90 200 L 99 196 L 113 202 L 102 208 L 90 206 L 75 208 L 71 202 Z" fill="url(#id-demon-male-4_body_black-82)" id="id-demon-male-4_body_black-293">
+</path >
+<path d="M 75 200 C 77 199 79 198 82 196 L 90 200 L 90 206 L 82 207 L 75 200 Z" fill="#293033" id="id-demon-male-4_body_black-293">
+</path >
+</g >
+</g >
+</g >
+<path d="M 535 848 C 529 862 526 870 526 870 C 536 867 545 865 555 867 L 556 860 C 542 852 535 848 535 848 Z" fill="#adb8d6" id="id-demon-male-4_body_black-296">
+</path >
+<path d="M 306 129 C 311 126 318 123 323 124 C 325 124 333 127 337 132 L 332 133 L 320 135 L 310 135 L 306 129 Z" fill="#ff0000" id="id-demon-male-4_body_black-297">
+</path >
+<path d="M 386 133 L 387 130 C 394 126 401 122 409 125 C 414 127 416 129 419 132 L 413 135 C 402 135 391 135 386 133 Z" fill="#ff0000" id="id-demon-male-4_body_black-298">
+</path >
+<path d="M 548 963 C 560 968 566 970 566 970 C 586 1017 595 1040 595 1040 L 600 1060 C 588 1031 571 999 548 963 Z" fill="#adb8d6" id="id-demon-male-4_body_black-299">
+</path >
+<path d="M 614 1166 C 621 1173 625 1177 625 1177 C 627 1197 627 1206 627 1206 C 625 1198 622 1190 617 1189 C 615 1174 614 1166 614 1166 Z" fill="#201c31" id="id-demon-male-4_body_black-300">
+</path >
+<path d="M 609 1124 C 614 1123 619 1125 625 1130 C 621 1117 619 1110 619 1110 L 605 1091 C 608 1113 609 1124 609 1124 Z" fill="#201c31" id="id-demon-male-4_body_black-301">
+</path >
+<path d="M 650 1181 C 635 1197 628 1205 628 1205 L 649 1193 C 649 1185 650 1181 650 1181 Z" fill="#0c0a12" id="id-demon-male-4_body_black-302">
+</path >
+<path d="M 652 1172 C 649 1167 648 1165 648 1165 C 646 1151 646 1145 646 1145 L 658 1141 C 654 1162 652 1172 652 1172 Z" fill="#0d0b15" id="id-demon-male-4_body_black-303">
+</path >
+<path d="M 698 923 C 713 904 721 895 721 895 C 725 874 727 864 727 864 C 716 878 711 885 711 885 L 699 891 C 698 912 698 923 698 923 Z" fill="#1f1937" id="id-demon-male-4_body_black-304">
+</path >
+<path d="M 675 916 C 694 887 704 872 704 872 C 707 857 708 850 708 850 C 693 865 685 872 685 872 L 665 882 C 672 904 675 916 675 916 Z" fill="#120f1f" id="id-demon-male-4_body_black-305">
+</path >
+<path d="M 677 849 C 707 816 722 800 722 800 C 728 771 731 756 731 756 C 721 771 716 779 716 779 C 700 793 692 799 692 799 C 702 783 707 775 707 775 C 711 749 713 736 713 736 L 696 764 L 673 779 C 676 825 677 849 677 849 Z" fill="#1a162e" id="id-demon-male-4_body_black-306">
+</path >
+<path d="M 697 737 C 722 694 735 673 735 673 C 727 645 723 632 723 632 C 720 652 719 662 719 662 C 702 674 693 679 693 679 C 696 657 698 645 698 645 C 690 625 686 614 686 614 C 683 639 681 651 681 651 L 667 667 C 687 714 697 737 697 737 Z" fill="#251d41" id="id-demon-male-4_body_black-307">
+</path >
+<path d="M 586 731 C 576 727 570 724 570 724 C 563 720 559 718 559 718 C 563 732 565 739 565 739 L 591 765 C 588 742 586 731 586 731 Z" fill="#292637" id="id-demon-male-4_body_black-308">
+</path >
+<path d="M 595 792 C 586 789 582 788 582 788 C 587 797 589 801 589 801 L 603 812 C 598 799 595 792 595 792 Z" fill="#292637" id="id-demon-male-4_body_black-309">
+</path >
+<path d="M 61 757 C 65 780 66 792 66 792 C 62 808 60 816 60 816 C 41 779 31 761 31 761 C 31 749 30 743 30 743 C 35 752 37 757 37 757 L 54 768 C 59 761 61 757 61 757 Z" fill="#22244b" id="id-demon-male-4_body_black-310">
+</path >
+<path d="M 34 821 C 15 790 6 775 6 775 C 3 759 2 751 2 751 C 9 763 13 769 13 769 C 23 776 28 779 28 779 C 31 772 33 769 33 769 L 40 792 C 36 812 34 821 34 821 Z" fill="#1a1a38" id="id-demon-male-4_body_black-311">
+</path >
+<path d="M 61 917 C 63 901 65 893 65 893 C 62 875 61 866 61 866 C 55 871 52 874 52 874 C 36 856 28 847 28 847 L 30 869 C 50 901 61 917 61 917 Z" fill="#1f2042" id="id-demon-male-4_body_black-312">
+</path >
+<path d="M 37 924 C 20 895 12 880 12 880 C 8 860 6 849 6 849 C 11 863 14 870 14 870 C 23 878 27 882 27 882 C 31 877 32 875 32 875 L 39 884 C 38 911 37 924 37 924 Z" fill="#232750" id="id-demon-male-4_body_black-313">
+</path >
+<path d="M 132 805 C 143 795 148 790 148 790 C 154 777 157 770 157 770 L 142 779 C 135 796 132 805 132 805 Z" fill="#1a1925" id="id-demon-male-4_body_black-314">
+</path >
+<path d="M 144 756 C 160 740 168 731 168 731 C 174 712 176 702 176 702 L 147 723 C 145 745 144 756 144 756 Z" fill="#1a1925" id="id-demon-male-4_body_black-315">
+</path >
+<path d="M 36 734 C 12 689 0 666 0 666 C 6 635 9 620 9 620 C 11 636 12 653 23 662 L 65 680 C 46 716 36 734 36 734 Z" fill="#1b1c3b" id="id-demon-male-4_body_black-316">
+</path >
+<path d="M 67 726 C 78 705 83 694 83 694 C 83 675 82 666 82 666 C 68 662 60 658 60 652 C 51 615 46 597 46 597 L 35 638 C 45 668 53 704 66 724" fill="#2d2e5c" id="id-demon-male-4_body_black-317">
+</path >
+<path d="M 202 767 C 189 774 183 777 183 777 C 193 807 198 822 198 822 L 197 779 C 200 771 202 767 202 767 Z" fill="#24232b" id="id-demon-male-4_body_black-318">
+</path >
+<path d="M 145 1114 C 137 1122 133 1126 133 1126 C 133 1141 133 1149 133 1149 C 137 1143 141 1137 146 1136 C 145 1122 145 1114 145 1114 Z" fill="#330a24" id="id-demon-male-4_body_black-319">
+</path >
+<path d="M 148 1171 C 139 1179 135 1183 135 1183 C 132 1206 131 1218 131 1218 C 137 1208 141 1200 149 1200 C 148 1180 148 1171 148 1171 Z" fill="#330a24" id="id-demon-male-4_body_black-320">
+</path >
+<path d="M 150 1232 C 152 1260 153 1274 153 1274 C 143 1285 138 1294 137 1301 L 141 1244 C 147 1236 150 1232 150 1232 Z" fill="#330a24" id="id-demon-male-4_body_black-321">
+</path >
+<path d="M 76 1140 C 76 1152 76 1158 76 1158 C 79 1164 80 1167 80 1167 L 88 1142 C 80 1141 76 1140 76 1140 Z" fill="#070b14" id="id-demon-male-4_body_black-322">
+</path >
+<path d="M 85 1152 C 100 1161 107 1166 107 1166 L 86 1159 C 86 1154 85 1152 85 1152 Z" fill="#060b11" id="id-demon-male-4_body_black-323">
+</path >
+<path d="M 89 1185 C 100 1197 105 1203 105 1203 L 89 1193 C 89 1188 89 1185 89 1185 Z" fill="#060b11" id="id-demon-male-4_body_black-324">
+</path >
+<path d="M 623 1160 C 643 1152 653 1147 653 1147 L 652 1157 C 633 1159 623 1160 623 1160 Z" fill="#0d0b15" id="id-demon-male-4_body_black-325">
+</path >
+<path d="M 303 1283 C 309 1318 312 1336 312 1336 C 305 1358 301 1369 301 1369 C 304 1365 306 1362 306 1362 C 312 1392 315 1408 315 1408 L 317 1334 C 308 1300 303 1283 303 1283 Z" fill="#adb8d6" id="id-demon-male-4_body_black-326">
+</path >
+<g transform="translate(132,298)" id="id-demon-male-4_body_black-327">
+<path d="M 149 1 C 156 56 154 48 177 92 C 189 119 205 143 223 165 C 234 179 244 186 254 193 C 268 202 279 208 287 208 C 294 208 299 204 303 200 L 303 200 C 306 197 308 195 311 193 C 325 181 333 161 336 151 C 333 137 331 122 329 106 C 326 92 325 75 325 58 L 325 55 C 325 48 324 40 324 33 C 322 23 320 15 320 3 L 320 3 L 329 9 C 331 16 332 24 333 31 C 333 53 335 75 338 97 C 341 114 345 120 348 122 C 357 127 366 109 370 102 C 378 81 386 61 395 42 L 395 42 L 404 45 L 404 46 L 409 47 C 346 133 322 248 308 320 C 303 360 304 398 313 427 C 324 452 324 467 340 477 C 357 487 381 479 396 470 L 396 470 L 412 472 C 406 486 400 496 393 504 C 393 504 387 502 374 498 C 369 511 364 524 355 537 C 348 544 341 549 333 552 C 327 553 321 552 315 551 C 301 544 287 522 273 497 L 273 497 L 273 497 C 273 497 272 519 272 561 C 269 541 263 530 257 518 L 257 517 C 257 517 256 517 256 517 L 256 516 C 256 515 255 515 255 514 C 261 509 265 500 269 490 C 265 484 259 477 253 470 C 235 469 213 482 190 502 C 171 519 154 541 132 558 L 132 558 L 131 558 C 131 558 131 558 131 559 L 130 559 C 127 563 123 567 117 568 C 105 568 93 568 86 571 L 86 571 L 87 572 C 87 572 87 572 87 573 L 88 574 L 88 574 L 88 575 C 88 576 89 576 89 576 L 89 577 C 95 589 101 599 109 600 C 109 600 117 604 131 613 C 224 635 311 601 387 543 C 395 536 403 530 410 524 C 411 534 413 541 415 548 C 415 548 414 548 412 550 C 412 550 412 551 414 553 C 414 553 414 553 415 553 C 415 553 417 557 421 565 C 418 564 416 565 414 566 C 408 565 403 564 400 563 C 400 563 398 564 393 568 L 393 568 L 399 571 C 395 573 420 612 429 619 C 405 647 388 673 378 700 C 378 700 383 656 391 570 C 386 577 375 654 363 735 L 363 735 L 363 739 C 362 740 362 742 362 743 L 361 747 C 361 751 360 755 360 759 L 359 763 C 351 820 344 876 344 908 C 336 881 327 865 317 860 C 302 873 270 974 255 1053 C 247 1004 248 968 241 898 C 236 861 230 842 222 839 C 199 847 181 865 165 888 C 165 888 166 870 168 836 C 161 781 150 731 135 686 C 130 675 125 664 119 655 L 119 655 L 115 691 C 117 714 119 742 119 778 C 120 816 119 858 119 894 C 112 846 105 820 98 796 L 97 794 C 97 794 97 793 97 793 L 96 790 C 96 790 96 790 96 789 L 96 788 C 95 785 94 782 93 778 C 102 759 107 736 110 713 L 111 709 C 111 707 112 705 112 703 L 112 701 C 113 698 113 694 114 691 L 114 691 L 108 645 L 116 654 C 116 654 117 653 118 653 C 109 639 101 628 91 618 C 84 681 13 736 0 787 C 3 757 7 729 15 706 C 17 701 24 693 30 684 C 37 676 43 666 48 658 C 57 643 75 625 84 609 C 84 609 84 609 83 607 L 83 607 L 83 607 C 82 608 71 619 49 643 C 47 635 44 626 43 615 C 63 592 72 562 64 550 C 60 548 57 541 55 539 L 55 539 L 57 530 C 84 553 74 556 98 558 C 102 554 109 551 116 549 L 118 549 C 122 547 127 546 130 544 C 137 538 143 532 148 526 C 150 522 150 516 149 507 C 147 506 148 503 145 502 C 142 500 139 498 135 497 L 134 496 C 124 491 111 484 95 476 C 95 476 85 472 65 465 C 73 454 78 444 83 435 C 103 480 162 524 184 486 C 196 465 205 449 211 439 C 216 429 225 414 236 395 C 242 382 247 371 252 360 L 253 357 C 258 353 258 347 261 342 C 270 287 242 228 202 166 C 190 145 179 125 170 104 C 163 92 154 84 145 76 L 144 75 C 144 74 143 73 142 73 L 141 72 C 130 61 118 51 110 33 L 110 33 L 110 33 C 110 33 116 26 128 13 C 133 33 139 43 145 53 L 145 54 C 145 55 146 55 146 56 L 147 57 C 150 62 153 67 156 74 C 142 41 141 25 135 7 L 135 7 Z M 368 595 L 365 598 L 325 706 C 327 719 340 715 345 699 C 352 674 357 629 368 595 L 368 595 Z M 352 592 C 340 602 317 611 295 619 L 294 620 C 284 624 275 627 266 631 C 279 648 302 642 327 622 C 338 610 346 599 352 592 Z M 310 482 C 318 508 329 520 344 520 C 357 520 363 512 362 496 L 362 496 Z" fill="#0b0f14" id="id-demon-male-4_body_black-328">
+</path >
+<path d="M 267 631 C 280 648 303 641 327 622 C 338 610 346 599 352 592 C 337 618 319 636 299 644 C 285 649 273 647 264 632 L 264 632 L 266 631 L 266 631 Z M 352 592 L 351 592 C 341 601 323 609 304 616 L 302 617 C 302 617 301 617 300 618 C 322 609 339 600 352 592 L 352 592 Z" fill="#29103b" id="id-demon-male-4_body_black-328">
+</path >
+<path d="M 325 706 C 327 719 340 715 345 699 C 352 674 357 629 368 595 L 368 595 L 368 596 C 362 624 356 659 349 700 C 345 719 325 723 325 706 L 325 706 Z" fill="#280f37" id="id-demon-male-4_body_black-328">
+</path >
+<path d="M 183 662 C 181 750 185 794 196 794 C 205 798 240 755 302 665 C 252 708 208 724 183 662 Z" fill="#06131e" id="id-demon-male-4_body_black-331">
+</path >
+<path d="M 168 531 L 192 504 C 178 529 178 551 176 551 C 176 538 171 535 172 530 L 168 531 Z" fill="#0a0d0d" id="id-demon-male-4_body_black-332">
+</path >
+<path d="M 318 295 C 311 311 308 336 309 373 C 310 362 314 351 319 338 L 317 338 L 318 295 Z" fill="#0a0d0d" id="id-demon-male-4_body_black-333">
+</path >
+</g >
+</g >
+<defs >
+<linearGradient x1="50%" y1="28%" x2="32%" y2="89%" id="id-demon-male-9_horns-0">
+<stop stop-color="#1c0606" offset="0%">
+</stop >
+<stop stop-color="#270e0e" offset="100%" stop-opacity="0.199">
+</stop >
+</linearGradient >
+<filter width="146%" height="129%" x="-23%" y="-14%" id="id-demon-male-9_horns-1" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="5">
+</feGaussianBlur >
+</filter >
+<radialGradient cx="67%" cy="44%" r="68%" id="id-demon-male-9_horns-2" fx="67%" fy="44%" gradientTransform="translate(0.671,0.439) scale(1,0.671) rotate(75) translate(-0.671,-0.439)">
+<stop stop-color="#c90000" offset="0%">
+</stop >
+<stop stop-color="#2a1113" offset="100%">
+</stop >
+</radialGradient >
+<linearGradient x1="50%" y1="37%" x2="32%" y2="73%" id="id-demon-male-9_horns-3">
+<stop stop-color="#1c0606" offset="0%">
+</stop >
+<stop stop-color="#270e0e" offset="100%" stop-opacity="0.199">
+</stop >
+</linearGradient >
+<filter width="144%" height="129%" x="-22%" y="-14%" id="id-demon-male-9_horns-4" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="5">
+</feGaussianBlur >
+</filter >
+<radialGradient cx="35%" cy="41%" r="76%" id="id-demon-male-9_horns-5" fx="35%" fy="41%" gradientTransform="translate(0.349,0.415) scale(1,0.671) rotate(83) translate(-0.349,-0.415)">
+<stop stop-color="#c90000" offset="0%">
+</stop >
+<stop stop-color="#2a1113" offset="100%">
+</stop >
+</radialGradient >
+</defs >
+<g transform="translate(549,221)" id="id-demon-male-9_horns-6">
+<g transform="translate(145,0)" id="id-demon-male-9_horns-7">
+<polygon points="5 106 34 131 38 100" fill="url(#id-demon-male-9_horns-0)" opacity="0.599" id="id-demon-male-9_horns-8">
+</polygon >
+<path d="M 75 57 C 75 58 74 59 74 59 C 72 66 69 72 65 77 C 65 77 64 78 64 78 C 56 88 46 97 35 105 C 34 106 24 108 18 100 C 12 92 10 77 12 77 C 22 76 30 68 38 61 C 38 61 39 60 39 60 C 49 51 56 40 58 34 C 63 23 59 8 60 2 C 75 24 79 42 75 57 Z" fill="#ff2626" id="id-demon-male-9_horns-9" filter="url(#id-demon-male-9_horns-1)">
+</path >
+<path d="M 75 57 C 75 58 74 59 74 59 C 72 66 69 72 65 77 C 65 77 64 78 64 78 C 56 88 46 97 35 105 C 33 107 30 110 29 113 C 29 114 29 114 29 114 C 26 114 24 114 22 112 C -3 115 -1 85 5 76 C 5 75 6 75 6 75 C 6 75 8 73 11 73 C 21 73 30 68 38 61 C 38 61 39 60 39 60 C 49 51 56 40 58 34 C 63 23 59 8 60 2 C 75 24 79 42 75 57 Z" fill="url(#id-demon-male-9_horns-2)" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 74 59 C 70 73 60 84 49 94 L 49 94 C 44 98 40 102 35 105 C 33 107 30 110 29 113 L 28 105 L 28 100 C 28 100 60 80 74 59 Z" fill="#363b7e" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 5 90 C 5 90 8 102 11 104 C 11 104 1 103 5 90 Z" fill="#636383" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 17 107 L 22 107 L 23 110 C 23 110 18 109 17 107 Z" fill="#485096" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 49 94 C 44 98 40 102 35 105 C 33 107 30 110 29 113 L 28 105 C 29 104 30 104 32 103 C 36 103 44 98 49 94 Z" fill="#5562ac" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 29 68 C 23 74 14 77 6 75 C 6 75 6 75 6 75 C 6 75 8 73 11 73 C 17 73 23 71 29 68 Z" fill="#898aae" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 76 39 C 67 47 61 42 57 37 C 57 36 58 35 58 34 C 63 23 59 8 60 2 C 70 15 75 28 76 39 Z" fill="#240f18" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 67 35 C 67 39 66 51 57 56 C 48 61 49 62 40 70 L 40 70 C 31 79 19 100 19 100 C 12 95 13 89 13 89 C 13 89 31 74 39 68 C 40 67 41 66 41 66 C 46 62 63 47 63 30 C 64 13 59 0 59 0 C 68 15 68 32 67 35 Z" fill="#8e9bc2" opacity="0.882" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 65 77 C 65 77 64 78 64 78 C 59 79 49 80 43 72 C 41 70 40 68 39 66 C 39 64 38 63 38 61 C 38 61 39 60 39 60 C 39 62 40 63 41 65 C 41 67 42 69 44 70 C 48 75 54 79 65 77 Z" fill="#ec2027" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 44 70 L 43 72 C 41 70 40 68 39 66 L 41 65 C 41 67 42 69 44 70 Z" fill="#d5dcf0" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 40 70 C 31 79 19 100 19 100 C 12 95 13 89 13 89 C 13 89 31 74 39 68 L 40 70 Z" fill="#58465d" id="id-demon-male-9_horns-9">
+</path >
+</g >
+<polygon points="42 105 47 127 71 107" fill="url(#id-demon-male-9_horns-3)" opacity="0.599" id="id-demon-male-9_horns-8">
+</polygon >
+<g id="id-demon-male-9_horns-23">
+<path d="M 2 57 C 2 58 3 59 3 59 C 5 66 8 72 12 77 C 12 77 13 78 13 78 C 21 88 31 97 42 105 C 42 106 61 108 64 105 C 71 96 68 73 66 73 C 56 73 47 68 39 61 C 39 61 38 60 38 60 C 28 51 21 40 19 34 C 14 23 18 8 17 2 C 2 24 -2 42 2 57 Z" fill="#ff2626" id="id-demon-male-9_horns-9" filter="url(#id-demon-male-9_horns-4)">
+</path >
+<path d="M 2 57 C 2 58 3 59 3 59 C 5 66 8 72 12 77 C 12 77 13 78 13 78 C 21 88 31 97 42 105 C 44 107 47 110 48 113 C 48 114 48 114 48 114 C 51 114 53 114 55 112 C 80 115 78 85 72 76 C 72 75 71 75 71 75 C 71 75 69 73 66 73 C 56 73 47 68 39 61 C 39 61 38 60 38 60 C 28 51 21 40 19 34 C 14 23 18 8 17 2 C 2 24 -2 42 2 57 Z" fill="url(#id-demon-male-9_horns-5)" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 3 59 C 7 73 17 84 28 94 L 28 94 C 33 98 37 102 42 105 C 44 107 47 110 48 113 L 49 105 L 49 100 C 49 100 16 80 3 59 Z" fill="#363b7e" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 72 90 C 72 90 69 102 66 104 C 66 104 76 103 72 90 Z" fill="#636383" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 60 107 L 55 107 L 54 110 C 54 110 59 109 60 107 Z" fill="#485096" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 28 94 C 33 98 37 102 42 105 C 44 107 47 110 48 113 L 49 105 C 48 104 47 104 45 103 C 40 103 33 98 28 94 Z" fill="#5562ac" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 48 68 C 54 74 63 77 71 75 C 71 75 71 75 71 75 C 71 75 69 73 66 73 C 60 73 54 71 48 68 Z" fill="#898aae" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 1 39 C 10 47 16 42 20 37 C 20 36 19 35 19 34 C 14 23 18 8 17 2 C 7 15 2 28 1 39 Z" fill="#240f18" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 10 35 C 10 39 11 51 20 56 C 29 61 28 62 37 70 L 37 70 C 46 79 58 100 58 100 C 65 95 64 89 64 89 C 64 89 46 74 38 68 C 37 67 36 66 36 66 C 31 62 14 47 13 30 C 13 13 18 0 18 0 C 9 15 9 32 10 35 Z" fill="#8e9bc2" opacity="0.879" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 12 77 C 12 77 13 78 13 78 C 18 79 28 80 34 72 C 36 70 37 68 38 66 C 38 64 39 63 39 61 C 39 61 38 60 38 60 C 37 62 37 63 36 65 C 35 67 34 69 33 70 C 29 75 23 79 12 77 Z" fill="#ec2027" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 33 70 L 34 72 C 36 70 37 68 38 66 L 36 65 C 36 67 34 69 33 70 Z" fill="#d5dcf0" id="id-demon-male-9_horns-9">
+</path >
+<path d="M 37 70 C 46 79 58 100 58 100 C 65 95 64 89 64 89 C 64 89 46 74 38 68 L 37 70 Z" fill="#58465d" id="id-demon-male-9_horns-9">
+</path >
+</g >
+</g >
+<defs >
+<linearGradient x1="6%" y1="50%" x2="92%" y2="50%" id="id-demon-male-11_halo_front_green-0">
+<stop stop-color="#52ff11" offset="0%">
+</stop >
+<stop stop-color="#40ff87" offset="50%">
+</stop >
+<stop stop-color="#00c420" offset="100%">
+</stop >
+</linearGradient >
+<filter width="155%" height="577%" x="-27%" y="-238%" id="id-demon-male-11_halo_front_green-1" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="30">
+</feGaussianBlur >
+</filter >
+</defs >
+<g transform="translate(494,169)" id="id-demon-male-11_halo_front_green-2">
+<path d="M 161 27 C 202 27 252 28 295 34 C 301 34 308 37 316 40 C 316 40 316 40 317 39 C 319 38 320 36 320 34 C 320 16 250 12 164 12 C 78 12 13 16 13 34 C 13 35 14 37 15 38 C 15 38 15 38 15 39 C 24 36 32 34 39 34 C 75 29 122 27 161 27 Z" fill="url(#id-demon-male-11_halo_front_green-0)" id="id-demon-male-11_halo_front_green-3">
+</path >
+<path d="M 31 31 C 63 26 105 23 158 23 C 211 23 260 26 305 31 C 285 24 236 20 158 20 C 80 20 38 24 31 31 Z" fill="#85ff88" id="id-demon-male-11_halo_front_green-4">
+</path >
+<path d="M 163 20 C 248 20 329 47 330 34 C 331 20 254 1 168 1 C 83 1 0 17 0 34 C 0 50 77 20 163 20 Z" fill="#00ff12" id="id-demon-male-11_halo_front_green-3" filter="url(#id-demon-male-11_halo_front_green-1)">
+</path >
+</g >
+<defs >
+</defs >
+<path d="M 1231 1666 C 1231 1671 1227 1674 1222 1674 C 1217 1674 1212 1670 1212 1665 C 1212 1662 1213 1660 1215 1658 L 1231 1666 L 1231 1666 Z M 1258 1658 C 1260 1660 1261 1662 1261 1665 C 1261 1670 1256 1674 1251 1674 C 1246 1674 1242 1671 1242 1666 L 1258 1658 L 1258 1658 Z M 1233 1622 L 1240 1622 C 1259 1622 1274 1637 1274 1656 L 1274 1677 C 1274 1684 1268 1690 1261 1690 L 1256 1690 L 1256 1695 C 1256 1705 1247 1714 1236 1714 L 1236 1714 C 1226 1714 1217 1705 1217 1695 L 1217 1690 L 1212 1690 C 1205 1690 1199 1684 1199 1677 L 1199 1656 C 1199 1637 1214 1622 1233 1622 L 1233 1622 Z" fill="black" opacity="1" id="id-icons-Demon-0">
+</path >
+  <defs>
+      <linearGradient id="Gradient1">
+        <stop class="stop1" offset="0%"/>
+        <stop class="stop2" offset="100%"/>
+      </linearGradient>
+      <style type="text/css"><![CDATA[
+        #tbar { fill: url(#Gradient1); }
+        .stop1 { stop-color: red; }
+        .stop2 { stop-color: blue; }
+      ]]></style>
+  </defs>
+<text x="50" y="115" font-family="Trebuchet MS" font-weight="900" font-size="5.5em" letter-spacing="-3.0" text-transform="uppercase" fill="black">ZIPPY VILE</text>
+<text x="50" y="180" font-family="Trebuchet MS" font-size="3.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">DEMON | WARRIOR</text>
+<g transform="translate(55,195)">
+  <rect id="tbar" y="0" width="185" height="13" fill="url(#Gradient1)"></rect>
+  <rect x="85" y="1" width="99" height="11" fill="#E3E3E3"></rect>
+</g>
+<text x="50" y="270" font-family="Trebuchet MS" font-size="3.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">CB-02290</text>
+
+<g transform="translate(50,1430)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">BODY</text>
+  <rect width="158" height="30" fill="black"></rect>
+  <rect width="190" height="30" fill="none" stroke="black"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="900" letter-spacing="0" text-transform="uppercase" fill="black">25</text>
+</g>
+<g transform="translate(50,1505)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">MIND</text>
+  <rect width="101" height="30" fill="black"></rect>
+  <rect width="190" height="30" fill="none" stroke="black"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.3em" font-weight="900" letter-spacing="0" text-transform="uppercase" fill="black">16</text>
+</g>
+<g transform="translate(50,1580)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">SOUL</text>
+  <rect width="120" height="30" fill="black"></rect>
+  <rect width="190" height="30" fill="none" stroke="black"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="900" letter-spacing="0" text-transform="uppercase" fill="black">19</text>
+</g>
+<g transform="translate(50,1675)">
+  <text x="0" y="-5" font-family="Helvetica" font-size="2.5em" font-weight="900" letter-spacing="-2" text-transform="uppercase" fill="black">TRAITS</text>
+  <rect width="0" height="30" fill="black"></rect>
+  <rect width="190" height="30" fill="none" stroke="black"></rect>
+  <text x="196" y="27" font-family="Helvetica" font-size="2.2em" font-weight="900" letter-spacing="0" text-transform="uppercase" fill="black">0</text>
+</g>
+</svg>
