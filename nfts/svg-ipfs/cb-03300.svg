@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-0">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-1" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-8">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-9" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-16">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-17" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-24">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-25" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-32">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-33" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-40">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-41" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-48">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-49" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-56">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-57" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-64">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-65" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-72">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-73" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-80">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-81" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-88">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-89" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-96">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-97" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-104">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-105" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-112">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-113" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-120">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-121" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-128">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-129" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-136">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-137" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-144">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-145" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-152">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-153" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-160">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-161" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-168">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-169" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-176">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-177" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-184">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-185" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+</defs >
+<g stroke="none" stroke-width="1" fill="none" id="id-bg-86-Artboard-192" fill-rule="evenodd">
+<g id="id-bg-86-Artboard-193">
+<rect fill="#969696" width="1320" height="1760" x="0" y="0" id="id-bg-86-Artboard-194">
+</rect >
+<g transform="translate(38,417)" id="id-bg-86-Artboard-195">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-0" filter="url(#id-bg-86-Artboard-1)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-0" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-8" filter="url(#id-bg-86-Artboard-9)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-8" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-16" filter="url(#id-bg-86-Artboard-17)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-16" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-24" filter="url(#id-bg-86-Artboard-25)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-24" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-32" filter="url(#id-bg-86-Artboard-33)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-32" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-40" filter="url(#id-bg-86-Artboard-41)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-40" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-48" filter="url(#id-bg-86-Artboard-49)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-48" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-56" filter="url(#id-bg-86-Artboard-57)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-56" fill-rule="evenodd">
+</use >
+</g >
+</g >
+<g transform="translate(467,417)" id="id-bg-86-Artboard-228">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-64" filter="url(#id-bg-86-Artboard-65)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-64" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-72" filter="url(#id-bg-86-Artboard-73)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-72" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-80" filter="url(#id-bg-86-Artboard-81)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-80" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-88" filter="url(#id-bg-86-Artboard-89)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-88" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-96" filter="url(#id-bg-86-Artboard-97)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-96" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-104" filter="url(#id-bg-86-Artboard-105)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-104" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-112" filter="url(#id-bg-86-Artboard-113)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-112" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-120" filter="url(#id-bg-86-Artboard-121)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-120" fill-rule="evenodd">
+</use >
+</g >
+</g >
+<g transform="translate(894,417)" id="id-bg-86-Artboard-261">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-128" filter="url(#id-bg-86-Artboard-129)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-128" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-136" filter="url(#id-bg-86-Artboard-137)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-136" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-144" filter="url(#id-bg-86-Artboard-145)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-144" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-152" filter="url(#id-bg-86-Artboard-153)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-152" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-160" filter="url(#id-bg-86-Artboard-161)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-160" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-168" filter="url(#id-bg-86-Artboard-169)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-168" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-176" filter="url(#id-bg-86-Artboard-177)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-176" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-184" filter="url(#id-bg-86-Artboard-185)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-184" fill-rule="evenodd">
+</use >
+</g >
+</g >
+</g >
+</g >
+<defs >
+<linearGradient x1="56%" y1="68%" x2="41%" y2="96%" id="id-rat-2-rat-roller-overalls-0">
+<stop stop-color="#8c4c56" offset="0%">
+</stop >
+<stop stop-color="#444049" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="43%" y1="18%" x2="47%" y2="93%" id="id-rat-2-rat-roller-overalls-1">
+<stop stop-color="#34373d" offset="0%">
+</stop >
+<stop stop-color="#3b3f47" offset="10%">
+</stop >
+<stop stop-color="#35373d" offset="41%">
+</stop >
+<stop stop-color="#35373d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="27%" x2="47%" y2="93%" id="id-rat-2-rat-roller-overalls-2">
+<stop stop-color="#35383e" offset="0%" stop-opacity="0">
+</stop >
+<stop stop-color="#5c6377" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="40%" y1="0%" x2="47%" y2="93%" id="id-rat-2-rat-roller-overalls-3">
+<stop stop-color="#34373d" offset="0%">
+</stop >
+<stop stop-color="#3b3e46" offset="76%">
+</stop >
+<stop stop-color="#434955" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="34%" x2="51%" y2="92%" id="id-rat-2-rat-roller-overalls-4">
+<stop stop-color="#4c5260" offset="0%">
+</stop >
+<stop stop-color="#636e83" offset="32%">
+</stop >
+<stop stop-color="#6b768c" offset="100%" stop-opacity="0">
+</stop >
+<stop stop-color="#6b768c" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="42%" y1="40%" x2="63%" y2="96%" id="id-rat-2-rat-roller-overalls-5">
+<stop stop-color="#9e5965" offset="0%" stop-opacity="0.602">
+</stop >
+<stop stop-color="#9d5a65" offset="100%" stop-opacity="0">
+</stop >
+<stop stop-color="#6b768c" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="64%" y1="55%" x2="37%" y2="94%" id="id-rat-2-rat-roller-overalls-6">
+<stop stop-color="#9e5965" offset="0%" stop-opacity="0.602">
+</stop >
+<stop stop-color="#9d5a65" offset="100%" stop-opacity="0">
+</stop >
+<stop stop-color="#6b768c" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<radialGradient cx="43%" cy="45%" r="51%" id="id-rat-2-rat-roller-overalls-7" fx="43%" fy="45%" gradientTransform="translate(0.427,0.453) scale(0.873,1) rotate(90) scale(1,1) translate(-0.427,-0.453)">
+<stop stop-color="#c67587" offset="0%">
+</stop >
+<stop stop-color="#4d5361" offset="100%" stop-opacity="0">
+</stop >
+</radialGradient >
+<linearGradient x1="49%" y1="1%" x2="51%" y2="100%" id="id-rat-2-rat-roller-overalls-8">
+<stop stop-color="#bf7b0b" offset="0%">
+</stop >
+<stop stop-color="#ffffff" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="47%" y1="12%" x2="50%" y2="89%" id="id-rat-2-rat-roller-overalls-9">
+<stop stop-color="#7c0000" offset="0%">
+</stop >
+<stop stop-color="#5e0000" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="96%" y1="50%" x2="0%" y2="50%" id="id-rat-2-rat-roller-overalls-10">
+<stop stop-color="#184502" offset="0%">
+</stop >
+<stop stop-color="#067100" offset="9%">
+</stop >
+<stop stop-color="#016701" offset="17%">
+</stop >
+<stop stop-color="#016701" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="89%" y1="50%" x2="45%" y2="53%" id="id-rat-2-rat-roller-overalls-11">
+<stop stop-color="#31363a" offset="0%">
+</stop >
+<stop stop-color="#d1d1d3" offset="28%">
+</stop >
+<stop stop-color="#4f5561" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-rat-2-rat-roller-overalls-12">
+<stop stop-color="#23262b" offset="0%">
+</stop >
+<stop stop-color="#494e56" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-rat-2-rat-roller-overalls-13">
+<stop stop-color="#626874" offset="0%">
+</stop >
+<stop stop-color="#333740" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-rat-2-rat-roller-overalls-14">
+<stop stop-color="#d47302" offset="0%">
+</stop >
+<stop stop-color="#e0a519" offset="24%">
+</stop >
+<stop stop-color="#d36f00" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-rat-2-rat-roller-overalls-15">
+<stop stop-color="#e01275" offset="0%">
+</stop >
+<stop stop-color="#b30c52" offset="52%">
+</stop >
+<stop stop-color="#830a39" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="64%" x2="50%" y2="39%" id="id-rat-2-rat-roller-overalls-16">
+<stop stop-color="#330410" offset="0%">
+</stop >
+<stop stop-color="#51061a" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(143,620)" id="id-rat-2-rat-roller-overalls-17">
+<g transform="translate(0,25)" id="id-rat-2-rat-roller-overalls-18">
+<g transform="translate(0,901)" fill="#0a0c11" opacity="0.295" id="id-rat-2-rat-roller-overalls-19">
+<path d="M 0 33 L 141 41 L 105 50 C 270 46 352 44 352 44 C 425 28 498 21 571 13 C 511 5 481 0 481 0 L 332 6 L 0 33 Z" id="id-rat-2-rat-roller-overalls-20">
+</path >
+<path d="M 821 18 C 812 24 808 28 808 28 L 753 27 C 775 50 786 62 786 62 L 787 70 C 780 69 777 69 777 69 C 773 68 771 67 771 67 C 767 67 763 66 759 64 C 755 70 752 74 752 74 C 752 77 751 78 751 78 C 732 72 723 69 723 69 C 721 70 721 70 721 70 C 706 81 699 86 699 86 C 684 73 677 66 677 66 C 654 75 642 79 642 79 C 638 80 636 81 636 81 C 465 78 379 76 379 76 C 507 53 571 42 571 42 C 546 38 534 36 534 36 C 613 29 653 26 653 26 C 617 25 599 24 599 24 C 649 18 673 15 673 15 L 767 4 C 803 13 821 18 821 18 Z" id="id-rat-2-rat-roller-overalls-21">
+</path >
+</g >
+<g transform="translate(165,916)" fill="#dfa61a" id="id-rat-2-rat-roller-overalls-22">
+<path d="M 402 45 C 392 47 378 39 379 50 C 380 57 389 55 401 51 C 411 50 425 58 431 50 C 428 41 418 39 402 45 Z" id="id-rat-2-rat-roller-overalls-23">
+</path >
+<path d="M 452 44 C 453 47 450 48 445 47 C 440 45 440 42 442 40 C 448 39 451 40 452 44 Z" id="id-rat-2-rat-roller-overalls-24">
+</path >
+<path d="M 119 2 C 105 1 96 0 74 0 C 69 3 77 5 77 8 C 57 8 37 8 15 13 C 16 15 17 16 17 16 C 11 17 4 16 1 21 C -3 26 35 25 78 23 C 77 18 114 24 114 20 C 115 17 105 15 108 12 C 115 5 119 2 119 2 Z" id="id-rat-2-rat-roller-overalls-25">
+</path >
+<path d="M 92 38 C 92 36 82 35 82 35 C 75 35 72 36 71 38 C 71 40 75 41 82 42 C 89 41 92 40 92 38 Z" id="id-rat-2-rat-roller-overalls-26">
+</path >
+<path d="M 122 46 C 112 47 95 44 96 51 C 97 52 129 52 132 51 C 135 48 133 46 129 44 C 123 43 121 44 122 46 Z" id="id-rat-2-rat-roller-overalls-27">
+</path >
+</g >
+<g transform="translate(267,0)" id="id-rat-2-rat-roller-overalls-28">
+<g transform="translate(365,843)" id="id-rat-2-rat-roller-overalls-29">
+<path d="M 76 22 C 76 28 77 31 77 31 C 79 35 80 37 80 37 C 80 47 89 52 93 60 C 127 84 122 95 153 99 C 157 101 157 105 158 112 C 155 119 154 123 154 123 C 152 122 149 124 145 127 C 140 128 135 122 130 118 C 128 118 127 118 127 118 C 124 124 122 131 108 130 C 101 128 100 123 94 121 C 92 122 90 123 89 129 C 87 134 83 138 76 142 C 64 140 58 132 54 122 C 40 114 43 132 17 125 C 7 120 2 117 2 117 C -3 107 9 94 22 93 C 31 86 39 77 46 67 C 46 61 46 54 45 48 C 45 41 46 38 46 38 C 44 31 43 27 43 27 L 58 0 C 70 14 76 22 76 22 Z" fill="#914e58" id="id-rat-2-rat-roller-overalls-30">
+</path >
+<path d="M 2 117 C 22 106 33 101 33 101 C 31 98 30 96 30 96 C 37 96 40 96 40 96 C 58 74 67 63 67 63 C 66 83 66 93 66 93 C 56 102 52 111 57 121 C 70 137 77 134 81 118 C 77 106 75 100 75 100 C 79 98 80 97 80 97 C 81 91 81 88 81 88 C 89 97 93 101 93 101 C 104 105 106 117 106 129 C 101 128 99 122 94 121 C 91 121 90 124 89 129 C 87 134 83 139 76 142 C 66 140 59 133 54 122 C 41 113 43 133 17 125 L 2 117 Z" fill="#7c3743" id="id-rat-2-rat-roller-overalls-30">
+</path >
+<path d="M 127 118 C 120 101 112 96 103 93 C 88 71 80 60 80 60 C 97 74 105 81 105 81 C 90 65 82 57 82 57 L 78 37 L 80 37 C 80 45 90 54 93 60 C 120 78 125 97 153 99 C 157 102 158 106 158 112 L 154 123 C 152 123 149 124 145 127 C 139 127 135 122 130 118 L 127 118 Z" fill="#7c3843" id="id-rat-2-rat-roller-overalls-30">
+</path >
+<path d="M 19 105 L 30 95 C 25 94 22 93 22 93 C 12 94 5 99 1 108 C 8 105 14 104 19 105 Z" fill="#9e627e" id="id-rat-2-rat-roller-overalls-33">
+</path >
+<path d="M 63 98 C 56 105 52 112 51 118 L 79 115 L 75 98 C 67 98 63 98 63 98 Z" fill="#9e627e" id="id-rat-2-rat-roller-overalls-34">
+</path >
+<path d="M 124 111 L 110 100 C 110 100 107 101 99 103 C 102 106 104 110 105 113 L 124 111 Z" fill="#9e627e" id="id-rat-2-rat-roller-overalls-35">
+</path >
+<path d="M 15 119 L 18 124 C 11 131 10 138 10 146 C 5 139 -7 125 6 112 C 10 112 13 115 15 119 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-36">
+</path >
+<path d="M 71 122 C 61 125 68 149 73 156 C 77 146 80 125 72 123 C 71 122 71 122 71 122 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-37">
+</path >
+<path d="M 122 112 C 122 113 121 113 121 113 C 117 114 115 121 116 124 C 119 130 124 132 123 144 C 127 136 129 127 127 118 C 127 114 125 112 122 112 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-38">
+</path >
+<path d="M 155 109 L 154 107 C 143 117 160 122 155 137 C 166 125 163 112 155 109 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-39">
+</path >
+</g >
+<g transform="translate(1,821)" id="id-rat-2-rat-roller-overalls-40">
+<path d="M 198 50 C 205 58 208 61 208 61 C 209 69 218 80 210 88 C 202 87 199 100 191 103 C 182 107 173 106 164 106 C 152 108 147 109 147 109 C 140 108 136 107 136 107 C 129 111 119 111 109 112 C 107 108 105 106 105 106 C 98 105 87 107 77 108 C 70 114 61 118 49 118 C 39 99 18 119 10 108 C 7 95 21 88 55 89 C 76 80 86 76 86 76 C 104 75 121 72 138 66 C 143 66 150 65 158 63 C 161 58 162 56 162 54 C 163 44 162 34 159 25 L 159 11 L 158 5 C 164 2 191 -6 201 11 L 198 27 C 198 43 198 50 198 50 Z" fill="#7c3743" id="id-rat-2-rat-roller-overalls-41">
+</path >
+<path d="M 189 47 C 189 62 192 74 193 87 C 155 96 135 100 135 100 C 122 100 116 99 116 99 C 112 103 110 104 110 104 C 109 103 108 102 108 102 C 111 99 112 97 112 97 C 131 93 141 91 141 91 C 166 81 179 76 179 76 C 157 76 131 81 102 87 C 81 96 71 100 71 100 C 52 103 43 104 43 104 C 41 100 40 98 40 98 C 61 95 72 93 72 93 C 83 88 89 85 89 85 C 111 81 131 77 140 71 C 109 77 79 84 51 93 C 42 95 36 96 31 97 C 27 98 20 100 10 102 C 13 91 31 88 55 89 L 86 76 C 103 75 120 72 138 66 C 144 65 151 65 158 63 C 160 60 162 57 162 54 C 165 42 166 36 166 36 C 168 39 169 46 170 52 L 187 55 C 188 49 189 47 189 47 Z" fill="#8d4d56" id="id-rat-2-rat-roller-overalls-42">
+</path >
+<path d="M 140 91 C 135 89 132 88 132 88 C 117 94 110 97 110 97 L 125 100 C 135 94 140 91 140 91 Z" fill="#9e617d" id="id-rat-2-rat-roller-overalls-43">
+</path >
+<path d="M 113 111 C 107 113 104 117 102 122 C 100 122 100 122 100 122 C 101 115 102 107 107 101 L 110 102 C 112 108 113 111 113 111 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-44">
+</path >
+<path d="M 43 104 C 36 105 32 109 30 117 C 25 113 29 96 39 95 C 42 101 43 104 43 104 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-45">
+</path >
+<path d="M 14 108 C 9 107 4 110 0 116 C -2 106 7 96 13 96 C 14 104 14 108 14 108 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-46">
+</path >
+</g >
+<g transform="translate(60,0)" id="id-rat-2-rat-roller-overalls-47">
+<path d="M 398 733 C 490 751 506 668 477 606 C 445 531 392 468 430 388 C 465 307 531 288 582 372 C 605 417 606 462 586 508 C 581 501 595 438 584 411 C 556 324 491 321 462 386 C 420 464 491 529 523 622 C 551 726 496 807 400 782 L 398 733 Z" fill="url(#id-rat-2-rat-roller-overalls-0)" id="id-rat-2-rat-roller-overalls-30">
+</path >
+<path d="M 141 833 C 140 833 135 836 125 842 C 120 823 117 814 117 814 C 117 814 95 815 95 815 C 94 816 94 816 94 816 C 73 792 63 780 63 780 C 52 742 46 723 46 723 C 64 657 74 624 74 624 C 79 613 82 608 82 608 C 87 567 89 547 89 547 C 93 540 94 536 94 536 C 94 534 93 531 93 528 L 99 522 C 89 495 85 473 87 456 C 90 417 96 354 103 289 C 111 208 153 168 230 167 C 237 164 241 163 241 163 C 243 181 246 198 250 208 C 262 227 274 242 285 253 C 293 259 304 264 321 269 C 315 274 313 276 313 276 C 318 280 320 281 320 281 C 320 282 320 283 314 283 C 336 314 360 343 379 375 C 392 392 399 400 399 400 C 391 399 388 398 388 398 C 389 404 390 407 390 407 C 386 403 385 401 385 401 C 376 423 359 447 341 476 C 349 476 353 476 353 476 C 347 480 342 485 337 491 C 346 490 351 490 351 490 C 342 493 332 496 324 503 C 326 522 330 540 335 559 C 338 560 339 560 339 560 C 346 591 349 607 349 607 C 360 639 366 655 366 655 C 388 704 399 728 399 728 C 399 732 399 778 402 788 C 391 819 386 835 386 835 C 384 842 384 846 383 849 L 345 861 C 335 850 330 845 330 845 C 272 817 244 802 244 802 L 145 821 L 141 833 Z" fill="url(#id-rat-2-rat-roller-overalls-1)" id="id-rat-2-rat-roller-overalls-30">
+</path >
+<path d="M 139 839 L 133 846 L 130 839 L 125 848 L 119 826 L 99 856 C 96 829 95 815 95 815 C 95 815 92 822 92 822 C 92 822 63 780 63 780 C 52 742 46 723 46 723 L 73 773 L 109 801 L 117 794 L 125 839 L 145 818 L 152 765 L 224 746 L 278 773 L 330 843 L 345 859 L 353 845 L 366 813 L 370 782 C 380 817 386 835 386 835 C 382 855 380 865 380 865 L 375 871 L 370 858 L 366 871 L 362 866 L 360 870 L 353 861 L 350 886 C 348 875 347 870 347 870 C 335 853 330 845 330 845 C 272 817 244 802 244 802 L 145 821 L 139 839 Z" fill="#2a2b30" id="id-rat-2-rat-roller-overalls-30">
+</path >
+<polygon points="327 827 344 865 346 837 362 783 310 762" fill="url(#id-rat-2-rat-roller-overalls-2)" id="id-rat-2-rat-roller-overalls-30">
+</polygon >
+<polygon points="120 727 231 722 275 735 244 708 306 713 324 688 275 650 246 554 224 552 232 511 205 423 188 380 162 291 101 363 77 408 101 503 73 643 69 704 86 733 133 754" fill="url(#id-rat-2-rat-roller-overalls-3)" id="id-rat-2-rat-roller-overalls-30">
+</polygon >
+<path d="M 83 301 C 87 286 89 275 91 267 C 89 247 89 237 89 237 C 94 225 96 220 96 220 C 88 232 83 238 83 238 C 86 226 87 220 87 220 C 83 185 82 167 82 167 C 81 166 134 135 241 74 L 240 87 L 236 92 C 243 119 247 134 247 138 C 247 143 241 152 230 167 C 237 164 241 163 241 163 C 243 181 246 198 250 208 C 256 218 265 230 276 244 C 224 369 94 308 83 301 Z" fill="#3b3f47" id="id-rat-2-rat-roller-overalls-53">
+</path >
+<path d="M 93 531 L 97 521 L 91 486 L 83 456 L 77 481 L 67 485 L 51 457 L 49 472 L 39 447 L 23 428 L 18 430 L 17 419 L 13 421 L 12 409 L 1 389 L 13 359 L 46 373 L 43 377 L 56 389 C 62 386 65 384 65 384 L 65 359 L 60 364 L 83 301 L 91 267 L 89 237 L 96 220 C 88 232 83 238 83 238 C 84 231 85 228 85 228 C 105 198 115 182 115 182 C 125 192 130 196 130 196 C 131 218 130 242 137 256 C 141 250 144 244 148 244 C 165 298 173 325 173 325 C 159 324 144 327 129 335 C 110 383 106 448 107 518 L 93 531 Z" fill="#2f3238" id="id-rat-2-rat-roller-overalls-30">
+</path >
+<polygon points="83 478 67 485 51 457 49 472 39 447 23 428 18 430 17 419 13 421 12 418 26 410 33 425 34 409 43 425 67 422 67 446 86 454" fill="#191c21" id="id-rat-2-rat-roller-overalls-30">
+</polygon >
+<path d="M 314 437 C 290 496 278 525 278 525 C 262 525 244 496 236 474 C 217 389 208 346 208 346 C 219 359 224 365 224 365 C 228 363 231 362 231 362 C 226 341 223 320 229 300 C 234 317 236 326 236 326 C 241 320 243 317 243 317 C 273 358 288 378 288 378 C 289 366 290 360 290 360 C 304 392 311 408 311 408 C 325 394 332 387 332 387 C 322 411 318 423 318 423 C 333 419 340 417 340 417 L 328 428 L 336 428 C 321 434 314 437 314 437 Z" fill="#2e3037" id="id-rat-2-rat-roller-overalls-56">
+</path >
+<path d="M 210 357 C 260 396 285 416 285 416 L 218 390 C 213 368 210 357 210 357 Z" fill="#20242a" id="id-rat-2-rat-roller-overalls-57">
+</path >
+<path d="M 286 419 L 318 436 C 315 437 314 437 314 437 C 293 487 283 512 283 512 C 276 501 272 496 272 496 L 290 476 C 287 438 286 419 286 419 Z" fill="#191c21" id="id-rat-2-rat-roller-overalls-58">
+</path >
+<path d="M 157 209 C 163 203 166 200 166 200 C 172 198 175 197 175 197 C 181 203 184 206 184 206 C 181 198 179 194 179 194 C 186 183 189 178 189 178 C 192 179 194 180 194 180 L 221 173 L 230 167 C 238 160 247 148 257 128 C 254 132 251 135 246 138 C 241 144 238 147 238 147 C 237 138 236 134 236 134 C 223 116 217 107 217 107 C 227 111 232 113 232 113 C 226 96 224 87 224 87 C 230 89 234 90 234 90 L 240 87 C 250 69 262 50 250 29 C 243 23 232 10 216 40 C 211 45 204 47 194 46 C 191 42 189 39 186 39 L 177 47 L 175 42 C 162 41 149 39 137 41 C 135 39 133 37 130 37 C 127 42 122 45 121 50 C 118 48 115 47 110 47 C 89 48 92 19 69 10 C 70 27 56 42 60 60 C 63 70 70 80 86 92 L 88 75 L 89 90 L 91 89 C 86 102 82 117 79 133 L 63 153 L 56 156 L 72 150 L 66 161 L 76 159 L 82 167 C 85 202 87 220 87 220 C 99 202 106 194 106 194 C 102 184 101 180 101 180 C 107 183 113 185 122 186 L 130 196 C 131 215 130 239 137 256 C 141 251 141 246 148 244 L 173 325 C 162 248 157 209 157 209 Z" fill="url(#id-rat-2-rat-roller-overalls-4)" id="id-rat-2-rat-roller-overalls-59">
+</path >
+<path d="M 110 47 C 89 48 92 19 69 10 C 70 36 38 57 86 92 L 88 75 C 106 56 114 47 110 47 Z" fill="url(#id-rat-2-rat-roller-overalls-5)" id="id-rat-2-rat-roller-overalls-60">
+</path >
+<path d="M 224 87 C 230 89 234 90 234 90 L 240 87 C 250 69 262 50 250 29 C 243 23 234 7 216 40 C 211 45 204 47 194 46 C 191 42 224 87 224 87 Z" fill="url(#id-rat-2-rat-roller-overalls-6)" id="id-rat-2-rat-roller-overalls-61">
+</path >
+<path d="M 153 214 C 147 205 144 200 144 200 L 130 199 C 130 197 130 196 130 196 C 124 191 121 189 121 189 C 121 183 120 180 120 180 C 123 176 125 174 125 174 C 118 180 114 184 114 184 C 122 173 125 168 125 168 C 141 150 149 142 149 142 L 183 164 L 194 180 L 189 178 L 179 194 L 175 197 L 166 200 C 157 209 153 214 153 214 Z" fill="#737f96" id="id-rat-2-rat-roller-overalls-62">
+</path >
+<path d="M 182 170 C 167 177 160 180 160 180 C 157 177 156 176 156 176 C 156 180 156 183 156 183 C 151 181 149 180 149 180 C 150 177 150 176 150 176 C 144 174 142 173 142 173 C 139 175 138 176 138 176 C 131 173 127 171 127 171 C 144 162 152 158 152 158 L 177 167 C 180 169 182 170 182 170 Z" fill="#5f677b" id="id-rat-2-rat-roller-overalls-63">
+</path >
+<path d="M 132 168 C 135 168 136 168 136 168 C 140 166 141 165 141 165 C 151 168 155 169 155 169 C 164 167 169 166 169 166 C 173 166 175 166 175 166 C 161 160 154 157 154 157 C 153 148 152 143 152 143 L 150 157 C 138 164 132 168 132 168 Z" fill="#3a3e46" id="id-rat-2-rat-roller-overalls-64">
+</path >
+<path d="M 162 159 C 168 161 172 162 172 162 C 170 147 170 140 170 140 C 164 135 162 133 162 133 L 155 149 C 160 156 162 159 162 159 Z" fill="#8192b3" id="id-rat-2-rat-roller-overalls-65">
+</path >
+<path d="M 113 178 C 107 170 101 161 98 153 C 96 153 94 155 92 160 C 91 152 92 144 95 137 C 92 139 90 140 87 143 C 89 134 92 124 97 113 C 107 116 116 123 126 131 C 121 131 116 131 111 135 L 125 141 C 116 157 112 170 113 178 Z" fill="#697084" id="id-rat-2-rat-roller-overalls-66">
+</path >
+<path d="M 94 137 L 96 137 C 96 137 95 143 93 155 C 93 155 107 146 107 146 C 102 144 99 143 99 143 C 104 139 107 137 107 137 C 111 137 112 137 112 137 C 114 132 114 129 114 129 L 100 119 L 94 137 Z" fill="#7c8caa" id="id-rat-2-rat-roller-overalls-67">
+</path >
+<path d="M 59 155 C 67 149 71 139 76 130 C 78 117 81 104 86 92 L 88 75 L 89 90 L 91 89 C 85 104 82 119 79 133 L 63 154 C 60 155 59 155 59 155 Z" fill="#e4e5e7" id="id-rat-2-rat-roller-overalls-68">
+</path >
+<path d="M 89 100 C 104 90 112 85 112 85 C 108 97 105 103 105 103 C 119 78 126 65 126 65 C 113 75 106 80 106 80 C 100 76 98 71 96 66 C 91 89 89 100 89 100 Z" fill="#373c45" id="id-rat-2-rat-roller-overalls-69">
+</path >
+<path d="M 86 86 C 77 78 72 74 72 74 C 79 72 83 71 83 71 C 80 66 78 63 78 63 C 82 58 84 55 84 55 C 85 56 86 57 86 57 L 87 54 L 87 74 C 87 82 86 86 86 86 Z" fill="#35363e" id="id-rat-2-rat-roller-overalls-70">
+</path >
+<path d="M 131 77 C 124 77 120 77 120 77 L 128 64 C 130 73 131 77 131 77 Z" fill="#6e768f" id="id-rat-2-rat-roller-overalls-71">
+</path >
+<path d="M 106 80 C 118 71 124 67 124 67 C 127 59 128 54 128 54 L 128 40 C 125 43 122 46 121 50 C 118 48 116 48 116 48 C 108 50 101 57 97 71 C 100 76 103 79 106 80 Z" fill="#677085" id="id-rat-2-rat-roller-overalls-72">
+</path >
+<path d="M 197 172 C 206 169 209 155 219 162 C 217 158 216 155 216 155 C 223 155 226 155 226 155 C 224 149 221 144 218 140 C 221 139 223 139 223 139 C 219 129 215 120 208 111 C 207 113 207 115 207 115 L 172 127 C 189 151 197 166 197 172 Z" fill="#6a7489" id="id-rat-2-rat-roller-overalls-73">
+</path >
+<ellipse cx="156" cy="112" fill="url(#id-rat-2-rat-roller-overalls-7)" id="id-rat-2-rat-roller-overalls-74" rx="47" ry="41">
+</ellipse >
+<path d="M 132 106 C 133 79 140 65 152 63 C 161 63 167 74 167 103 C 151 101 140 102 132 106 Z" fill="#716b7e" id="id-rat-2-rat-roller-overalls-75">
+</path >
+<path d="M 133 103 C 143 100 148 99 148 99 L 137 80 C 134 95 133 103 133 103 Z" fill="#818dac" id="id-rat-2-rat-roller-overalls-76">
+</path >
+<path d="M 132 106 C 135 113 136 116 136 116 C 136 118 136 120 136 120 C 141 124 143 126 143 126 C 149 144 152 153 152 153 C 156 134 158 125 158 125 C 162 121 164 119 164 119 C 165 114 166 112 166 112 C 165 111 164 110 164 110 C 166 108 168 106 168 103 C 151 101 139 102 132 106 Z" fill="#9f5966" id="id-rat-2-rat-roller-overalls-77">
+</path >
+<path d="M 143 126 C 147 123 149 122 149 122 C 148 117 147 114 147 114 C 148 107 148 104 148 104 C 151 109 152 112 152 112 L 152 121 L 158 125 L 152 153 C 146 135 143 126 143 126 Z" fill="#883d4f" id="id-rat-2-rat-roller-overalls-78">
+</path >
+<path d="M 156 118 C 155 114 155 112 155 112 C 162 109 165 108 165 108 C 165 110 165 111 165 111 C 162 112 160 112 160 112 L 161 118 C 158 118 156 118 156 118 Z" fill="#621a2f" id="id-rat-2-rat-roller-overalls-79">
+</path >
+<path d="M 147 111 C 143 111 141 111 141 111 L 133 106 L 132 106 L 136 116 L 136 120 L 143 126 L 149 122 L 147 114 C 147 112 147 111 147 111 Z" fill="#90515c" id="id-rat-2-rat-roller-overalls-80">
+</path >
+<path d="M 143 119 C 144 115 144 113 144 113 C 137 112 134 111 134 111 C 134 112 134 113 134 113 C 135 114 135 114 135 114 C 136 116 136 117 136 117 C 137 116 137 115 137 115 C 139 115 139 114 139 114 L 139 118 C 142 119 143 119 143 119 Z" fill="#5c152a" id="id-rat-2-rat-roller-overalls-81">
+</path >
+<path d="M 133 106 C 139 107 142 107 142 107 L 148 102 C 140 103 135 104 133 106 Z" fill="#df8195" id="id-rat-2-rat-roller-overalls-82">
+</path >
+<path d="M 81 124 C 95 117 101 113 101 113 C 84 134 76 145 76 145 L 66 149 L 79 133 C 80 127 81 124 81 124 Z" fill="#393e47" id="id-rat-2-rat-roller-overalls-83">
+</path >
+<path d="M 121 67 C 117 68 104 85 99 72 C 96 60 102 53 115 51 C 119 54 121 60 121 67 Z" fill="#000000" id="id-rat-2-rat-roller-overalls-84">
+</path >
+<path d="M 103 58 C 106 60 108 61 108 61 C 110 58 112 56 112 56 L 108 54 C 105 57 103 58 103 58 Z" fill="#e9dccf" id="id-rat-2-rat-roller-overalls-85">
+</path >
+<path d="M 121 51 C 119 50 118 48 113 47 C 116 47 117 46 117 46 L 127 37 L 130 37 C 124 44 121 48 121 51 Z" fill="#2b2d32" id="id-rat-2-rat-roller-overalls-86">
+</path >
+<path d="M 137 54 L 144 40 C 139 41 137 41 137 41 C 135 39 133 38 131 37 C 135 48 137 54 137 54 Z" fill="#626b7e" id="id-rat-2-rat-roller-overalls-87">
+</path >
+<path d="M 177 47 C 183 41 186 39 186 39 C 184 37 181 38 178 40 C 147 35 145 39 138 41 L 175 42 L 177 47 Z" fill="#2b2d32" id="id-rat-2-rat-roller-overalls-88">
+</path >
+<path d="M 180 76 C 187 75 191 74 191 74 C 185 70 179 63 175 53 L 172 58 C 178 70 180 76 180 76 Z" fill="#6c768f" id="id-rat-2-rat-roller-overalls-89">
+</path >
+<path d="M 211 62 L 213 75 C 197 83 183 69 177 47 L 186 39 C 193 56 202 64 211 62 Z" fill="#687084" id="id-rat-2-rat-roller-overalls-90">
+</path >
+<path d="M 194 46 C 196 49 197 51 197 51 L 192 51 C 190 47 188 43 186 39 C 188 38 191 41 194 46 Z" fill="#7c758a" id="id-rat-2-rat-roller-overalls-91">
+</path >
+<path d="M 247 198 C 237 186 232 180 232 180 C 230 183 230 185 230 185 C 224 177 221 173 221 173 L 229 167 L 241 163 C 243 180 245 192 247 198 Z" fill="#4b515e" id="id-rat-2-rat-roller-overalls-92">
+</path >
+<path d="M 194 46 L 197 51 C 210 57 224 41 238 9 L 241 1 C 234 8 225 22 216 40 C 211 44 205 46 194 46 Z" fill="#c67587" id="id-rat-2-rat-roller-overalls-93">
+</path >
+<path d="M 237 66 C 236 75 235 79 235 79 C 229 83 226 85 226 85 C 220 71 217 63 217 63 C 221 47 222 39 222 39 C 223 43 222 46 225 50 C 230 47 233 46 233 46 L 226 67 C 234 66 237 66 237 66 Z" fill="#34363d" id="id-rat-2-rat-roller-overalls-94">
+</path >
+<path d="M 255 51 C 243 57 235 59 232 55 C 233 46 234 41 234 41 C 230 42 228 43 228 43 L 223 41 L 238 9 C 242 18 246 27 250 29 C 254 36 256 43 255 51 Z" fill="#8f545f" id="id-rat-2-rat-roller-overalls-95">
+</path >
+<path d="M 187 126 C 187 126 187 126 187 126 C 199 121 206 118 208 118 L 208 117 C 204 118 197 121 187 126 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-96">
+</path >
+<path d="M 176 134 C 176 135 176 135 176 135 C 211 135 245 139 276 146 L 276 145 C 238 137 205 133 176 134 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-97">
+</path >
+<path d="M 179 141 C 179 141 179 141 179 141 C 196 141 241 164 259 182 C 256 182 254 181 254 181 C 256 183 258 184 260 184 C 264 182 214 144 179 141 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-98">
+</path >
+<path d="M 91 34 C 85 35 80 27 75 23 C 68 28 63 39 61 62 C 55 44 70 22 69 10 C 78 13 85 21 91 34 Z" fill="#e28398" id="id-rat-2-rat-roller-overalls-99">
+</path >
+<path d="M 98 256 C 115 222 124 205 124 205 L 131 221 L 130 196 C 124 189 122 186 122 186 C 112 184 105 182 100 179 C 101 186 103 192 106 194 L 85 228 C 84 234 83 238 83 238 L 109 201 C 101 237 98 256 98 256 Z" fill="#4a515e" id="id-rat-2-rat-roller-overalls-100">
+</path >
+<path d="M 320 281 C 307 283 300 284 300 284 L 280 248 L 285 253 C 297 261 308 266 320 269 L 313 276 C 318 280 320 281 320 281 Z" fill="#313439" id="id-rat-2-rat-roller-overalls-101">
+</path >
+<path d="M 182 144 C 182 145 182 145 182 145 C 205 168 217 179 217 179 C 215 178 214 178 214 178 C 216 180 217 181 217 181 L 218 180 C 219 178 207 166 182 144 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-102">
+</path >
+<path d="M 66 448 L 68 450 C 66 389 65 359 65 359 L 64 362 C 65 419 66 448 66 448 Z" fill="#d1d2d5" id="id-rat-2-rat-roller-overalls-103">
+</path >
+<path d="M 59 366 L 60 363 L 83 301 C 89 278 91 267 91 267 C 82 290 74 316 65 345 L 59 360 L 59 366 Z" fill="#d1d2d5" id="id-rat-2-rat-roller-overalls-104">
+</path >
+<path d="M 139 196 C 144 185 147 179 147 179 C 143 181 141 182 141 182 C 133 176 129 174 129 174 L 124 184 C 134 192 139 196 139 196 Z" fill="#818ea5" id="id-rat-2-rat-roller-overalls-105">
+</path >
+<path d="M 82 167 C 87 171 93 176 100 179 L 106 194 L 90 216 L 90 185 L 84 190 L 82 167 Z" fill="#4b525f" id="id-rat-2-rat-roller-overalls-106">
+</path >
+<path d="M 82 167 C 80 164 79 163 79 163 L 83 165 C 93 175 110 180 114 185 C 111 184 106 183 99 179 C 90 174 87 172 82 167 Z" fill="#515969" id="id-rat-2-rat-roller-overalls-107">
+</path >
+<path d="M 48 729 C 46 724 45 722 45 722 C 58 676 65 653 65 653 L 66 653 C 54 704 48 729 48 729 Z" fill="#d1d2d5" id="id-rat-2-rat-roller-overalls-108">
+</path >
+<path d="M 207 70 C 199 75 188 71 183 59 C 185 55 189 48 196 49 C 206 53 209 60 207 70 Z" fill="#000000" id="id-rat-2-rat-roller-overalls-109">
+</path >
+<path d="M 191 58 C 190 58 189 58 187 56 C 189 53 191 51 191 51 L 196 52 C 193 54 192 56 191 58 Z" fill="#e9dccf" id="id-rat-2-rat-roller-overalls-110">
+</path >
+<path d="M 131 147 C 131 148 131 148 131 148 C 116 156 91 173 67 188 C 88 173 109 159 131 147 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-111">
+</path >
+<path d="M 115 145 C 115 145 115 146 115 147 C 75 154 51 164 30 173 C 46 163 74 154 115 145 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-112">
+</path >
+<path d="M 111 139 C 110 138 110 139 110 139 L 93 134 C 99 135 105 136 111 139 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-113">
+</path >
+<path d="M 126 139 C 126 140 126 140 126 141 C 97 123 73 114 59 111 C 68 111 91 120 126 139 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-114">
+</path >
+</g >
+</g >
+</g >
+<g transform="translate(144,0)" id="id-rat-2-rat-roller-overalls-115">
+<path d="M 55 214 C 53 217 53 217 51 214 C 49 210 53 124 48 112 C 46 113 42 115 40 113 C 36 116 34 117 34 117 C 31 116 29 116 29 116 L 27 119 C 25 119 24 119 24 119 L 31 95 C 27 79 26 72 26 72 C 29 69 31 68 31 68 C 85 52 112 44 112 44 L 172 37 L 199 36 C 203 48 197 59 192 71 C 191 73 192 75 189 76 C 185 73 180 78 176 81 C 173 80 171 79 171 79 C 171 80 170 81 170 81 C 165 84 160 84 155 82 C 152 86 151 87 151 87 C 146 87 144 87 144 87 C 135 89 131 91 131 91 C 130 90 129 90 129 90 C 125 93 123 95 123 95 C 120 94 119 93 119 93 C 116 96 114 97 114 97 C 110 97 108 97 108 97 C 103 100 101 102 101 102 C 99 100 97 99 94 98 C 92 101 91 102 91 102 C 87 101 86 100 86 100 C 83 103 82 104 82 104 C 79 103 78 103 78 103 C 76 104 75 105 75 105 C 72 114 70 122 66 126 C 63 127 61 114 57 116 C 50 116 56 192 55 214 Z" fill="#d47503" id="id-rat-2-rat-roller-overalls-30">
+</path >
+<path d="M 28 71 C 30 70 31 69 31 69 C 31 73 31 75 31 75 C 31 75 31 76 31 76 C 36 73 38 72 38 72 C 39 73 40 74 40 74 C 41 73 42 73 42 73 C 44 79 45 82 45 82 C 42 80 41 79 41 79 C 40 80 39 81 39 81 C 44 82 46 82 46 82 C 46 79 47 77 47 77 C 50 78 52 79 52 79 C 56 72 59 69 59 69 C 59 68 59 67 59 67 L 62 68 L 60 65 L 58 66 L 57 64 L 67 61 L 67 67 L 75 67 L 77 61 L 76 60 L 82 54 L 82 58 L 81 60 L 88 64 L 90 62 L 90 65 L 93 60 C 96 63 97 65 97 65 L 99 63 C 99 63 100 64 100 64 C 102 64 103 64 103 64 C 102 65 101 66 101 66 C 106 64 108 63 108 63 C 108 61 108 60 108 60 C 109 58 110 57 110 57 C 112 61 113 62 113 62 C 116 61 118 60 118 60 C 118 59 118 58 118 58 C 119 62 120 63 120 63 C 126 64 129 64 129 64 C 126 62 125 62 125 62 C 125 59 125 57 125 57 C 121 55 119 54 119 54 C 120 53 120 53 120 53 C 116 52 114 51 114 51 C 118 47 120 45 120 45 C 121 49 122 52 122 52 C 125 53 127 53 127 53 C 129 51 130 50 130 50 C 130 53 130 54 130 54 C 128 55 127 56 127 56 C 127 59 127 61 127 61 C 132 61 134 60 134 60 C 132 59 131 59 131 59 C 133 55 133 53 133 53 C 134 53 134 53 134 53 C 135 51 135 50 135 50 C 139 50 141 50 141 50 C 141 49 141 49 141 49 C 143 49 144 49 144 49 C 146 47 147 46 147 46 C 148 48 149 50 149 50 C 149 46 148 44 148 44 C 151 44 152 43 152 43 C 152 41 152 40 152 40 C 159 42 162 42 162 42 C 168 42 171 42 171 42 C 169 45 168 47 168 47 C 175 50 178 52 178 52 C 184 48 186 47 186 47 C 182 44 180 43 180 43 C 183 43 185 43 185 43 C 185 41 185 41 185 41 C 194 40 198 40 198 40 C 197 38 197 38 197 38 C 198 37 199 36 199 36 C 193 26 188 12 178 6 C 174 6 172 6 172 6 C 170 3 168 2 168 2 C 164 1 162 0 162 0 C 166 4 168 7 168 7 C 162 7 157 7 151 8 C 151 11 151 12 151 12 C 142 13 134 11 125 18 C 123 15 121 13 121 13 C 119 17 117 18 117 18 C 103 20 96 21 96 21 C 94 19 93 18 93 18 C 93 22 92 24 92 24 C 83 27 74 29 64 29 C 63 27 62 26 62 26 C 60 29 59 31 59 31 C 51 31 48 30 48 30 L 39 30 L 36 34 L 20 35 L 20 36 L 14 40 C 14 44 14 47 14 47 L 26 72 L 28 71 Z" fill="#e0a61f" id="id-rat-2-rat-roller-overalls-30">
+</path >
+<path d="M 211 995 C 214 999 218 1002 221 1004 C 227 1003 232 1000 238 996 C 176 497 145 248 145 248 L 125 250 C 182 747 211 995 211 995 Z" fill="#7f5200" id="id-rat-2-rat-roller-overalls-118">
+</path >
+<path d="M 211 995 C 213 998 217 1001 221 1004 C 227 1002 232 1000 238 996 C 238 994 237 993 237 993 C 237 993 237 993 237 993 C 234 995 233 996 233 996 C 234 994 234 993 234 993 C 232 984 230 979 230 979 C 230 988 230 993 230 993 C 225 994 223 995 223 995 C 220 961 218 944 218 944 L 220 999 L 211 995 Z" fill="#4a2701" id="id-rat-2-rat-roller-overalls-119">
+</path >
+<path d="M 125 250 C 133 249 137 249 137 249 L 152 408 C 183 673 198 805 198 805 L 191 821 C 163 587 146 439 138 375 C 129 292 125 250 125 250 Z" fill="url(#id-rat-2-rat-roller-overalls-8)" id="id-rat-2-rat-roller-overalls-120">
+</path >
+<path d="M 142 300 C 136 267 132 250 132 250 L 125 252 L 125 250 C 139 248 145 248 145 248 C 146 250 146 251 146 251 L 137 250 L 142 300 Z" fill="#4a2701" id="id-rat-2-rat-roller-overalls-121">
+</path >
+<path d="M 119 251 L 150 247 C 150 232 150 225 150 225 L 115 228 C 118 243 119 251 119 251 Z" fill="#18211e" id="id-rat-2-rat-roller-overalls-122">
+</path >
+<path d="M 127 227 C 130 242 131 249 131 249 C 140 248 144 248 144 248 L 144 225 C 132 226 127 227 127 227 Z" fill="#363a45" id="id-rat-2-rat-roller-overalls-123">
+</path >
+<path d="M 139 230 C 132 228 129 227 129 227 L 146 225 C 142 229 139 230 139 230 Z" fill="#7b8caa" id="id-rat-2-rat-roller-overalls-124">
+</path >
+<path d="M 122 228 C 118 195 116 178 116 178 C 119 176 120 175 120 175 C 129 174 133 174 133 174 C 138 175 140 176 140 176 L 144 225 C 129 227 122 228 122 228 Z" fill="#7f0000" id="id-rat-2-rat-roller-overalls-125">
+</path >
+<path d="M 133 226 L 125 174 C 130 174 133 174 133 174 C 135 174 136 175 136 175 L 140 226 C 135 226 133 226 133 226 Z" fill="#9c0001" id="id-rat-2-rat-roller-overalls-126">
+</path >
+<path d="M 132 219 C 136 220 138 220 138 220 C 136 204 135 196 135 196 L 130 202 C 131 213 132 219 132 219 Z" fill="#ce413f" id="id-rat-2-rat-roller-overalls-127">
+</path >
+<path d="M 120 215 C 125 206 130 200 139 193 C 138 189 138 185 137 181 C 127 191 121 183 117 191 L 120 191 C 120 206 120 214 120 215 Z" fill="#d57404" id="id-rat-2-rat-roller-overalls-128">
+</path >
+<path d="M 126 206 L 122 187 C 128 187 132 186 137 181 C 138 183 139 187 139 193 C 135 196 131 201 126 206 Z" fill="#f49507" id="id-rat-2-rat-roller-overalls-129">
+</path >
+<path d="M 128 178 L 135 174 L 133 174 C 125 174 120 175 120 175 L 119 176 C 125 177 128 178 128 178 Z" fill="#7d8caa" id="id-rat-2-rat-roller-overalls-130">
+</path >
+<path d="M 118 176 C 120 184 120 188 120 188 C 122 187 123 187 123 187 C 123 184 124 182 124 182 C 126 182 127 182 127 182 C 128 185 129 186 129 186 C 131 185 133 185 135 182 L 134 175 C 130 177 128 178 128 178 L 119 176 L 118 176 Z" fill="#363a45" id="id-rat-2-rat-roller-overalls-131">
+</path >
+<path d="M 124 175 C 122 160 122 152 122 152 C 124 145 126 142 126 142 C 168 109 190 93 190 93 C 193 89 193 80 193 71 C 197 58 200 51 200 51 C 200 76 200 88 200 88 C 199 94 197 99 192 102 C 170 121 131 145 130 152 L 132 175 C 126 175 124 175 124 175 Z" fill="#363a45" id="id-rat-2-rat-roller-overalls-132">
+</path >
+<path d="M 22 117 C 22 118 22 119 22 119 C 24 119 24 119 24 119 C 25 113 31 113 33 107 C 32 103 32 99 36 98 C 37 96 37 87 35 85 C 33 85 32 85 32 85 C 30 84 33 80 33 78 C 32 76 27 72 29 70 C 30 68 31 67 31 67 C 32 66 32 65 29 62 C 30 62 31 61 31 61 C 29 60 28 59 28 59 C 28 57 28 56 28 56 C 25 55 25 52 23 50 C 22 52 21 52 21 52 C 21 51 20 50 20 50 C 19 50 18 50 18 50 C 16 48 14 47 14 47 C 18 48 21 48 21 48 C 21 49 22 49 22 49 C 22 49 23 49 23 49 C 24 46 24 44 24 44 C 22 45 20 46 20 46 C 18 44 17 43 17 43 C 18 41 19 40 19 40 C 22 42 24 43 24 43 C 24 38 24 36 24 36 C 25 36 26 36 26 36 C 25 37 25 38 25 38 C 33 49 37 54 37 54 C 37 49 32 41 35 38 C 35 40 35 41 35 41 C 36 41 37 41 37 41 C 38 41 38 42 38 42 C 38 39 38 38 38 38 C 40 36 41 35 41 35 C 40 38 40 39 40 39 C 43 39 45 39 45 39 C 43 37 43 33 40 32 C 39 33 39 34 39 34 C 38 33 38 32 38 32 C 37 34 36 35 36 35 C 26 35 20 35 20 35 C 20 36 20 37 20 37 C 18 37 17 37 14 39 C 9 38 7 38 7 38 C 4 40 3 41 3 41 C 5 44 6 45 6 45 C 3 47 2 48 2 48 C 0 53 1 57 0 63 C 1 78 3 88 14 107 L 15 111 C 19 115 22 117 22 117 Z" fill="#e5d7b5" id="id-rat-2-rat-roller-overalls-133">
+</path >
+<path d="M 125 156 C 123 154 123 152 123 152 C 126 146 127 143 127 143 C 170 110 191 94 191 94 C 188 98 187 101 187 101 L 128 146 C 126 150 125 153 125 156 Z" fill="#7b8ca9" id="id-rat-2-rat-roller-overalls-134">
+</path >
+<path d="M 22 104 C 26 100 26 95 26 90 C 25 78 22 68 16 58 C 14 56 3 46 1 60 C -2 74 8 100 12 103 C 17 107 18 108 22 104 Z" fill="#7a0100" id="id-rat-2-rat-roller-overalls-135">
+</path >
+<path d="M 16 58 C 14 56 3 46 1 60 L 13 81 L 16 58 Z" fill="#af0021" id="id-rat-2-rat-roller-overalls-135">
+</path >
+<path d="M 17 83 C 17 83 16 80 14 75 C 11 73 9 73 9 75 C 8 78 11 84 13 85 C 14 86 15 86 17 83 Z" fill="#74849e" id="id-rat-2-rat-roller-overalls-135">
+</path >
+<path d="M 36 91 C 36 92 36 93 36 93 C 38 92 39 92 39 92 C 40 89 40 88 40 88 C 40 89 40 90 40 90 C 42 89 42 88 42 88 C 41 86 40 84 40 84 L 38 88 L 36 91 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-30">
+</path >
+<path d="M 47 71 C 49 66 50 64 50 64 L 52 68 C 49 70 47 71 47 71 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-139">
+</path >
+<path d="M 52 67 C 54 69 55 70 55 70 L 56 65 C 54 66 52 67 52 67 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-140">
+</path >
+<path d="M 41 65 C 44 65 46 66 46 66 L 44 60 C 42 64 41 65 41 65 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-141">
+</path >
+<path d="M 42 77 C 44 82 45 84 45 84 L 51 76 C 45 77 42 77 42 77 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-142">
+</path >
+<path d="M 50 93 C 52 93 53 93 53 93 L 51 95 C 50 93 50 93 50 93 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-143">
+</path >
+<path d="M 71 80 C 71 82 71 83 71 83 L 73 81 C 72 80 71 80 71 80 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-144">
+</path >
+<path d="M 96 77 C 96 73 96 71 96 71 L 101 74 C 97 76 96 77 96 77 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-145">
+</path >
+<path d="M 100 82 C 103 76 104 73 104 73 C 106 76 107 78 107 78 C 108 78 109 78 109 78 C 108 79 108 80 108 80 L 106 79 C 102 81 100 82 100 82 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-146">
+</path >
+<path d="M 107 72 C 110 73 111 74 111 74 L 110 68 C 108 71 107 72 107 72 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-147">
+</path >
+<path d="M 125 72 C 124 66 123 63 123 63 C 126 64 128 65 128 65 C 128 63 129 62 129 62 C 133 69 135 72 135 72 L 129 68 C 126 71 125 72 125 72 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-148">
+</path >
+<path d="M 138 59 C 138 61 138 62 138 62 L 140 60 C 139 59 138 59 138 59 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-149">
+</path >
+<path d="M 146 65 C 146 60 145 57 145 57 L 151 60 C 147 63 146 65 146 65 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-150">
+</path >
+<path d="M 142 54 C 140 53 139 53 139 53 C 139 54 139 54 139 54 C 136 54 134 54 134 54 C 136 52 137 52 137 52 C 130 47 126 45 126 45 C 128 45 129 45 129 45 C 132 42 133 41 133 41 C 140 41 143 41 143 41 C 148 40 150 39 150 39 C 150 43 150 45 150 45 C 147 43 146 42 146 42 C 144 46 144 48 144 48 C 146 47 147 47 147 47 C 146 50 146 52 146 52 L 143 50 C 143 53 142 54 142 54 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-151">
+</path >
+<path d="M 156 54 C 156 50 156 49 156 49 C 154 47 153 46 153 46 C 156 42 157 40 157 40 C 150 38 146 37 146 37 C 146 36 146 35 146 35 L 144 34 L 153 33 C 153 31 153 29 153 29 C 157 28 160 28 164 28 C 165 29 165 30 165 30 L 158 33 C 158 35 158 36 158 36 C 160 34 161 33 161 33 C 161 36 161 37 161 37 C 159 38 158 38 158 38 C 159 42 159 44 159 44 C 165 39 168 37 168 37 L 174 51 C 162 53 156 54 156 54 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-152">
+</path >
+<path d="M 169 57 C 172 53 174 51 174 51 C 176 54 177 56 177 56 C 176 50 175 47 175 47 C 180 48 182 48 182 48 C 181 51 180 53 180 53 C 180 58 180 60 180 60 L 176 58 C 171 57 169 57 169 57 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-153">
+</path >
+<path d="M 192 59 C 195 58 197 58 197 58 L 194 53 C 193 57 192 59 192 59 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-154">
+</path >
+<path d="M 191 52 C 195 51 197 50 197 50 L 197 54 C 193 53 191 52 191 52 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-155">
+</path >
+<path d="M 188 38 C 185 37 183 37 183 37 L 186 33 C 188 36 188 38 188 38 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-156">
+</path >
+<path d="M 175 39 C 171 39 169 39 169 39 L 170 34 C 173 38 175 39 175 39 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-157">
+</path >
+<path d="M 164 33 C 167 33 168 33 168 33 L 168 29 C 165 31 164 33 164 33 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-158">
+</path >
+<path d="M 170 27 C 171 30 177 31 177 34 C 176 36 175 36 175 36 C 178 35 180 34 180 34 C 178 31 177 30 177 30 L 182 29 L 180 27 L 174 27 L 170 23 L 163 21 C 168 25 170 27 170 27 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-159">
+</path >
+<path d="M 96 71 C 86 66 80 63 80 63 C 84 59 85 57 85 57 C 94 57 99 57 99 57 C 101 55 101 54 101 54 C 107 54 110 54 110 54 C 108 60 107 64 107 64 L 99 58 C 97 67 96 71 96 71 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-160">
+</path >
+<path d="M 51 69 C 56 64 59 62 59 62 C 61 63 62 64 62 64 C 63 63 64 62 64 62 C 65 64 65 65 65 65 C 64 68 64 69 64 69 L 61 67 C 54 68 51 69 51 69 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-161">
+</path >
+<path d="M 30 67 C 28 65 27 64 27 64 L 29 62 C 30 65 30 67 30 67 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-162">
+</path >
+<path d="M 42 66 C 40 64 39 63 39 63 L 42 62 C 42 64 42 66 42 66 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-163">
+</path >
+<path d="M 46 58 C 49 61 51 62 51 62 C 54 58 55 56 55 56 C 51 56 49 57 49 57 C 50 55 51 54 51 54 L 45 53 C 46 57 46 58 46 58 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-164">
+</path >
+<path d="M 44 51 C 44 52 44 53 44 53 C 47 53 49 53 49 53 L 49 50 C 46 50 44 51 44 51 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-165">
+</path >
+<path d="M 54 52 C 54 53 54 53 54 53 C 58 53 59 53 59 53 L 59 52 C 56 52 54 52 54 52 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-166">
+</path >
+<path d="M 57 56 C 57 58 57 59 57 59 L 60 57 C 58 56 57 56 57 56 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-167">
+</path >
+<path d="M 60 55 C 60 53 60 52 60 52 C 62 50 62 49 62 49 C 63 51 63 52 63 52 C 66 51 68 51 68 51 C 67 53 67 55 67 55 C 65 54 65 53 65 53 L 65 55 L 60 55 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-168">
+</path >
+<path d="M 66 67 C 68 63 69 61 69 61 C 71 57 72 55 72 55 C 73 60 74 63 74 63 C 72 62 70 61 70 61 L 73 66 C 68 66 66 67 66 67 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-169">
+</path >
+<path d="M 80 69 C 76 63 74 61 74 61 C 76 57 77 55 77 55 C 76 53 76 52 76 52 C 77 51 78 50 78 50 C 78 49 78 48 78 48 C 82 47 84 47 84 47 C 82 50 82 51 82 51 C 83 52 84 53 84 53 C 81 53 80 53 80 53 C 79 55 79 56 79 56 C 81 58 82 59 82 59 L 79 59 C 79 66 80 69 80 69 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-170">
+</path >
+<path d="M 69 58 C 69 54 69 53 69 53 L 75 53 C 71 56 69 58 69 58 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-171">
+</path >
+<path d="M 85 55 L 85 47 L 94 45 L 95 39 C 97 41 98 42 98 42 C 95 47 94 49 94 49 C 97 52 99 54 99 54 C 95 54 92 54 92 54 C 92 52 92 50 92 50 C 91 52 90 53 90 53 L 89 52 C 86 54 85 55 85 55 Z" fill="#ebbc53" id="id-rat-2-rat-roller-overalls-172">
+</path >
+<path d="M 98 51 C 98 48 98 46 98 46 C 100 47 101 48 101 48 C 100 49 99 50 99 50 C 102 50 104 50 104 50 C 101 47 100 46 100 46 C 100 45 101 44 101 44 L 98 43 C 98 43 98 42 98 42 C 109 41 114 40 114 40 C 115 42 115 43 115 43 C 113 42 111 42 111 42 C 108 47 107 49 107 49 C 109 51 110 51 110 51 C 106 53 104 54 104 54 C 104 52 103 52 103 52 L 102 53 C 100 52 98 51 98 51 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-173">
+</path >
+<path d="M 110 50 C 112 52 113 53 113 53 C 115 52 116 51 116 51 C 116 48 116 47 116 47 L 114 49 C 111 50 110 50 110 50 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-174">
+</path >
+<path d="M 112 45 C 115 47 116 48 116 48 C 120 48 121 47 121 47 C 120 45 119 44 119 44 C 121 43 123 43 123 43 L 121 37 C 120 38 119 39 119 39 C 118 39 117 40 117 40 L 117 43 C 114 44 112 45 112 45 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-175">
+</path >
+<path d="M 118 52 C 120 51 121 51 121 51 L 120 48 C 119 50 118 52 118 52 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-176">
+</path >
+<path d="M 117 64 C 119 64 120 63 120 63 L 119 61 C 118 63 117 64 117 64 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-177">
+</path >
+<path d="M 121 59 C 122 59 123 59 123 59 L 122 57 C 121 59 121 59 121 59 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-178">
+</path >
+<path d="M 124 41 C 127 43 129 43 129 43 C 130 41 131 40 131 40 C 130 40 130 40 130 40 L 131 36 C 128 38 127 39 127 39 L 127 41 C 125 41 124 41 124 41 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-179">
+</path >
+<path d="M 121 37 C 124 39 125 39 125 39 L 126 38 L 123 34 C 122 36 121 37 121 37 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-180">
+</path >
+<path d="M 136 39 C 140 39 142 39 142 39 C 141 35 141 33 141 33 C 137 33 135 33 135 33 L 137 37 C 136 39 136 39 136 39 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-181">
+</path >
+<path d="M 70 97 C 71 98 71 99 71 99 C 70 101 69 102 69 102 C 71 102 72 102 72 102 C 73 100 73 99 73 99 C 77 100 79 100 79 100 C 79 98 79 97 79 97 C 78 97 77 97 77 97 C 77 98 77 99 77 99 L 75 96 C 72 97 70 97 70 97 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-182">
+</path >
+<path d="M 42 111 C 42 112 42 113 42 113 C 44 114 44 114 44 114 C 45 113 45 112 45 112 C 45 111 44 110 44 110 L 44 112 C 42 111 42 111 42 111 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-183">
+</path >
+<path d="M 103 93 C 102 90 102 89 102 89 L 104 89 C 103 92 103 93 103 93 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-184">
+</path >
+<path d="M 105 94 C 104 93 104 92 104 92 L 106 90 C 105 92 105 94 105 94 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-185">
+</path >
+<path d="M 104 75 C 103 74 103 74 103 74 C 106 71 108 69 108 69 L 109 70 C 106 73 104 75 104 75 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-186">
+</path >
+<path d="M 111 68 C 111 68 111 67 111 67 C 112 66 113 65 113 65 L 114 67 C 112 68 111 68 111 68 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-187">
+</path >
+<path d="M 126 81 C 128 81 130 81 130 81 L 130 85 C 127 83 126 81 126 81 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-188">
+</path >
+<path d="M 138 88 C 137 87 136 87 136 87 L 139 84 C 139 87 138 88 138 88 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-189">
+</path >
+<path d="M 139 68 C 141 65 143 64 143 64 L 145 66 C 141 68 139 68 139 68 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-190">
+</path >
+<path d="M 150 65 C 147 63 145 62 145 62 C 146 58 147 56 147 56 C 149 58 150 60 150 60 L 147 62 C 149 64 150 65 150 65 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-191">
+</path >
+<path d="M 135 55 C 137 52 139 51 139 51 C 139 55 139 57 139 57 C 141 55 142 55 142 55 C 142 53 142 53 142 53 C 143 53 143 53 143 53 C 144 54 144 55 144 55 C 144 58 144 60 144 60 C 143 60 143 60 143 60 C 143 58 143 57 143 57 C 141 58 141 59 141 59 C 139 58 138 58 138 58 C 138 56 138 55 138 55 L 136 56 C 135 55 135 55 135 55 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-192">
+</path >
+<path d="M 147 53 C 151 50 152 49 152 49 C 153 49 154 49 154 49 C 152 51 152 52 152 52 C 153 52 153 52 153 52 C 151 55 150 56 150 56 C 153 56 155 56 155 56 C 155 54 155 53 155 53 C 156 54 156 55 156 55 L 152 58 C 149 55 147 53 147 53 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-193">
+</path >
+<path d="M 158 56 C 159 57 159 58 159 58 C 161 57 162 56 162 56 L 160 55 C 159 56 158 56 158 56 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-194">
+</path >
+<path d="M 161 65 C 163 66 164 66 164 66 L 163 69 C 162 67 161 65 161 65 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-195">
+</path >
+<path d="M 163 78 C 164 77 164 77 164 77 L 163 83 C 163 80 163 78 163 78 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-196">
+</path >
+<path d="M 171 75 C 170 73 170 72 170 72 L 171 70 C 171 74 171 75 171 75 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-197">
+</path >
+<path d="M 178 70 C 174 69 172 69 172 69 L 172 68 C 176 69 178 70 178 70 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-198">
+</path >
+<path d="M 183 66 C 181 66 180 66 180 66 C 178 64 177 63 177 63 L 179 63 C 182 65 183 66 183 66 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-199">
+</path >
+<path d="M 184 64 C 184 62 184 61 184 61 L 187 62 C 185 63 184 64 184 64 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-200">
+</path >
+<path d="M 194 55 C 193 51 192 49 192 49 C 194 49 195 49 195 49 C 198 44 200 41 200 41 C 200 44 200 46 200 48 C 198 48 197 48 197 48 L 199 52 C 196 54 194 55 194 55 Z" fill="#d99228" id="id-rat-2-rat-roller-overalls-201">
+</path >
+</g >
+<g transform="translate(251,252)" id="id-rat-2-rat-roller-overalls-65535">
+<g transform="translate(117,1)" id="id-rat-2-rat-roller-overalls-202">
+<path d="M 49 28 C 47 29 45 30 45 30 C 41 45 39 52 39 52 C 48 76 52 87 52 87 C 45 131 41 153 41 153 C 37 195 36 216 36 216 C 38 242 41 264 43 300 C 47 304 49 306 49 306 C 45 312 42 315 42 315 C 36 342 32 355 32 355 C 34 375 35 384 35 384 C 30 387 28 389 28 389 C 9 458 0 493 0 493 C 5 516 11 539 19 559 C 42 583 53 595 53 595 C 55 608 55 615 55 615 C 58 617 59 619 59 619 C 62 616 64 615 64 615 C 69 614 72 614 72 614 C 86 616 94 617 94 617 C 96 620 97 621 97 621 C 100 619 101 619 101 619 C 104 608 105 603 105 603 C 116 598 121 596 121 596 C 150 597 176 596 196 589 C 224 599 238 610 286 621 C 291 629 295 638 303 646 C 304 656 304 661 304 661 C 306 661 308 662 308 662 C 325 655 334 652 334 652 C 342 652 346 651 346 651 C 346 642 346 638 346 638 C 344 636 343 635 343 635 C 355 595 371 557 369 512 C 358 481 343 462 333 431 C 333 424 332 420 332 420 C 321 405 307 358 306 335 C 299 333 295 332 295 332 C 272 329 261 328 261 328 C 242 297 230 267 215 236 C 204 201 198 184 198 184 C 192 155 189 140 189 140 C 188 106 188 89 188 89 C 212 56 224 39 224 39 C 214 25 209 17 209 17 C 182 56 168 75 168 75 C 134 79 116 82 116 82 C 85 78 69 76 69 76 L 50 40 L 49 28 Z" fill="url(#id-rat-2-rat-roller-overalls-9)" id="id-rat-2-rat-roller-overalls-203">
+</path >
+<path d="M 45 33 C 48 37 50 39 50 39 L 42 57 L 39 52 C 43 39 45 33 45 33 Z" fill="#d00004" id="id-rat-2-rat-roller-overalls-204">
+</path >
+<path d="M 51 84 C 59 70 62 63 62 63 C 74 84 79 94 79 94 L 60 106 C 54 91 51 84 51 84 Z" fill="#880201" id="id-rat-2-rat-roller-overalls-205">
+</path >
+<path d="M 57 86 C 63 83 66 81 66 81 C 70 87 72 90 72 90 L 61 96 C 58 90 57 86 57 86 Z" fill="#5f453f" id="id-rat-2-rat-roller-overalls-206">
+</path >
+<path d="M 59 91 L 63 82 L 57 86 C 58 90 59 91 59 91 Z" fill="#dbdee7" id="id-rat-2-rat-roller-overalls-207">
+</path >
+<path d="M 52 87 C 52 91 51 93 51 93 C 58 109 62 117 62 117 C 68 108 71 104 71 104 C 76 101 79 100 79 100 L 76 96 L 60 106 C 55 94 52 87 52 87 Z" fill="#4a0001" id="id-rat-2-rat-roller-overalls-208">
+</path >
+<path d="M 51 93 C 52 96 53 97 53 97 C 47 125 44 139 44 139 C 40 192 38 218 38 218 L 45 278 L 43 300 L 42 278 L 36 216 L 40 154 C 48 114 51 93 51 93 Z" fill="#b90002" id="id-rat-2-rat-roller-overalls-209">
+</path >
+<path d="M 67 129 L 90 129 C 78 113 71 104 71 104 L 63 115 C 66 124 67 129 67 129 Z" fill="#600001" id="id-rat-2-rat-roller-overalls-210">
+</path >
+<path d="M 76 101 C 82 104 85 105 85 105 C 81 94 78 88 78 88 L 73 89 C 75 97 76 101 76 101 Z" fill="#620001" id="id-rat-2-rat-roller-overalls-211">
+</path >
+<path d="M 134 116 C 138 103 139 97 139 97 C 155 91 162 89 162 89 L 164 94 C 144 109 134 116 134 116 Z" fill="#600001" id="id-rat-2-rat-roller-overalls-212">
+</path >
+<path d="M 170 135 C 163 126 160 122 160 122 L 173 100 L 177 102 C 173 124 170 135 170 135 Z" fill="#600001" id="id-rat-2-rat-roller-overalls-213">
+</path >
+<path d="M 183 107 C 167 97 160 92 160 92 C 161 89 162 87 162 87 C 178 91 186 92 186 92 L 187 91 C 184 102 183 107 183 107 Z" fill="#4a0000" id="id-rat-2-rat-roller-overalls-214">
+</path >
+<path d="M 185 93 C 182 98 180 101 180 101 C 167 91 161 86 161 86 L 176 64 C 182 83 185 93 185 93 Z" fill="#960100" id="id-rat-2-rat-roller-overalls-215">
+</path >
+<path d="M 172 77 C 169 82 167 84 167 84 C 174 90 177 93 177 93 L 184 83 C 176 79 172 77 172 77 Z" fill="#5f453e" id="id-rat-2-rat-roller-overalls-216">
+</path >
+<path d="M 167 84 L 171 87 L 175 79 L 172 77 C 169 82 167 84 167 84 Z" fill="#d9dee4" id="id-rat-2-rat-roller-overalls-217">
+</path >
+<path d="M 71 316 L 43 300 L 45 278 L 38 218 C 42 165 44 139 44 139 C 49 114 52 101 52 101 C 56 122 58 133 58 133 L 99 234 C 88 260 78 288 71 316 Z" fill="#5e0000" id="id-rat-2-rat-roller-overalls-218">
+</path >
+<path d="M 54 230 C 88 233 105 234 105 234 C 149 227 171 223 171 223 C 169 167 168 138 168 138 C 166 136 165 135 165 135 C 92 134 56 133 56 133 C 51 151 48 159 48 159 L 56 163 C 54 207 54 230 54 230 Z" fill="#540002" id="id-rat-2-rat-roller-overalls-219">
+</path >
+<path d="M 56 175 C 93 175 112 174 112 174 C 144 176 160 177 160 177 C 164 182 166 184 166 184 C 169 206 170 217 170 217 C 125 227 102 232 102 232 L 54 225 C 55 192 56 175 56 175 Z" fill="#790000" id="id-rat-2-rat-roller-overalls-220">
+</path >
+<path d="M 112 174 L 122 228 L 170 217 L 166 184 L 161 177 C 128 175 112 174 112 174 Z" fill="#890000" id="id-rat-2-rat-roller-overalls-221">
+</path >
+<path d="M 55 188 L 52 167 C 49 162 48 159 48 159 L 56 162 C 56 180 55 188 55 188 Z" fill="#2b0000" id="id-rat-2-rat-roller-overalls-222">
+</path >
+<path d="M 92 189 C 105 190 111 190 111 190 C 113 172 113 163 113 163 L 92 161 C 92 180 92 189 92 189 Z" fill="#000000" id="id-rat-2-rat-roller-overalls-223">
+</path >
+<path d="M 48 159 C 84 161 102 162 102 162 L 160 164 C 163 145 165 135 165 135 L 55 133 C 50 150 48 159 48 159 Z" fill="#970001" id="id-rat-2-rat-roller-overalls-224">
+</path >
+<path d="M 50 159 C 84 160 101 160 101 160 L 104 136 L 56 133 C 52 150 50 159 50 159 Z" fill="#9c0001" id="id-rat-2-rat-roller-overalls-225">
+</path >
+<path d="M 76 291 C 130 306 156 314 156 314 L 113 319 C 89 300 76 291 76 291 Z" fill="#4a0001" id="id-rat-2-rat-roller-overalls-226">
+</path >
+<path d="M 118 283 C 162 265 184 256 184 256 L 183 306 C 140 291 118 283 118 283 Z" fill="#830000" id="id-rat-2-rat-roller-overalls-227">
+</path >
+<path d="M 183 213 C 179 274 176 305 176 305 C 185 316 190 322 190 322 C 148 353 127 368 127 368 L 234 323 L 225 316 L 230 305 C 200 248 185 218 183 213 Z" fill="#890000" id="id-rat-2-rat-roller-overalls-228">
+</path >
+<path d="M 190 322 C 195 318 198 316 198 316 L 178 285 L 176 305 C 185 316 190 322 190 322 Z" fill="#960000" id="id-rat-2-rat-roller-overalls-229">
+</path >
+<path d="M 136 390 C 72 395 40 397 40 397 C 30 464 46 524 69 582 L 19 559 L 0 493 L 28 390 L 35 384 L 32 355 L 42 315 L 49 306 C 45 302 43 300 43 300 C 82 322 102 333 102 333 C 83 331 73 330 73 330 L 78 356 C 117 378 136 390 136 390 Z" fill="#4a0001" id="id-rat-2-rat-roller-overalls-230">
+</path >
+<path d="M 19 425 C 27 405 31 394 31 394 C 67 388 86 385 86 385 C 66 383 48 380 34 372 L 35 384 L 28 390 C 22 413 19 425 19 425 Z" fill="#2c0000" id="id-rat-2-rat-roller-overalls-231">
+</path >
+<path d="M 153 450 C 102 411 76 392 76 392 C 148 390 184 390 184 390 L 120 411 C 142 437 153 450 153 450 Z" fill="#810000" id="id-rat-2-rat-roller-overalls-232">
+</path >
+<path d="M 75 418 C 141 456 174 476 174 476 L 195 530 C 115 455 75 418 75 418 Z" fill="#800001" id="id-rat-2-rat-roller-overalls-233">
+</path >
+<path d="M 185 562 C 132 539 105 527 105 527 L 115 503 C 162 542 185 562 185 562 Z" stroke="#979797" id="id-rat-2-rat-roller-overalls-234">
+</path >
+<path d="M 61 561 C 91 505 107 477 107 477 C 233 570 297 617 297 617 C 319 591 335 563 349 533 L 361 577 L 343 635 L 346 638 L 346 651 L 334 652 L 308 662 L 304 661 L 303 646 C 298 641 292 632 286 621 C 255 616 225 603 196 589 C 175 595 151 598 121 596 L 105 603 L 102 619 L 97 621 L 93 617 L 72 614 L 64 615 L 59 619 L 55 615 C 54 602 53 595 53 595 L 54 575 C 59 566 61 561 61 561 Z" fill="#480101" id="id-rat-2-rat-roller-overalls-235">
+</path >
+<path d="M 59 619 L 55 615 L 53 595 C 31 571 19 559 19 559 C 70 583 95 594 95 594 C 86 595 82 595 82 595 L 86 616 L 72 614 L 64 615 L 59 619 Z" fill="#2c0000" id="id-rat-2-rat-roller-overalls-236">
+</path >
+<path d="M 145 596 C 152 588 156 583 156 583 C 130 567 117 558 117 558 C 170 577 197 587 197 587 L 210 595 L 196 589 C 181 594 164 596 145 596 Z" fill="#300100" id="id-rat-2-rat-roller-overalls-237">
+</path >
+<path d="M 291 621 C 298 620 301 620 301 620 C 299 573 297 549 297 549 C 278 541 268 536 268 536 L 259 537 C 280 593 291 621 291 621 Z" fill="#2c0001" id="id-rat-2-rat-roller-overalls-238">
+</path >
+<path d="M 55 615 C 62 612 66 611 66 611 L 69 591 L 53 595 C 55 608 55 615 55 615 Z" fill="#470000" id="id-rat-2-rat-roller-overalls-239">
+</path >
+<path d="M 289 621 C 311 619 321 618 321 618 C 325 629 327 634 327 634 C 318 639 313 642 313 642 C 313 640 313 639 313 639 L 289 625 C 289 622 289 621 289 621 Z" fill="#2c0001" id="id-rat-2-rat-roller-overalls-240">
+</path >
+<path d="M 314 643 L 330 640 C 332 648 334 652 334 652 L 318 658 C 315 648 314 643 314 643 Z" fill="#2c0001" id="id-rat-2-rat-roller-overalls-241">
+</path >
+<path d="M 344 630 C 339 621 336 617 336 617 C 343 615 347 614 347 614 L 352 605 C 347 622 344 630 344 630 Z" fill="#2c0000" id="id-rat-2-rat-roller-overalls-242">
+</path >
+<path d="M 306 335 C 302 333 300 333 300 333 C 291 350 285 368 283 386 C 306 435 342 485 369 535 C 369 528 369 521 369 512 C 358 486 343 455 333 431 L 332 420 C 317 395 309 366 306 335 Z" fill="#580000" id="id-rat-2-rat-roller-overalls-243">
+</path >
+<path d="M 340 447 L 280 410 L 332 420 L 333 431 C 337 442 340 447 340 447 Z" fill="#2c0001" id="id-rat-2-rat-roller-overalls-244">
+</path >
+<path d="M 276 403 C 272 459 270 487 270 487 C 308 524 327 542 327 542 L 330 485 C 294 434 276 406 276 403 Z" fill="#860000" id="id-rat-2-rat-roller-overalls-245">
+</path >
+<path d="M 128 388 C 109 389 100 389 100 389 L 100 380 C 118 385 128 388 128 388 Z" fill="#4d0001" id="id-rat-2-rat-roller-overalls-246">
+</path >
+<path d="M 125 370 L 221 365 L 234 323 C 162 354 125 370 125 370 Z" fill="#4e0000" id="id-rat-2-rat-roller-overalls-247">
+</path >
+<path d="M 34 377 C 35 373 36 371 36 371 C 38 351 39 341 39 341 C 50 324 56 315 56 315 L 48 307 L 42 315 L 32 355 C 33 370 34 377 34 377 Z" fill="#cf0001" id="id-rat-2-rat-roller-overalls-248">
+</path >
+<path d="M 214 52 C 211 48 209 46 209 46 L 196 35 L 209 18 L 229 0 L 247 22 L 244 26 L 244 26 L 241 24 L 224 39 C 217 48 214 52 214 52 Z" fill="#960000" id="id-rat-2-rat-roller-overalls-249">
+</path >
+<path d="M 224 39 C 223 36 221 33 217 29 C 213 26 209 25 204 27 C 207 22 211 18 217 13 C 217 21 221 27 228 33 L 228 35 C 225 38 224 39 224 39 Z" fill="#a32419" id="id-rat-2-rat-roller-overalls-250">
+</path >
+<g transform="translate(31,144)" id="id-rat-2-rat-roller-overalls-251">
+<path d="M 61 0 C 61 5 61 8 61 8 C 74 9 81 9 81 9 L 81 0 C 68 0 61 0 61 0 Z" fill="#006700" id="id-rat-2-rat-roller-overalls-252">
+</path >
+<path d="M 115 19 C 126 9 131 4 131 4 L 128 19 C 119 19 115 19 115 19 Z" fill="#e0a519" id="id-rat-2-rat-roller-overalls-253">
+</path >
+<path d="M 76 442 C 68 391 64 366 64 366 C 70 364 73 363 73 363 C 73 360 74 358 74 358 C 67 350 64 346 64 346 C 59 346 56 344 62 338 C 62 336 62 335 62 335 C 59 334 56 335 53 333 C 49 335 47 336 47 336 C 43 336 40 336 37 339 C 34 377 33 396 33 396 C 27 357 25 338 25 338 C 17 337 13 337 13 337 C 14 334 16 333 21 330 C 23 328 23 325 28 325 C 32 324 36 324 40 326 C 46 326 51 322 57 325 C 59 322 62 313 54 307 C 64 292 69 284 69 284 C 65 288 63 289 63 289 C 65 287 66 285 66 285 C 66 281 63 277 58 272 C 58 267 57 263 55 258 C 50 257 45 254 44 244 C 41 239 39 237 39 237 C 39 235 39 234 39 234 C 45 239 48 241 48 241 C 55 243 61 245 60 259 C 61 260 61 261 61 261 C 68 268 72 272 72 272 C 73 278 72 286 82 288 C 86 288 88 284 89 278 C 87 275 86 273 86 273 C 88 270 88 268 88 268 C 87 264 85 264 84 262 C 86 260 84 253 88 253 C 87 251 87 250 87 250 C 87 246 87 244 87 244 C 89 247 92 248 92 253 C 96 254 100 257 98 263 C 97 269 102 272 99 279 C 100 284 101 289 98 293 C 102 300 104 304 104 304 C 102 310 93 314 86 310 C 86 304 86 301 86 301 C 84 299 81 314 73 312 C 72 313 71 314 71 314 C 78 315 81 316 81 316 C 82 318 84 320 83 324 C 81 324 77 325 74 326 C 74 327 74 328 74 328 C 83 328 92 329 101 334 C 103 334 103 334 103 334 C 96 321 99 317 108 314 C 109 313 109 312 109 312 C 115 317 126 319 124 326 C 122 330 119 333 113 335 C 113 333 113 333 113 333 C 90 351 79 361 79 361 C 90 355 96 352 96 352 C 97 367 98 375 98 375 C 101 377 103 378 103 378 C 104 381 101 395 99 397 C 96 398 95 398 95 398 C 91 396 89 395 89 395 C 89 393 89 393 89 393 C 88 421 87 436 87 436 L 78 417 C 76 433 76 442 76 442 Z" fill="#974c00" id="id-rat-2-rat-roller-overalls-254">
+</path >
+<path d="M 54 297 C 47 302 44 305 44 305 C 37 300 30 293 24 294 C 16 288 11 285 11 285 C 11 284 11 283 11 283 C 6 280 2 276 0 271 C 2 270 7 273 12 276 C 16 275 17 275 17 275 C 25 277 33 288 40 288 C 48 294 52 297 54 297 Z" fill="#974c00" id="id-rat-2-rat-roller-overalls-255">
+</path >
+<path d="M 64 175 C 62 184 52 171 42 159 C 27 123 19 106 19 106 C 19 99 19 93 23 93 C 43 130 54 149 54 149 C 67 161 74 167 74 167 C 80 177 82 184 78 184 C 75 180 70 177 64 175 Z" fill="#a15501" id="id-rat-2-rat-roller-overalls-256">
+</path >
+<path d="M 70 143 C 63 146 55 141 46 120 C 48 119 50 120 55 128 C 69 134 74 139 70 143 Z" fill="#9d5503" id="id-rat-2-rat-roller-overalls-257">
+</path >
+<path d="M 136 165 C 122 173 115 162 110 145 C 111 134 118 123 127 125 C 127 125 148 134 135 156 C 136 162 136 165 136 165 Z" fill="#9b5102" id="id-rat-2-rat-roller-overalls-258">
+</path >
+<path d="M 153 141 C 147 146 144 145 144 138 C 145 135 147 134 149 135 C 153 136 154 139 153 141 Z" fill="#c36902" id="id-rat-2-rat-roller-overalls-259">
+</path >
+<path d="M 159 109 C 157 111 151 101 150 101 C 144 100 133 97 143 88 C 146 85 138 83 144 79 C 150 79 152 79 152 79 C 155 82 157 86 159 89 C 156 95 166 107 159 109 Z" fill="#a05302" id="id-rat-2-rat-roller-overalls-260">
+</path >
+<path d="M 111 146 C 129 148 138 150 138 150 C 141 141 138 132 127 125 C 110 126 111 146 111 146 Z" fill="#c76c02" id="id-rat-2-rat-roller-overalls-261">
+</path >
+<path d="M 148 101 C 149 86 150 79 150 79 C 151 79 152 79 152 79 C 155 83 160 86 159 94 C 161 100 164 107 158 109 L 151 101 C 149 101 148 101 148 101 Z" fill="#c76c02" id="id-rat-2-rat-roller-overalls-262">
+</path >
+<path d="M 43 130 L 35 141 L 19 106 C 20 101 18 94 23 93 C 36 118 43 130 43 130 Z" fill="#c76b02" id="id-rat-2-rat-roller-overalls-263">
+</path >
+<path d="M 68 286 C 66 289 65 291 65 291 C 76 302 81 307 81 307 C 83 305 84 300 86 301 C 86 307 86 310 86 310 C 92 313 98 312 103 306 C 80 293 68 286 68 286 Z" fill="#c36800" id="id-rat-2-rat-roller-overalls-264">
+</path >
+<path d="M 99 324 C 107 331 111 334 111 334 C 112 333 113 333 113 333 C 113 334 114 335 114 335 C 118 333 125 330 124 323 C 120 318 115 316 110 313 C 102 315 98 319 99 324 Z" fill="#c36800" id="id-rat-2-rat-roller-overalls-265">
+</path >
+<path d="M 87 272 C 95 278 99 281 99 281 C 99 279 99 279 99 279 C 102 274 99 270 97 266 C 100 259 98 255 93 253 C 89 247 87 244 87 244 C 87 247 86 251 88 253 C 86 254 85 254 85 254 C 84 259 84 262 84 262 L 89 268 C 87 271 87 272 87 272 Z" fill="#c36800" id="id-rat-2-rat-roller-overalls-266">
+</path >
+</g >
+</g >
+<g transform="translate(274,425)" id="id-rat-2-rat-roller-overalls-267">
+<path d="M 148 244 C 140 258 118 266 80 267 C 31 267 18 243 18 243 C 16 185 14 155 14 155 C 13 152 12 150 12 150 C 14 148 14 147 14 147 C 12 131 11 123 11 123 C 10 121 10 119 10 119 C 11 118 11 117 11 117 C 11 108 12 103 12 103 C 104 100 150 98 150 98 C 149 106 149 110 149 110 C 151 112 152 113 152 113 C 152 116 153 118 153 118 C 150 134 148 143 148 143 C 150 147 150 149 150 149 L 148 152 C 148 213 148 244 148 244 Z" fill="url(#id-rat-2-rat-roller-overalls-10)" id="id-rat-2-rat-roller-overalls-268">
+</path >
+<path d="M 12 104 C 11 103 10 103 10 103 C 10 111 10 115 10 115 C 8 118 7 119 7 119 C 9 122 10 123 10 123 C 12 138 13 146 13 146 C 11 149 10 151 10 151 L 14 155 C 17 214 18 243 18 243 C 18 244 17 245 17 245 C 18 247 18 247 18 247 C 19 246 20 246 20 246 C 17 186 15 156 15 156 C 13 152 12 150 12 150 L 14 147 L 11 123 L 10 119 L 11 117 C 12 108 12 104 12 104 Z" fill="#c2c2c2" id="id-rat-2-rat-roller-overalls-269">
+</path >
+<path d="M 20 246 C 19 247 18 247 18 247 C 26 262 48 269 85 269 C 127 267 148 257 151 240 L 148 238 C 148 242 148 244 148 244 C 137 258 116 265 85 265 C 56 266 31 260 20 246 Z" fill="url(#id-rat-2-rat-roller-overalls-11)" id="id-rat-2-rat-roller-overalls-270">
+</path >
+<path d="M 30 254 C 27 191 25 160 25 160 C 24 157 23 155 23 155 C 24 153 25 152 25 152 C 23 122 22 107 22 107 C 38 110 46 111 46 111 C 47 140 47 155 47 155 C 45 158 44 159 44 159 C 45 162 46 164 46 164 L 49 262 C 42 260 35 257 30 254 Z" fill="#184502" id="id-rat-2-rat-roller-overalls-271">
+</path >
+<path d="M 85 266 C 74 205 68 175 68 175 C 87 168 96 164 96 164 C 99 164 100 164 100 164 C 100 162 100 161 100 161 C 89 161 83 161 83 161 C 70 158 63 157 63 157 C 64 144 65 137 65 137 C 86 133 97 131 97 131 C 97 126 97 123 97 123 C 87 123 82 123 82 123 C 82 118 81 116 81 116 C 112 112 128 110 128 110 L 131 257 C 121 262 106 265 85 266 Z" fill="#00aa38" id="id-rat-2-rat-roller-overalls-272">
+</path >
+<path d="M 100 164 C 102 173 105 184 108 196 L 113 163 C 104 164 100 164 100 164 Z" fill="#46dd96" id="id-rat-2-rat-roller-overalls-273">
+</path >
+<path d="M 12 150 C 25 157 45 160 66 161 L 63 165 C 42 163 23 160 14 155 C 13 152 12 150 12 150 Z" fill="#0e2700" fill-opacity="0.448" id="id-rat-2-rat-roller-overalls-274">
+</path >
+<path d="M 66 161 C 72 161 77 162 83 161 L 83 161 L 83 162 C 77 162 72 162 67 162 L 66 162 L 66 161 Z" fill="#184502" id="id-rat-2-rat-roller-overalls-275" fill-rule="nonzero">
+</path >
+<path d="M 123 159 C 123 160 123 161 123 161 C 130 161 138 158 146 153 L 146 150 C 139 155 131 158 123 159 Z" fill="#194601" id="id-rat-2-rat-roller-overalls-276">
+</path >
+<path d="M 142 116 C 142 117 142 118 142 118 C 137 121 130 123 121 124 L 122 120 C 129 120 136 119 142 116 Z" fill="#016701" id="id-rat-2-rat-roller-overalls-277">
+</path >
+<path d="M 9 96 C 12 90 35 85 78 83 C 113 83 143 84 150 93 C 149 98 141 101 124 103 L 36 106 C 17 104 8 101 9 96 Z" fill="#4e5460" id="id-rat-2-rat-roller-overalls-278">
+</path >
+<path d="M 33 88 C 33 99 33 105 33 105 C 50 107 68 107 89 107 L 88 84 C 72 83 54 84 33 88 Z" fill="#727e96" id="id-rat-2-rat-roller-overalls-279">
+</path >
+<path d="M 50 85 C 51 99 52 107 52 107 C 63 107 69 107 69 107 L 67 84 C 56 85 50 85 50 85 Z" fill="#d0d1d3" id="id-rat-2-rat-roller-overalls-280">
+</path >
+<path d="M 135 86 C 136 95 136 100 136 100 C 142 99 144 98 144 98 L 144 89 C 138 87 135 86 135 86 Z" fill="url(#id-rat-2-rat-roller-overalls-12)" id="id-rat-2-rat-roller-overalls-281">
+</path >
+<path d="M 135 86 C 136 95 136 100 136 100 C 128 102 124 103 124 103 L 123 85 C 129 85 132 86 135 86 Z" fill="url(#id-rat-2-rat-roller-overalls-13)" id="id-rat-2-rat-roller-overalls-282">
+</path >
+<path d="M 18 106 C 19 106 19 107 19 107 C 19 115 18 119 18 119 C 16 121 15 122 15 122 C 19 125 18 131 25 133 C 26 134 27 135 27 135 C 27 146 27 151 27 151 C 27 153 29 157 31 152 C 31 145 32 132 29 129 C 29 126 19 129 24 115 C 27 116 30 122 35 122 C 41 125 37 133 42 135 C 42 148 42 155 42 155 C 38 160 43 162 42 171 C 43 174 44 173 46 171 L 46 162 L 44 159 C 46 156 47 155 47 155 C 47 142 47 136 47 136 C 49 134 50 133 51 135 C 52 148 52 155 52 155 C 50 158 50 159 50 159 C 51 162 51 164 51 164 C 52 182 52 191 52 191 C 54 198 56 204 61 200 C 60 156 60 134 60 134 C 62 131 67 127 67 137 C 67 146 66 157 72 154 C 72 136 73 127 73 127 C 75 121 81 117 87 124 C 87 145 88 156 88 156 C 89 159 90 161 94 158 C 94 144 94 137 94 137 C 97 136 96 129 100 131 C 102 132 100 138 103 139 C 105 144 100 161 107 158 C 107 158 108 159 108 159 C 107 161 109 163 113 164 C 114 166 115 167 115 167 C 116 175 113 197 119 194 C 121 190 118 178 120 173 C 122 170 123 168 123 168 C 124 162 124 158 124 158 C 123 156 122 155 122 155 C 122 135 122 125 122 125 C 123 122 124 121 124 121 C 122 120 122 119 122 119 C 124 110 132 107 133 117 C 134 118 135 119 135 119 C 133 121 133 122 133 122 C 133 128 133 130 133 130 C 135 134 135 130 136 129 C 135 124 135 122 135 122 C 137 120 137 121 137 122 C 139 130 136 146 142 144 C 142 127 142 119 142 119 C 143 117 144 116 144 116 C 143 115 142 114 142 114 C 142 107 142 104 142 104 C 130 103 124 103 124 103 C 113 98 96 99 79 99 C 60 100 43 101 35 106 C 30 105 25 104 20 103 L 16 104 C 17 105 18 106 18 106 Z" fill="url(#id-rat-2-rat-roller-overalls-14)" id="id-rat-2-rat-roller-overalls-283">
+</path >
+<path d="M 16 104 C 30 111 56 112 83 113 C 107 111 128 108 145 102 L 145 98 C 130 101 123 103 123 103 C 94 108 65 108 35 106 L 20 103 C 17 104 16 104 16 104 Z" fill="#e0a616" id="id-rat-2-rat-roller-overalls-284">
+</path >
+<path d="M 153 118 C 148 118 149 124 148 130 C 148 139 148 143 148 143 C 150 143 151 143 151 143 L 159 129 C 155 122 153 118 153 118 Z" fill="#353e43" id="id-rat-2-rat-roller-overalls-285">
+</path >
+<path d="M 151 143 L 148 143 C 148 130 148 118 153 118 C 151 126 151 135 151 143 Z" fill="#81858e" id="id-rat-2-rat-roller-overalls-286">
+</path >
+<path d="M 156 133 C 162 127 165 124 165 124 C 162 92 161 76 161 76 C 126 25 109 0 109 0 C 69 5 49 7 49 7 C 43 7 41 7 41 7 C 14 55 0 78 0 78 C 2 115 3 133 3 133 C 11 137 14 138 14 138 C 16 136 16 134 16 134 C 10 132 7 131 7 131 C 5 97 4 80 4 80 C 31 35 44 13 44 13 C 48 13 50 12 50 12 C 89 9 108 7 108 7 C 139 54 155 78 155 78 L 159 122 C 154 126 153 129 156 133 Z" fill="#6d717a" id="id-rat-2-rat-roller-overalls-287">
+</path >
+<path d="M 161 76 L 156 83 L 159 122 C 155 125 152 129 156 133 L 165 124 C 162 92 161 76 161 76 Z" fill="#31282d" id="id-rat-2-rat-roller-overalls-288">
+</path >
+<path d="M 161 76 L 159 79 L 165 124 C 162 92 161 76 161 76 Z" fill="#555056" id="id-rat-2-rat-roller-overalls-289">
+</path >
+<path d="M 4 80 L 0 81 L 3 133 L 14 138 L 16 134 L 7 131 C 5 97 4 80 4 80 Z" fill="#474d59" id="id-rat-2-rat-roller-overalls-290">
+</path >
+<path d="M 0 81 C 3 81 4 80 4 80 C 16 56 33 32 43 7 L 41 7 L 0 78 L 0 81 Z" fill="#c2c2c6" id="id-rat-2-rat-roller-overalls-291">
+</path >
+<path d="M 16 104 C 3 100 -3 95 22 87 C 43 83 54 81 54 81 C 78 80 102 79 129 81 C 151 85 159 91 145 102 C 145 99 144 98 144 98 C 159 88 136 87 121 85 C 99 84 73 83 49 86 C 13 91 -4 97 20 103 C 18 104 16 104 16 104 Z" fill="#9da0a9" id="id-rat-2-rat-roller-overalls-292">
+</path >
+<path d="M 108 159 C 108 160 108 161 108 161 L 87 161 C 101 160 108 159 108 159 Z" fill="#bfcac2" id="id-rat-2-rat-roller-overalls-293">
+</path >
+<path d="M 143 89 C 147 88 149 88 149 88 C 152 91 152 92 152 93 L 149 93 C 149 91 147 90 143 89 Z" fill="#74798f" id="id-rat-2-rat-roller-overalls-294">
+</path >
+<path d="M 10 137 C 11 142 11 148 17 148 C 22 147 24 142 23 133 C 18 130 19 126 16 123 C 13 124 10 126 11 132 C 11 135 10 137 10 137 Z" fill="#272c32" id="id-rat-2-rat-roller-overalls-295">
+</path >
+<path d="M 18 148 C 18 143 20 139 18 130 C 18 127 17 125 14 124 C 15 123 16 123 16 123 C 18 127 20 126 20 137 C 20 143 19 147 18 148 Z" fill="#c8c9cb" id="id-rat-2-rat-roller-overalls-296">
+</path >
+<path d="M 10 119 L 17 121 C 16 122 15 122 15 122 C 16 123 16 123 16 123 L 14 124 L 11 123 C 10 120 10 119 10 119 Z" fill="#184500" id="id-rat-2-rat-roller-overalls-297">
+</path >
+<path d="M 22 122 C 26 123 31 124 38 125 C 38 128 39 129 39 129 L 29 128 C 24 127 22 125 22 122 Z" fill="#0e2604" id="id-rat-2-rat-roller-overalls-298">
+</path >
+</g >
+<g transform="translate(1,10)" id="id-rat-2-rat-roller-overalls-299">
+<path d="M 76 152 C 89 149 96 147 96 147 C 100 131 102 122 102 122 C 88 107 80 99 80 99 C 75 90 73 86 73 86 C 74 74 74 69 74 69 C 68 48 65 38 65 38 C 65 35 65 34 65 34 C 63 33 63 33 63 33 C 59 28 56 22 54 16 C 49 13 47 12 47 12 C 40 17 41 24 49 34 C 50 39 50 41 50 41 C 47 46 45 49 45 49 L 53 116 C 69 140 76 152 76 152 Z" fill="#7b3743" id="id-rat-2-rat-roller-overalls-300">
+</path >
+<path d="M 53 116 C 54 116 54 115 54 115 C 54 105 53 100 53 100 C 57 96 60 94 60 94 C 55 86 53 83 53 83 C 50 76 49 73 49 73 L 46 48 L 45 49 C 51 94 53 116 53 116 Z" fill="#652030" id="id-rat-2-rat-roller-overalls-301">
+</path >
+<path d="M 82 105 C 73 101 69 100 69 100 C 67 97 66 95 66 95 C 71 90 74 87 74 87 C 77 95 79 98 79 98 L 82 101 C 82 103 82 105 82 105 Z" fill="#9e6383" id="id-rat-2-rat-roller-overalls-302">
+</path >
+<path d="M 69 86 C 70 74 70 68 70 68 C 66 58 62 47 62 35 L 55 24 C 54 18 54 16 54 16 C 50 14 49 13 49 13 C 49 19 49 24 51 29 L 59 37 C 56 62 59 78 69 86 Z" fill="#914e58" id="id-rat-2-rat-roller-overalls-303">
+</path >
+<path d="M 76 102 C 73 105 72 106 72 106 L 88 137 L 96 147 L 102 122 L 82 101 L 82 105 C 78 103 76 102 76 102 Z" fill="#593f46" id="id-rat-2-rat-roller-overalls-304">
+</path >
+<path d="M 96 147 C 91 141 88 137 88 137 C 82 125 79 119 79 119 C 77 103 86 107 104 129 L 116 168 L 96 147 Z" fill="#474249" id="id-rat-2-rat-roller-overalls-305">
+</path >
+<path d="M 82 101 C 82 103 82 105 82 105 C 100 125 109 135 109 135 C 120 136 126 137 126 137 L 105 125 L 82 101 Z" fill="#505765" id="id-rat-2-rat-roller-overalls-306">
+</path >
+<path d="M 62 35 L 59 37 C 53 31 51 29 51 29 L 58 26 C 61 32 62 35 62 35 Z" fill="#9f6485" id="id-rat-2-rat-roller-overalls-307">
+</path >
+<path d="M 47 31 C 46 19 45 13 45 13 C 43 16 42 19 43 22 C 44 28 47 31 47 31 Z" fill="#692333" id="id-rat-2-rat-roller-overalls-308">
+</path >
+<path d="M 52 18 C 51 15 48 13 45 11 C 46 8 45 4 42 0 C 47 2 52 4 54 12 C 54 14 54 16 52 18 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-309">
+</path >
+<path d="M 30 45 L 13 41 C 13 41 5 44 5 49 C 5 55 10 57 10 57 C 18 59 22 60 22 60 C 19 61 14 61 9 60 C 4 62 1 65 1 69 C 1 76 7 78 7 78 C 10 78 12 78 12 78 C 6 79 3 81 2 85 C 3 90 7 93 7 93 C 14 95 18 95 18 95 C 14 95 12 95 12 95 C 7 96 5 98 6 103 C 6 105 10 108 10 108 C 17 110 24 112 31 112 C 30 100 29 94 29 94 C 33 94 36 94 36 94 C 39 93 41 91 41 89 C 41 86 36 83 36 83 C 30 81 28 80 28 80 C 28 79 28 78 28 78 C 30 78 32 78 34 79 C 38 76 39 73 40 69 C 40 65 37 63 32 61 C 35 59 38 56 38 50 C 36 47 33 46 30 45 Z" fill="#692333" id="id-rat-2-rat-roller-overalls-310">
+</path >
+<path d="M 36 57 C 20 56 12 56 12 56 L 7 55 C 2 49 4 45 13 41 L 30 45 C 34 46 36 48 38 50 C 38 53 37 56 36 57 Z" fill="#7c3743" id="id-rat-2-rat-roller-overalls-311">
+</path >
+<path d="M 32 61 C 34 62 43 64 39 74 L 2 74 C -2 68 2 63 9 60 C 13 61 18 62 22 60 C 28 61 32 61 32 61 Z" fill="#7c3743" id="id-rat-2-rat-roller-overalls-312">
+</path >
+<path d="M 12 63 C 10 66 9 68 9 68 C 23 69 29 69 29 69 C 34 67 36 66 36 66 L 30 64 C 18 64 12 63 12 63 Z" fill="#9f6485" id="id-rat-2-rat-roller-overalls-313">
+</path >
+<path d="M 14 44 C 14 47 13 48 13 48 C 23 51 28 52 28 52 L 33 49 C 20 46 14 44 14 44 Z" fill="#9f6485" id="id-rat-2-rat-roller-overalls-314">
+</path >
+<path d="M 7 45 C 6 50 6 53 6 53 L 4 52 C 4 48 5 46 7 45 Z" fill="#d0d1d3" id="id-rat-2-rat-roller-overalls-315">
+</path >
+<path d="M 27 52 C 31 55 33 57 33 57 C 41 58 45 56 50 54 C 44 51 38 49 33 49 C 29 51 27 52 27 52 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-316">
+</path >
+<path d="M 28 70 C 34 74 37 76 37 76 C 39 74 45 73 55 73 C 50 70 44 67 39 65 C 32 68 28 70 28 70 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-317">
+</path >
+<path d="M 3 75 C 1 74 0 74 0 74 C 0 68 0 66 0 66 L 3 64 C 3 71 3 75 3 75 Z" fill="#d0d1d3" id="id-rat-2-rat-roller-overalls-318">
+</path >
+<path d="M 5 91 C 25 91 35 90 35 90 C 36 93 36 94 36 94 C 42 91 42 87 35 83 C 27 80 19 78 12 78 C 2 80 0 84 5 91 Z" fill="#7c3743" id="id-rat-2-rat-roller-overalls-319">
+</path >
+<path d="M 5 91 L 1 87 C 2 83 3 80 3 80 L 5 80 C 5 87 5 91 5 91 Z" fill="#d0d1d3" id="id-rat-2-rat-roller-overalls-320">
+</path >
+<path d="M 15 80 C 14 83 13 85 13 85 C 26 87 32 88 32 88 C 35 87 37 86 37 86 L 26 82 C 19 80 15 80 15 80 Z" fill="#9f6485" id="id-rat-2-rat-roller-overalls-321">
+</path >
+<path d="M 32 88 C 36 92 39 93 39 93 L 47 91 C 45 86 40 85 32 88 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-322">
+</path >
+<path d="M 33 98 L 27 104 C 34 110 41 104 47 97 C 40 100 35 100 33 98 Z" fill="#19211f" id="id-rat-2-rat-roller-overalls-323">
+</path >
+<path d="M 15 98 C 13 100 13 102 13 102 C 23 103 28 103 28 103 L 32 100 C 21 98 15 98 15 98 Z" fill="#9f6485" id="id-rat-2-rat-roller-overalls-324">
+</path >
+<path d="M 31 108 L 10 108 C 17 110 23 112 31 112 L 31 108 Z" fill="#692333" id="id-rat-2-rat-roller-overalls-325">
+</path >
+<path d="M 9 107 C 7 107 7 107 7 107 C 6 102 5 99 5 99 L 7 97 C 8 104 9 107 9 107 Z" fill="#d0d1d3" id="id-rat-2-rat-roller-overalls-326">
+</path >
+</g >
+<g transform="translate(327,157)" id="id-rat-2-rat-roller-overalls-327">
+<path d="M 61 50 C 62 51 65 50 63 57 C 70 50 78 46 85 44 C 78 45 75 45 75 45 C 90 33 97 27 97 27 L 84 32 C 99 16 118 7 140 7 L 134 1 C 105 8 81 24 61 50 Z" fill="#1b2323" id="id-rat-2-rat-roller-overalls-328">
+</path >
+<path d="M 35 124 C 44 103 54 81 63 58 C 81 32 102 8 140 7 C 145 13 148 16 148 16 C 140 15 137 14 137 14 C 138 19 139 22 139 22 C 135 19 133 17 133 17 C 122 41 108 66 89 91 C 88 93 95 93 103 92 C 90 103 84 108 84 108 C 95 107 100 106 100 106 C 93 106 82 113 71 119 C 67 128 65 133 65 133 C 63 129 63 127 63 127 C 58 130 56 132 56 132 C 55 128 55 126 55 126 C 42 137 36 142 36 142 L 38 121 C 36 123 35 124 35 124 Z" fill="#313439" id="id-rat-2-rat-roller-overalls-329">
+</path >
+<path d="M 58 247 L 54 227 L 41 177 L 78 148 L 75 137 L 73 120 L 38 171 C 12 237 -1 274 1 284 C 3 297 4 299 11 300 C 13 300 18 307 20 307 C 22 307 25 303 27 303 C 30 302 33 304 35 303 C 38 301 40 296 42 295 C 44 293 46 293 48 292 C 52 288 54 283 53 282 C 57 258 58 247 58 247 Z" fill="#000000" opacity="0.202" id="id-rat-2-rat-roller-overalls-330">
+</path >
+</g >
+</g >
+<g transform="translate(424,15)" id="id-rat-2-rat-roller-overalls-331">
+<g transform="translate(0,1)" id="id-rat-2-rat-roller-overalls-332">
+<path d="M 0 64 C 2 64 3 65 3 65 C 27 43 44 32 55 32 C 83 31 105 62 105 62 C 113 56 116 52 116 52 C 112 37 109 30 109 30 C 98 18 92 13 92 13 C 91 10 91 9 91 9 C 72 3 63 0 63 0 C 60 2 59 3 59 3 C 54 3 52 3 52 3 C 49 1 47 1 47 1 C 28 9 19 13 19 13 C 18 15 18 16 18 16 C 8 30 3 36 3 36 L 2 55 C 1 61 0 64 0 64 Z" fill="url(#id-rat-2-rat-roller-overalls-15)" id="id-rat-2-rat-roller-overalls-333">
+</path >
+<path d="M 0 64 C 9 34 27 18 53 17 C 76 18 95 32 108 60 C 107 61 106 62 106 62 C 92 38 77 20 53 21 C 28 20 10 38 3 65 C 1 64 0 64 0 64 Z" fill="#fe95d8" id="id-rat-2-rat-roller-overalls-334">
+</path >
+<path d="M 2 57 L 3 36 L 18 16 C 18 14 19 13 19 13 C 19 16 19 17 19 17 C 15 22 13 24 13 24 L 7 46 L 2 57 Z" fill="#e11174" id="id-rat-2-rat-roller-overalls-335">
+</path >
+<path d="M 45 18 L 50 17 L 52 3 L 47 1 C 46 12 45 18 45 18 Z" fill="#f21da3" id="id-rat-2-rat-roller-overalls-336">
+</path >
+<path d="M 64 19 C 64 14 65 9 63 0 C 82 6 91 9 91 9 C 93 19 94 28 94 38 C 85 28 75 21 64 19 Z" fill="#f21da3" id="id-rat-2-rat-roller-overalls-337">
+</path >
+<path d="M 102 23 C 108 34 111 45 112 56 L 116 52 L 109 30 C 105 25 102 23 102 23 Z" fill="#ff2c91" id="id-rat-2-rat-roller-overalls-338">
+</path >
+<path d="M 59 18 L 59 3 L 63 0 C 64 6 65 12 64 19 L 59 18 Z" fill="#850939" id="id-rat-2-rat-roller-overalls-339">
+</path >
+<path d="M 3 65 C 8 41 26 20 52 21 C 76 19 95 41 106 62 L 105 62 L 98 59 C 97 55 93 52 88 48 L 81 50 L 46 49 L 40 52 L 31 47 L 16 61 L 3 65 Z" fill="url(#id-rat-2-rat-roller-overalls-16)" id="id-rat-2-rat-roller-overalls-340">
+</path >
+</g >
+</g >
+<g transform="translate(431,28)" id="id-rat-2-rat-roller-overalls-341">
+<path d="M 28 46 C 28 46 28 47 28 47 C 18 30 10 19 0 4 C 6 9 15 23 28 46 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-342">
+</path >
+<path d="M 31 54 C 32 54 33 53 33 53 C 31 35 27 17 20 1 L 19 2 C 27 23 31 40 31 54 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-343">
+</path >
+<path d="M 34 45 C 35 45 36 45 36 45 C 37 31 38 24 38 24 L 37 24 C 36 38 35 45 34 45 Z" fill="#c7cbd5" id="id-rat-2-rat-roller-overalls-344">
+</path >
+<path d="M 64 57 C 63 56 63 56 63 56 C 81 27 92 9 96 4 L 98 3 C 85 21 74 39 64 57 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-345">
+</path >
+<path d="M 63 46 C 62 46 62 46 62 46 C 59 32 58 25 58 25 L 58 25 C 61 39 63 46 63 46 Z" fill="#c7cbd5" id="id-rat-2-rat-roller-overalls-346">
+</path >
+<path d="M 62 55 C 63 54 63 54 63 54 C 72 19 77 1 77 1 L 76 1 C 67 31 63 49 62 55 Z" fill="#e1e4e9" id="id-rat-2-rat-roller-overalls-347">
+</path >
+</g >
+<g transform="translate(567,530)" id="id-rat-2-rat-roller-overalls-327">
+<path d="M 10 167 C 14 169 15 170 15 170 C 20 169 22 168 22 168 C 25 172 27 175 28 175 C 31 174 34 171 36 169 C 40 170 41 171 41 171 C 44 169 46 165 49 164 C 51 166 53 167 55 165 C 62 161 65 159 65 159 C 67 152 68 145 61 141 C 61 133 61 130 61 130 C 63 127 64 125 64 125 C 64 112 64 105 64 105 C 60 73 57 57 57 57 C 60 51 64 44 61 37 C 71 20 75 11 75 11 C 74 8 73 6 73 6 C 69 9 66 11 66 11 C 66 7 66 5 66 5 C 58 10 52 16 47 21 C 48 7 48 0 48 0 C 45 3 43 5 43 5 C 38 14 34 23 31 33 C 23 68 10 100 0 134 C 7 156 10 167 10 167 Z" fill="#7d3546" id="id-rat-2-rat-roller-overalls-349">
+</path >
+<path d="M 10 167 C 12 164 13 163 13 163 C 9 144 8 134 8 134 L 17 162 L 22 168 L 15 170 C 12 168 10 167 10 167 Z" fill="#672233" id="id-rat-2-rat-roller-overalls-350">
+</path >
+<path d="M 28 163 C 22 149 20 142 20 142 C 19 136 19 133 19 133 L 24 136 C 27 154 28 163 28 163 Z" fill="#6d2637" id="id-rat-2-rat-roller-overalls-351">
+</path >
+<path d="M 46 166 C 41 155 39 149 39 149 C 42 135 44 127 44 127 L 43 151 L 49 164 C 47 165 46 166 46 166 Z" fill="#672233" id="id-rat-2-rat-roller-overalls-352">
+</path >
+<path d="M 59 156 C 58 150 58 148 58 148 C 60 140 62 135 62 135 C 61 143 60 147 60 147 L 64 152 C 60 154 59 156 59 156 Z" fill="#6c2637" id="id-rat-2-rat-roller-overalls-353">
+</path >
+<path d="M 52 154 C 50 142 49 136 49 136 L 55 134 C 53 148 52 154 52 154 Z" fill="#86374a" id="id-rat-2-rat-roller-overalls-354">
+</path >
+<path d="M 64 125 C 60 120 59 118 59 118 C 53 76 50 55 50 55 C 45 58 42 60 42 60 C 49 50 53 45 53 45 C 53 35 53 29 53 29 L 66 9 L 66 11 L 73 6 L 75 11 L 61 37 C 63 42 61 49 57 57 L 64 105 C 64 119 64 125 64 125 Z" fill="#843549" id="id-rat-2-rat-roller-overalls-355">
+</path >
+<path d="M 58 115 L 55 134 C 51 136 49 136 49 136 C 44 128 42 125 42 125 C 40 127 38 128 38 128 C 37 127 37 127 37 127 C 29 134 26 137 26 137 C 21 129 19 126 19 126 C 12 132 8 135 8 135 L 7 125 L 0 134 C 10 100 23 66 31 33 C 33 24 38 14 43 5 L 48 0 L 47 21 C 53 15 59 10 66 5 L 66 9 L 53 29 L 53 45 L 42 60 L 50 55 L 58 115 Z" fill="#8f4e57" id="id-rat-2-rat-roller-overalls-356">
+</path >
+<path d="M 51 136 C 47 129 44 125 44 125 C 45 123 45 121 45 121 L 53 115 C 52 129 51 136 51 136 Z" fill="#a3627a" id="id-rat-2-rat-roller-overalls-357">
+</path >
+<path d="M 26 137 C 29 123 31 116 31 116 L 21 126 C 24 134 26 137 26 137 Z" fill="#a3627a" id="id-rat-2-rat-roller-overalls-358">
+</path >
+<path d="M 17 127 L 24 77 C 13 109 7 125 7 125 L 8 135 C 14 130 17 127 17 127 Z" fill="#a3627a" id="id-rat-2-rat-roller-overalls-359">
+</path >
+<path d="M 13 94 C 22 76 26 67 26 67 C 33 46 36 34 38 31 L 37 56 C 43 39 52 21 66 4 C 59 9 53 15 47 21 L 49 0 L 43 5 C 38 13 34 21 32 31 C 24 62 18 82 13 94 Z" fill="#a1627b" id="id-rat-2-rat-roller-overalls-360">
+</path >
+</g >
+<polygon points="634 677 625 678 625 684 634 684" fill="#454a57" id="id-rat-2-rat-roller-overalls-361">
+</polygon >
+</g >
+<defs >
+</defs >
+<g transform="translate(1195,1623)" fill="#343d53" opacity="0.3" id="id-icons-Rat-0">
+<path d="M 6 18 C 6 16 7 15 7 13 C 8 13 8 12 8 11 C 9 11 9 11 9 11 C 9 10 9 10 10 10 C 16 3 29 8 29 18 L 29 23 L 51 23 C 51 18 50 14 54 10 C 59 5 65 6 70 10 C 71 11 72 12 72 13 C 73 16 74 20 72 23 L 70 25 C 70 25 70 25 70 26 C 69 27 67 31 65 32 C 65 33 65 33 64 34 C 64 34 64 35 63 35 C 63 36 63 36 63 38 C 63 41 63 44 63 47 C 63 51 63 49 61 53 C 60 53 60 54 60 54 L 49 71 C 49 71 48 72 48 72 L 32 72 C 31 72 30 70 30 70 C 29 68 28 68 28 67 L 17 50 C 17 49 17 48 17 48 C 17 44 17 41 17 38 C 17 36 17 36 15 34 L 10 27 C 10 26 10 26 10 26 C 10 25 10 25 9 25 C 8 23 6 21 6 18 L 6 18 Z M 0 17 C 0 22 2 25 4 29 C 6 32 8 35 10 38 C 10 38 10 39 10 41 L 10 50 C 10 52 10 52 11 53 C 11 54 12 54 12 54 C 12 55 13 56 13 57 C 14 57 16 61 16 61 C 16 62 14 64 13 65 C 12 66 10 67 9 68 C 10 69 12 72 13 74 C 14 73 14 73 15 72 C 15 72 15 72 15 72 C 16 71 19 67 20 67 C 20 67 21 68 21 68 C 21 69 15 74 14 75 C 15 76 16 78 16 78 C 16 79 17 79 17 80 C 17 80 18 81 18 81 C 19 81 19 80 20 79 C 21 78 24 75 25 74 C 25 74 35 89 36 91 C 36 91 36 91 37 91 L 43 91 C 43 91 44 91 44 91 C 46 88 48 84 50 81 L 53 77 C 53 76 54 75 54 75 C 55 75 57 77 58 78 C 58 79 60 80 61 81 C 61 80 62 79 63 78 C 63 78 64 76 64 75 C 64 75 63 74 63 74 C 62 73 59 69 58 69 C 58 68 59 68 59 67 C 61 68 64 73 66 74 C 66 73 66 73 67 72 L 69 68 C 68 67 64 63 63 62 C 64 60 65 58 66 57 L 69 52 C 70 51 69 51 69 49 L 69 42 C 69 41 69 39 70 38 C 70 38 70 37 70 37 L 76 28 C 77 27 77 27 77 27 C 79 23 80 17 79 13 L 78 10 C 77 8 75 6 73 4 C 71 2 68 1 65 0 C 63 0 61 0 59 0 C 57 1 56 1 55 1 C 55 1 55 1 55 2 L 53 2 C 50 4 47 8 46 11 C 45 13 44 14 44 16 L 35 16 C 35 13 34 9 32 7 C 31 6 30 5 30 5 C 29 4 29 4 28 4 C 27 3 26 2 25 2 C 23 1 19 0 17 0 C 16 0 15 0 13 1 C 11 1 9 2 8 3 C 5 5 3 8 2 10 C 1 11 1 11 1 11 C 1 11 1 12 1 12 C 0 14 0 15 0 17 L 0 17 Z" id="id-icons-Rat-1">
+</path >
+<path d="M 56 18 C 56 20 57 22 59 23 L 61 26 C 62 27 62 27 62 27 C 63 27 64 26 64 25 C 65 25 65 24 66 23 C 66 23 67 23 67 22 C 69 20 69 16 67 14 C 66 14 66 13 65 13 C 61 11 56 14 56 18 L 56 18 Z" id="id-icons-Rat-2">
+</path >
+<path d="M 11 18 C 11 19 11 19 11 20 C 11 20 12 21 12 21 C 13 23 14 23 14 24 C 15 24 15 25 15 25 C 15 25 15 25 15 25 C 15 25 16 25 16 26 C 16 26 16 27 17 27 L 22 22 C 23 20 24 18 23 16 C 22 14 20 12 18 12 C 16 12 15 12 14 13 C 14 13 13 14 13 14 C 12 15 11 17 11 18 L 11 18 Z" id="id-icons-Rat-2">
+</path >
+<path d="M 23 39 L 23 45 C 23 48 27 49 28 47 C 29 47 29 46 29 45 C 29 43 29 39 29 38 C 28 36 24 36 23 38 C 23 38 23 39 23 39 L 23 39 Z" id="id-icons-Rat-2">
+</path >
+<path d="M 50 39 L 50 45 C 50 47 51 48 54 48 C 55 48 57 47 57 45 L 57 39 C 57 39 57 38 56 38 C 56 37 56 38 56 37 C 54 35 50 37 50 39 L 50 39 Z" id="id-icons-Rat-2">
+</path >
+</g >
+</svg>

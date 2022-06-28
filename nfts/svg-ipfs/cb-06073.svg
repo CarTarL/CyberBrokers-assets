@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs >
+<filter width="130%" height="130%" x="-15%" y="-15%" id="id-bg-14-Artboard-0" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="50">
+</feGaussianBlur >
+</filter >
+<filter width="124%" height="124%" x="-12%" y="-12%" id="id-bg-14-Artboard-1" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="50">
+</feGaussianBlur >
+</filter >
+<radialGradient cx="50%" cy="50%" r="70%" id="id-bg-14-Artboard-2" fx="50%" fy="50%" gradientTransform="translate(0.5,0.5) scale(1,1) translate(-0.5,-0.5)">
+<stop stop-color="#daff66" offset="0%">
+</stop >
+<stop stop-color="#d7ff31" offset="100%">
+</stop >
+</radialGradient >
+<circle cx="660" cy="897" r="491" id="id-bg-14-Artboard-3">
+</circle >
+<filter width="107%" height="107%" x="-2%" y="-2%" id="id-bg-14-Artboard-4" filterUnits="objectBoundingBox">
+<feOffset result="id-bg-14-Artboard-5" in="SourceAlpha" dx="12" dy="11">
+</feOffset >
+<feGaussianBlur result="id-bg-14-Artboard-6" in="id-bg-14-Artboard-5" stdDeviation="10">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-14-Artboard-6" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0">
+</feColorMatrix >
+</filter >
+</defs >
+<g stroke="none" stroke-width="1" fill="none" id="id-bg-14-Artboard-9" fill-rule="evenodd">
+<g id="id-bg-14-Artboard-10">
+<rect fill="#110f0f" width="1320" height="1760" x="0" y="0" id="id-bg-14-Artboard-11">
+</rect >
+<circle cx="661" cy="898" r="504" fill="#baff5f" opacity="0.579" id="id-bg-14-Artboard-12" filter="url(#id-bg-14-Artboard-0)">
+</circle >
+<circle cx="661" cy="898" r="634" fill="#baff5f" opacity="0.181" id="id-bg-14-Artboard-12" filter="url(#id-bg-14-Artboard-1)">
+</circle >
+<g id="id-bg-14-Artboard-12">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-14-Artboard-3" filter="url(#id-bg-14-Artboard-4)">
+</use >
+<use fill="url(#id-bg-14-Artboard-2)" xlink:href="#id-bg-14-Artboard-3" fill-rule="evenodd">
+</use >
+</g >
+</g >
+</g >
+<defs >
+<linearGradient x1="57%" y1="42%" x2="47%" y2="62%" id="id-politician-body-politician-body-0">
+<stop stop-color="#1a1f24" offset="0%">
+</stop >
+<stop stop-color="#12151a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="52%" y2="18%" id="id-politician-body-politician-body-1">
+<stop stop-color="#3f527b" offset="0%">
+</stop >
+<stop stop-color="#cdd6ed" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-politician-body-politician-body-2">
+<stop stop-color="#db9f89" offset="0%">
+</stop >
+<stop stop-color="#390100" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="50%" x2="83%" y2="50%" id="id-politician-body-politician-body-3">
+<stop stop-color="#191d2b" offset="0%">
+</stop >
+<stop stop-color="#9ca0b8" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-politician-body-politician-body-4">
+<stop stop-color="#2a2f41" offset="0%">
+</stop >
+<stop stop-color="#191d2c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-politician-body-politician-body-5">
+<stop stop-color="#141e32" offset="0%">
+</stop >
+<stop stop-color="#9296ae" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="84%" y1="50%" x2="13%" y2="50%" id="id-politician-body-politician-body-6">
+<stop stop-color="#a1474f" offset="0%">
+</stop >
+<stop stop-color="#a44d54" offset="9%">
+</stop >
+<stop stop-color="#773b40" offset="41%">
+</stop >
+<stop stop-color="#72393e" offset="71%">
+</stop >
+<stop stop-color="#7e3c42" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="80%" id="id-politician-body-politician-body-7">
+<stop stop-color="#bb8793" offset="0%">
+</stop >
+<stop stop-color="#743a41" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="33%" y1="54%" x2="61%" y2="85%" id="id-politician-body-politician-body-8">
+<stop stop-color="#7e3c42" offset="0%">
+</stop >
+<stop stop-color="#1a1f2a" offset="40%">
+</stop >
+<stop stop-color="#783b41" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="9%" y1="50%" x2="100%" y2="50%" id="id-politician-body-politician-body-9">
+<stop stop-color="#bab1d1" offset="0%">
+</stop >
+<stop stop-color="#dbd5e8" offset="32%">
+</stop >
+<stop stop-color="#b4aacd" offset="58%">
+</stop >
+<stop stop-color="#dbd5e8" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="39%" y1="37%" x2="6%" y2="25%" id="id-politician-body-politician-body-10">
+<stop stop-color="#6484ba" offset="0%">
+</stop >
+<stop stop-color="#6484ba" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="25%" y1="54%" x2="87%" y2="46%" id="id-politician-body-politician-body-11">
+<stop stop-color="#80525e" offset="0%" stop-opacity="0">
+</stop >
+<stop stop-color="#bc7486" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="53%" x2="98%" y2="45%" id="id-politician-body-politician-body-12">
+<stop stop-color="#48132b" offset="0%">
+</stop >
+<stop stop-color="#8b3844" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-politician-body-politician-body-13">
+<stop stop-color="#783c40" offset="0%">
+</stop >
+<stop stop-color="#582a3e" offset="100%">
+</stop >
+</linearGradient >
+<filter width="129%" height="120%" x="-15%" y="-10%" id="id-politician-body-politician-body-14" filterUnits="objectBoundingBox">
+<feGaussianBlur in="SourceGraphic" stdDeviation="2">
+</feGaussianBlur >
+</filter >
+<radialGradient cx="50%" cy="41%" r="59%" id="id-politician-body-politician-body-15" fx="50%" fy="41%" gradientTransform="translate(0.5,0.408) scale(0.407,1) rotate(-10) translate(-0.5,-0.408)">
+<stop stop-color="#ffffff" offset="0%">
+</stop >
+<stop stop-color="#ffffff" offset="56%" stop-opacity="0.579">
+</stop >
+<stop stop-color="#ffffff" offset="100%" stop-opacity="0.243">
+</stop >
+</radialGradient >
+<linearGradient x1="50%" y1="37%" x2="45%" y2="50%" id="id-politician-body-politician-body-16">
+<stop stop-color="#db9f89" offset="0%">
+</stop >
+<stop stop-color="#390100" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="70%" y1="0%" x2="29%" y2="82%" id="id-politician-body-politician-body-17">
+<stop stop-color="#d5d8df" offset="0%">
+</stop >
+<stop stop-color="#8d8785" offset="62%">
+</stop >
+<stop stop-color="#141821" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-politician-body-politician-body-18">
+<stop stop-color="#93989e" offset="0%">
+</stop >
+<stop stop-color="#5a5f65" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="75%" y1="93%" x2="27%" y2="32%" id="id-politician-body-politician-body-19">
+<stop stop-color="#725960" offset="0%">
+</stop >
+<stop stop-color="#967780" offset="100%" stop-opacity="0.63">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(340,272)" id="id-politician-body-politician-body-20">
+<g id="id-politician-body-politician-body-21">
+<g transform="translate(0,189)" id="id-politician-body-politician-body-22">
+<g transform="translate(108,744)" id="id-politician-body-politician-body-23">
+<path d="M 9 556 C 111 556 161 556 161 556 C 158 498 159 443 163 392 C 168 380 174 367 179 352 L 189 205 L 207 158 L 223 205 L 242 331 C 239 372 241 414 247 458 C 241 490 238 523 238 556 L 389 556 C 386 514 391 469 403 423 C 406 404 400 355 421 295 C 426 253 431 211 434 169 L 434 27 L 9 28 C 1 123 -1 192 1 236 C 5 335 12 434 20 532 L 9 556 Z" fill="#0c0f14" id="id-politician-body-politician-body-24">
+</path >
+<polygon points="73 556 140 474 131 462 95 474 134 369 85 264 134 260 85 232 19 260 59 405 79 356 63 281 79 239 85 462 34 556" fill="url(#id-politician-body-politician-body-0)" id="id-politician-body-politician-body-25">
+</polygon >
+<polygon points="140 474 83 486 73 556" fill="#222b36" id="id-politician-body-politician-body-26">
+</polygon >
+<polygon points="112 322 83 365 79 235 85 232 134 260 85 264" fill="#212730" id="id-politician-body-politician-body-27">
+</polygon >
+<polygon points="134 369 130 362 84 430 84 464 95 474" fill="#1a1e23" id="id-politician-body-politician-body-28">
+</polygon >
+<polyline points="427 248 388 232 290 320 328 316 290 394 318 371 344 324 318 499 328 556 388 556" fill="#1e252d" id="id-politician-body-politician-body-29">
+</polyline >
+<path d="M 352 291 L 406 366 L 403 423 L 398 437 L 359 370 L 329 423 C 344 335 352 291 352 291 Z" fill="#272f3b" id="id-politician-body-politician-body-30">
+</path >
+<path d="M 329 444 C 353 499 365 526 365 526 L 322 499 C 327 462 329 444 329 444 Z" fill="#252d37" id="id-politician-body-politician-body-31">
+</path >
+<path d="M 326 527 L 357 556 L 329 556 C 327 537 326 527 326 527 Z" fill="#272f3b" id="id-politician-body-politician-body-32">
+</path >
+<path d="M 318 371 C 293 429 281 457 281 457 L 259 474 L 290 394 C 309 378 318 371 318 371 Z" fill="#151a1f" id="id-politician-body-politician-body-33">
+</path >
+<path d="M 1 28 C 3 9 4 0 4 0 L 435 1 L 435 28 C 146 28 1 28 1 28 Z" fill="#1a1e23" id="id-politician-body-politician-body-34">
+</path >
+</g >
+<g transform="translate(12,30)" id="id-politician-body-politician-body-35">
+<path d="M 228 52 C 196 75 180 86 180 86 C 102 121 63 139 63 139 C 26 372 8 488 8 488 C 3 532 0 554 0 554 C 19 698 29 771 29 771 C 26 788 25 797 25 797 C 29 799 31 800 31 800 C 31 796 32 794 32 794 C 56 778 69 770 69 770 C 79 770 85 770 85 770 C 95 571 100 471 100 471 C 124 410 136 379 136 379 C 133 446 131 492 130 516 L 463 506 C 463 411 464 364 464 364 C 483 430 493 463 493 463 C 513 670 523 773 523 773 C 543 781 553 785 553 785 C 564 782 569 781 569 781 C 582 789 588 792 588 792 C 588 777 587 769 587 769 C 588 744 588 731 588 731 C 577 718 571 712 571 712 C 581 706 586 703 586 703 C 573 490 566 384 566 384 C 538 222 523 141 523 141 C 457 109 423 93 423 93 L 391 47 C 282 50 228 52 228 52 Z" fill="#ecf0fa" id="id-politician-body-politician-body-36">
+</path >
+<path d="M 311 0 C 263 15 239 23 239 23 C 232 62 229 82 229 82 C 268 278 287 376 287 376 L 322 491 L 384 305 C 390 175 393 110 393 110 L 383 17 L 311 0 Z" fill="url(#id-politician-body-politician-body-1)" id="id-politician-body-politician-body-37">
+</path >
+<path d="M 278 190 C 256 168 244 158 244 158 L 247 174 C 268 184 278 190 278 190 Z" fill="#6d7faa" id="id-politician-body-politician-body-38">
+</path >
+<path d="M 259 231 C 302 291 324 321 324 321 L 385 285 L 384 305 L 324 491 L 287 376 C 268 280 259 231 259 231 Z" fill="#a7b5d5" id="id-politician-body-politician-body-39">
+</path >
+<path d="M 367 194 C 383 169 391 156 391 156 L 390 171 C 375 186 367 194 367 194 Z" fill="#7086b6" id="id-politician-body-politician-body-40">
+</path >
+<path d="M 365 190 C 358 173 354 164 354 164 C 330 131 318 114 318 114 C 293 150 280 167 280 167 C 276 179 273 185 273 185 C 276 187 278 188 278 188 L 295 167 C 293 157 293 150 295 147 C 297 143 300 139 304 134 C 321 145 331 152 335 156 C 355 179 365 190 365 190 Z" fill="#91a1c7" id="id-politician-body-politician-body-41">
+</path >
+<path d="M 280 167 C 282 152 310 91 310 91 L 321 91 L 354 164 L 318 114 C 298 143 285 161 280 167 Z" fill="#4a6292" id="id-politician-body-politician-body-42">
+</path >
+<path d="M 320 92 C 330 112 334 122 334 122 C 329 132 326 138 326 138 C 339 171 346 187 346 187 C 352 308 354 368 354 368 C 332 444 321 481 321 481 C 297 398 285 356 285 356 C 293 231 297 168 297 168 C 302 148 305 138 305 138 C 300 124 298 117 298 117 L 309 92 C 316 92 320 92 320 92 Z" fill="#10151d" id="id-politician-body-politician-body-43">
+</path >
+<path d="M 294 318 C 335 316 356 314 356 314 C 356 321 356 325 356 325 L 294 327 C 294 321 294 318 294 318 Z" fill="#907443" id="id-politician-body-politician-body-44">
+</path >
+<path d="M 356 314 C 356 321 356 325 356 325 C 347 325 342 325 342 325 L 325 316 L 356 314 Z" fill="#b79761" id="id-politician-body-politician-body-45">
+</path >
+</g >
+<g transform="translate(0,51)" id="id-politician-body-politician-body-46">
+<path d="M 124 744 L 100 741 L 89 734 C 66 735 50 738 40 743 C 40 743 40 744 40 746 L 37 745 C 34 721 34 697 19 658 C 21 647 23 635 25 623 C 19 614 13 604 8 592 C 16 576 8 551 0 522 C 8 505 19 485 9 442 C 10 435 14 430 19 425 C 18 415 18 405 19 395 C 31 375 34 307 49 218 C 55 181 62 145 68 108 L 196 54 L 251 3 L 242 58 L 296 326 L 333 455 C 350 396 368 335 387 273 C 397 211 399 149 391 87 C 394 52 395 23 394 0 C 401 0 416 21 440 62 C 489 80 519 95 529 105 C 534 105 540 105 548 105 L 586 298 L 593 395 L 605 415 L 608 485 L 601 510 C 609 519 610 530 603 544 C 608 565 608 586 601 606 L 613 628 C 610 632 608 637 608 642 C 614 649 613 664 605 688 L 593 693 L 605 700 L 608 741 L 601 749 L 599 741 L 578 732 L 566 737 L 509 749 L 492 455 L 497 437 L 486 415 L 484 455 L 485 496 L 140 505 L 142 404 L 120 459 L 124 744 Z" fill="#202730" id="id-politician-body-politician-body-47">
+</path >
+<polygon points="68 109 79 122 49 216" fill="#b4d1f3" id="id-politician-body-politician-body-48">
+</polygon >
+<polygon points="90 111 176 63 68 108" fill="#b8d5f8" id="id-politician-body-politician-body-49">
+</polygon >
+<polygon points="209 205 161 237 181 194 154 210 90 111 181 111" fill="#34435a" id="id-politician-body-politician-body-50">
+</polygon >
+<path d="M 97 142 C 123 177 149 255 176 375 L 176 375 L 153 397 L 173 489 L 140 496 L 142 403 L 108 492 L 68 489 L 110 443 L 31 453 L 63 422 L 47 403 L 130 298 L 73 233 L 125 253 C 129 238 119 201 97 142 Z M 130 332 L 77 409 L 125 391 L 130 332 Z" fill="#0f131b" id="id-politician-body-politician-body-51">
+</path >
+<polygon points="122 297 94 294 57 377" fill="#2c3749" id="id-politician-body-politician-body-52">
+</polygon >
+<path d="M 72 362 C 45 400 24 428 10 445 C 8 439 11 433 19 425 C 18 416 18 409 18 405 C 35 390 53 376 72 362 Z" fill="#425c87" id="id-politician-body-politician-body-53">
+</path >
+<path d="M 124 744 L 97 744 L 97 740 L 89 734 L 75 734 L 75 727 L 89 727 C 67 698 56 670 56 641 C 65 635 73 626 81 613 L 56 605 L 100 556 L 35 528 L 110 499 L 124 744 Z" fill="#10151d" id="id-politician-body-politician-body-54">
+</path >
+<path d="M 89 727 C 84 727 79 727 75 727 L 57 714 C 51 684 44 665 38 658 C 44 647 51 635 57 622 L 63 622 C 46 649 55 684 89 727 Z" fill="#293443" id="id-politician-body-politician-body-55">
+</path >
+<polygon points="63 614 43 626 15 596" fill="#10141b" id="id-politician-body-politician-body-56">
+</polygon >
+<polygon points="100 556 63 593 27 571 18 527 59 485 15 459 50 415 63 422 31 453 110 443 59 493 97 504 31 529 50 540 48 566" fill="#2a3443" id="id-politician-body-politician-body-57">
+</polygon >
+<polygon points="313 461 227 461 176 429 153 397 176 374 220 439 200 362 271 454 279 439 249 404 271 404 265 377 233 352 249 325 209 205" fill="#11161d" id="id-politician-body-politician-body-58">
+</polygon >
+<polygon points="249 281 260 208 277 232 242 58 251 3 196 54 181 83 229 101 189 114 212 205" fill="#354762" id="id-politician-body-politician-body-59">
+</polygon >
+<polygon points="212 205 229 101 189 114" fill="#3d506e" id="id-politician-body-politician-body-60">
+</polygon >
+<polygon points="196 54 177 82 187 85" fill="#bad8fb" id="id-politician-body-politician-body-61">
+</polygon >
+<polygon points="605 688 589 668 558 663 558 673 593 693" fill="#12171e" id="id-politician-body-politician-body-62">
+</polygon >
+<polygon points="588 700 577 710 577 733 558 738 563 700" fill="#303e53" id="id-politician-body-politician-body-63">
+</polygon >
+<polygon points="585 665 566 663 566 639 598 643 585 647" fill="#303e54" id="id-politician-body-politician-body-64">
+</polygon >
+<polygon points="570 626 588 620 563 610" fill="#313f55" id="id-politician-body-politician-body-65">
+</polygon >
+<polygon points="608 642 588 623 613 628" fill="#12171f" id="id-politician-body-politician-body-66">
+</polygon >
+<polygon points="596 642 566 639 566 630 573 626" fill="#12171f" id="id-politician-body-politician-body-67">
+</polygon >
+<path d="M 601 608 C 577 606 565 605 565 605 L 565 599 L 586 601 C 596 605 601 608 601 608 Z" fill="#12171f" id="id-politician-body-politician-body-68">
+</path >
+<path d="M 603 538 C 596 541 586 544 586 544 L 584 601 L 555 599 L 558 541 C 578 535 593 534 603 538 Z" fill="#324259" id="id-politician-body-politician-body-69">
+</path >
+<polygon points="602 517 603 533 555 509 555 500" fill="#121821" id="id-politician-body-politician-body-70">
+</polygon >
+<polygon points="579 536 555 523 557 542" fill="#121820" id="id-politician-body-politician-body-71">
+</polygon >
+<polygon points="585 498 562 502 555 500 555 487" fill="#364964" id="id-politician-body-politician-body-72">
+</polygon >
+<polygon points="607 487 585 474 555 474 555 468 579 464 593 450 603 450 593 464 607 481" fill="#394e6c" id="id-politician-body-politician-body-73">
+</polygon >
+<path d="M 604 498 L 557 486 L 585 474 L 607 487 C 605 494 604 498 604 498 Z" fill="#131822" id="id-politician-body-politician-body-74">
+</path >
+<path d="M 436 429 C 413 453 401 465 401 465 C 372 464 357 464 357 464 L 370 432 C 414 430 436 429 436 429 Z" fill="#12171f" id="id-politician-body-politician-body-75">
+</path >
+<polygon points="23 463 50 477 72 461" fill="#415b85" id="id-politician-body-politician-body-76">
+</polygon >
+<path d="M 386 451 C 433 421 457 406 457 406 L 504 300 C 520 221 528 181 528 181 C 464 240 431 269 431 269 L 368 437 C 380 446 386 451 386 451 Z" fill="#27364b" id="id-politician-body-politician-body-77">
+</path >
+<path d="M 605 422 C 596 409 591 402 591 402 C 572 412 563 417 563 417 C 590 439 603 449 603 449 C 561 434 541 427 541 427 C 526 434 519 438 519 438 C 515 426 514 419 514 419 C 523 392 527 379 527 379 C 526 278 525 227 525 227 L 526 199 L 486 415 L 497 437 L 492 455 L 492 466 L 607 455 C 606 433 605 422 605 422 Z" fill="#12161f" id="id-politician-body-politician-body-78">
+</path >
+<polygon points="585 435 580 440 535 413 517 413 525 394 557 389 574 366 548 334 546 302 589 334 593 387 581 378 557 413 563 417" fill="#3e5679" id="id-politician-body-politician-body-79">
+</polygon >
+<polygon points="546 391 557 389 574 366 589 334 586 298 548 105 536 105 526 199 525 227 550 366" fill="#2a3d59" id="id-politician-body-politician-body-80">
+</polygon >
+<path d="M 546 302 C 559 296 565 293 565 293 L 588 320 L 589 329 L 576 325 L 546 302 Z" fill="#141c2a" id="id-politician-body-politician-body-81">
+</path >
+<path d="M 525 227 L 583 308 C 571 273 565 255 565 255 L 570 215 L 548 105 L 525 227 Z" fill="#3d547b" id="id-politician-body-politician-body-82">
+</path >
+<polygon points="541 152 562 178 548 105" fill="#4a638e" id="id-politician-body-politician-body-83">
+</polygon >
+<path d="M 500 267 L 435 267 C 434 265 433 264 433 264 L 497 264 L 500 267 Z" fill="#1b2536" id="id-politician-body-politician-body-84">
+</path >
+<path d="M 525 191 C 505 232 495 252 495 252 C 454 254 433 255 433 255 C 431 160 429 112 429 112 C 447 102 455 96 455 96 L 454 79 C 488 82 512 91 528 105 C 531 105 534 106 538 106 C 529 162 525 191 525 191 Z" fill="#405b83" id="id-politician-body-politician-body-85">
+</path >
+<path d="M 461 326 C 403 389 373 421 373 421 C 407 332 423 288 423 288 L 436 288 C 453 314 461 326 461 326 Z" fill="#3b5377" id="id-politician-body-politician-body-86">
+</path >
+<path d="M 421 37 C 417 37 412 70 412 70 C 404 58 400 52 400 52 C 397 76 395 88 395 88 C 398 102 402 112 406 119 C 400 214 385 283 385 283 C 407 275 418 271 418 271 C 376 383 355 439 355 439 C 409 338 446 234 466 127 C 444 119 422 109 422 109 L 451 90 C 442 67 432 50 421 37 Z" fill="#677fa8" id="id-politician-body-politician-body-87">
+</path >
+<path d="M 417 174 L 418 271 C 396 279 385 283 385 283 L 399 195 L 417 174 Z" fill="#3b5276" id="id-politician-body-politician-body-88">
+</path >
+<polygon points="500 122 489 135 528 162 535 112" fill="#4c6792" id="id-politician-body-politician-body-89">
+</polygon >
+<polygon points="41 542 23 566 9 557 0 522" fill="#10141b" id="id-politician-body-politician-body-90">
+</polygon >
+<polygon points="97 142 153 219 136 253" fill="#191f29" id="id-politician-body-politician-body-91">
+</polygon >
+<polygon points="97 142 106 192 122 217" fill="#2d394b" id="id-politician-body-politician-body-92">
+</polygon >
+</g >
+<g transform="translate(9,0)" id="id-politician-body-politician-body-93">
+<path d="M 329 10 C 339 2 354 0 383 0 C 356 0 369 28 373 28 C 366 28 353 24 335 16 C 331 14 329 12 329 10 Z" fill="url(#id-politician-body-politician-body-2)" id="id-politician-body-politician-body-94">
+</path >
+<ellipse cx="381" cy="15" fill="#bebbb4" id="id-politician-body-politician-body-95" rx="13" ry="14">
+</ellipse >
+<path d="M 378 8 C 378 9 377 11 375 14 C 374 17 374 20 373 20 C 371 19 371 17 373 13 C 374 9 376 8 378 8 Z" fill="#c03809" id="id-politician-body-politician-body-96">
+</path >
+<path d="M 369 13 C 369 22 374 27 385 29 C 385 29 382 29 376 29 C 374 28 371 27 369 26 C 367 24 356 0 383 0 C 372 3 369 7 369 13 Z" fill="#131821" id="id-politician-body-politician-body-97">
+</path >
+<path d="M 383 11 C 383 11 379 14 379 16 C 378 18 381 20 382 19 C 383 18 383 11 383 11 Z" fill="#d54916" id="id-politician-body-politician-body-98">
+</path >
+<path d="M 377 20 C 377 20 382 25 382 25 C 382 25 376 25 375 23 C 374 22 377 20 377 20 Z" fill="#c03809" id="id-politician-body-politician-body-99">
+</path >
+<path d="M 429 316 L 427 315 C 441 267 448 243 448 243 L 499 259 L 478 319 C 446 317 429 316 429 316 Z" fill="#79917d" id="id-politician-body-politician-body-100">
+</path >
+<path d="M 450 250 C 479 258 493 262 493 262 L 476 319 L 429 316 C 443 272 450 250 450 250 Z" fill="#5b735f" id="id-politician-body-politician-body-101">
+</path >
+<path d="M 453 254 C 476 261 488 264 488 264 L 475 319 L 432 316 C 446 275 453 254 453 254 Z" fill="#7a927e" id="id-politician-body-politician-body-102">
+</path >
+<path d="M 429 316 C 449 280 459 261 459 261 C 493 273 510 279 510 279 L 486 319 C 448 317 429 316 429 316 Z" fill="#b7c0b4" id="id-politician-body-politician-body-103">
+</path >
+<path d="M 434 316 C 452 282 461 265 461 265 C 490 275 505 281 505 281 L 482 318 C 450 317 434 316 434 316 Z" fill="#808b83" id="id-politician-body-politician-body-104">
+</path >
+<path d="M 465 269 L 440 317 C 464 318 475 318 475 318 L 497 281 C 476 273 465 269 465 269 Z" fill="#b6bfb3" id="id-politician-body-politician-body-105">
+</path >
+<path d="M 473 285 C 466 289 462 291 462 291 C 465 298 467 301 467 301 L 478 295 C 475 289 473 285 473 285 Z" fill="#808b83" id="id-politician-body-politician-body-106">
+</path >
+<path d="M 466 274 C 468 275 468 275 468 275 C 465 281 464 284 464 284 L 461 283 C 464 277 466 274 466 274 Z" fill="#7f9683" id="id-politician-body-politician-body-107">
+</path >
+<path d="M 488 285 C 490 285 491 286 491 286 C 481 301 476 308 476 308 L 474 307 C 484 292 488 285 488 285 Z" fill="#7f9683" id="id-politician-body-politician-body-108">
+</path >
+<path d="M 443 317 C 454 310 459 306 459 306 C 464 306 466 306 466 306 L 473 318 C 453 317 443 317 443 317 Z" fill="#7c8b81" id="id-politician-body-politician-body-109">
+</path >
+<path d="M 429 316 L 455 257 L 459 261 C 439 298 429 316 429 316 Z" fill="#859a87" id="id-politician-body-politician-body-110">
+</path >
+<path d="M 455 257 L 459 261 C 493 273 510 279 510 279 L 502 273 L 455 257 Z" fill="#d3dfda" id="id-politician-body-politician-body-111">
+</path >
+<path d="M 210 461 C 221 463 241 465 254 463 C 244 472 233 518 221 515 C 197 525 124 514 124 514 C 114 512 103 511 92 511 C 101 507 115 499 128 490 C 133 495 133 495 142 507 C 148 509 158 510 172 509 C 181 513 193 497 210 461 Z" fill="#b7c0b4" id="id-politician-body-politician-body-112">
+</path >
+<path d="M 211 466 C 218 467 229 467 246 467 C 237 486 229 502 221 515 C 200 515 158 515 158 515 C 161 512 162 511 162 511 L 185 507 C 188 506 197 493 211 466 Z" fill="#828d84" id="id-politician-body-politician-body-113">
+</path >
+<path d="M 210 497 L 221 493 C 219 501 216 506 212 509 C 195 515 163 515 163 515 C 184 508 194 505 194 505 L 208 489 L 210 497 Z" fill="#d0d6c6" id="id-politician-body-politician-body-114">
+</path >
+<path d="M 150 515 C 133 503 124 497 124 497 L 100 511 L 125 515 C 142 515 150 515 150 515 Z" fill="#838e85" id="id-politician-body-politician-body-115">
+</path >
+<path d="M 211 476 C 209 473 209 471 209 471 C 213 469 214 467 214 467 L 221 472 C 214 475 211 476 211 476 Z" fill="#b3bcb0" id="id-politician-body-politician-body-116">
+</path >
+<path d="M 233 472 C 235 475 236 476 236 476 C 241 474 243 473 243 473 L 238 467 C 234 471 233 472 233 472 Z" fill="#b3bcb0" id="id-politician-body-politician-body-117">
+</path >
+<path d="M 223 473 C 229 480 233 483 233 483 C 219 491 212 495 212 495 L 208 485 C 218 477 223 473 223 473 Z" fill="#758279" id="id-politician-body-politician-body-118">
+</path >
+<path d="M 41 927 C 46 935 52 964 52 964 C 42 984 35 998 30 1007 C 34 1023 50 1076 50 1076 C 66 1095 74 1104 74 1104 C 65 1105 61 1105 61 1105 C 44 1085 36 1075 36 1075 C 15 1075 5 1075 5 1075 C -1 1061 0 1035 8 998 C 17 979 30 957 41 927 Z" fill="#909d95" id="id-politician-body-politician-body-119">
+</path >
+<path d="M 7 1023 C 14 1029 26 1043 42 1064 L 63 1097 L 37 1071 C 28 1068 24 1067 24 1067 L 7 1068 C 5 1044 5 1029 7 1023 Z" fill="#738377" id="id-politician-body-politician-body-120">
+</path >
+<path d="M 15 992 C 13 1000 11 1004 11 1004 L 21 1037 L 50 1076 L 31 1008 C 20 998 15 992 15 992 Z" fill="#7b8b80" id="id-politician-body-politician-body-121">
+</path >
+<path d="M 41 939 C 46 956 48 965 48 965 C 43 975 41 979 41 979 C 39 976 38 974 38 974 L 17 988 C 33 956 41 939 41 939 Z" fill="#69756d" id="id-politician-body-politician-body-122">
+</path >
+<path d="M 8 1000 C 14 1010 20 1037 20 1037 L 6 1022 L 6 1069 L 23 1067 C 32 1070 36 1071 36 1071 L 45 1085 L 35 1075 L 5 1076 C -2 1057 -1 1032 8 1000 Z" fill="#f1f2dc" id="id-politician-body-politician-body-123">
+</path >
+<path d="M 525 1124 C 525 1156 507 1167 511 1187 C 498 1202 454 1229 441 1246 C 448 1258 454 1271 463 1286 C 467 1266 485 1238 517 1214 C 521 1202 523 1178 523 1178 L 538 1156 C 533 1131 529 1120 525 1124 Z" fill="#89948b" id="id-politician-body-politician-body-124">
+</path >
+<path d="M 462 1276 C 457 1266 452 1255 447 1243 L 510 1193 L 528 1133 L 533 1164 L 509 1198 L 514 1214 C 487 1233 470 1254 462 1276 Z" fill="#556157" id="id-politician-body-politician-body-125">
+</path >
+<path d="M 509 1198 C 510 1200 512 1206 514 1214 C 498 1223 484 1234 472 1246 C 471 1244 467 1240 462 1235 C 482 1221 498 1209 509 1198 Z" fill="#b8c1b5" id="id-politician-body-politician-body-126">
+</path >
+<polygon points="75 1300 52 1300 50 1263 40 1260 46 1254" fill="#7f8b82" id="id-politician-body-politician-body-127">
+</polygon >
+<polygon points="585 473 604 498 541 512" fill="#7c8f7d" id="id-politician-body-politician-body-128">
+</polygon >
+<polygon points="585 480 601 498 548 511" fill="#404c3f" id="id-politician-body-politician-body-129">
+</polygon >
+<polygon points="585 485 596 499 554 509" fill="#697e6b" id="id-politician-body-politician-body-130">
+</polygon >
+<path d="M 456 521 L 474 509 C 497 509 516 510 529 512 C 535 508 542 505 551 503 L 529 521 L 456 521 Z" fill="#818c84" id="id-politician-body-politician-body-131">
+</path >
+<polygon points="484 509 478 518 462 518 473 509" fill="#b8c1b5" id="id-politician-body-politician-body-132">
+</polygon >
+<polygon points="493 510 488 518 520 519 511 511" fill="#b8c1b5" id="id-politician-body-politician-body-133">
+</polygon >
+<path d="M 531 521 L 520 519 C 530 511 540 505 552 502 C 547 507 539 513 531 521 Z" fill="#b9c2b6" id="id-politician-body-politician-body-134">
+</path >
+<polygon points="456 521 531 521 520 519 462 518" fill="#4c574f" id="id-politician-body-politician-body-135">
+</polygon >
+</g >
+</g >
+<g transform="translate(37,0)" id="id-politician-body-politician-body-136">
+<g transform="translate(71,705)" id="id-politician-body-politician-body-137">
+<path d="M 457 411 C 455 411 451 402 451 402 C 450 370 450 354 450 354 C 160 353 15 352 15 352 C 16 392 17 412 17 412 C 11 411 8 408 6 402 C 2 208 8 10 8 10 C 10 3 11 0 11 0 C 307 4 455 6 455 6 L 460 12 C 460 274 459 407 457 411 Z" fill="url(#id-politician-body-politician-body-3)" id="id-politician-body-politician-body-138">
+</path >
+<path d="M 0 352 L 462 352 L 462 400 C 459 415 448 424 429 428 C 276 430 178 430 28 428 C 13 425 3 415 0 400 L 0 352 Z" fill="#0d141c" id="id-politician-body-politician-body-139">
+</path >
+<polygon points="108 428 108 421 116 421 116 428" fill="#2d3953" id="id-politician-body-politician-body-140">
+</polygon >
+<polygon points="101 356 101 403 23 403 23 356" fill="#202434" id="id-politician-body-politician-body-141">
+</polygon >
+<polygon points="101 373 62 373 62 387 101 387" fill="#0d141c" id="id-politician-body-politician-body-142">
+</polygon >
+<polygon points="33 428 33 409 76 409 76 428" fill="#181c2a" id="id-politician-body-politician-body-143">
+</polygon >
+<polygon points="76 409 82 409 86 428 76 428" fill="#2a344c" id="id-politician-body-politician-body-144">
+</polygon >
+<path d="M 187 363 L 326 365 L 326 407 L 183 409 C 186 379 187 363 187 363 Z" fill="#152231" id="id-politician-body-politician-body-145">
+</path >
+<path d="M 116 428 L 116 421 C 283 419 366 419 366 419 L 370 429 L 116 428 Z" fill="url(#id-politician-body-politician-body-4)" id="id-politician-body-politician-body-146">
+</path >
+<polygon points="438 407 431 427 391 427 387 407" fill="#31364a" id="id-politician-body-politician-body-147">
+</polygon >
+<polygon points="392 407 397 427 392 427 387 407" fill="#364463" id="id-politician-body-politician-body-148">
+</polygon >
+<polygon points="329 357 329 409 370 409 389 400 447 400 447 357" fill="#212a36" id="id-politician-body-politician-body-149">
+</polygon >
+<polygon points="180 356 181 409 101 409 101 356" fill="#212a36" id="id-politician-body-politician-body-150">
+</polygon >
+<polygon points="23 19 449 25 453 29 453 316 449 322 23 322 17 320" fill="#0e141c" id="id-politician-body-politician-body-151">
+</polygon >
+<path d="M 23 403 L 17 403 L 15 352 L 23 352 C 23 386 23 403 23 403 Z" fill="#75798e" id="id-politician-body-politician-body-152">
+</path >
+<polygon points="50 36 47 311 17 320 23 19" fill="url(#id-politician-body-politician-body-5)" id="id-politician-body-politician-body-153">
+</polygon >
+<polygon points="23 19 46 33 28 27 20 179" fill="#4c5368" id="id-politician-body-politician-body-154">
+</polygon >
+<polygon points="214 331 264 331 264 345 214 345" fill="#9b9fb7" id="id-politician-body-politician-body-155">
+</polygon >
+</g >
+<g transform="translate(93,0)" id="id-politician-body-politician-body-156">
+<path d="M 71 78 C 61 66 54 63 44 64 C 22 71 2 102 0 136 C 1 145 5 155 11 166 C 32 194 53 199 76 182 C 111 219 134 266 210 270 C 245 270 282 240 321 182 C 337 187 354 177 371 150 C 378 117 366 93 337 79 C 326 79 318 80 311 82 C 292 55 263 28 224 3 C 208 8 200 11 200 11 L 179 0 C 135 13 100 39 71 78 Z" fill="url(#id-politician-body-politician-body-6)" id="id-politician-body-politician-body-157">
+</path >
+<path d="M 203 116 C 227 127 239 132 239 132 C 264 183 277 208 277 208 C 259 256 234 278 202 274 C 151 274 125 205 125 205 L 158 145 L 174 128 C 193 120 203 116 203 116 Z" fill="url(#id-politician-body-politician-body-7)" id="id-politician-body-politician-body-158">
+</path >
+<path d="M 364 100 C 347 93 329 91 308 96 C 311 84 320 78 335 78 C 351 82 364 100 364 100 Z" fill="#c8878f" id="id-politician-body-politician-body-159">
+</path >
+<path d="M 348 85 L 321 86 C 325 81 330 79 335 78 C 341 78 348 85 348 85 Z" fill="#ebcbd5" id="id-politician-body-politician-body-160">
+</path >
+<path d="M 196 67 C 208 64 225 59 248 54 C 231 20 222 3 222 3 L 200 11 C 195 32 194 51 196 67 Z" fill="#2d3952" opacity="0.483" id="id-politician-body-politician-body-161">
+</path >
+<path d="M 196 67 C 193 43 200 11 200 11 C 186 4 179 0 179 0 C 168 14 161 35 159 58 C 169 60 181 63 196 67 Z" fill="#243145" opacity="0.296" id="id-politician-body-politician-body-162">
+</path >
+<path d="M 20 177 C 18 175 15 172 11 166 C 8 161 5 154 3 147 L 52 78 C 57 81 61 84 63 88 C 65 91 67 96 69 103 L 20 177 Z" fill="url(#id-politician-body-politician-body-8)" id="id-politician-body-politician-body-163">
+</path >
+<path d="M 161 57 C 166 39 168 8 150 9 C 117 15 114 52 51 63 C 64 73 70 78 70 78 C 63 84 57 91 51 98 C 34 90 3 120 16 151 C 33 168 54 173 78 165 C 53 182 40 191 40 191 C 50 192 55 192 55 192 C 30 205 18 211 18 211 C 36 209 45 208 45 208 C 60 198 67 194 67 194 C 51 222 43 236 43 236 C 58 231 66 229 66 229 C 70 225 72 222 72 222 C 66 238 63 246 63 246 C 72 241 77 239 77 239 C 63 255 57 263 57 263 C 81 247 92 239 92 239 C 85 255 81 263 81 263 C 93 255 99 250 99 250 C 96 261 95 267 95 267 C 110 270 117 272 117 272 C 120 261 121 256 121 256 C 122 264 122 268 122 268 C 130 277 134 281 134 281 C 135 271 136 266 136 266 C 138 277 140 283 140 283 C 155 296 163 303 163 303 L 151 260 C 162 268 168 272 168 272 C 178 292 183 303 183 303 C 182 286 182 278 182 278 C 188 297 190 306 190 306 C 194 284 195 273 195 273 C 201 291 203 301 203 301 C 206 288 208 282 208 282 C 209 290 210 294 210 294 C 216 275 219 266 219 266 C 244 282 256 290 256 290 C 258 275 259 267 259 267 C 264 275 267 279 267 279 C 267 266 267 259 267 259 C 271 273 272 280 272 280 C 279 268 282 262 282 262 C 286 264 288 265 288 265 C 289 251 290 244 290 244 C 295 255 298 261 298 261 C 298 252 299 248 299 248 C 307 259 312 265 312 265 C 308 238 306 225 306 225 C 313 233 317 237 317 237 C 314 220 313 212 313 212 C 325 224 332 231 332 231 C 326 215 323 207 323 207 C 338 207 345 207 345 207 C 337 197 333 192 333 192 C 344 195 350 196 350 196 C 349 190 348 187 348 187 C 353 187 356 187 356 187 C 357 166 357 155 357 155 C 365 147 365 133 357 115 C 350 103 338 98 323 99 C 299 75 287 64 287 64 C 281 101 278 120 278 120 C 290 139 296 148 296 148 C 284 138 278 133 278 133 C 288 153 293 163 293 163 C 283 156 278 153 278 153 C 282 165 284 171 284 171 C 272 160 266 154 266 154 C 273 170 276 178 276 178 C 269 172 266 169 266 169 C 273 183 276 190 276 190 C 265 179 259 174 259 174 C 271 195 276 206 276 206 C 277 241 251 264 200 275 C 141 254 118 227 132 192 C 135 183 136 179 136 179 C 130 185 126 188 126 188 C 133 172 136 164 136 164 C 119 168 110 170 110 170 C 135 152 147 142 147 142 C 123 152 110 157 110 157 C 119 141 123 134 123 134 C 120 131 119 130 119 130 C 114 132 111 134 111 134 C 118 124 121 120 121 120 C 113 123 108 125 108 125 C 117 93 121 77 121 77 L 136 61 C 146 56 154 55 161 57 Z" fill="#121821" id="id-politician-body-politician-body-164">
+</path >
+<path d="M 143 176 C 129 197 128 210 137 214 C 137 221 138 227 138 227 C 142 219 144 215 144 215 C 144 223 144 226 144 226 C 147 221 149 218 149 218 C 149 226 149 230 149 230 C 151 228 152 227 152 227 C 152 235 152 239 152 239 C 161 238 165 238 165 238 C 161 244 159 246 159 246 C 169 242 175 239 175 239 C 171 248 169 253 169 253 C 176 246 180 242 180 242 C 179 252 178 256 178 256 C 183 248 185 244 185 244 C 189 260 190 268 190 268 C 192 257 193 252 193 252 C 197 263 198 268 198 268 C 203 257 205 252 205 252 C 209 260 211 265 211 265 C 215 260 217 257 217 257 C 219 261 220 263 220 263 C 226 257 229 253 229 253 C 237 259 241 262 241 262 C 242 251 243 245 243 245 C 252 245 256 245 256 245 C 253 233 252 227 252 227 C 259 229 263 231 263 231 C 259 219 257 213 257 213 C 266 219 271 222 271 222 C 266 207 263 200 263 200 C 272 201 276 201 276 201 C 284 210 288 214 288 214 C 280 213 276 213 276 213 C 287 226 292 232 292 232 C 283 232 278 232 278 232 C 282 245 284 252 284 252 C 281 249 279 248 279 248 C 280 258 280 263 280 263 C 275 255 273 251 273 251 C 272 259 272 264 272 264 C 266 253 264 248 264 248 C 265 264 266 272 266 272 C 259 265 255 261 255 261 C 254 282 253 293 253 293 C 246 297 243 299 243 299 C 244 291 244 288 244 288 C 237 278 233 273 233 273 C 232 283 231 288 231 288 C 226 300 224 306 224 306 C 221 283 220 272 220 272 C 207 286 200 293 200 293 C 199 285 199 280 199 280 C 193 294 190 301 190 301 C 187 287 186 280 186 280 C 185 287 184 291 184 291 C 179 289 176 287 176 287 C 171 278 168 273 168 273 C 164 285 162 291 162 291 C 157 283 155 279 155 279 C 156 287 156 290 156 290 C 149 274 146 266 146 266 C 146 276 146 281 146 281 C 140 260 137 249 137 249 C 136 264 135 271 135 271 C 131 252 129 243 129 243 C 127 251 125 255 125 255 C 124 238 123 230 123 230 C 119 237 116 241 116 241 C 119 229 120 222 120 222 C 116 229 114 232 114 232 L 121 207 C 135 186 143 176 143 176 Z" fill="url(#id-politician-body-politician-body-9)" id="id-politician-body-politician-body-165">
+</path >
+<path d="M 180 62 C 190 75 208 71 208 71 C 213 75 216 77 216 77 C 234 68 243 63 243 63 C 268 76 281 82 281 82 C 280 96 280 104 280 104 C 284 84 287 74 287 74 C 275 64 260 58 243 56 C 226 56 197 71 180 62 Z" fill="#b59ebc" id="id-politician-body-politician-body-166">
+</path >
+<path d="M 55 140 C 72 119 91 99 111 81 C 131 60 150 58 150 58 C 180 64 195 68 195 68 C 229 57 250 55 258 59 C 309 71 318 146 356 186 C 360 176 355 155 355 155 C 326 106 312 82 312 82 C 321 80 325 79 325 79 C 299 57 286 46 286 46 C 245 16 224 1 224 1 C 210 13 203 19 203 19 C 202 29 202 35 202 35 C 218 32 225 30 225 30 C 222 50 221 60 221 60 C 207 62 200 63 200 63 C 181 53 171 48 171 48 C 183 50 189 52 189 52 C 192 43 193 39 193 39 C 185 31 182 27 182 27 C 187 24 189 23 189 23 C 179 13 174 8 174 8 C 187 8 193 8 193 8 C 183 3 178 0 178 0 C 152 4 129 14 109 31 C 64 82 15 137 15 137 L 69 107 C 59 129 55 140 55 140 Z" fill="#253144" id="id-politician-body-politician-body-167">
+</path >
+<path d="M 355 130 C 335 122 325 118 325 118 L 314 91 C 342 117 355 130 355 130 Z" fill="#7596c9" id="id-politician-body-politician-body-168">
+</path >
+<path d="M 333 106 C 304 79 290 66 290 66 C 298 82 302 90 302 90 C 287 71 268 59 244 52 C 249 31 251 21 251 21 L 293 52 C 312 82 325 100 333 106 Z" fill="url(#id-politician-body-politician-body-10)" id="id-politician-body-politician-body-169">
+</path >
+<path d="M 139 54 C 111 78 97 89 97 89 C 108 64 112 48 110 41 L 126 26 C 124 36 128 45 139 54 Z" fill="#3a4e6c" id="id-politician-body-politician-body-170">
+</path >
+<path d="M 178 0 C 127 13 101 54 65 80 C 74 70 89 54 109 31 C 129 14 152 4 178 0 Z" fill="#bad7fa" id="id-politician-body-politician-body-171">
+</path >
+<path d="M 55 227 C 48 231 44 232 44 232 C 57 209 63 197 63 197 L 72 189 C 60 214 55 227 55 227 Z" fill="#b9d6f8" id="id-politician-body-politician-body-172">
+</path >
+<path d="M 53 197 C 56 197 42 210 42 210 L 30 210 C 43 201 51 197 53 197 Z" fill="#b9d6f8" id="id-politician-body-politician-body-173">
+</path >
+<path d="M 324 224 C 308 199 300 186 300 186 C 310 212 315 224 315 224 L 314 214 C 321 221 324 224 324 224 Z" fill="#273857" id="id-politician-body-politician-body-174">
+</path >
+<path d="M 324 210 C 309 179 301 163 301 163 C 323 191 334 205 334 205 L 325 206 C 324 209 324 210 324 210 Z" fill="#293c5d" id="id-politician-body-politician-body-175">
+</path >
+<path d="M 350 193 C 335 184 327 180 327 180 C 322 150 320 135 320 135 L 348 179 C 349 188 350 193 350 193 Z" fill="#314f7b" id="id-politician-body-politician-body-176">
+</path >
+<path d="M 357 156 L 358 119 C 361 127 363 134 363 140 C 362 149 357 156 357 156 Z" fill="#283b5d" id="id-politician-body-politician-body-177">
+</path >
+<path d="M 192 104 C 197 110 196 116 190 122 C 179 126 174 128 174 128 C 163 140 158 146 158 146 C 167 131 172 123 172 123 C 168 124 166 124 166 124 L 179 118 C 187 109 192 104 192 104 Z" fill="#2e202a" id="id-politician-body-politician-body-178">
+</path >
+<path d="M 156 151 C 187 158 203 162 203 162 C 222 157 236 152 244 147 C 237 154 212 169 212 179 L 191 182 C 194 173 183 162 156 151 Z" fill="#b27d89" id="id-politician-body-politician-body-179">
+</path >
+<path d="M 204 169 L 224 157 C 210 160 204 162 204 162 L 186 159 C 198 165 204 169 204 169 Z" fill="#cb99a7" id="id-politician-body-politician-body-180">
+</path >
+<path d="M 186 139 C 197 135 202 133 202 133 C 212 136 217 138 217 138 L 201 144 C 191 141 186 139 186 139 Z" fill="#d6a8b4" id="id-politician-body-politician-body-181">
+</path >
+<path d="M 180 138 C 183 142 184 144 184 144 C 194 145 199 145 199 145 C 199 155 199 159 199 159 C 195 159 193 159 193 159 C 188 151 185 148 185 148 L 179 146 C 180 140 180 138 180 138 Z" fill="#161922" id="id-politician-body-politician-body-182">
+</path >
+<path d="M 208 159 C 207 150 207 145 207 145 C 221 140 228 137 228 137 L 220 154 C 212 157 208 159 208 159 Z" fill="#161922" id="id-politician-body-politician-body-183">
+</path >
+<path d="M 140 201 C 144 211 166 207 175 204 C 195 196 223 189 223 189 C 229 203 232 210 232 210 C 220 204 211 202 204 202 C 186 204 179 208 166 211 C 151 213 132 210 140 201 Z" fill="#b08294" id="id-politician-body-politician-body-184">
+</path >
+<path d="M 140 199 C 144 209 166 205 175 203 C 195 195 223 187 223 187 C 229 201 232 208 232 208 C 220 203 211 200 204 200 C 186 203 179 207 166 209 C 151 212 132 208 140 199 Z" fill="#151921" id="id-politician-body-politician-body-184">
+</path >
+<path d="M 214 204 C 197 208 183 216 173 227 C 162 220 154 215 149 210 C 168 213 212 192 214 204 Z" fill="url(#id-politician-body-politician-body-11)" id="id-politician-body-politician-body-186">
+</path >
+<path d="M 164 201 C 185 189 210 183 238 185 C 222 178 211 175 202 177 C 178 183 164 201 164 201 Z" fill="#cc899c" id="id-politician-body-politician-body-187">
+</path >
+<path d="M 191 121 C 184 131 180 136 180 136 L 159 146 L 174 128 C 185 124 191 121 191 121 Z" fill="#d0a2ae" id="id-politician-body-politician-body-188">
+</path >
+<path d="M 202 131 C 204 124 207 120 212 117 C 213 114 209 110 209 110 C 202 110 198 110 198 110 C 195 113 194 115 195 118 C 200 120 202 131 202 131 Z" fill="#90515a" id="id-politician-body-politician-body-189">
+</path >
+<path d="M 267 145 C 275 133 280 127 280 127 C 271 126 267 126 267 126 C 265 121 264 118 264 118 C 258 123 249 127 238 130 C 242 138 267 145 267 145 Z" fill="#c1828e" id="id-politician-body-politician-body-190">
+</path >
+<path d="M 262 131 C 244 130 235 130 235 130 L 241 136 L 262 131 Z" fill="#7c5165" id="id-politician-body-politician-body-191">
+</path >
+<path d="M 158 137 C 140 143 131 146 131 146 C 123 131 119 124 119 124 L 130 121 C 149 132 158 137 158 137 Z" fill="#9b6772" id="id-politician-body-politician-body-192">
+</path >
+<path d="M 168 124 C 152 129 144 132 144 132 C 137 131 133 130 133 130 C 140 134 143 136 143 136 C 153 133 159 131 159 131 C 151 141 147 146 147 146 L 164 132 C 167 126 168 124 168 124 Z" fill="#4e364f" id="id-politician-body-politician-body-193">
+</path >
+<path d="M 180 114 C 175 113 173 112 173 112 C 167 115 164 117 164 117 L 174 119 C 178 116 180 114 180 114 Z" fill="#94595c" id="id-politician-body-politician-body-194">
+</path >
+<path d="M 237 114 C 234 117 232 118 232 118 L 222 110 C 232 113 237 114 237 114 Z" fill="#9c6f77" id="id-politician-body-politician-body-195">
+</path >
+<path d="M 238 128 C 226 122 220 120 220 120 C 215 109 213 104 213 104 C 211 108 209 110 209 110 L 214 120 L 237 131 C 238 129 238 128 238 128 Z" fill="#2e202a" id="id-politician-body-politician-body-196">
+</path >
+<path d="M 257 106 C 262 111 265 113 265 113 C 253 122 247 126 247 126 C 233 120 226 117 226 117 L 244 120 C 252 111 257 106 257 106 Z" fill="#603a5a" id="id-politician-body-politician-body-197">
+</path >
+<path d="M 181 81 C 189 77 192 75 192 75 C 189 83 187 88 187 88 C 191 86 194 86 194 86 C 199 78 202 74 202 74 C 208 82 211 86 211 86 C 209 78 208 74 208 74 C 215 79 219 81 219 81 C 233 74 240 70 240 70 C 266 83 280 89 280 89 C 285 82 288 78 288 78 C 282 106 279 120 279 120 C 270 114 266 111 266 111 C 270 108 272 106 272 106 C 257 94 249 87 249 87 L 226 93 L 214 104 L 209 110 L 198 110 L 191 102 C 184 106 180 109 180 109 L 150 125 L 130 114 L 110 121 C 117 93 121 79 121 79 L 131 85 C 149 73 166 72 181 81 Z" fill="url(#id-politician-body-politician-body-12)" id="id-politician-body-politician-body-198">
+</path >
+<path d="M 164 119 C 150 125 143 128 143 128 C 134 124 130 123 130 123 C 131 120 132 118 132 118 C 135 122 136 123 136 123 C 142 123 144 123 144 123 C 135 117 130 114 130 114 L 109 123 C 116 96 120 81 121 79 C 131 86 136 89 136 89 C 153 84 162 81 162 81 C 185 90 197 95 197 95 C 189 96 186 97 186 97 C 190 100 192 101 192 101 L 179 109 C 169 116 164 119 164 119 Z" fill="#381435" id="id-politician-body-politician-body-199">
+</path >
+<path d="M 155 120 C 141 113 135 109 135 109 C 135 102 135 98 135 98 C 147 93 153 91 153 91 L 175 100 L 180 109 C 163 117 155 120 155 120 Z" fill="url(#id-politician-body-politician-body-13)" id="id-politician-body-politician-body-200">
+</path >
+<path d="M 153 116 C 144 111 139 108 139 108 L 158 114 L 153 116 Z" fill="#7f4c50" id="id-politician-body-politician-body-200">
+</path >
+<path d="M 137 108 C 147 101 152 97 152 97 C 162 100 167 102 167 102 L 174 111 L 159 114 C 144 110 137 108 137 108 Z" fill="#1a1c26" id="id-politician-body-politician-body-202">
+</path >
+<polygon points="153 93 175 100 167 102 152 97" fill="#b17e8d" id="id-politician-body-politician-body-203">
+</polygon >
+<path d="M 151 108 L 152 112 C 156 113 159 114 159 114 C 162 111 163 109 163 109 L 160 108 C 158 111 157 112 156 112 C 155 112 154 111 153 108 L 151 108 Z" fill="#703b30" id="id-politician-body-politician-body-204">
+</path >
+<path d="M 157 104 C 157 106 157 107 157 107 C 154 107 152 107 152 107 L 152 104 C 156 104 157 104 157 104 Z" fill="#6c83ac" id="id-politician-body-politician-body-205">
+</path >
+<path d="M 217 104 C 227 101 232 99 232 99 C 245 99 252 99 252 99 C 255 104 257 106 257 106 C 250 111 247 113 247 113 L 234 113 C 223 107 217 104 217 104 Z" fill="#1a1c26" id="id-politician-body-politician-body-206">
+</path >
+<path d="M 245 106 C 244 109 243 111 243 111 C 237 112 234 112 234 112 C 231 109 229 107 229 107 C 231 106 231 106 231 106 C 234 109 236 110 238 110 C 240 110 241 108 242 105 C 244 105 245 106 245 106 Z" fill="#703b30" id="id-politician-body-politician-body-207">
+</path >
+<path d="M 238 104 C 238 106 238 107 238 107 C 235 107 233 107 233 107 L 233 104 C 236 104 238 104 238 104 Z" fill="#6c83ac" id="id-politician-body-politician-body-208">
+</path >
+<path d="M 182 66 C 164 62 150 62 141 66 C 125 78 118 111 118 111 C 121 88 123 77 123 77 C 131 65 139 58 148 57 C 163 57 182 66 182 66 Z" fill="#947381" id="id-politician-body-politician-body-209">
+</path >
+<path d="M 210 102 C 209 106 209 108 209 108 C 203 106 201 105 201 105 L 198 100 C 206 101 210 102 210 102 Z" fill="#804a58" id="id-politician-body-politician-body-210">
+</path >
+<path d="M 201 81 C 198 86 196 88 196 88 C 201 94 203 97 203 97 L 207 86 C 203 83 201 81 201 81 Z" fill="#54354e" id="id-politician-body-politician-body-211">
+</path >
+<path d="M 214 200 C 220 205 223 208 223 208 C 208 208 201 208 201 208 C 202 216 203 220 203 220 C 211 219 215 219 215 219 C 217 246 218 260 218 260 C 224 253 227 250 227 250 C 235 255 239 257 239 257 L 242 210 C 223 203 214 200 214 200 Z" fill="#341134" opacity="0.437" id="id-politician-body-politician-body-212" filter="url(#id-politician-body-politician-body-14)">
+</path >
+<path d="M 369 141 C 369 141 370 141 370 141 L 375 141 C 376 141 376 141 376 141 L 381 141 C 381 141 381 141 382 141 L 384 141 C 384 141 384 141 385 141 L 386 141 C 387 141 387 141 387 141 L 389 141 C 390 141 391 141 392 141 L 394 141 C 409 141 420 141 427 141 C 409 155 394 172 383 184 C 372 185 359 184 346 181 L 346 181 L 346 181 C 344 181 282 171 268 206 C 276 175 292 160 315 164 C 324 150 332 143 339 141 L 339 141 Z M 347 147 C 335 154 369 171 369 171 C 348 167 331 167 318 169 C 293 173 279 186 279 186 C 293 179 309 175 327 174 C 349 171 377 175 377 175 C 363 166 359 158 366 152 C 373 146 413 141 413 141 C 376 141 354 143 347 147 Z" fill="url(#id-politician-body-politician-body-15)" id="id-politician-body-politician-body-51">
+</path >
+<polygon points="233 98 254 88 261 93 261 101" fill="#ac696d" id="id-politician-body-politician-body-215">
+</polygon >
+<polygon points="233 98 238 89 225 93 214 104" fill="#652537" id="id-politician-body-politician-body-216">
+</polygon >
+<polygon points="234 98 253 100 247 95" fill="#bc8793" id="id-politician-body-politician-body-217">
+</polygon >
+<path d="M 208 93 C 238 84 253 80 253 80 C 262 84 266 95 271 104 C 263 99 261 91 249 87 C 234 91 226 93 226 93 C 216 102 212 106 212 106 L 216 94 C 211 93 208 93 208 93 Z" fill="#4c2f4e" id="id-politician-body-politician-body-218">
+</path >
+</g >
+<g transform="translate(304,185)" id="id-politician-body-politician-body-219">
+<path d="M 0 10 C 11 2 26 0 55 0 C 28 0 41 28 45 28 C 37 28 24 24 6 16 C 2 14 0 12 0 10 Z" fill="url(#id-politician-body-politician-body-16)" id="id-politician-body-politician-body-94">
+</path >
+<ellipse cx="53" cy="15" fill="url(#id-politician-body-politician-body-17)" id="id-politician-body-politician-body-95" rx="13" ry="14">
+</ellipse >
+<polygon points="41 12 48 11 51 10 55 20 51 22 61 20 61 24 64 20 64 12 58 18 61 7 53 6 48 8 48 5 43 6" fill="url(#id-politician-body-politician-body-18)" id="id-politician-body-politician-body-222">
+</polygon >
+<path d="M 49 8 C 50 9 49 11 47 14 C 46 17 46 20 44 20 C 43 19 43 16 44 12 C 46 9 48 8 49 8 Z" fill="#c03809" id="id-politician-body-politician-body-96">
+</path >
+<path d="M 40 13 C 40 22 45 27 55 29 C 55 29 53 29 48 29 C 45 28 43 27 41 26 C 38 24 28 0 55 0 C 44 3 40 7 40 13 Z" fill="#131821" id="id-politician-body-politician-body-97">
+</path >
+<path d="M 55 11 C 55 11 51 14 50 16 C 50 18 53 20 54 19 C 55 18 55 11 55 11 Z" fill="#d54916" id="id-politician-body-politician-body-98">
+</path >
+<path d="M 49 20 C 49 20 54 25 54 25 C 54 25 47 24 46 23 C 45 22 49 20 49 20 Z" fill="#c03809" id="id-politician-body-politician-body-99">
+</path >
+</g >
+<g transform="translate(1,981)" id="id-politician-body-politician-body-227">
+<path d="M 122 11 C 119 29 89 24 67 46 C 73 72 72 121 72 121 C 76 125 77 131 76 137 C 81 138 84 141 85 146 C 96 148 101 153 102 162 C 111 164 115 169 113 177 C 122 182 127 188 127 195 C 121 203 81 202 55 158 C 27 115 13 75 13 36 C 21 6 50 3 50 3 L 76 6 C 101 -3 116 -2 122 11 Z" fill="#5e494a" id="id-politician-body-politician-body-228">
+</path >
+<path d="M 50 3 C 41 15 36 21 36 21 C 20 32 11 38 11 38 L 5 33 C 21 13 36 3 50 3 Z" fill="#222835" id="id-politician-body-politician-body-229">
+</path >
+<path d="M 62 30 C 58 28 55 27 55 27 C 51 28 48 29 48 29 L 54 34 C 60 31 62 30 62 30 Z" fill="#503539" id="id-politician-body-politician-body-230">
+</path >
+<path d="M 122 11 C 102 23 93 29 93 29 C 93 26 94 24 94 24 C 91 26 89 26 89 26 C 87 25 86 24 86 24 C 85 27 85 29 85 29 C 81 26 79 24 79 24 C 80 29 80 31 80 31 C 75 26 72 23 72 23 C 74 30 75 34 75 34 C 66 28 62 25 62 25 C 66 33 68 37 68 37 C 63 38 60 38 60 38 C 46 33 39 30 39 30 C 58 42 67 47 67 47 C 69 73 70 86 70 86 C 71 65 71 51 70 45 C 78 34 95 33 111 30 C 119 25 123 18 122 11 Z" fill="#2f3136" id="id-politician-body-politician-body-231">
+</path >
+<path d="M 122 11 C 123 15 119 21 110 22 C 100 23 92 23 85 22 C 84 17 83 15 83 15 C 79 21 77 24 77 24 C 74 19 73 17 73 17 C 66 19 62 20 62 20 C 61 25 61 27 61 27 C 58 23 57 21 57 21 L 41 18 L 51 4 C 59 4 67 5 76 6 C 101 -3 116 -2 122 11 Z" fill="#c0857c" id="id-politician-body-politician-body-232">
+</path >
+<path d="M 95 15 C 85 11 80 8 80 8 L 90 2 L 103 4 C 98 11 95 15 95 15 Z" fill="#e4a2a0" id="id-politician-body-politician-body-233">
+</path >
+<path d="M 108 15 C 99 15 95 14 95 14 C 101 7 103 4 103 4 L 114 5 C 110 12 108 15 108 15 Z" fill="#544d51" id="id-politician-body-politician-body-234">
+</path >
+<path d="M 61 56 C 48 52 42 50 42 50 C 47 48 49 47 49 47 C 41 46 38 46 38 46 C 41 42 42 40 42 40 C 37 43 35 44 35 44 C 35 37 35 33 35 33 C 31 33 29 33 29 33 C 33 23 35 18 35 18 C 25 25 19 30 16 32 C 16 32 13 31 7 29 C 11 33 12 35 12 35 C 8 34 4 32 0 28 C 7 38 10 44 10 44 C 6 43 4 43 4 43 C 10 54 14 59 14 59 C 8 57 4 54 2 52 C 12 69 16 78 16 78 C 10 77 7 76 7 76 C 21 103 29 116 29 116 C 37 139 42 151 42 151 C 50 155 54 157 54 157 L 65 179 C 94 198 114 204 127 195 C 105 191 94 189 94 189 L 101 168 C 77 165 62 158 57 147 C 50 139 46 135 46 135 C 41 132 40 127 43 120 C 36 116 35 113 39 111 C 31 100 27 94 27 94 C 38 105 44 110 44 110 C 31 92 25 83 25 83 C 31 86 34 88 34 88 C 27 78 24 73 24 73 C 30 76 32 77 32 77 C 28 70 25 67 25 67 C 30 67 33 67 33 67 L 32 56 C 43 55 52 55 61 56 Z" fill="#2e3136" id="id-politician-body-politician-body-235">
+</path >
+<path d="M 116 191 C 108 187 105 185 105 185 L 103 163 C 108 164 113 168 114 177 C 115 186 116 191 116 191 Z" fill="#bf7d7e" id="id-politician-body-politician-body-236">
+</path >
+<path d="M 95 166 C 74 157 61 149 56 143 C 51 131 51 118 54 103 C 45 98 40 85 40 64 C 48 61 53 57 54 53 C 46 51 42 50 42 50 C 45 45 47 42 47 42 C 59 48 65 51 65 51 L 55 66 C 63 66 67 66 67 66 L 70 105 C 66 105 64 105 64 105 C 67 110 68 112 68 112 L 65 120 C 68 121 70 122 70 122 L 71 138 C 79 142 83 145 84 148 L 94 152 C 98 160 98 165 95 166 Z" fill="#c6786f" id="id-politician-body-politician-body-237">
+</path >
+<path d="M 54 70 C 59 70 62 70 62 70 C 61 76 60 79 60 79 C 65 72 67 69 67 69 C 67 78 67 82 67 82 C 63 82 62 81 62 81 C 64 85 65 87 65 87 C 65 95 64 99 64 99 L 56 103 C 55 81 54 70 54 70 Z" fill="#f1afac" id="id-politician-body-politician-body-238">
+</path >
+<path d="M 60 132 C 60 116 60 108 60 108 C 63 112 64 114 64 114 L 66 129 C 62 131 60 132 60 132 Z" fill="#f1afac" id="id-politician-body-politician-body-239">
+</path >
+<path d="M 61 139 C 66 146 69 150 69 150 L 78 146 C 67 141 61 139 61 139 Z" fill="#f1afac" id="id-politician-body-politician-body-240">
+</path >
+<path d="M 84 157 C 87 154 89 152 89 152 L 94 159 C 89 161 85 160 84 157 Z" fill="#bf939d" id="id-politician-body-politician-body-241">
+</path >
+<path d="M 104 172 L 110 169 L 103 163 C 103 169 104 172 104 172 Z" fill="#b8949f" id="id-politician-body-politician-body-242">
+</path >
+</g >
+<g transform="translate(484,995)" id="id-politician-body-politician-body-243">
+<path d="M 66 2 C 79 12 85 18 85 18 C 92 45 95 62 94 70 C 75 112 65 134 65 134 C 51 147 41 154 35 155 C 20 157 12 157 9 157 C 3 157 0 155 0 153 C 0 148 11 141 33 129 C 40 124 45 119 46 116 C 50 80 52 55 52 39 C 26 47 10 50 6 47 C 0 42 -1 37 4 30 C 19 19 29 14 34 15 L 52 3 C 61 2 66 2 66 2 Z" fill="#623d34" id="id-politician-body-politician-body-244">
+</path >
+<path d="M 30 16 C 34 27 36 32 36 32 C 22 39 16 43 16 43 C 9 44 4 43 2 41 C 0 39 1 35 4 30 C 17 20 26 15 30 16 Z" fill="#e2a9ab" id="id-politician-body-politician-body-245">
+</path >
+<path d="M 13 24 C 19 30 21 34 21 37 C 17 39 13 40 11 39 C 8 38 6 36 4 32 C 10 27 13 24 13 24 Z" fill="url(#id-politician-body-politician-body-19)" id="id-politician-body-politician-body-246">
+</path >
+<path d="M 71 6 C 69 13 68 16 68 16 C 66 10 65 6 65 6 C 60 17 58 23 58 23 C 56 16 55 12 55 12 C 53 17 52 20 52 20 C 50 17 49 16 49 16 C 49 20 49 23 49 23 C 46 21 45 20 45 20 C 45 25 45 28 45 28 C 41 20 39 17 39 17 C 40 24 40 27 40 27 C 37 25 35 23 35 23 L 35 30 L 29 16 L 35 16 L 52 2 L 65 2 C 69 5 71 6 71 6 Z" fill="#ca918b" id="id-politician-body-politician-body-247">
+</path >
+<path d="M 79 14 C 81 20 82 22 82 22 C 78 24 76 24 76 24 C 76 31 76 35 76 35 C 73 32 72 30 72 30 C 63 34 58 36 58 36 C 58 28 58 24 58 24 C 53 32 50 37 50 37 C 49 30 49 27 49 27 C 46 36 44 41 44 41 C 20 45 7 47 7 47 C 3 42 1 40 1 40 C 7 47 10 51 10 51 C 37 46 50 43 50 43 C 46 92 45 117 45 117 L 15 140 L 34 129 C 43 121 47 117 47 117 C 51 69 53 46 53 46 C 64 42 69 39 69 39 C 74 60 77 70 77 70 L 69 78 C 69 89 69 94 69 94 C 66 94 65 94 65 94 C 69 98 72 100 72 100 C 66 118 63 128 63 128 C 59 123 57 121 57 121 C 59 126 59 128 59 128 C 47 141 37 147 29 147 C 24 147 20 152 16 152 C 13 150 11 149 11 149 C 10 154 10 157 10 157 C 23 157 29 157 29 157 C 34 159 37 160 37 160 C 53 148 64 139 68 134 C 78 108 84 93 86 88 C 95 77 99 72 99 72 C 92 76 89 77 89 77 C 100 66 105 61 105 61 C 96 66 92 68 92 68 C 97 58 100 53 100 53 C 94 56 91 57 91 57 C 97 46 100 41 100 41 C 94 44 91 46 91 46 C 96 33 99 27 99 27 C 96 28 94 29 94 29 C 98 19 99 13 99 13 L 87 18 C 82 16 79 14 79 14 Z" fill="#303337" id="id-politician-body-politician-body-248">
+</path >
+<path d="M 73 54 C 69 68 68 75 68 75 C 62 76 59 76 59 76 C 63 79 65 81 65 81 C 60 86 58 89 58 89 C 60 96 61 99 61 99 C 57 97 55 96 55 96 C 56 116 56 126 56 126 C 31 141 19 148 19 148 C 15 146 14 144 14 144 C 16 140 17 138 17 138 C 30 133 36 130 36 130 C 42 122 45 119 45 119 C 49 120 51 121 51 121 C 50 102 49 93 49 93 L 54 47 C 67 52 73 54 73 54 Z" fill="#c77e82" id="id-politician-body-politician-body-249">
+</path >
+<path d="M 61 57 C 57 64 55 68 55 68 C 58 71 59 73 59 73 C 55 83 54 88 54 88 C 51 85 50 84 50 84 L 54 56 C 59 57 61 57 61 57 Z" fill="#f8aab0" id="id-politician-body-politician-body-250">
+</path >
+<path d="M 50 94 C 53 97 55 98 55 98 C 55 109 55 115 55 115 L 51 117 C 50 102 50 94 50 94 Z" fill="#fbabb4" id="id-politician-body-politician-body-251">
+</path >
+<path d="M 53 123 C 45 129 40 133 40 133 C 38 131 36 130 36 130 L 45 119 C 51 122 53 123 53 123 Z" fill="#fbabb4" id="id-politician-body-politician-body-252">
+</path >
+<path d="M 69 56 C 58 56 53 56 53 56 C 53 53 53 52 53 52 L 62 52 C 67 55 69 56 69 56 Z" fill="#64242e" id="id-politician-body-politician-body-253">
+</path >
+<path d="M 88 18 C 88 14 88 12 88 12 C 73 4 66 0 66 0 L 51 2 L 66 2 C 79 13 86 19 88 18 Z" fill="#414a63" id="id-politician-body-politician-body-254">
+</path >
+<path d="M 52 142 C 53 146 53 148 53 148 C 43 154 38 158 38 158 L 41 150 C 49 145 52 142 52 142 Z" fill="#553c45" id="id-politician-body-politician-body-255">
+</path >
+</g >
+</g >
+<polygon points="147 85 159 73 169 73 188 69 180 63 168 64 157 71" fill="#bcd7f9" id="id-politician-body-politician-body-256">
+</polygon >
+<path d="M 353 188 L 348 197 L 377 211 L 350 204 C 343 201 340 198 340 196 C 340 193 345 190 353 188 Z" fill="#390100" id="id-politician-body-politician-body-257">
+</path >
+</g >
+<path d="M 444 528 C 475 529 491 529 491 529 L 497 507 L 443 505 C 443 520 444 528 444 528 Z" fill="#3f5882" id="id-politician-body-politician-body-258">
+</path >
+</g >
+<defs >
+<radialGradient cx="50%" cy="50%" r="66%" id="id-politician-ad-5-Purple-1-0" fx="50%" fy="50%" gradientTransform="translate(0.5,0.5) scale(0.726,1) scale(1,0.941) translate(-0.5,-0.5)">
+<stop stop-color="#eae800" offset="0%">
+</stop >
+<stop stop-color="#9cea00" offset="100%">
+</stop >
+</radialGradient >
+</defs >
+<g transform="translate(496,1016)" id="id-politician-ad-5-Purple-1-1">
+<g id="id-politician-ad-5-Purple-1-2">
+<path d="M 19 5 C 12 5 8 9 5 15 C 0 92 -1 174 1 259 C 1 265 4 270 10 272 L 352 272 C 364 270 371 264 371 255 C 379 136 373 19 373 19 C 372 9 365 4 352 4 C 192 -4 179 1 19 5 Z" fill="url(#id-politician-ad-5-Purple-1-0)" id="id-politician-ad-5-Purple-1-3">
+</path >
+<path d="M 38 5 C 20 24 11 41 2 58 L 0 231 C 6 245 14 259 24 273 C 41 273 49 273 49 273 C 19 239 2 199 2 146 C 1 100 17 46 64 5 L 38 5 Z" fill="#00dbff" id="id-politician-ad-5-Purple-1-4">
+</path >
+<path d="M 104 273 L 146 273 C 85 250 55 205 56 139 C 66 59 123 7 200 6 C 273 6 339 52 355 139 C 361 211 339 241 318 273 L 341 273 C 358 247 368 220 373 192 C 374 157 375 139 375 139 C 363 71 327 25 267 0 L 133 1 C 58 35 40 107 37 139 C 35 188 56 243 104 273 Z" fill="#00dbff" id="id-politician-ad-5-Purple-1-5">
+</path >
+<path d="M 264 273 C 312 237 329 189 316 128 C 296 72 256 43 199 42 C 143 44 98 84 93 137 C 89 164 102 238 181 243 C 220 243 261 222 266 165 C 269 112 228 97 200 97 C 175 99 150 111 146 143 C 142 163 150 187 183 190 C 215 190 215 153 215 153 C 203 152 197 152 197 152 C 199 162 195 168 186 172 C 174 173 157 160 165 133 C 171 125 182 115 200 115 C 218 115 252 125 247 172 C 244 200 217 226 186 226 C 143 222 108 200 112 137 C 119 86 160 60 199 60 C 287 60 308 146 301 182 C 292 233 260 259 224 273 C 251 273 264 273 264 273 Z" fill="#00dbff" id="id-politician-ad-5-Purple-1-6">
+</path >
+<path d="M 372 39 C 351 15 341 3 341 3 C 356 5 364 6 364 6 C 369 7 372 11 372 18 L 372 39 Z" fill="#00dbff" id="id-politician-ad-5-Purple-1-7">
+</path >
+</g >
+<path d="M 108 216 L 108 150 L 92 151 L 92 218 L 108 216 Z M 156 213 L 160 203 L 187 201 L 191 211 L 208 209 L 175 143 L 174 143 L 140 215 L 156 213 Z M 182 190 L 165 191 L 173 170 L 182 190 Z M 248 208 L 266 174 L 272 204 L 287 203 L 273 135 L 272 135 L 248 181 L 223 139 L 222 139 L 208 209 L 222 208 L 228 177 L 247 208 L 248 208 Z" fill="#ff2525" id="id-politician-ad-5-Purple-1-8" fill-rule="nonzero">
+</path >
+<path d="M 41 130 C 45 130 48 129 51 127 C 54 126 57 123 59 120 C 60 118 61 116 62 114 C 63 111 63 109 63 106 C 63 103 63 100 61 97 C 60 95 59 92 57 90 C 55 88 52 87 50 86 C 47 85 44 85 41 85 C 39 85 36 86 33 87 C 30 89 28 90 26 93 C 24 95 22 98 21 100 C 20 103 20 106 20 109 C 20 113 20 115 21 118 C 22 121 24 123 26 125 C 28 127 31 128 33 129 C 36 130 39 131 41 130 Z M 41 121 C 38 121 36 120 33 118 C 31 115 30 112 30 109 C 30 105 31 102 33 99 C 36 96 38 95 41 95 C 45 94 47 95 49 98 C 52 100 53 103 53 107 C 53 111 52 114 49 116 C 47 119 45 120 41 121 Z M 81 126 L 81 109 L 96 108 L 96 99 L 81 100 L 81 92 L 98 91 L 98 82 L 71 84 L 71 127 L 81 126 Z M 141 121 C 143 121 146 121 148 120 C 150 119 152 118 154 117 L 154 105 C 152 107 150 109 148 110 C 146 111 144 112 142 112 C 138 112 135 111 133 109 C 130 107 129 103 129 100 C 129 96 130 92 133 90 C 135 87 138 86 142 85 C 144 85 146 85 147 86 C 149 87 151 88 153 90 L 154 79 C 152 78 150 77 148 77 C 146 76 143 76 141 76 C 138 76 135 77 132 78 C 130 80 127 82 125 84 C 123 86 122 89 121 92 C 120 94 119 97 119 100 C 119 104 120 107 121 110 C 123 113 125 116 127 118 C 129 119 132 120 134 121 C 136 121 139 122 141 121 Z M 180 118 C 183 118 187 117 190 115 C 193 113 195 111 197 108 C 199 106 200 104 201 102 C 201 99 202 97 202 94 C 202 91 201 88 200 85 C 199 83 197 80 195 78 C 193 76 191 75 188 74 C 186 73 183 73 180 73 C 177 73 174 74 172 75 C 169 77 167 78 165 81 C 163 83 161 86 160 88 C 159 91 158 94 158 97 C 158 100 159 103 160 106 C 161 109 163 111 165 113 C 167 115 169 116 172 117 C 174 118 177 118 180 118 Z M 180 109 C 177 109 174 108 172 106 C 170 103 169 100 169 97 C 169 93 170 90 172 87 C 174 84 177 83 180 83 C 183 82 186 83 188 86 C 190 88 191 91 191 95 C 191 98 190 102 188 104 C 186 107 183 108 180 109 Z M 227 115 C 233 114 237 112 240 108 C 243 105 245 100 245 94 L 245 69 L 236 70 L 236 94 C 236 98 235 100 234 102 C 232 104 230 105 228 105 C 225 105 223 105 221 103 C 220 101 219 98 219 95 L 219 71 L 209 72 L 209 97 C 209 103 211 107 214 111 C 217 114 222 115 227 115 Z M 263 110 L 263 94 L 265 93 L 276 109 L 288 108 L 275 91 C 277 90 279 88 280 86 C 282 84 283 81 283 79 C 283 77 282 75 281 74 C 280 72 279 71 278 70 C 276 69 274 68 272 68 C 271 67 268 67 264 68 L 253 69 L 253 111 L 263 110 Z M 263 87 L 263 75 L 265 75 C 268 75 270 75 271 76 C 273 77 273 78 273 80 C 273 82 273 84 271 85 C 270 86 268 87 265 87 L 263 87 Z M 303 108 C 308 108 311 107 314 104 C 317 101 318 98 318 93 C 318 91 318 88 316 87 C 315 85 312 83 308 81 L 303 79 C 302 78 301 78 301 77 C 300 76 300 76 300 75 C 300 74 300 73 301 72 C 302 72 303 71 304 71 C 306 71 307 71 309 72 C 311 72 313 73 315 74 L 315 64 C 313 64 311 63 309 63 C 307 63 306 63 304 63 C 300 63 297 65 294 67 C 292 70 290 72 290 76 C 290 78 291 81 292 82 C 294 84 296 86 299 87 L 301 89 C 302 89 302 89 303 89 C 307 91 309 93 309 95 C 309 96 308 97 307 98 C 306 99 304 99 303 99 C 301 100 299 99 297 99 C 296 98 293 97 291 96 L 292 107 C 294 108 296 108 298 108 C 300 109 301 109 303 108 Z M 352 103 L 352 94 L 336 96 L 336 87 L 350 86 L 350 77 L 336 78 L 336 71 L 352 69 L 352 61 L 326 63 L 326 105 L 352 103 Z" fill="#ff2525" id="id-politician-ad-5-Purple-1-9" fill-rule="nonzero">
+</path >
+<path d="M 114 211 L 114 145 L 98 146 L 98 213 L 114 211 Z M 162 208 L 166 198 L 193 196 L 197 206 L 214 204 L 181 138 L 180 138 L 146 210 L 162 208 Z M 188 185 L 171 186 L 179 165 L 188 185 Z M 254 203 L 272 169 L 278 199 L 293 198 L 279 130 L 278 130 L 254 176 L 229 134 L 228 134 L 214 204 L 228 203 L 234 172 L 253 203 L 254 203 Z" fill="#ffffff" id="id-politician-ad-5-Purple-1-8" fill-rule="nonzero">
+</path >
+<path d="M 47 125 C 51 125 54 124 57 122 C 60 121 63 118 65 115 C 66 113 67 111 68 109 C 69 106 69 104 69 101 C 69 98 69 95 67 92 C 66 90 65 87 63 85 C 61 83 58 82 56 81 C 53 80 50 80 47 80 C 45 80 42 81 39 82 C 36 84 34 85 32 88 C 30 90 28 93 27 95 C 26 98 26 101 26 104 C 26 108 26 110 27 113 C 28 116 30 118 32 120 C 34 122 37 123 39 124 C 42 125 45 126 47 125 Z M 47 116 C 44 116 42 115 39 113 C 37 110 36 107 36 104 C 36 100 37 97 39 94 C 42 91 44 90 47 90 C 51 89 53 90 55 93 C 58 95 59 98 59 102 C 59 106 58 109 55 111 C 53 114 51 115 47 116 Z M 87 121 L 87 104 L 102 103 L 102 94 L 87 95 L 87 87 L 104 86 L 104 77 L 77 79 L 77 122 L 87 121 Z M 147 116 C 149 116 152 116 154 115 C 156 114 158 113 160 112 L 160 100 C 158 102 156 104 154 105 C 152 106 150 107 148 107 C 144 107 141 106 139 104 C 136 102 135 98 135 95 C 135 91 136 87 139 85 C 141 82 144 81 148 80 C 150 80 152 80 153 81 C 155 82 157 83 159 85 L 160 74 C 158 73 156 72 154 72 C 152 71 149 71 147 71 C 144 71 141 72 138 73 C 136 75 133 77 131 79 C 129 81 128 84 127 87 C 126 89 125 92 125 95 C 125 99 126 102 127 105 C 129 108 131 111 133 113 C 135 114 138 115 140 116 C 142 116 145 117 147 116 Z M 186 113 C 189 113 193 112 196 110 C 199 108 201 106 203 103 C 205 101 206 99 207 97 C 207 94 208 92 208 89 C 208 86 207 83 206 80 C 205 78 203 75 201 73 C 199 71 197 70 194 69 C 192 68 189 68 186 68 C 183 68 180 69 178 70 C 175 72 173 73 171 76 C 169 78 167 81 166 83 C 165 86 164 89 164 92 C 164 95 165 98 166 101 C 167 104 169 106 171 108 C 173 110 175 111 178 112 C 180 113 183 113 186 113 Z M 186 104 C 183 104 180 103 178 101 C 176 98 175 95 175 92 C 175 88 176 85 178 82 C 180 79 183 78 186 78 C 189 77 192 78 194 81 C 196 83 197 86 197 90 C 197 93 196 97 194 99 C 192 102 189 103 186 104 Z M 233 110 C 239 109 243 107 246 103 C 249 100 251 95 251 89 L 251 64 L 242 65 L 242 89 C 242 93 241 95 240 97 C 238 99 236 100 234 100 C 231 100 229 100 227 98 C 226 96 225 93 225 90 L 225 66 L 215 67 L 215 92 C 215 98 217 102 220 106 C 223 109 228 110 233 110 Z M 269 105 L 269 89 L 271 88 L 282 104 L 294 103 L 281 86 C 283 85 285 83 286 81 C 288 79 289 76 289 74 C 289 72 288 70 287 69 C 286 67 285 66 284 65 C 282 64 280 63 278 63 C 277 62 274 62 270 63 L 259 64 L 259 106 L 269 105 Z M 269 82 L 269 70 L 271 70 C 274 70 276 70 277 71 C 279 72 279 73 279 75 C 279 77 279 79 277 80 C 276 81 274 82 271 82 L 269 82 Z M 309 103 C 314 103 317 102 320 99 C 323 96 324 93 324 88 C 324 86 324 83 322 82 C 321 80 318 78 314 76 L 309 74 C 308 73 307 73 307 72 C 306 71 306 71 306 70 C 306 69 306 68 307 67 C 308 67 309 66 310 66 C 312 66 313 66 315 67 C 317 67 319 68 321 69 L 321 59 C 319 59 317 58 315 58 C 313 58 312 58 310 58 C 306 58 303 60 300 62 C 298 65 296 67 296 71 C 296 73 297 76 298 77 C 300 79 302 81 305 82 L 307 84 C 308 84 308 84 309 84 C 313 86 315 88 315 90 C 315 91 314 92 313 93 C 312 94 310 94 309 94 C 307 95 305 94 303 94 C 302 93 299 92 297 91 L 298 102 C 300 103 302 103 304 103 C 306 104 307 104 309 103 Z M 358 98 L 358 89 L 342 91 L 342 82 L 356 81 L 356 72 L 342 73 L 342 66 L 358 64 L 358 56 L 332 58 L 332 100 L 358 98 Z" fill="#ffffff" id="id-politician-ad-5-Purple-1-9" fill-rule="nonzero">
+</path >
+</g >
+<defs >
+</defs >
+<g transform="translate(1164,1631)" fill="#343d53" opacity="0.3" id="id-icons-Politician-0">
+<path d="M 90 32 C 91 32 92 31 93 33 C 93 33 93 33 93 34 C 93 35 92 35 91 35 C 91 35 91 35 91 35 C 91 34 90 33 90 32 L 90 32 Z M 19 35 C 16 35 17 32 18 32 C 19 32 19 32 20 32 C 19 34 19 35 19 35 L 19 35 Z M 23 27 C 22 27 22 26 21 26 C 18 25 15 26 13 28 C 11 30 11 31 11 33 C 11 35 11 37 12 38 L 13 39 C 13 39 14 40 15 40 C 15 41 17 41 18 41 C 18 43 17 44 17 46 C 15 46 12 44 10 42 L 8 39 C 6 37 6 33 7 30 C 7 29 8 27 9 26 C 9 26 9 25 10 25 C 11 24 11 23 12 23 C 13 22 15 22 16 21 C 19 21 21 21 24 22 C 25 23 25 23 25 23 C 25 24 23 26 23 27 L 23 27 Z M 85 23 C 86 23 89 20 94 21 C 95 22 97 22 98 23 C 99 24 101 25 101 26 C 103 28 104 30 104 33 C 104 35 103 38 102 40 C 102 40 101 41 101 41 C 99 43 96 45 93 46 C 93 45 93 42 93 41 C 94 41 96 40 98 39 C 98 38 100 35 100 33 C 99 32 99 32 99 30 C 98 28 95 26 92 26 C 90 26 89 26 88 27 C 87 26 86 24 85 23 L 85 23 Z M 44 82 C 44 81 43 81 43 81 C 42 79 41 79 40 77 C 39 75 38 72 38 70 C 38 69 38 67 38 66 C 38 65 38 65 38 64 C 38 64 38 64 37 64 C 35 63 34 62 32 61 L 30 59 C 30 59 30 58 30 58 C 29 57 28 56 27 54 C 27 54 27 54 27 53 C 26 51 26 49 26 47 C 26 46 26 45 26 45 L 27 43 C 27 42 27 42 27 42 L 28 41 C 28 41 28 41 28 41 C 28 41 28 41 28 41 C 28 40 28 40 28 40 C 28 39 29 38 30 37 C 30 36 31 36 32 35 L 32 35 C 33 34 34 34 34 33 C 35 33 35 33 35 33 C 36 32 36 32 36 32 C 38 31 40 31 42 31 C 45 31 45 31 48 31 C 49 32 50 32 51 33 L 52 34 C 53 34 53 34 53 34 L 55 35 C 55 35 55 35 56 35 L 56 34 C 58 33 60 32 62 31 C 63 31 64 31 65 31 C 65 31 66 31 66 31 C 67 31 67 31 67 31 L 71 31 L 73 32 C 73 32 73 32 73 32 C 75 33 77 34 78 35 C 78 35 78 35 79 36 C 79 36 80 36 80 37 C 81 38 81 38 81 39 C 82 39 82 40 82 40 C 83 41 83 43 84 44 C 84 45 84 45 84 46 C 84 46 84 46 84 47 C 84 47 84 48 84 49 C 84 49 84 50 84 50 L 83 51 C 83 52 83 52 83 53 C 83 54 82 55 82 56 L 80 59 C 79 60 78 61 77 62 C 76 63 74 63 73 64 C 73 64 73 64 72 64 C 72 64 72 64 71 65 C 71 65 72 65 72 65 C 72 66 72 66 72 67 C 72 68 72 68 72 68 C 72 69 72 69 72 70 C 72 72 71 74 71 75 L 70 77 C 69 78 69 79 68 80 C 68 80 68 80 68 80 C 68 80 68 80 68 80 C 68 80 68 80 68 80 L 67 81 C 67 81 67 81 67 81 L 66 82 C 66 82 65 82 65 82 C 67 82 71 80 73 79 L 75 78 C 76 78 76 77 76 77 C 78 76 79 75 80 74 L 81 73 C 82 73 82 72 83 71 C 84 71 85 70 85 69 L 86 67 C 87 66 88 65 88 64 C 89 63 89 63 89 63 L 90 60 C 91 58 92 55 92 52 C 96 52 98 51 101 49 C 101 49 101 49 102 49 C 102 48 103 48 104 47 C 105 46 106 45 107 44 C 107 43 108 42 109 41 C 110 38 110 34 110 31 C 110 30 109 28 109 27 C 108 24 106 22 105 20 C 104 20 104 20 104 20 L 102 18 C 102 18 101 17 100 17 L 98 16 C 95 15 91 14 87 15 L 85 16 C 84 16 81 18 81 18 C 79 17 78 15 74 13 C 71 12 69 11 65 10 L 68 6 C 68 5 68 5 68 5 C 68 4 69 4 69 4 C 68 4 67 3 66 2 C 65 2 64 1 63 1 C 63 2 61 4 61 5 L 59 8 C 59 8 59 8 59 8 C 59 8 59 8 58 8 C 58 7 58 6 58 4 C 58 3 59 2 59 0 L 52 0 C 52 1 52 1 52 2 L 52 8 C 51 8 50 6 50 6 C 50 5 50 5 50 5 C 49 4 49 3 49 3 C 48 2 48 1 47 1 C 47 1 46 1 46 2 L 43 3 C 43 3 42 4 42 4 C 42 5 42 5 42 5 L 45 10 C 42 11 39 12 36 13 C 34 15 32 16 30 18 C 30 18 30 18 29 18 C 28 18 27 17 26 16 C 25 16 23 15 22 15 C 20 15 19 15 17 15 C 14 15 12 16 10 17 C 9 17 8 18 7 19 C 6 20 5 21 4 22 L 3 23 C 3 24 2 25 2 26 C 0 30 -1 34 1 39 C 1 39 1 39 1 40 C 2 41 2 43 4 44 C 4 45 5 46 6 47 L 8 48 C 8 49 8 49 8 49 C 9 49 10 50 11 50 C 13 51 15 52 18 52 C 18 54 19 56 19 57 C 20 58 20 59 20 60 C 21 62 22 64 23 66 C 26 69 26 70 30 74 L 31 74 C 31 75 32 76 32 76 L 38 79 C 39 80 43 82 44 82 L 44 82 Z" id="id-icons-Politician-1">
+</path >
+<path d="M 45 62 C 45 64 46 65 47 65 L 52 65 L 52 67 C 52 69 58 69 58 67 L 58 65 C 59 65 60 65 61 65 C 62 65 62 65 63 65 C 65 65 66 62 64 60 C 64 59 64 59 63 59 C 63 59 50 59 48 59 C 47 59 46 59 46 60 C 45 60 45 61 45 62 L 45 62 Z" id="id-icons-Politician-2">
+</path >
+<path d="M 60 44 C 61 45 62 46 63 48 C 64 48 67 50 69 50 C 72 50 72 49 75 48 C 75 48 75 48 75 48 C 77 47 76 47 77 46 C 77 46 77 45 78 45 C 78 45 79 43 79 42 C 79 41 79 41 77 42 C 75 42 72 42 69 43 C 68 43 61 43 60 44 L 60 44 Z" id="id-icons-Politician-2">
+</path >
+<path d="M 40 50 C 42 50 43 50 44 49 C 45 49 46 48 46 48 C 47 47 49 45 50 44 L 45 43 C 43 43 42 43 40 42 C 39 42 32 41 31 41 C 31 42 32 44 32 45 C 33 46 33 46 34 47 C 34 48 35 48 36 48 C 37 49 38 50 40 50 L 40 50 Z" id="id-icons-Politician-2">
+</path >
+<polygon points="44 82 44 82 44 82" id="id-icons-Politician-2">
+</polygon >
+<path d="M 65 82 C 65 82 65 82 65 82 L 65 82 C 65 82 65 82 65 82 Z" id="id-icons-Politician-2">
+</path >
+</g >
+</svg>

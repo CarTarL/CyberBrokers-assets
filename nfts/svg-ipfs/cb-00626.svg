@@ -1,0 +1,2293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-85-Artboard-0">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-85-Artboard-1" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-85-Artboard-8">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-85-Artboard-9" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-85-Artboard-16">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-85-Artboard-17" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-85-Artboard-24">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-85-Artboard-25" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-85-Artboard-32">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-85-Artboard-33" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-85-Artboard-40">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-85-Artboard-41" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-85-Artboard-48">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-85-Artboard-49" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-85-Artboard-56">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-85-Artboard-57" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-85-Artboard-64">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-85-Artboard-65" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-85-Artboard-72">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-85-Artboard-73" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-85-Artboard-80">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-85-Artboard-81" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-85-Artboard-88">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-85-Artboard-89" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-85-Artboard-96">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-85-Artboard-97" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-85-Artboard-104">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-85-Artboard-105" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-85-Artboard-112">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-85-Artboard-113" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-85-Artboard-120">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-85-Artboard-121" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-85-Artboard-128">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-85-Artboard-129" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-85-Artboard-136">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-85-Artboard-137" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-85-Artboard-144">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-85-Artboard-145" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-85-Artboard-152">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-85-Artboard-153" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-85-Artboard-160">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-85-Artboard-161" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-85-Artboard-168">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-85-Artboard-169" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-85-Artboard-176">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-85-Artboard-177" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-85-Artboard-184">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-85-Artboard-185" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-85-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-85-Artboard-3" in="id-bg-85-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-85-Artboard-5" in="id-bg-85-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-85-Artboard-5" type="matrix" values="0 0 0 0 0.937 0 0 0 0 0 0 0 0 0 0.916 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+</defs >
+<g stroke="none" stroke-width="1" fill="none" id="id-bg-85-Artboard-192" fill-rule="evenodd">
+<g id="id-bg-85-Artboard-193">
+<rect fill="#969696" width="1320" height="1760" x="0" y="0" id="id-bg-85-Artboard-194">
+</rect >
+<g transform="translate(38,417)" id="id-bg-85-Artboard-195">
+<g id="id-bg-85-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-0" filter="url(#id-bg-85-Artboard-1)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-0" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-8" filter="url(#id-bg-85-Artboard-9)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-8" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-16" filter="url(#id-bg-85-Artboard-17)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-16" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-24" filter="url(#id-bg-85-Artboard-25)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-24" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-32" filter="url(#id-bg-85-Artboard-33)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-32" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-40" filter="url(#id-bg-85-Artboard-41)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-40" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-48" filter="url(#id-bg-85-Artboard-49)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-48" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-56" filter="url(#id-bg-85-Artboard-57)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-56" fill-rule="evenodd">
+</use >
+</g >
+</g >
+<g transform="translate(467,417)" id="id-bg-85-Artboard-228">
+<g id="id-bg-85-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-64" filter="url(#id-bg-85-Artboard-65)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-64" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-72" filter="url(#id-bg-85-Artboard-73)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-72" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-80" filter="url(#id-bg-85-Artboard-81)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-80" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-88" filter="url(#id-bg-85-Artboard-89)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-88" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-96" filter="url(#id-bg-85-Artboard-97)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-96" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-104" filter="url(#id-bg-85-Artboard-105)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-104" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-112" filter="url(#id-bg-85-Artboard-113)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-112" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-120" filter="url(#id-bg-85-Artboard-121)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-120" fill-rule="evenodd">
+</use >
+</g >
+</g >
+<g transform="translate(894,417)" id="id-bg-85-Artboard-261">
+<g id="id-bg-85-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-128" filter="url(#id-bg-85-Artboard-129)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-128" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-136" filter="url(#id-bg-85-Artboard-137)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-136" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-144" filter="url(#id-bg-85-Artboard-145)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-144" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-152" filter="url(#id-bg-85-Artboard-153)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-152" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-160" filter="url(#id-bg-85-Artboard-161)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-160" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-168" filter="url(#id-bg-85-Artboard-169)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-168" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-176" filter="url(#id-bg-85-Artboard-177)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-176" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-85-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-85-Artboard-184" filter="url(#id-bg-85-Artboard-185)">
+</use >
+<use fill="#ef00c9" xlink:href="#id-bg-85-Artboard-184" fill-rule="evenodd">
+</use >
+</g >
+</g >
+</g >
+</g >
+<defs >
+</defs >
+<path d="M 592 599 C 603 592 611 591 614 595 C 661 595 662 601 708 599 C 718 595 722 599 731 590 C 737 548 737 501 731 449 C 659 427 612 428 589 453 C 577 478 578 526 592 599 Z" fill="#653330" id="id-female-5_35_half_up_headband_back-0">
+</path >
+<defs >
+<linearGradient x1="100%" y1="46%" x2="12%" y2="47%" id="id-female-6.6_base_5-0">
+<stop stop-color="#f97338" offset="0%">
+</stop >
+<stop stop-color="#f06728" offset="21%">
+</stop >
+<stop stop-color="#ffaa6b" offset="46%">
+</stop >
+<stop stop-color="#ff9a57" offset="80%">
+</stop >
+<stop stop-color="#ff8340" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="53%" y1="81%" x2="50%" y2="21%" id="id-female-6.6_base_5-1">
+<stop stop-color="#e58d69" offset="0%">
+</stop >
+<stop stop-color="#e1745c" offset="24%">
+</stop >
+<stop stop-color="#e27c40" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="52%" y1="-4%" x2="46%" y2="70%" id="id-female-6.6_base_5-2">
+<stop stop-color="#ed8d5b" offset="0%">
+</stop >
+<stop stop-color="#c76d3b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="43%" x2="15%" y2="43%" id="id-female-6.6_base_5-3">
+<stop stop-color="#ee8152" offset="0%">
+</stop >
+<stop stop-color="#cf5621" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="54%" y1="37%" x2="12%" y2="72%" id="id-female-6.6_base_5-4">
+<stop stop-color="#3c1b05" offset="0%">
+</stop >
+<stop stop-color="#ae5b2e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="40%" y1="14%" x2="61%" y2="85%" id="id-female-6.6_base_5-5">
+<stop stop-color="#6e1b17" offset="0%">
+</stop >
+<stop stop-color="#852720" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="27%" y1="47%" x2="91%" y2="49%" id="id-female-6.6_base_5-6">
+<stop stop-color="#ffa58a" offset="0%">
+</stop >
+<stop stop-color="#ffc3a1" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="47%" y1="60%" x2="49%" y2="79%" id="id-female-6.6_base_5-7">
+<stop stop-color="#ee833f" offset="0%">
+</stop >
+<stop stop-color="#e6713c" offset="60%">
+</stop >
+<stop stop-color="#f69666" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="29%" y1="56%" x2="69%" y2="53%" id="id-female-6.6_base_5-8">
+<stop stop-color="#d97647" offset="0%">
+</stop >
+<stop stop-color="#d6623c" offset="8%">
+</stop >
+<stop stop-color="#d77043" offset="18%">
+</stop >
+<stop stop-color="#d76545" offset="38%">
+</stop >
+<stop stop-color="#d36346" offset="65%">
+</stop >
+<stop stop-color="#d16140" offset="81%">
+</stop >
+<stop stop-color="#984f3b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="47%" y1="45%" x2="54%" y2="46%" id="id-female-6.6_base_5-9">
+<stop stop-color="#e16241" offset="0%">
+</stop >
+<stop stop-color="#e1673e" offset="62%">
+</stop >
+<stop stop-color="#d45a30" offset="77%">
+</stop >
+<stop stop-color="#e37f49" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="51%" y1="7%" x2="50%" y2="100%" id="id-female-6.6_base_5-10">
+<stop stop-color="#e86b40" offset="0%">
+</stop >
+<stop stop-color="#e3845c" offset="75%">
+</stop >
+<stop stop-color="#e88461" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="51%" y1="11%" x2="49%" y2="91%" id="id-female-6.6_base_5-11">
+<stop stop-color="#e8793e" offset="0%">
+</stop >
+<stop stop-color="#e5763c" offset="73%">
+</stop >
+<stop stop-color="#e97e40" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="51%" y1="-5%" x2="48%" y2="96%" id="id-female-6.6_base_5-12">
+<stop stop-color="#ef773c" offset="0%">
+</stop >
+<stop stop-color="#dd662e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="19%" x2="50%" y2="69%" id="id-female-6.6_base_5-13">
+<stop stop-color="#c04a19" offset="0%">
+</stop >
+<stop stop-color="#a33710" offset="46%">
+</stop >
+<stop stop-color="#be440b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="74%" x2="39%" y2="35%" id="id-female-6.6_base_5-14">
+<stop stop-color="#b34a35" offset="0%">
+</stop >
+<stop stop-color="#c55e3e" offset="51%">
+</stop >
+<stop stop-color="#d4623b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="16%" x2="49%" y2="82%" id="id-female-6.6_base_5-15">
+<stop stop-color="#9b473d" offset="0%" stop-opacity="0.186">
+</stop >
+<stop stop-color="#5f2520" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="41%" y1="19%" x2="50%" y2="100%" id="id-female-6.6_base_5-16">
+<stop stop-color="#cc5e47" offset="0%">
+</stop >
+<stop stop-color="#b13e35" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="31%" x2="45%" y2="50%" id="id-female-6.6_base_5-17">
+<stop stop-color="#e76a31" offset="0%">
+</stop >
+<stop stop-color="#eb8d54" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="51%" y1="22%" x2="50%" y2="100%" id="id-female-6.6_base_5-18">
+<stop stop-color="#c74b40" offset="0%">
+</stop >
+<stop stop-color="#c85e52" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="49%" y1="0%" x2="50%" y2="99%" id="id-female-6.6_base_5-19">
+<stop stop-color="#db6f3d" offset="0%">
+</stop >
+<stop stop-color="#e8764a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="44%" y1="15%" x2="50%" y2="100%" id="id-female-6.6_base_5-20">
+<stop stop-color="#c15138" offset="0%">
+</stop >
+<stop stop-color="#ba4d37" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="52%" y1="21%" x2="49%" y2="83%" id="id-female-6.6_base_5-21">
+<stop stop-color="#e87740" offset="0%">
+</stop >
+<stop stop-color="#e77e4f" offset="48%">
+</stop >
+<stop stop-color="#e48553" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="85%" y1="60%" x2="15%" y2="60%" id="id-female-6.6_base_5-22">
+<stop stop-color="#e76c34" offset="0%">
+</stop >
+<stop stop-color="#d76128" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="-3%" x2="59%" y2="91%" id="id-female-6.6_base_5-23">
+<stop stop-color="#f98450" offset="0%">
+</stop >
+<stop stop-color="#e16c36" offset="53%">
+</stop >
+<stop stop-color="#d55d29" offset="66%">
+</stop >
+<stop stop-color="#d85620" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="55%" y1="48%" x2="46%" y2="33%" id="id-female-6.6_base_5-24">
+<stop stop-color="#e87c40" offset="0%">
+</stop >
+<stop stop-color="#e77c42" offset="86%">
+</stop >
+<stop stop-color="#e47138" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="19%" x2="50%" y2="78%" id="id-female-6.6_base_5-25">
+<stop stop-color="#913919" offset="0%">
+</stop >
+<stop stop-color="#ab4722" offset="50%">
+</stop >
+<stop stop-color="#842c26" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="10%" x2="50%" y2="43%" id="id-female-6.6_base_5-26">
+<stop stop-color="#ec7237" offset="0%">
+</stop >
+<stop stop-color="#cb5d37" offset="15%">
+</stop >
+<stop stop-color="#af3f09" offset="68%">
+</stop >
+<stop stop-color="#d04f19" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="89%" y1="50%" x2="7%" y2="52%" id="id-female-6.6_base_5-27">
+<stop stop-color="#a93700" offset="0%">
+</stop >
+<stop stop-color="#b85c4d" offset="53%" stop-opacity="0.199">
+</stop >
+<stop stop-color="#a3451f" offset="75%">
+</stop >
+<stop stop-color="#952903" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="44%" y1="70%" x2="86%" y2="30%" id="id-female-6.6_base_5-28">
+<stop stop-color="#ff975b" offset="0%">
+</stop >
+<stop stop-color="#ffaa6c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="33%" y1="92%" x2="62%" y2="23%" id="id-female-6.6_base_5-29">
+<stop stop-color="#ac401f" offset="0%">
+</stop >
+<stop stop-color="#ff8245" offset="40%">
+</stop >
+<stop stop-color="#ff965b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="35%" y1="94%" x2="47%" y2="12%" id="id-female-6.6_base_5-30">
+<stop stop-color="#df5820" offset="0%">
+</stop >
+<stop stop-color="#ff894d" offset="40%">
+</stop >
+<stop stop-color="#ffa769" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="54%" x2="27%" y2="9%" id="id-female-6.6_base_5-31">
+<stop stop-color="#f7ab80" offset="0%">
+</stop >
+<stop stop-color="#ddab90" offset="100%" stop-opacity="0.078">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="93%" y2="69%" id="id-female-6.6_base_5-32">
+<stop stop-color="#ff9558" offset="0%">
+</stop >
+<stop stop-color="#ff8b4a" offset="70%">
+</stop >
+<stop stop-color="#c6422f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="36%" y1="84%" x2="25%" y2="44%" id="id-female-6.6_base_5-33">
+<stop stop-color="#c98762" offset="0%" stop-opacity="0.509">
+</stop >
+<stop stop-color="#90492c" offset="35%" stop-opacity="0.675">
+</stop >
+<stop stop-color="#762e17" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="63%" y1="95%" x2="43%" y2="20%" id="id-female-6.6_base_5-34">
+<stop stop-color="#e67d45" offset="0%">
+</stop >
+<stop stop-color="#e98d52" offset="46%">
+</stop >
+<stop stop-color="#e27847" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="40%" y1="0%" x2="50%" y2="86%" id="id-female-6.6_base_5-35">
+<stop stop-color="#e67d42" offset="0%">
+</stop >
+<stop stop-color="#e47d44" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="90%" id="id-female-6.6_base_5-36">
+<stop stop-color="#ea8447" offset="0%">
+</stop >
+<stop stop-color="#e79253" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="33%" y1="79%" x2="21%" y2="44%" id="id-female-6.6_base_5-37">
+<stop stop-color="#be6457" offset="0%">
+</stop >
+<stop stop-color="#983f32" offset="28%" stop-opacity="0.928">
+</stop >
+<stop stop-color="#762e17" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="4%" y1="47%" x2="92%" y2="45%" id="id-female-6.6_base_5-38">
+<stop stop-color="#7e2a0a" offset="0%">
+</stop >
+<stop stop-color="#993a16" offset="17%" stop-opacity="0.753">
+</stop >
+<stop stop-color="#a94736" offset="48%" stop-opacity="0.386">
+</stop >
+<stop stop-color="#ac4218" offset="78%" stop-opacity="0.762">
+</stop >
+<stop stop-color="#9f3b13" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="60%" y1="45%" x2="67%" y2="53%" id="id-female-6.6_base_5-39">
+<stop stop-color="#ff8b59" offset="0%">
+</stop >
+<stop stop-color="#ffba99" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="48%" y1="15%" x2="54%" y2="81%" id="id-female-6.6_base_5-40">
+<stop stop-color="#e6976b" offset="0%">
+</stop >
+<stop stop-color="#e39568" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="47%" y1="44%" x2="50%" y2="61%" id="id-female-6.6_base_5-41">
+<stop stop-color="#943b2f" offset="0%" stop-opacity="0.175">
+</stop >
+<stop stop-color="#61301b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="26%" y1="-7%" x2="50%" y2="96%" id="id-female-6.6_base_5-42">
+<stop stop-color="#37373f" offset="0%">
+</stop >
+<stop stop-color="#19191d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="12%" x2="59%" y2="82%" id="id-female-6.6_base_5-43">
+<stop stop-color="#252525" offset="0%">
+</stop >
+<stop stop-color="#101010" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="25%" y1="-16%" x2="50%" y2="98%" id="id-female-6.6_base_5-44">
+<stop stop-color="#37373f" offset="0%">
+</stop >
+<stop stop-color="#19191d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="75%" y1="39%" x2="50%" y2="93%" id="id-female-6.6_base_5-45">
+<stop stop-color="#252525" offset="0%">
+</stop >
+<stop stop-color="#000000" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(334,549)" id="id-female-6.6_base_5-46">
+<polygon points="561 754 565 871 565 881 537 893 533 897 535 901 532 909 543 910 597 864" fill="#560304" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="537 282 539 246 535 195 529 158 522 137 484 118 440 111 212 111 188 113 157 123 121 139 111 186 108 221 109 290" fill="url(#id-female-6.6_base_5-0)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="467 393 474 506 503 589 537 672 556 728 561 754 546 794 552 851 551 861 552 874 556 885 567 882 568 866 570 860 570 843 571 834 576 843 576 859 579 864 573 874 571 884 544 903 541 916 582 901 597 864 607 852 600 821 597 716 589 695 582 655 569 523 544 425" fill="url(#id-female-6.6_base_5-1)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="546 794 552 851 551 861 552 874 556 885 567 882 568 866 570 860 570 843 571 834 576 843 576 859 579 864 573 874 571 884 544 903 541 916 582 901 597 864 583 871 588 855 573 815 561 823" fill="url(#id-female-6.6_base_5-2)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="552 851 551 861 552 874 556 887 567 884 568 866 570 860 558 860" fill="#ab562c" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="544 906 541 916 582 901 571 889" fill="#ab562c" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="561 754 548 789 566 819 586 806" fill="#cf7c49" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="486 648 477 599 453 529 440 504 437 490 439 460 449 402 456 340 188 343 198 411 202 493 162 596 153 638 266 693 319 721 386 693" fill="url(#id-female-6.6_base_5-3)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="486 648 477 599 453 529 440 504 437 490 439 460 449 402 456 340 296 353 376 634" fill="#dd6e3f" id="id-female-6.6_base_5-47">
+</polygon >
+<g transform="translate(188,0)" id="id-female-6.6_base_5-56">
+<polygon points="274 114 253 111 232 100 201 76 188 58 184 1 93 1 88 64 25 111 1 113 103 123 121 135 134 138 149 121 161 117 187 119 225 114" fill="#ee773d" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="201 76 188 58 185 12 175 57 155 111 185 73" fill="#e5995f" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="149 1 93 1 88 64 108 126 121 135 133 138" fill="#da642e" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="116 102 120 113 118 115 136 135 150 119 164 71 125 108" fill="#c7592d" id="id-female-6.6_base_5-60">
+</polygon >
+<polygon points="121 127 133 138 145 124" fill="#c43806" id="id-female-6.6_base_5-61">
+</polygon >
+<polygon points="136 98 164 71 175 57 186 17 134 51" fill="#e2803d" id="id-female-6.6_base_5-62">
+</polygon >
+<polygon points="97 96 116 80 164 60 178 48 186 17 184 1 93 1 88 64 45 96" fill="#a45026" opacity="0.654" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="186 17 184 1 93 1 88 64 45 96 66 96" fill="url(#id-female-6.6_base_5-4)" opacity="0.467" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="123 58 176 23 186 17 184 1 93 1 91 22 108 55" fill="#381404" opacity="0.434" id="id-female-6.6_base_5-47">
+</polygon >
+</g >
+<polygon points="41 844 33 856 36 895 64 915 84 911 83 903 71 898 72 892 63 884 52 849" fill="url(#id-female-6.6_base_5-5)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="315 152 285 173 320 188 357 166" fill="#ffb67e" id="id-female-6.6_base_5-67">
+</polygon >
+<polygon points="327 150 370 130 342 127" fill="#ee7539" id="id-female-6.6_base_5-68">
+</polygon >
+<polygon points="301 142 303 148 243 131 240 119 276 119" fill="#eb7338" id="id-female-6.6_base_5-69">
+</polygon >
+<polygon points="159 149 206 123 269 123 303 144 297 118 188 113 157 123 121 139" fill="url(#id-female-6.6_base_5-6)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="157 123 121 139 153 167 196 134" fill="#ffc3a1" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="89 584 77 541 62 551 45 658 34 712 25 741 25 762 10 817 0 845 14 870 25 901 58 919 72 919 69 913 61 905 50 899 37 874 37 852 43 845 52 855 50 887 56 901 64 905 66 901 66 882 72 836 72 800 69 781 64 773 66 735 85 684 121 599 162 510" fill="url(#id-female-6.6_base_5-7)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="89 584 77 541 62 551 45 658 48 715 121 599 162 510" fill="#e77038" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="55 843 45 827 37 848 17 852 8 836 5 851 0 845 14 870 25 901 58 919 72 919 69 913 61 905 50 899 37 874 37 852 43 845 52 855 50 887 56 901 64 905 66 901 66 882 72 836" fill="#d5643c" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="53 882 52 892 56 901 64 905 66 901 66 882 67 876" fill="#c45627" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="25 901 58 919 72 919 62 909 37 895" fill="#c45627" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="160 467 145 488 108 578 45 777 48 797 64 773 66 735 85 684 121 599 162 510" fill="#cb4a0c" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="169 1211 277 1211 282 1183 281 1150 284 1127 286 1114 285 1063 293 972 306 866 311 792 309 768 323 771 337 768 333 817 333 855 339 924 346 1008 348 1113 351 1130 353 1176 361 1211 461 1211 458 1191 456 1170 460 1133 461 1082 505 905 516 839 518 826 512 762 503 706 486 648 482 629 386 690 318 718 266 690 184 629 153 637 132 731 119 781 118 813 123 862 131 916 166 1094 176 1179" fill="url(#id-female-6.6_base_5-8)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="463 664 416 771 400 819 392 1125 359 1178 398 1204 441 1153 461 1082 505 905 516 839 518 826 515 789 490 714" fill="url(#id-female-6.6_base_5-9)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="422 1160 395 1199 365 1171 401 1149 384 1120 391 983 411 786 416 771 448 697 454 1013 445 1116 407 1149" fill="url(#id-female-6.6_base_5-10)" id="id-female-6.6_base_5-80">
+</polygon >
+<polygon points="121 139 111 186 108 221 109 290 96 438 89 464 69 510 89 585 162 510 167 425 162 241" fill="url(#id-female-6.6_base_5-11)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="101 466 103 488 106 510 160 447 179 359 164 232 187 184 186 179 132 181 161 234 161 321 149 376 151 384 123 461 114 466" fill="url(#id-female-6.6_base_5-12)" id="id-female-6.6_base_5-82">
+</polygon >
+<polygon points="96 438 89 464 69 510 51 621 101 520 96 476" fill="#edac7e" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="96 451 128 365 134 316 121 139 111 186 108 221 109 290 96 438" fill="#dc6429" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="184 241 177 248 162 225 138 289 161 321 170 375 161 420 151 411 162 510 167 425 188 343" fill="url(#id-female-6.6_base_5-13)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="284 1127 286 1114 285 1063 293 972 306 866 311 792 309 768 323 771 337 768 333 817 333 855 339 924 346 1008 375 889 416 771 463 664 490 714 515 790 512 762 503 706 486 648 477 599 471 583 420 650 316 720 201 654 244 742 264 824 275 994" fill="url(#id-female-6.6_base_5-14)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="298 930 306 866 311 792 309 768 323 771 337 768 333 817 333 855 336 894 347 826 360 784 378 733 388 687 321 739 254 687 267 736 291 821" fill="url(#id-female-6.6_base_5-15)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="348 1093 348 1113 351 1130 353 1176 361 1211 461 1211 439 1155 422 1136 403 1148 429 1168 400 1202 370 1170 382 1125" fill="url(#id-female-6.6_base_5-16)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="10 855 8 836 5 851 0 845 14 870" fill="#af4a3e" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="520 500 516 520 544 629 474 500 490 399" fill="url(#id-female-6.6_base_5-17)" id="id-female-6.6_base_5-90">
+</polygon >
+<polygon points="461 1211 458 1191 456 1170 460 1133 461 1082 439 1155 450 1211" fill="url(#id-female-6.6_base_5-18)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="220 1149 259 1115 240 1063 232 973 266 819 240 713 201 661 158 650 201 784 183 925 170 1083" fill="url(#id-female-6.6_base_5-19)" id="id-female-6.6_base_5-92">
+</polygon >
+<polygon points="169 1211 277 1211 282 1183 281 1150 284 1127 286 1114 286 1098 226 1211 207 1211 196 1121 173 1078 150 1014 166 1094 176 1179" fill="url(#id-female-6.6_base_5-20)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="173 1078 183 924 150 1014" fill="#d95d37" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="169 1211 239 1211 230 1196 204 1175 173 1150 176 1179" fill="#c04934" opacity="0.574" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="221 1130 240 1097 224 1063 224 983 240 804 217 698 190 668 212 771 212 910 190 998 181 1094" fill="url(#id-female-6.6_base_5-21)" id="id-female-6.6_base_5-92">
+</polygon >
+<polygon points="217 795 221 692 200 667 169 658 200 737" fill="#dd956b" id="id-female-6.6_base_5-97">
+</polygon >
+<polygon points="511 476 492 419 481 447 484 356 521 274 533 417" fill="url(#id-female-6.6_base_5-22)" id="id-female-6.6_base_5-98">
+</polygon >
+<polygon points="569 523 544 425 542 346 537 282 539 246 535 195 529 158 522 137 494 161 419 158 471 211 516 290 525 411 511 477 518 507 535 462 562 543" fill="url(#id-female-6.6_base_5-23)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="486 389 533 243 501 167 464 207 451 247 463 265" fill="url(#id-female-6.6_base_5-24)" id="id-female-6.6_base_5-100">
+</polygon >
+<polygon points="473 490 474 506 503 589 537 672 556 728 561 754 567 712 543 623" fill="#da531d" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="460 328 466 378 474 506 490 425 486 392 469 274 479 230 461 260 454 251" fill="url(#id-female-6.6_base_5-25)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="440 504 437 490 439 460 449 402 456 340 458 328 325 282 188 343 198 411 202 493 162 596 157 621 161 633 169 599 173 570 204 506 202 458 217 402 286 365 321 352 353 360 422 402 431 493 437 520" fill="url(#id-female-6.6_base_5-26)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="451 385 456 340 458 328 364 340 330 308 268 343 188 343 194 379 262 368 312 343 335 340 381 368" fill="url(#id-female-6.6_base_5-27)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="286 328 306 310 330 274 453 252 464 205 421 156 317 204 219 165 210 154 188 180" fill="url(#id-female-6.6_base_5-28)" id="id-female-6.6_base_5-105">
+</polygon >
+<path d="M 422 195 L 405 190 C 377 190 357 198 343 214 C 329 230 322 250 323 276 C 324 301 331 320 345 333 C 365 351 384 356 405 356 C 425 356 444 347 450 342 C 454 339 457 335 460 328 C 463 323 466 317 467 308 C 469 294 466 276 457 254 L 422 195 Z" fill="url(#id-female-6.6_base_5-29)" id="id-female-6.6_base_5-106">
+</path >
+<path d="M 422 195 L 417 175 C 386 188 366 196 358 201 C 355 203 351 206 348 208 C 348 209 381 253 448 342 C 454 338 459 332 463 324 C 469 310 469 301 469 293 C 469 287 465 275 459 257 L 422 195 Z" fill="url(#id-female-6.6_base_5-30)" id="id-female-6.6_base_5-106">
+</path >
+<path d="M 375 226 C 338 253 343 276 343 284 C 343 291 353 319 371 335 C 379 342 422 349 447 331 C 468 316 472 294 458 265 C 427 221 400 208 375 226 Z" fill="url(#id-female-6.6_base_5-31)" opacity="0.282" id="id-female-6.6_base_5-106">
+</path >
+<path d="M 272 205 C 260 199 243 200 221 209 C 187 227 169 258 168 303 C 167 319 184 342 190 346 C 197 351 212 356 239 353 C 257 351 272 344 284 333 C 303 312 312 288 309 260 C 305 217 291 214 272 205 Z" fill="url(#id-female-6.6_base_5-32)" id="id-female-6.6_base_5-109">
+</path >
+<path d="M 340 285 C 333 252 328 240 326 248 C 324 254 323 263 323 276 C 324 301 331 320 345 333 C 365 351 382 356 404 356 C 425 356 444 347 450 342 C 456 337 465 325 468 308 C 472 290 465 276 463 268 C 461 263 460 259 458 255 L 442 290 L 399 304 L 366 300 L 340 285 Z" fill="url(#id-female-6.6_base_5-33)" id="id-female-6.6_base_5-106">
+</path >
+<path d="M 153 637 L 149 654 L 132 731 L 130 739 C 133 730 135 723 137 718 C 140 709 147 691 149 680 C 151 671 155 655 161 633 L 172 570 L 162 596 L 153 637 Z" fill="#7d362e" id="id-female-6.6_base_5-47">
+</path >
+<path d="M 259 203 C 254 199 240 185 217 163 L 210 153 L 186 180 C 192 211 192 231 186 239 C 175 256 168 277 168 303 C 168 324 190 352 239 344 C 252 342 274 217 259 203 Z" fill="#ff9558" id="id-female-6.6_base_5-109">
+</path >
+<polygon points="175 565 203 550 234 558 241 520 203 455 203 507" fill="#c6450c" id="id-female-6.6_base_5-113">
+</polygon >
+<polygon points="241 442 241 518 229 556 233 629 266 657 316 707 381 659 395 629 364 504 350 504 301 380" fill="url(#id-female-6.6_base_5-34)" id="id-female-6.6_base_5-114">
+</polygon >
+<polygon points="432 626 427 589 407 518 414 505 450 568 470 618" fill="url(#id-female-6.6_base_5-35)" id="id-female-6.6_base_5-115">
+</polygon >
+<polygon points="302 376 254 442 254 546 302 590 364 568 364 504 350 504 376 454 345 400" fill="url(#id-female-6.6_base_5-36)" id="id-female-6.6_base_5-114">
+</polygon >
+<polygon points="317 480 342 436 319 413 300 447" fill="#e67841" id="id-female-6.6_base_5-117">
+</polygon >
+<polygon points="304 541 318 507 329 541 314 549" fill="#e66d37" id="id-female-6.6_base_5-118">
+</polygon >
+<polygon points="306 543 316 578 329 541" fill="#e99b64" id="id-female-6.6_base_5-119">
+</polygon >
+<path d="M 178 333 C 179 334 180 336 182 338 C 184 342 186 343 189 346 C 190 347 197 351 206 353 C 215 354 226 355 239 353 C 257 351 272 344 284 333 C 293 322 299 313 302 305 C 304 301 307 293 309 277 C 310 274 310 268 309 260 L 228 277 L 207 295 L 178 333 Z" fill="url(#id-female-6.6_base_5-37)" id="id-female-6.6_base_5-109">
+</path >
+<polygon points="306 543 308 550 324 556 329 541" fill="#eca774" id="id-female-6.6_base_5-119">
+</polygon >
+<polygon points="308 543 318 525 323 542 314 548" fill="#b5491c" id="id-female-6.6_base_5-122">
+</polygon >
+<polygon points="152 641 162 596 176 561 185 617 214 602 246 628 323 690 404 628 423 605 454 605 470 577 477 599 482 629 388 689 337 768 323 771 309 768 259 688 175 639 142 688" fill="url(#id-female-6.6_base_5-38)" opacity="0.442" id="id-female-6.6_base_5-123">
+</polygon >
+<polygon points="490 154 522 137 484 118 412 123" fill="url(#id-female-6.6_base_5-39)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="573 785 588 829 602 858 607 852 600 821 597 716 576 763" fill="#ff966a" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="574 722 589 695 582 655 533 542" fill="url(#id-female-6.6_base_5-40)" id="id-female-6.6_base_5-47">
+</polygon >
+<polygon points="172 640 241 690 309 768 323 771 338 768 395 706 469 661 404 650 313 706 217 629" fill="url(#id-female-6.6_base_5-41)" opacity="0.571" id="id-female-6.6_base_5-127">
+</polygon >
+<g transform="translate(188,270)" id="id-female-6.6_base_5-128">
+<polygon points="207 13 207 10 217 2 220 2 239 21 258 39 260 42 250 51 246 52 226 33" fill="url(#id-female-6.6_base_5-42)" id="id-female-6.6_base_5-129">
+</polygon >
+<polygon points="208 40 218 50 222 50 240 33 257 13 257 9 247 0 244 1 230 19 209 36" fill="url(#id-female-6.6_base_5-43)" id="id-female-6.6_base_5-130">
+</polygon >
+<polygon points="1 13 1 10 10 2 15 2 32 21 50 39 52 42 42 52 38 52 19 33" fill="url(#id-female-6.6_base_5-44)" id="id-female-6.6_base_5-129">
+</polygon >
+<polygon points="0 43 10 53 14 53 33 35 50 15 50 11 40 3 36 4 19 23 1 39" fill="url(#id-female-6.6_base_5-45)" id="id-female-6.6_base_5-130">
+</polygon >
+</g >
+</g >
+<defs >
+<linearGradient x1="79%" y1="0%" x2="79%" y2="22%" id="id-female-6.8_face_5-0">
+<stop stop-color="#fde1e0" offset="0%">
+</stop >
+<stop stop-color="#d46a32" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="40%" y1="32%" x2="50%" y2="75%" id="id-female-6.8_face_5-1">
+<stop stop-color="#e98d54" offset="0%">
+</stop >
+<stop stop-color="#f4ad80" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="82%" id="id-female-6.8_face_5-2">
+<stop stop-color="#f7caab" offset="0%">
+</stop >
+<stop stop-color="#f3af87" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="21%" y1="-8%" x2="64%" y2="50%" id="id-female-6.8_face_5-3">
+<stop stop-color="#eb925a" offset="0%">
+</stop >
+<stop stop-color="#f6b48f" offset="100%">
+</stop >
+</linearGradient >
+<radialGradient cx="48%" cy="50%" r="67%" id="id-female-6.8_face_5-4" fx="48%" fy="50%" gradientTransform="translate(0.478,0.5) scale(0.717,1) rotate(180) scale(1,1) translate(-0.478,-0.5)">
+<stop stop-color="#eb925b" offset="0%">
+</stop >
+<stop stop-color="#d36e3d" offset="100%">
+</stop >
+</radialGradient >
+<radialGradient cx="50%" cy="65%" r="73%" id="id-female-6.8_face_5-5" fx="50%" fy="65%" gradientTransform="translate(0.5,0.654) scale(0.748,1) rotate(90) scale(1,0.914) translate(-0.5,-0.654)">
+<stop stop-color="#efa371" offset="0%">
+</stop >
+<stop stop-color="#bb561c" offset="100%">
+</stop >
+</radialGradient >
+<linearGradient x1="47%" y1="38%" x2="54%" y2="70%" id="id-female-6.8_face_5-6">
+<stop stop-color="#fa9263" offset="0%">
+</stop >
+<stop stop-color="#f69c6e" offset="41%">
+</stop >
+<stop stop-color="#f39969" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="85%" id="id-female-6.8_face_5-7">
+<stop stop-color="#f1a778" offset="0%">
+</stop >
+<stop stop-color="#f8af88" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="15%" y1="28%" x2="74%" y2="73%" id="id-female-6.8_face_5-8">
+<stop stop-color="#f2a97f" offset="0%">
+</stop >
+<stop stop-color="#feb18f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="109%" y1="57%" x2="0%" y2="43%" id="id-female-6.8_face_5-9">
+<stop stop-color="#ea9264" offset="0%">
+</stop >
+<stop stop-color="#de7c45" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="id-female-6.8_face_5-10">
+<stop stop-color="#cc7145" offset="0%">
+</stop >
+<stop stop-color="#914121" offset="51%">
+</stop >
+<stop stop-color="#ce7749" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="31%" x2="35%" y2="71%" id="id-female-6.8_face_5-11">
+<stop stop-color="#f1aa7d" offset="0%">
+</stop >
+<stop stop-color="#ffbd94" offset="40%">
+</stop >
+<stop stop-color="#fab189" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="id-female-6.8_face_5-12">
+<stop stop-color="#e29369" offset="0%">
+</stop >
+<stop stop-color="#f9b897" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="25%" x2="50%" y2="100%" id="id-female-6.8_face_5-13">
+<stop stop-color="#e4854d" offset="0%">
+</stop >
+<stop stop-color="#ef673a" offset="20%">
+</stop >
+<stop stop-color="#f99466" offset="56%">
+</stop >
+<stop stop-color="#d97840" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="40%" y1="22%" x2="50%" y2="69%" id="id-female-6.8_face_5-14">
+<stop stop-color="#f4ac80" offset="0%">
+</stop >
+<stop stop-color="#e28d60" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="85%" x2="50%" y2="50%" id="id-female-6.8_face_5-15">
+<stop stop-color="#962525" offset="0%">
+</stop >
+<stop stop-color="#450000" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-female-6.8_face_5-16">
+<stop stop-color="#eb5363" offset="0%">
+</stop >
+<stop stop-color="#f85c69" offset="54%">
+</stop >
+<stop stop-color="#d4494b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="77%" id="id-female-6.8_face_5-17">
+<stop stop-color="#b83c3c" offset="0%">
+</stop >
+<stop stop-color="#bf3f3f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="99%" y1="50%" x2="93%" y2="54%" id="id-female-6.8_face_5-18">
+<stop stop-color="#f19e6f" offset="0%">
+</stop >
+<stop stop-color="#a05029" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="91%" id="id-female-6.8_face_5-19">
+<stop stop-color="#dd996c" offset="0%">
+</stop >
+<stop stop-color="#d5804c" offset="77%">
+</stop >
+<stop stop-color="#d66735" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="9%" y1="25%" x2="26%" y2="82%" id="id-female-6.8_face_5-20">
+<stop stop-color="#c45929" offset="0%">
+</stop >
+<stop stop-color="#d3723e" offset="60%">
+</stop >
+<stop stop-color="#e57f4f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="55%" y1="46%" x2="68%" y2="95%" id="id-female-6.8_face_5-21">
+<stop stop-color="#b75323" offset="0%">
+</stop >
+<stop stop-color="#f7ba9b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-female-6.8_face_5-22">
+<stop stop-color="#ea7440" offset="0%">
+</stop >
+<stop stop-color="#b94c1c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="11%" x2="50%" y2="100%" id="id-female-6.8_face_5-23">
+<stop stop-color="#eead81" offset="0%">
+</stop >
+<stop stop-color="#f99566" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="12%" x2="47%" y2="66%" id="id-female-6.8_face_5-24">
+<stop stop-color="#f19e6f" offset="0%">
+</stop >
+<stop stop-color="#de8b58" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="91%" y1="56%" x2="10%" y2="39%" id="id-female-6.8_face_5-25">
+<stop stop-color="#cc6835" offset="0%">
+</stop >
+<stop stop-color="#a6482c" offset="74%">
+</stop >
+<stop stop-color="#c65b23" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="50%" x2="50%" y2="74%" id="id-female-6.8_face_5-26">
+<stop stop-color="#cf6042" offset="0%">
+</stop >
+<stop stop-color="#ea846d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="77%" y1="54%" x2="50%" y2="58%" id="id-female-6.8_face_5-27">
+<stop stop-color="#d66c3f" offset="0%">
+</stop >
+<stop stop-color="#f8936b" offset="100%">
+</stop >
+</linearGradient >
+<radialGradient cx="50%" cy="70%" r="100%" id="id-female-6.8_face_5-28" fx="50%" fy="70%" gradientTransform="translate(0.5,0.701) scale(0.442,1) rotate(73) translate(-0.5,-0.701)">
+<stop stop-color="#98321f" offset="0%">
+</stop >
+<stop stop-color="#c96130" offset="100%">
+</stop >
+</radialGradient >
+<linearGradient x1="47%" y1="40%" x2="47%" y2="91%" id="id-female-6.8_face_5-29">
+<stop stop-color="#c35230" offset="0%">
+</stop >
+<stop stop-color="#dc6b59" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="20%" x2="50%" y2="72%" id="id-female-6.8_face_5-30">
+<stop stop-color="#3b2311" offset="0%">
+</stop >
+<stop stop-color="#714225" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="67%" y1="29%" x2="67%" y2="76%" id="id-female-6.8_face_5-31">
+<stop stop-color="#372311" offset="0%">
+</stop >
+<stop stop-color="#8c5031" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(561,332)" id="id-female-6.8_face_5-32">
+<g transform="translate(172,115)" id="id-female-6.8_face_5-33">
+<polygon points="14 1 18 0 25 8 27 21 24 41 14 66 0 68" fill="url(#id-female-6.8_face_5-0)" id="id-female-6.8_face_5-34">
+</polygon >
+<polygon points="12 48 19 50 23 42 26 24 20 12 12 22" fill="#ec9266" id="id-female-6.8_face_5-35">
+</polygon >
+<polygon points="11 21 17 10 20 5 24 7 26 24 20 36 18 31 20 16 9 29" fill="#c1430b" id="id-female-6.8_face_5-36">
+</polygon >
+<polygon points="10 28 11 38 8 45 13 49 19 38 13 24" fill="#8c350a" id="id-female-6.8_face_5-37">
+</polygon >
+<polygon points="12 18 17 17 18 9" fill="#8c350a" id="id-female-6.8_face_5-38">
+</polygon >
+<polygon points="18 50 10 51 8 50 5 61 12 63 14 61" fill="#e88c5f" id="id-female-6.8_face_5-39">
+</polygon >
+</g >
+<g transform="translate(0,113)" id="id-female-6.8_face_5-40">
+<polygon points="13 0 5 0 0 13 4 36 13 63 25 67" fill="#d07c59" id="id-female-6.8_face_5-41">
+</polygon >
+<polygon points="5 9 0 13 4 36 13 63 25 67 13 24" fill="#de8959" id="id-female-6.8_face_5-41">
+</polygon >
+<polygon points="18 46 14 47 7 32 11 26 4 9 6 5 16 20 17 29" fill="#ae3a08" id="id-female-6.8_face_5-43">
+</polygon >
+<polygon points="13 62 20 62 18 49 11 53" fill="#fea878" id="id-female-6.8_face_5-44">
+</polygon >
+<polygon points="25 68 13 63 20 62 17 46 14 47 13 44 14 29 17 26 14 22 10 19 10 11 17 20" fill="#a00c07" id="id-female-6.8_face_5-45">
+</polygon >
+<polygon points="13 9 4 3 5 0 12 0" fill="#d6a2a5" id="id-female-6.8_face_5-46">
+</polygon >
+</g >
+<path d="M 29 199 C 21 167 16 144 15 130 C 4 44 33 0 103 0 C 180 0 191 63 186 119 C 183 157 173 191 170 202 C 169 206 167 213 164 217 C 158 226 140 237 112 250 C 107 252 89 252 82 250 C 59 240 44 229 36 218 C 34 215 32 208 29 199 Z" fill="#eea16c" id="id-female-6.8_face_5-47">
+</path >
+<polygon points="33 108 34 36 99 6 175 45 171 113 95 117" fill="url(#id-female-6.8_face_5-1)" id="id-female-6.8_face_5-48">
+</polygon >
+<polygon points="53 107 64 92 47 46 97 53 133 46 111 74 123 96 142 110 105 123" fill="url(#id-female-6.8_face_5-2)" id="id-female-6.8_face_5-49">
+</polygon >
+<polygon points="63 87 47 46 78 51" fill="url(#id-female-6.8_face_5-3)" id="id-female-6.8_face_5-49">
+</polygon >
+<path d="M 32 97 L 55 101 L 37 41 L 61 32 L 114 41 L 136 39 L 125 56 L 155 58 L 155 100 L 169 107 L 184 119 L 174 43 C 139 6 101 -5 62 11 C 23 27 13 55 32 97 Z" fill="url(#id-female-6.8_face_5-4)" id="id-female-6.8_face_5-51">
+</path >
+<path d="M 15 130 C 4 44 33 0 103 0 C 180 0 191 63 186 119 L 167 94 L 166 70 L 151 27 C 145 18 127 13 99 13 C 71 13 52 19 43 32 L 40 53 L 34 70 L 36 104 C 22 124 15 132 15 130 Z" fill="url(#id-female-6.8_face_5-5)" id="id-female-6.8_face_5-47">
+</path >
+<polygon points="33 165 101 152 166 185 148 225 117 246 83 249 50 217" fill="url(#id-female-6.8_face_5-6)" id="id-female-6.8_face_5-53">
+</polygon >
+<polygon points="72 209 67 186 78 169 121 174 138 196 123 210" fill="url(#id-female-6.8_face_5-7)" id="id-female-6.8_face_5-54">
+</polygon >
+<polygon points="68 189 49 169 31 158 19 128 91 145" fill="url(#id-female-6.8_face_5-8)" id="id-female-6.8_face_5-55">
+</polygon >
+<polygon points="85 165 52 172 38 127 88 145" fill="#f7ba9b" id="id-female-6.8_face_5-55">
+</polygon >
+<polygon points="73 209 78 237 115 234 129 217 126 208" fill="url(#id-female-6.8_face_5-9)" id="id-female-6.8_face_5-57">
+</polygon >
+<polygon points="84 233 92 227 88 221 113 221 109 227 116 233" fill="url(#id-female-6.8_face_5-10)" id="id-female-6.8_face_5-58">
+</polygon >
+<polygon points="117 178 125 191 138 196 171 146 155 141 108 135" fill="url(#id-female-6.8_face_5-11)" id="id-female-6.8_face_5-59">
+</polygon >
+<path d="M 75 237 C 83 232 91 230 99 230 C 106 230 116 232 127 237 L 113 246 L 89 249 L 75 237 Z" fill="url(#id-female-6.8_face_5-12)" id="id-female-6.8_face_5-60">
+</path >
+<path d="M 29 199 C 21 167 16 144 15 130 C 14 127 14 124 14 121 L 20 115 L 31 135 L 25 141 L 32 158 L 43 166 C 48 187 53 203 58 214 C 68 227 79 238 91 246 L 111 246 C 125 238 134 230 138 223 C 143 209 147 190 150 168 L 170 145 L 166 103 C 179 108 186 113 186 119 C 183 157 173 191 170 202 C 169 206 167 213 164 217 C 158 226 140 237 112 250 C 107 252 89 252 82 250 C 59 240 44 229 36 218 C 34 215 32 208 29 199 Z" fill="url(#id-female-6.8_face_5-13)" id="id-female-6.8_face_5-47">
+</path >
+<path d="M 182 102 C 185 110 186 115 186 119 C 183 157 173 191 170 202 C 169 206 167 213 164 217 C 161 221 157 225 151 229 C 158 221 164 210 169 196 C 170 192 173 181 177 162 C 178 159 179 152 181 144 L 180 111 L 174 86 L 182 102 Z" fill="#e7b9b9" id="id-female-6.8_face_5-47">
+</path >
+<polygon points="94 180 93 195 101 204 110 197 104 176" fill="url(#id-female-6.8_face_5-14)" id="id-female-6.8_face_5-63">
+</polygon >
+<g transform="translate(71,178)" id="id-female-6.8_face_5-64">
+<polygon points="21 2 21 9 23 11 25 3 23 0" fill="#fec5b4" id="id-female-6.8_face_5-65">
+</polygon >
+<path d="M 34 2 L 37 13 L 30 16 L 22 13 C 17 15 13 17 11 19 C 8 21 5 25 1 30 L 33 28 L 40 18 L 35 1 L 34 2 Z" fill="#fcbdab" id="id-female-6.8_face_5-66">
+</path >
+<path d="M 1 31 L 3 33 C 6 35 8 36 8 37 C 13 41 16 44 18 45 C 23 47 32 48 39 46 C 42 45 48 40 53 35 C 54 34 56 32 57 30 L 55 27 L 30 18 L 3 27 L 1 31 Z" fill="url(#id-female-6.8_face_5-15)" id="id-female-6.8_face_5-67">
+</path >
+<path d="M 14 30 C 6 32 2 33 3 33 C 11 39 15 42 18 43 C 23 45 33 46 39 44 C 43 43 48 40 55 33 C 55 33 51 32 43 30 C 36 32 32 32 28 32 C 24 32 20 32 14 30 Z" fill="url(#id-female-6.8_face_5-16)" id="id-female-6.8_face_5-67">
+</path >
+<path d="M 13 31 C 11 32 11 33 13 34 C 17 35 30 37 31 39 C 32 40 43 35 49 33 C 51 33 49 32 45 31 C 38 33 33 34 29 34 C 26 34 20 33 13 31 Z" fill="#fe7a9e" id="id-female-6.8_face_5-67">
+</path >
+<path d="M 3 29 C 11 29 15 29 17 29 C 19 29 20 28 21 28 C 25 29 28 29 29 29 C 32 29 35 28 37 28 C 40 28 46 29 48 29 C 57 29 55 27 55 27 C 49 22 43 18 37 15 C 36 15 33 16 30 18 C 27 17 25 16 22 15 C 15 17 9 21 3 27 L 3 29 Z" fill="url(#id-female-6.8_face_5-17)" id="id-female-6.8_face_5-67">
+</path >
+<path d="M 29 25 C 33 25 35 23 38 23 C 39 23 39 27 45 27 C 45 27 47 26 51 24 C 46 20 42 17 37 15 C 35 15 33 16 30 18 C 27 17 25 16 23 15 L 24 22 L 28 19 C 29 23 29 25 29 25 Z" fill="#df5858" id="id-female-6.8_face_5-67">
+</path >
+<path d="M 18 28 C 10 29 7 29 8 29 C 13 29 16 29 17 29 C 19 29 20 28 21 28 C 25 29 28 29 29 29 C 32 29 35 28 37 28 C 40 28 46 29 48 29 C 57 29 55 27 55 27 C 55 27 53 28 50 28 C 47 28 43 28 41 27 C 39 27 38 26 38 24 C 34 26 31 28 29 28 C 26 28 23 27 20 24 L 18 28 Z" fill="#8d1920" id="id-female-6.8_face_5-67">
+</path >
+</g >
+<g transform="translate(55,106)" id="id-female-6.8_face_5-73">
+<polygon points="24 72 25 76 40 76 46 80 53 76 67 75 70 71 69 67 66 61 64 58" fill="url(#id-female-6.8_face_5-18)" id="id-female-6.8_face_5-74">
+</polygon >
+<path d="M 18 4 L 35 5 L 46 0 L 57 5 L 83 5 L 55 34 L 64 65 C 40 72 27 74 24 71 C 20 67 28 52 30 35 C 32 24 28 14 18 4 Z" fill="url(#id-female-6.8_face_5-19)" id="id-female-6.8_face_5-75">
+</path >
+<path d="M 114 30 L 124 14 L 114 4 L 71 8 L 65 12 C 59 16 54 22 52 30 C 52 34 52 46 52 65 L 62 72 L 67 68 C 66 59 64 61 59 46 C 58 43 57 39 58 34 L 69 40 L 114 30 Z" fill="url(#id-female-6.8_face_5-20)" id="id-female-6.8_face_5-76">
+</path >
+<path d="M 25 46 C 31 42 34 38 34 35 C 34 31 33 24 29 10 C 29 9 19 6 0 0 C 9 10 15 17 17 22 C 20 28 23 36 25 46 Z" fill="url(#id-female-6.8_face_5-21)" id="id-female-6.8_face_5-77">
+</path >
+<path d="M 34 63 L 26 68 C 26 66 27 64 28 63 C 28 61 30 59 32 57 L 34 63 Z" fill="#f19f74" id="id-female-6.8_face_5-78">
+</path >
+<path d="M 58 63 C 58 59 59 57 60 58 C 61 59 63 62 65 66 L 58 63 Z" fill="#f09764" id="id-female-6.8_face_5-79">
+</path >
+<polygon points="24 72 29 73 40 73 42 76 48 76 51 74 61 74 66 72 67 69 65 66 58 63 31 63 26 67" fill="url(#id-female-6.8_face_5-22)" id="id-female-6.8_face_5-80">
+</polygon >
+<path d="M 35 63 L 32 66 C 36 67 39 68 40 68 C 41 69 42 72 43 74 C 44 74 47 74 47 74 C 48 72 50 69 51 68 C 53 67 55 66 59 66 L 57 63 L 52 63 L 35 63 Z" fill="#af4415" id="id-female-6.8_face_5-81">
+</path >
+<path d="M 51 74 L 61 74 C 59 71 58 70 55 70 C 53 70 52 71 51 74 Z" fill="#470f00" id="id-female-6.8_face_5-82">
+</path >
+<path d="M 29 73 L 40 73 C 40 72 39 70 36 69 C 34 69 32 70 29 73 Z" fill="#470f00" id="id-female-6.8_face_5-83">
+</path >
+<path d="M 52 27 C 50 25 47 25 44 25 C 40 25 38 26 36 30 C 38 34 38 39 38 44 C 38 50 34 58 36 62 C 37 64 40 65 44 65 C 49 65 52 64 53 62 C 55 58 52 50 52 40 C 51 34 51 30 52 27 Z" fill="url(#id-female-6.8_face_5-23)" id="id-female-6.8_face_5-84">
+</path >
+<path d="M 52 27 C 50 25 47 25 44 25 C 40 25 38 26 36 30 C 40 35 44 37 46 37 C 48 37 50 34 52 27 Z" fill="#f5b991" id="id-female-6.8_face_5-84">
+</path >
+<path d="M 51 62 C 50 61 46 60 38 59 C 36 62 38 64 42 64 C 48 65 52 63 51 62 Z" fill="#fdad88" id="id-female-6.8_face_5-86">
+</path >
+<path d="M 28 44 L 21 70 L 25 72 C 24 69 25 66 26 62 C 27 59 30 51 34 40 L 34 33 L 28 44 Z" fill="url(#id-female-6.8_face_5-24)" id="id-female-6.8_face_5-87">
+</path >
+</g >
+<g transform="translate(23,110)" id="id-female-6.8_face_5-88">
+<path d="M 7 23 L 0 11 L 3 1 L 41 2 C 45 7 49 12 50 15 C 52 18 53 24 54 31 L 7 23 Z" fill="url(#id-female-6.8_face_5-25)" id="id-female-6.8_face_5-89">
+</path >
+<polygon points="32 4 28 20 46 23 42 5" fill="url(#id-female-6.8_face_5-26)" id="id-female-6.8_face_5-90">
+</polygon >
+<path d="M 8 25 C 15 34 21 39 27 40 C 34 41 43 39 54 35 L 32 21 L 8 25 Z" fill="#fc8c66" id="id-female-6.8_face_5-91">
+</path >
+<path d="M 19 27 C 21 30 24 32 30 32 C 35 33 43 33 52 31 C 52 25 47 21 35 19 C 24 18 18 20 19 27 Z" fill="#bec3d7" id="id-female-6.8_face_5-92">
+</path >
+<path d="M 19 29 L 23 30 L 23 27 L 30 24 L 52 29 C 48 22 40 19 29 20 C 17 20 14 23 19 29 Z" fill="#000000" opacity="0.305" id="id-female-6.8_face_5-93">
+</path >
+<polygon points="49 32 54 35 55 32 50 26" fill="#751f00" id="id-female-6.8_face_5-94">
+</polygon >
+<path d="M 53 34 L 36 34 L 22 32 L 15 26 C 17 27 19 29 21 29 C 24 31 27 32 30 32 C 35 33 41 32 49 31 L 53 34 Z" fill="#64422d" id="id-female-6.8_face_5-95">
+</path >
+<path d="M 21 29 L 19 24 C 26 21 33 20 39 22 C 45 24 50 27 55 32 C 52 25 46 20 37 18 C 31 17 24 19 15 21 C 14 21 11 22 7 24 L 10 27 L 14 26 L 20 30 L 21 29 Z" fill="#181108" id="id-female-6.8_face_5-96">
+</path >
+<path d="M 26 22 C 26 29 29 32 35 32 C 41 32 44 29 45 24 C 41 21 37 19 35 19 C 33 19 30 20 26 22 Z" fill="#161209" id="id-female-6.8_face_5-97">
+</path >
+<polygon points="31 26 33 26 33 23 29 23 29 25 31 25" fill="#8c8f9e" id="id-female-6.8_face_5-98">
+</polygon >
+<path d="M 35 28 C 36 28 38 27 38 27 C 39 27 39 26 40 25 L 43 28 C 42 29 41 30 40 31 C 39 31 38 31 36 31 L 35 28 Z" fill="#6e1d00" id="id-female-6.8_face_5-99">
+</path >
+</g >
+<g transform="translate(116,111)" id="id-female-6.8_face_5-100">
+<path d="M 9 34 C 13 37 20 39 31 39 C 37 39 46 34 57 25 L 55 22 L 19 20 L 9 34 Z" fill="url(#id-female-6.8_face_5-27)" id="id-female-6.8_face_5-101">
+</path >
+<polygon points="11 28 0 20 10 5 53 1 61 11 52 23" fill="url(#id-female-6.8_face_5-28)" id="id-female-6.8_face_5-102">
+</polygon >
+<polygon points="20 21 24 1 32 1 38 21" fill="url(#id-female-6.8_face_5-29)" id="id-female-6.8_face_5-103">
+</polygon >
+<polygon points="13 32 31 34 41 31 45 28 14 25 10 34" fill="#8e5c40" id="id-female-6.8_face_5-104">
+</polygon >
+<path d="M 14 31 C 21 32 27 32 30 32 C 34 32 37 30 40 28 C 48 26 48 23 40 20 C 32 18 23 19 13 24 L 14 31 Z" fill="#ccccd7" id="id-female-6.8_face_5-105">
+</path >
+<path d="M 38 29 L 40 28 C 48 26 48 23 40 20 C 32 18 23 19 13 24 L 13 30 C 18 26 23 24 27 23 C 30 23 34 23 39 24 L 38 29 Z" fill="#000000" opacity="0.305" id="id-female-6.8_face_5-105">
+</path >
+<polygon points="8 32 9 34 14 31 14 25" fill="#782200" id="id-female-6.8_face_5-107">
+</polygon >
+<path d="M 18 24 C 19 29 22 32 28 32 C 34 31 37 28 37 21 C 35 20 31 19 26 19 C 21 20 18 21 18 24 Z" fill="#161209" id="id-female-6.8_face_5-108">
+</path >
+<path d="M 35 24 L 32 24 C 32 25 31 26 31 27 C 30 28 29 28 27 29 L 29 31 C 31 31 33 30 34 29 C 35 27 35 26 35 24 Z" fill="#761c00" id="id-female-6.8_face_5-109">
+</path >
+<polygon points="22 27 24 27 24 26 27 26 27 24 22 24" fill="#987a9e" id="id-female-6.8_face_5-110">
+</polygon >
+<path d="M 8 33 C 14 25 20 21 25 20 C 31 20 37 21 43 23 L 40 28 L 45 28 L 48 25 L 52 26 L 55 22 C 51 21 47 20 45 20 C 37 17 30 16 24 18 C 15 19 10 24 8 33 Z" fill="#171208" id="id-female-6.8_face_5-111">
+</path >
+</g >
+<g transform="translate(23,101)" id="id-female-6.8_face_5-112">
+<path d="M 1 13 L 11 11 L 9 13 L 28 12 L 28 13 L 51 16 L 49 17 L 56 17 L 56 20 L 65 11 L 62 11 L 60 13 L 60 9 L 56 13 L 56 7 L 54 12 L 46 4 C 28 1 18 0 14 1 C 11 2 7 6 1 13 Z" fill="url(#id-female-6.8_face_5-30)" id="id-female-6.8_face_5-113">
+</path >
+<polygon points="95 12 101 18 109 18 110 16 121 16 124 14 137 13 156 8 143 1 130 2 111 6 104 13 103 9 101 13 97 11" fill="url(#id-female-6.8_face_5-31)" id="id-female-6.8_face_5-114">
+</polygon >
+</g >
+</g >
+<defs >
+<linearGradient x1="98%" y1="50%" x2="0%" y2="50%" id="id-female-10_yieldfarmer_tights-0">
+<stop stop-color="#000000" offset="0%" stop-opacity="0.8">
+</stop >
+<stop stop-color="#847579" offset="18%">
+</stop >
+<stop stop-color="#837377" offset="25%">
+</stop >
+<stop stop-color="#000000" offset="42%" stop-opacity="0.8">
+</stop >
+<stop stop-color="#000000" offset="53%" stop-opacity="0.8">
+</stop >
+<stop stop-color="#705d62" offset="72%">
+</stop >
+<stop stop-color="#6e5b61" offset="80%">
+</stop >
+<stop stop-color="#000000" offset="100%" stop-opacity="0.8">
+</stop >
+</linearGradient >
+<linearGradient x1="98%" y1="50%" x2="0%" y2="50%" id="id-female-10_yieldfarmer_tights-1">
+<stop stop-color="#000000" offset="0%" stop-opacity="0.8">
+</stop >
+<stop stop-color="#000000" offset="18%" stop-opacity="0.5">
+</stop >
+<stop stop-color="#000000" offset="26%" stop-opacity="0.5">
+</stop >
+<stop stop-color="#000000" offset="42%" stop-opacity="0.8">
+</stop >
+<stop stop-color="#000000" offset="53%" stop-opacity="0.8">
+</stop >
+<stop stop-color="#000000" offset="72%" stop-opacity="0.5">
+</stop >
+<stop stop-color="#000000" offset="80%" stop-opacity="0.5">
+</stop >
+<stop stop-color="#000000" offset="100%" stop-opacity="0.8">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(448,986)" id="id-female-10_yieldfarmer_tights-2">
+<path d="M 81 0 L 333 1 C 333 4 332 12 330 20 L 330 21 C 327 33 325 44 327 44 C 325 49 327 52 329 55 L 329 55 C 330 56 330 57 331 59 C 329 65 332 68 334 71 L 334 72 C 335 72 335 72 335 72 L 335 73 L 335 73 L 336 73 C 337 74 338 76 339 78 C 333 85 341 101 349 117 L 349 119 C 354 129 359 138 361 146 C 369 197 382 245 396 286 C 402 330 405 367 404 398 C 400 433 394 464 388 494 C 384 502 376 502 374 513 C 374 514 374 515 374 517 L 374 517 C 374 518 374 519 374 519 L 374 520 C 374 527 373 534 376 545 L 376 544 C 367 578 358 612 349 651 C 349 683 349 699 346 727 C 347 734 348 737 350 741 L 351 741 C 351 742 351 742 351 742 L 352 743 C 352 743 352 744 352 744 C 352 744 351 746 347 749 C 347 749 347 749 347 749 L 347 749 C 348 751 349 760 351 774 L 351 774 L 351 774 C 350 774 350 774 350 774 L 350 774 C 349 774 349 774 349 774 L 348 774 C 348 774 347 774 347 774 L 346 774 C 334 774 299 774 242 774 C 242 769 242 765 241 761 L 241 760 C 240 759 240 758 240 756 C 238 755 236 753 233 749 C 233 749 234 741 238 724 C 238 724 236 702 231 659 C 231 659 231 636 230 591 C 230 591 226 534 218 420 L 218 420 L 218 420 C 218 419 218 391 219 336 C 212 342 206 342 198 336 C 198 336 197 368 194 431 C 194 431 192 444 188 469 C 188 469 184 514 177 605 L 177 605 L 177 605 C 177 606 177 631 176 680 C 176 680 175 686 172 699 C 172 699 173 714 175 744 L 175 744 L 175 744 C 175 744 172 754 166 774 L 166 774 L 55 774 L 55 740 C 55 740 55 740 55 740 L 54 739 C 53 738 51 736 49 732 L 49 732 L 49 732 C 54 722 58 713 48 706 C 48 706 49 704 52 699 C 52 699 49 679 42 637 C 28 572 15 507 5 441 C 4 435 4 430 4 424 L 3 421 C 3 420 3 419 3 419 L 3 417 C 3 416 3 416 3 416 L 3 414 C 1 394 0 375 0 362 C 0 362 1 352 3 333 C 3 333 16 277 42 166 C 42 166 49 147 63 110 C 63 110 63 107 63 102 C 74 90 76 78 74 66 C 74 66 77 64 81 60 L 81 60 L 81 0 Z M 260 649 C 258 649 257 655 255 661 L 255 662 C 255 663 254 664 254 665 C 259 675 261 681 261 681 C 264 672 265 668 265 667 L 265 667 L 265 667 C 265 666 264 665 264 664 L 263 662 C 261 658 260 653 260 649 Z M 324 621 L 323 652 C 325 637 327 628 327 623 L 328 622 C 328 621 328 620 328 619 L 328 619 C 328 619 328 619 328 619 L 328 619 C 328 619 328 619 328 619 C 327 618 325 619 324 621 Z M 141 580 C 135 576 131 578 128 580 L 127 580 L 127 580 L 127 580 C 127 580 128 587 128 600 C 129 602 131 604 133 605 C 131 605 131 608 131 611 L 131 611 C 131 613 131 615 130 616 C 130 616 131 626 132 647 C 133 620 136 597 141 580 Z M 75 593 C 74 595 73 597 72 599 L 72 600 C 70 604 68 608 68 612 C 69 616 73 621 78 628 C 78 627 78 625 78 624 L 78 623 C 78 620 79 617 81 610 L 75 593 Z M 336 569 C 335 567 332 568 326 571 L 326 571 L 324 613 C 324 613 326 613 329 614 C 329 614 331 599 336 569 Z M 146 552 C 138 551 131 553 123 555 C 124 559 125 566 126 574 C 131 577 136 577 141 574 C 141 574 143 567 146 552 Z M 338 552 C 338 552 334 553 327 554 L 327 554 L 326 567 C 330 567 333 566 337 563 C 337 563 337 560 338 552 Z M 113 535 L 114 535 C 119 540 122 546 123 553 C 138 550 146 548 146 548 C 145 546 144 545 144 545 C 147 544 149 544 149 544 C 148 534 146 525 136 515 C 126 509 115 518 113 535 Z M 327 541 C 327 541 327 544 327 549 C 328 550 331 550 334 550 L 335 550 C 336 550 337 550 339 551 C 339 551 339 548 340 543 L 340 543 Z M 343 525 L 328 527 C 328 527 328 529 327 533 C 329 538 334 541 340 541 C 340 541 341 536 343 525 L 343 525 Z M 337 494 L 327 523 C 327 523 333 523 343 522 C 343 522 341 513 337 494 L 337 494 Z M 137 477 C 132 485 134 503 122 512 C 131 508 137 509 140 514 C 140 510 139 505 139 500 L 138 498 C 138 491 137 483 137 477 Z" fill="#c46366" id="id-female-10_yieldfarmer_tights-3">
+</path >
+<path d="M 81 0 L 333 1 C 333 4 332 12 330 20 L 330 21 C 327 33 325 44 327 44 C 325 49 327 52 329 55 L 329 55 C 330 56 330 57 331 59 C 329 65 332 68 334 71 L 334 72 C 335 72 335 72 335 72 L 335 73 L 335 73 L 336 73 C 337 74 338 76 339 78 C 336 81 338 87 340 94 C 342 101 346 109 350 116 L 351 119 C 355 128 359 137 361 145 C 369 196 382 245 396 286 C 402 330 405 367 404 398 C 400 433 394 464 388 494 C 384 502 376 502 374 513 C 374 514 374 515 374 517 L 374 517 C 374 518 374 519 374 519 L 374 520 C 374 527 373 534 376 545 L 376 544 C 367 578 358 612 349 651 C 349 683 349 699 346 727 C 347 734 348 737 350 741 L 351 741 C 351 742 351 742 351 742 L 352 743 C 352 743 352 744 352 744 C 352 744 351 746 347 749 C 347 749 347 749 347 749 L 347 749 C 348 751 349 760 351 774 L 351 774 L 351 774 C 350 774 350 774 350 774 L 350 774 C 349 774 349 774 349 774 L 348 774 C 348 774 347 774 347 774 L 346 774 C 334 774 299 774 242 774 C 242 769 242 765 241 761 L 241 760 C 240 759 240 758 240 756 C 238 755 236 753 233 749 C 233 749 234 741 238 724 C 238 724 236 702 231 659 C 231 659 231 636 230 591 C 230 591 226 534 218 420 L 218 420 L 218 420 C 218 419 218 391 219 336 C 212 342 206 342 198 336 C 198 336 197 368 194 431 C 194 431 192 444 188 469 C 188 469 184 514 177 605 L 177 605 L 177 605 C 177 606 177 631 176 680 C 176 680 175 686 172 699 C 172 699 173 714 175 744 L 175 744 L 175 744 C 175 744 172 754 166 774 L 166 774 L 55 774 L 55 740 C 55 740 55 740 55 740 L 54 739 C 53 738 51 736 49 732 L 49 732 L 49 732 C 54 722 58 713 48 706 C 48 706 49 704 52 699 C 52 699 49 679 42 637 C 28 572 15 507 5 441 C 4 435 4 430 4 424 L 3 421 C 3 420 3 419 3 419 L 3 417 C 3 416 3 416 3 416 L 3 414 C 1 394 0 375 0 362 C 0 362 1 352 3 333 C 3 333 16 277 42 166 C 42 166 49 147 63 110 C 63 110 63 107 63 102 C 74 90 76 78 74 66 C 74 66 77 64 81 60 L 81 60 L 81 0 Z M 260 649 C 258 649 257 655 255 661 L 255 662 C 255 663 254 664 254 665 C 259 675 261 681 261 681 C 264 672 265 668 265 667 L 265 667 L 265 667 C 265 666 264 665 264 664 L 263 662 C 261 658 260 653 260 649 Z M 324 621 L 323 652 C 325 637 327 628 327 623 L 328 622 C 328 621 328 620 328 619 L 328 619 C 328 619 328 619 328 619 L 328 619 C 328 619 328 619 328 619 C 327 618 325 619 324 621 Z M 141 580 C 135 576 131 578 128 580 L 127 580 L 127 580 L 127 580 C 127 580 128 587 128 600 C 129 602 131 604 133 605 C 131 605 131 608 131 611 L 131 611 C 131 613 131 615 130 616 C 130 616 131 626 132 647 C 133 620 136 597 141 580 Z M 75 593 C 74 595 73 597 72 599 L 72 600 C 70 604 68 608 68 612 C 69 616 73 621 78 628 C 78 627 78 625 78 624 L 78 623 C 78 620 79 617 81 610 L 75 593 Z M 336 569 C 335 567 332 568 326 571 L 326 571 L 324 613 C 324 613 326 613 329 614 C 329 614 331 599 336 569 Z M 146 552 C 138 551 131 553 123 555 C 124 559 125 566 126 574 C 131 577 136 577 141 574 C 141 574 143 567 146 552 Z M 338 552 C 338 552 334 553 327 554 L 327 554 L 326 567 C 330 567 333 566 337 563 C 337 563 337 560 338 552 Z M 113 535 L 114 535 C 119 540 122 546 123 553 C 138 550 146 548 146 548 C 145 546 144 545 144 545 C 147 544 149 544 149 544 C 148 534 146 525 136 515 C 126 509 115 518 113 535 Z M 327 541 C 327 541 327 544 327 549 C 328 550 331 550 334 550 L 335 550 C 336 550 337 550 339 551 C 339 551 339 548 340 543 L 340 543 Z M 343 525 L 328 527 C 328 527 328 529 327 533 C 329 538 334 541 340 541 C 340 541 341 536 343 525 L 343 525 Z M 337 494 L 327 523 C 327 523 333 523 343 522 C 343 522 341 513 337 494 L 337 494 Z M 137 477 C 132 485 134 503 122 512 C 131 508 137 509 140 514 C 140 510 139 505 139 500 L 138 498 C 138 491 137 483 137 477 Z" fill="url(#id-female-10_yieldfarmer_tights-0)" opacity="0.524" id="id-female-10_yieldfarmer_tights-3">
+</path >
+<path d="M 81 0 L 333 1 C 333 4 332 12 330 20 L 330 21 C 327 33 325 44 327 44 C 325 49 327 52 329 55 L 329 55 C 330 56 330 57 331 59 C 329 65 332 68 334 71 L 334 72 C 335 72 335 72 335 72 L 335 73 L 335 73 L 336 73 C 337 74 338 76 339 78 C 336 81 338 88 340 94 C 342 101 346 109 349 117 L 350 119 C 354 127 358 136 360 143 C 368 194 382 245 396 286 C 402 330 405 367 404 398 C 400 433 394 464 388 494 C 384 502 376 502 374 513 C 374 514 374 515 374 517 L 374 517 C 374 518 374 519 374 519 L 374 520 C 374 527 373 534 376 545 L 376 544 C 367 578 358 612 349 651 C 349 683 349 699 346 727 C 347 734 348 737 350 741 L 351 741 C 351 742 351 742 351 742 L 352 743 C 352 743 352 744 352 744 C 352 744 351 746 347 749 C 347 749 347 749 347 749 L 347 749 C 348 751 349 760 351 774 L 351 774 L 351 774 C 350 774 350 774 350 774 L 350 774 C 349 774 349 774 349 774 L 348 774 C 348 774 347 774 347 774 L 346 774 C 334 774 299 774 242 774 C 242 769 242 765 241 761 L 241 760 C 240 759 240 758 240 756 C 238 755 236 753 233 749 C 233 749 234 741 238 724 C 238 724 236 702 231 659 C 231 659 231 636 230 591 C 230 591 226 534 218 420 L 218 420 L 218 420 C 218 419 218 391 219 336 C 212 342 206 342 198 336 C 198 336 197 368 194 431 C 194 431 192 444 188 469 C 188 469 184 514 177 605 L 177 605 L 177 605 C 177 606 177 631 176 680 C 176 680 175 686 172 699 C 172 699 173 714 175 744 L 175 744 L 175 744 C 175 744 172 754 166 774 L 166 774 L 55 774 L 55 740 C 55 740 55 740 55 740 L 54 739 C 53 738 51 736 49 732 L 49 732 L 49 732 C 54 722 58 713 48 706 C 48 706 49 704 52 699 C 52 699 49 679 42 637 C 28 572 15 507 5 441 C 4 435 4 430 4 424 L 3 421 C 3 420 3 419 3 419 L 3 417 C 3 416 3 416 3 416 L 3 414 C 1 394 0 375 0 362 C 0 362 1 352 3 333 C 3 333 16 277 42 166 C 42 166 49 147 63 110 C 63 110 63 107 63 102 C 74 90 76 78 74 66 C 74 66 77 64 81 60 L 81 60 L 81 0 Z M 260 649 C 258 649 257 655 255 661 L 255 662 C 255 663 254 664 254 665 C 259 675 261 681 261 681 C 264 672 265 668 265 667 L 265 667 L 265 667 C 265 666 264 665 264 664 L 263 662 C 261 658 260 653 260 649 Z M 324 621 L 323 652 C 325 637 327 628 327 623 L 328 622 C 328 621 328 620 328 619 L 328 619 C 328 619 328 619 328 619 L 328 619 C 328 619 328 619 328 619 C 327 618 325 619 324 621 Z M 141 580 C 135 576 131 578 128 580 L 127 580 L 127 580 L 127 580 C 127 580 128 587 128 600 C 129 602 131 604 133 605 C 131 605 131 608 131 611 L 131 611 C 131 613 131 615 130 616 C 130 616 131 626 132 647 C 133 620 136 597 141 580 Z M 75 593 C 74 595 73 597 72 599 L 72 600 C 70 604 68 608 68 612 C 69 616 73 621 78 628 C 78 627 78 625 78 624 L 78 623 C 78 620 79 617 81 610 L 75 593 Z M 336 569 C 335 567 332 568 326 571 L 326 571 L 324 613 C 324 613 326 613 329 614 C 329 614 331 599 336 569 Z M 146 552 C 138 551 131 553 123 555 C 124 559 125 566 126 574 C 131 577 136 577 141 574 C 141 574 143 567 146 552 Z M 338 552 C 338 552 334 553 327 554 L 327 554 L 326 567 C 330 567 333 566 337 563 C 337 563 337 560 338 552 Z M 113 535 L 114 535 C 119 540 122 546 123 553 C 138 550 146 548 146 548 C 145 546 144 545 144 545 C 147 544 149 544 149 544 C 148 534 146 525 136 515 C 126 509 115 518 113 535 Z M 327 541 C 327 541 327 544 327 549 C 328 550 331 550 334 550 L 335 550 C 336 550 337 550 339 551 C 339 551 339 548 340 543 L 340 543 Z M 343 525 L 328 527 C 328 527 328 529 327 533 C 329 538 334 541 340 541 C 340 541 341 536 343 525 L 343 525 Z M 337 494 L 327 523 C 327 523 333 523 343 522 C 343 522 341 513 337 494 L 337 494 Z M 137 477 C 132 485 134 503 122 512 C 131 508 137 509 140 514 C 140 510 139 505 139 500 L 138 498 C 138 491 137 483 137 477 Z" fill="url(#id-female-10_yieldfarmer_tights-1)" opacity="0.524" id="id-female-10_yieldfarmer_tights-3">
+</path >
+<path d="M 81 40 C 163 42 204 42 204 42 C 204 40 204 39 204 39 C 186 37 177 37 177 37 L 177 1 L 81 0 C 81 27 81 40 81 40 Z" fill="#3b1e1f" id="id-female-10_yieldfarmer_tights-6">
+</path >
+<path d="M 92 42 C 125 42 142 43 142 43 L 114 49 C 99 44 92 42 92 42 Z" fill="#442e34" id="id-female-10_yieldfarmer_tights-7">
+</path >
+<path d="M 172 44 C 180 45 184 46 184 46 L 177 36 L 177 0 L 172 0 C 172 29 172 44 172 44 Z" fill="#442931" id="id-female-10_yieldfarmer_tights-8">
+</path >
+<path d="M 185 32 C 190 31 193 30 193 30 L 192 0 L 184 0 C 184 21 185 32 185 32 Z" fill="#452b32" id="id-female-10_yieldfarmer_tights-9">
+</path >
+<path d="M 169 26 C 182 27 189 27 189 27 C 188 15 188 8 188 8 L 170 7 C 170 20 169 26 169 26 Z" fill="#55494c" id="id-female-10_yieldfarmer_tights-10">
+</path >
+<path d="M 108 97 C 118 86 123 80 123 80 L 181 109 C 132 101 108 97 108 97 Z" fill="#5e444c" fill-opacity="0.4" id="id-female-10_yieldfarmer_tights-11">
+</path >
+<path d="M 191 74 L 221 75 L 206 42 L 193 42 C 191 64 191 74 191 74 Z" fill="#574249" id="id-female-10_yieldfarmer_tights-12">
+</path >
+<path d="M 185 137 C 207 117 219 108 219 108 C 218 124 217 133 217 133 C 221 171 223 191 223 191 L 195 196 C 189 157 185 137 185 137 Z" fill="#5e444c" fill-opacity="0.4" id="id-female-10_yieldfarmer_tights-13">
+</path >
+<path d="M 244 94 C 280 82 298 76 298 76 L 310 92 C 266 94 244 94 244 94 Z" fill="#5e444c" fill-opacity="0.4" id="id-female-10_yieldfarmer_tights-14">
+</path >
+<path d="M 204 41 C 289 39 331 38 331 38 C 309 42 299 45 299 45 C 296 42 295 41 295 41 L 206 44 C 205 42 204 41 204 41 Z" fill="#442931" id="id-female-10_yieldfarmer_tights-15">
+</path >
+<path d="M 297 35 C 297 35 260 35 260 35 L 260 1 C 294 1 310 1 310 1 L 310 22 C 301 31 297 35 297 35 Z" fill="#3b1e1f" id="id-female-10_yieldfarmer_tights-16">
+</path >
+<path d="M 228 201 C 260 183 276 174 276 174 L 317 188 C 257 196 228 201 228 201 Z" fill="#5f444c" fill-opacity="0.71" id="id-female-10_yieldfarmer_tights-17">
+</path >
+<path d="M 197 340 C 189 328 184 322 184 322 C 144 288 124 270 124 270 C 156 275 172 277 172 277 C 153 261 144 253 144 253 C 117 236 104 227 104 227 C 164 217 195 211 195 211 C 265 224 300 230 300 230 C 277 244 266 252 266 252 C 235 263 220 268 220 268 C 237 271 245 273 245 273 C 232 287 225 294 225 294 C 228 296 230 297 230 297 C 285 272 313 260 313 260 C 273 296 253 314 253 314 C 235 401 227 444 227 444 C 278 630 308 724 317 728 L 347 709 L 346 727 C 346 732 347 738 352 744 L 347 749 L 351 774 L 242 774 C 242 769 241 763 240 756 L 233 749 L 238 724 L 231 659 L 230 591 C 227 533 223 476 218 420 L 220 335 C 212 342 205 341 198 336 C 198 339 197 340 197 340 Z" fill="#000000" fill-opacity="0.166" id="id-female-10_yieldfarmer_tights-18">
+</path >
+<path d="M 179 314 L 235 313 L 219 336 C 213 341 206 342 198 336 L 197 340 L 179 314 Z" fill="#261010" id="id-female-10_yieldfarmer_tights-19">
+</path >
+<path d="M 241 286 C 298 260 327 248 327 248 L 285 239 C 256 270 241 286 241 286 Z" fill="#5f444c" fill-opacity="0.71" id="id-female-10_yieldfarmer_tights-20">
+</path >
+<polygon points="165 233 104 227 195 211" fill="#5f444c" fill-opacity="0.71" id="id-female-10_yieldfarmer_tights-21">
+</polygon >
+<path d="M 138 271 C 82 249 54 239 54 239 L 101 232 C 125 258 138 271 138 271 Z" fill="#5f444c" fill-opacity="0.71" id="id-female-10_yieldfarmer_tights-22">
+</path >
+<path d="M 119 275 C 104 287 96 292 96 292 L 45 254 C 94 268 119 275 119 275 Z" fill="#5f444c" fill-opacity="0.71" id="id-female-10_yieldfarmer_tights-23">
+</path >
+<path d="M 236 753 C 268 759 284 762 284 762 L 261 774 L 242 774 C 242 769 241 764 240 756 C 237 754 236 753 236 753 Z" fill="#2f1617" id="id-female-10_yieldfarmer_tights-24">
+</path >
+<path d="M 176 680 C 148 710 133 726 133 726 L 173 712 L 172 699 C 175 686 176 680 176 680 Z" fill="#452425" id="id-female-10_yieldfarmer_tights-25">
+</path >
+<path d="M 112 687 C 105 696 102 701 102 701 C 103 704 103 706 103 706 C 143 697 164 692 164 692 L 173 679 C 132 685 112 687 112 687 Z" fill="#452425" id="id-female-10_yieldfarmer_tights-26">
+</path >
+<path d="M 51 702 C 81 727 96 739 96 739 L 69 736 L 104 774 L 55 774 L 55 740 L 49 732 C 53 724 59 715 48 706 C 50 703 51 702 51 702 Z" fill="#452425" id="id-female-10_yieldfarmer_tights-27">
+</path >
+<path d="M 191 195 C 194 194 195 194 195 194 C 188 161 185 144 185 144 C 190 77 193 43 193 43 C 185 42 182 42 182 42 C 185 45 187 46 187 46 C 188 56 188 62 188 62 L 183 145 C 188 179 191 195 191 195 Z" fill="#331a22" id="id-female-10_yieldfarmer_tights-28">
+</path >
+</g >
+<defs >
+<linearGradient x1="50%" y1="6%" x2="50%" y2="92%" id="id-female-11_bra_red-0">
+<stop stop-color="#fe2910" offset="0%">
+</stop >
+<stop stop-color="#fe2910" offset="75%">
+</stop >
+<stop stop-color="#c30026" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="48%" x2="100%" y2="48%" id="id-female-11_bra_red-1">
+<stop stop-color="#e89999" offset="0%">
+</stop >
+<stop stop-color="#b1043d" offset="3%">
+</stop >
+<stop stop-color="#da4949" offset="11%">
+</stop >
+<stop stop-color="#fbb9b9" offset="16%">
+</stop >
+<stop stop-color="#980000" offset="24%">
+</stop >
+<stop stop-color="#990000" offset="75%">
+</stop >
+<stop stop-color="#f7baba" offset="82%">
+</stop >
+<stop stop-color="#c62f2f" offset="87%">
+</stop >
+<stop stop-color="#aa0505" offset="95%">
+</stop >
+<stop stop-color="#efc0c0" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(497,803)" id="id-female-11_bra_red-2">
+<polygon points="292 103 250 114 158 116 73 114 54 113 26 106 24 91 10 72 1 47 1 37 8 13 39 2 47 4 73 18 116 46 132 58 132 72 135 79 151 84 171 79 174 58 207 32 263 2 268 1 287 7 303 15 309 34 307 58 294 81" fill="url(#id-female-11_bra_red-0)" id="id-female-11_bra_red-3">
+</polygon >
+<polygon points="198 115 158 116 105 115 142 92 151 84 165 90" fill="#c30026" opacity="0.783" id="id-female-11_bra_red-3">
+</polygon >
+<polygon points="110 86 67 99 24 91 10 72 1 47 1 37 5 22 7 47 21 72 36 81 58 86" fill="#d00029" id="id-female-11_bra_red-3">
+</polygon >
+<polygon points="67 99 24 91 10 72 1 47 1 37 5 22 7 47 21 72 29 84" fill="#e50444" id="id-female-11_bra_red-3">
+</polygon >
+<polygon points="245 97 210 84 258 74 295 56 304 37 302 15 307 34 307 58 293 81" fill="#d00029" id="id-female-11_bra_red-3">
+</polygon >
+<polygon points="295 56 301 37 303 15 309 34 307 58 294 81 272 88" fill="#df1700" id="id-female-11_bra_red-3">
+</polygon >
+<polygon points="206 41 217 56 249 64 288 42 297 16 269 4 214 33" fill="#ff4f45" id="id-female-11_bra_red-9">
+</polygon >
+<polygon points="14 14 14 33 36 55 77 53 97 38 45 6" fill="#ff4f45" id="id-female-11_bra_red-10">
+</polygon >
+<polygon points="128 79 123 58 85 32 49 10 25 11 5 21 8 13 39 2 47 4 73 18 116 46 132 58 132 63 173 63 172 71 132 71 132 72 135 79 151 84 171 79 174 58 207 32 263 2 268 1 287 7 303 15 305 21 280 10 265 9 212 36 180 59 175 83 153 90 133 84" fill="url(#id-female-11_bra_red-1)" id="id-female-11_bra_red-3">
+</polygon >
+</g >
+<defs >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-female-12_yieldfarmer_overalls_pants_orange-0">
+<stop stop-color="#ef850a" offset="0%">
+</stop >
+<stop stop-color="#e07809" offset="49%">
+</stop >
+<stop stop-color="#b25005" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(440,609)" id="id-female-12_yieldfarmer_overalls_pants_orange-1">
+<path d="M 9 781 C 10 760 5 753 11 714 C 7 662 5 636 5 636 C 8 627 16 617 26 607 C 27 581 28 568 28 568 C 41 546 48 535 48 535 C 50 525 50 521 50 521 C 67 486 75 469 75 469 C 72 427 71 407 71 407 C 92 363 102 341 102 341 C 98 297 93 256 93 204 C 121 202 135 201 135 201 C 135 217 135 225 135 225 C 186 226 241 230 289 226 C 291 209 292 201 292 201 C 316 203 329 204 329 204 C 326 249 331 277 326 340 C 342 387 350 411 350 411 C 349 450 349 470 349 470 C 384 547 374 560 392 615 C 402 623 407 628 407 628 C 404 645 402 654 402 654 C 410 701 419 749 414 792 L 419 796 L 415 803 L 385 812 C 343 826 302 828 261 823 C 230 823 215 823 215 823 C 219 819 222 817 222 817 C 222 784 220 751 224 718 C 218 718 212 718 206 717 C 206 752 205 789 202 822 C 175 823 162 823 162 823 L 116 816 C 45 793 9 781 9 781 Z" fill="url(#id-female-12_yieldfarmer_overalls_pants_orange-0)" id="id-female-12_yieldfarmer_overalls_pants_orange-2">
+</path >
+<path d="M 210 822 C 208 839 207 848 207 848 C 174 853 145 852 119 846 C 85 838 46 826 6 814 C 2 794 0 784 0 784 C 6 778 9 775 9 775 C 9 779 9 781 9 781 C 81 805 117 816 117 816 C 148 821 164 823 164 823 L 201 821 C 205 819 208 820 210 822 Z" fill="#99171b" id="id-female-12_yieldfarmer_overalls_pants_orange-3">
+</path >
+<path d="M 172 822 C 188 753 197 718 197 718 C 165 702 150 694 150 694 C 171 688 182 685 182 685 C 142 647 122 628 122 628 C 171 640 195 646 195 646 C 192 639 190 636 190 636 C 157 625 140 619 140 619 C 112 598 98 587 98 587 C 95 595 94 599 94 599 C 105 611 111 617 111 617 L 89 604 L 32 562 L 48 535 L 50 521 L 74 469 L 71 407 L 102 341 C 98 291 96 266 96 266 C 94 238 93 225 93 225 C 97 247 98 258 98 258 C 115 269 123 275 123 275 C 148 356 161 397 161 397 C 138 409 127 416 127 416 C 93 486 76 522 76 522 C 106 505 121 497 121 497 C 115 518 112 529 112 529 C 140 535 154 538 154 538 C 210 536 238 535 238 535 C 238 537 238 538 238 538 C 211 539 198 539 198 539 L 196 542 L 205 694 L 206 717 C 206 754 205 789 201 820 C 182 822 172 822 172 822 Z" fill="#af4d04" id="id-female-12_yieldfarmer_overalls_pants_orange-4">
+</path >
+<path d="M 171 823 L 169 851 C 149 851 133 849 119 846 C 93 839 79 836 79 836 L 74 802 L 116 816 L 162 823 C 168 823 171 823 171 823 Z" fill="#ab2626" id="id-female-12_yieldfarmer_overalls_pants_orange-5">
+</path >
+<path d="M 116 816 C 147 821 162 823 162 823 C 162 823 156 851 156 851 C 143 851 131 849 119 845 L 116 816 Z" fill="#bd383c" id="id-female-12_yieldfarmer_overalls_pants_orange-6">
+</path >
+<path d="M 116 816 C 128 820 134 822 134 822 L 162 826 L 201 821 L 162 823 C 131 819 116 816 116 816 Z" fill="#e05a60" id="id-female-12_yieldfarmer_overalls_pants_orange-7">
+</path >
+<path d="M 215 822 C 216 837 216 845 216 845 C 238 846 248 847 248 847 C 294 848 355 849 380 843 C 394 838 406 831 419 823 C 420 807 421 799 421 799 C 419 797 418 795 418 795 C 416 801 415 803 415 803 C 395 808 385 811 385 811 L 261 823 C 230 822 215 822 215 822 Z" fill="#9a181b" id="id-female-12_yieldfarmer_overalls_pants_orange-8">
+</path >
+<path d="M 259 823 C 303 824 326 824 326 824 L 383 812 C 300 819 259 823 259 823 Z" fill="#e15a61" id="id-female-12_yieldfarmer_overalls_pants_orange-9">
+</path >
+<path d="M 253 823 C 249 839 247 847 247 847 C 307 849 351 848 380 843 L 383 812 L 326 824 C 277 823 253 823 253 823 Z" fill="#ab2626" id="id-female-12_yieldfarmer_overalls_pants_orange-10">
+</path >
+<path d="M 304 848 L 304 824 C 319 824 326 824 326 824 C 340 821 347 820 347 820 L 346 847 C 337 848 324 848 304 848 Z" fill="#bf393f" id="id-female-12_yieldfarmer_overalls_pants_orange-11">
+</path >
+<path d="M 9 627 L 5 636 L 7 714 C 2 744 6 760 7 782 C 70 802 102 812 102 812 L 45 673 L 9 627 Z" fill="#9a3b01" id="id-female-12_yieldfarmer_overalls_pants_orange-12">
+</path >
+<path d="M 43 670 C 52 657 57 650 57 650 L 22 611 C 16 616 13 622 9 627 C 32 656 43 670 43 670 Z" fill="#b24f03" id="id-female-12_yieldfarmer_overalls_pants_orange-13">
+</path >
+<path d="M 22 611 C 26 615 28 618 28 618 C 44 609 52 604 52 604 C 92 625 112 636 112 636 C 101 618 96 609 96 609 C 79 597 70 591 70 591 C 79 573 84 565 84 565 C 61 571 50 575 50 575 L 32 562 L 28 568 L 26 607 C 23 609 22 611 22 611 Z" fill="#a74604" id="id-female-12_yieldfarmer_overalls_pants_orange-14">
+</path >
+<path d="M 5 636 C 62 583 90 557 90 557 C 92 573 93 581 93 581 L 5 662 C 5 645 5 636 5 636 Z" fill="#d36e0a" id="id-female-12_yieldfarmer_overalls_pants_orange-15">
+</path >
+<path d="M 67 604 C 58 597 54 593 54 593 C 69 579 76 573 76 573 L 88 585 C 74 598 67 604 67 604 Z" fill="#ea8619" id="id-female-12_yieldfarmer_overalls_pants_orange-16">
+</path >
+<path d="M 50 594 C 46 588 43 585 43 585 C 56 579 62 576 62 576 L 65 581 C 55 590 50 594 50 594 Z" fill="#522023" id="id-female-12_yieldfarmer_overalls_pants_orange-17">
+</path >
+<path d="M 77 631 C 118 663 138 679 138 679 C 136 682 135 683 135 683 C 135 726 135 771 131 818 C 121 817 116 816 116 816 C 108 814 104 812 104 812 C 115 781 123 744 119 689 C 91 650 77 631 77 631 Z" fill="#d27017" id="id-female-12_yieldfarmer_overalls_pants_orange-18">
+</path >
+<path d="M 198 821 L 189 822 C 195 797 202 758 206 717 C 204 754 202 788 198 821 Z" fill="#9f3f03" id="id-female-12_yieldfarmer_overalls_pants_orange-19">
+</path >
+<path d="M 206 720 C 182 706 170 699 170 699 C 185 701 192 702 192 702 C 201 695 205 692 205 692 C 218 698 224 701 224 701 C 249 701 261 701 261 701 C 238 711 227 716 227 716 C 225 714 224 713 224 713 L 220 718 C 216 719 211 718 206 717 C 206 719 206 720 206 720 Z" fill="#8c2e00" id="id-female-12_yieldfarmer_overalls_pants_orange-20">
+</path >
+<path d="M 202 624 C 223 618 234 615 234 615 C 234 565 234 541 234 541 C 247 598 253 626 253 626 C 288 620 306 617 306 617 C 268 639 249 651 249 651 C 254 658 257 662 257 662 C 315 639 344 628 344 628 C 279 669 246 689 246 689 C 282 693 301 694 301 694 C 265 705 247 710 247 710 L 238 785 L 222 817 C 221 783 221 749 224 718 L 206 717 C 203 655 202 624 202 624 Z" fill="#ae4c03" id="id-female-12_yieldfarmer_overalls_pants_orange-21">
+</path >
+<path d="M 203 682 C 224 679 234 677 234 677 C 235 638 236 619 236 619 L 198 626 C 201 663 203 682 203 682 Z" fill="#c05c05" id="id-female-12_yieldfarmer_overalls_pants_orange-22">
+</path >
+<path d="M 160 639 C 184 665 195 678 195 678 L 204 674 C 175 651 160 639 160 639 Z" fill="#a74401" id="id-female-12_yieldfarmer_overalls_pants_orange-23">
+</path >
+<path d="M 201 663 C 193 644 189 634 189 634 C 193 612 195 601 195 601 L 196 549 C 199 625 201 663 201 663 Z" fill="#8e2e00" id="id-female-12_yieldfarmer_overalls_pants_orange-24">
+</path >
+<path d="M 226 701 C 232 692 235 687 235 687 C 242 687 245 688 245 688 C 253 672 256 664 256 664 C 251 656 248 652 248 652 L 236 618 L 234 677 L 204 682 L 205 692 C 219 698 226 701 226 701 Z" fill="#9f4004" id="id-female-12_yieldfarmer_overalls_pants_orange-25">
+</path >
+<path d="M 249 651 C 301 621 327 606 327 606 L 308 642 L 257 662 C 252 654 249 651 249 651 Z" fill="#ed8823" id="id-female-12_yieldfarmer_overalls_pants_orange-26">
+</path >
+<path d="M 142 535 C 168 458 180 419 180 419 C 229 394 253 382 253 382 C 263 394 267 400 267 400 C 246 423 236 435 236 435 C 256 426 267 422 267 422 L 300 533 L 238 535 L 154 538 C 146 536 142 535 142 535 Z" fill="#ea891e" id="id-female-12_yieldfarmer_overalls_pants_orange-27">
+</path >
+<path d="M 354 713 L 399 643 L 404 646 C 403 651 402 654 402 654 C 408 684 413 716 416 750 C 400 718 392 702 392 702 L 388 709 C 365 712 354 713 354 713 Z" fill="#ac4a04" id="id-female-12_yieldfarmer_overalls_pants_orange-28">
+</path >
+<path d="M 316 759 C 365 737 389 727 389 727 C 385 759 383 775 383 775 L 380 811 L 415 803 L 419 796 L 414 792 C 416 782 416 769 416 750 L 392 702 L 388 709 L 354 713 L 382 672 C 338 730 316 759 316 759 Z" fill="#b04e04" id="id-female-12_yieldfarmer_overalls_pants_orange-29">
+</path >
+<path d="M 308 770 C 332 771 344 772 344 772 C 345 788 342 802 333 816 C 352 814 361 813 361 813 C 362 799 362 787 367 768 L 389 727 L 316 759 C 310 766 308 770 308 770 Z" fill="#cc6911" id="id-female-12_yieldfarmer_overalls_pants_orange-30">
+</path >
+<path d="M 243 823 L 227 716 C 225 714 224 713 224 713 L 220 718 L 224 718 C 221 749 221 782 222 816 L 216 823 L 243 823 Z" fill="#9f3f03" id="id-female-12_yieldfarmer_overalls_pants_orange-31">
+</path >
+<path d="M 344 773 C 346 792 339 804 333 816 C 322 817 317 818 317 818 L 272 802 L 276 785 L 306 773 L 308 770 L 344 773 Z" fill="#c15d07" id="id-female-12_yieldfarmer_overalls_pants_orange-32">
+</path >
+<path d="M 318 565 L 384 588 L 372 533 C 366 513 360 493 348 470 L 349 440 C 318 384 303 356 303 356 C 312 392 317 409 317 409 C 295 414 284 416 284 416 C 310 433 323 441 323 441 C 332 491 337 515 337 515 C 340 521 341 523 341 523 C 336 532 334 537 334 537 L 330 541 C 322 557 318 565 318 565 Z" fill="#d16a06" id="id-female-12_yieldfarmer_overalls_pants_orange-33">
+</path >
+<path d="M 336 577 C 343 572 347 569 347 569 C 357 577 362 581 362 581 L 357 592 C 343 582 336 577 336 577 Z" fill="#522023" id="id-female-12_yieldfarmer_overalls_pants_orange-34">
+</path >
+<path d="M 349 470 C 329 425 319 403 319 403 C 324 366 326 348 326 348 C 306 356 296 360 296 360 C 297 313 297 290 297 290 L 328 285 L 326 340 L 350 411 L 351 453 C 350 464 349 470 349 470 Z" fill="#ba5602" id="id-female-12_yieldfarmer_overalls_pants_orange-35">
+</path >
+<path d="M 215 228 C 249 228 265 228 265 228 C 264 261 264 278 264 278 L 217 279 C 216 245 215 228 215 228 Z" fill="#fa9524" id="id-female-12_yieldfarmer_overalls_pants_orange-36">
+</path >
+<path d="M 292 201 C 290 218 289 226 289 226 C 271 240 262 247 262 247 L 304 234 L 292 201 Z" fill="#d97206" id="id-female-12_yieldfarmer_overalls_pants_orange-37">
+</path >
+<path d="M 96 228 C 120 227 132 227 132 227 C 132 212 132 204 132 204 L 96 206 C 96 221 96 228 96 228 Z" fill="#b52e2f" id="id-female-12_yieldfarmer_overalls_pants_orange-38">
+</path >
+<path d="M 294 224 C 315 227 325 228 325 228 C 325 214 325 206 325 206 L 296 204 C 295 218 294 224 294 224 Z" fill="#af2a2b" id="id-female-12_yieldfarmer_overalls_pants_orange-39">
+</path >
+<path d="M 96 274 C 119 291 130 300 130 300 C 174 366 196 399 196 399 C 148 402 124 403 124 403 C 122 380 121 369 121 369 C 115 369 112 369 112 369 C 113 354 114 347 114 347 L 101 343 L 102 341 C 98 296 96 274 96 274 Z" fill="#934101" id="id-female-12_yieldfarmer_overalls_pants_orange-40">
+</path >
+<path d="M 75 470 C 97 423 108 400 108 400 L 76 397 L 71 407 C 74 449 75 470 75 470 Z" fill="#a54a02" id="id-female-12_yieldfarmer_overalls_pants_orange-41">
+</path >
+<path d="M 72 429 L 100 418 L 75 469 C 73 442 72 429 72 429 Z" fill="#9e3e02" id="id-female-12_yieldfarmer_overalls_pants_orange-42">
+</path >
+<path d="M 295 202 C 294 133 294 99 294 99 C 294 94 294 91 294 91 C 294 86 294 83 294 83 C 293 77 293 74 293 74 C 289 38 287 20 287 20 L 282 17 C 277 9 274 5 273 3 C 279 1 281 0 281 0 C 299 18 308 26 308 26 C 312 40 315 58 316 78 C 322 150 325 186 325 186 L 326 204 C 305 202 295 202 295 202 Z" fill="#000000" id="id-female-12_yieldfarmer_overalls_pants_orange-43">
+</path >
+<path d="M 129 202 C 128 167 131 134 135 101 L 135 97 C 137 89 137 85 137 85 C 138 77 138 73 138 73 C 144 38 147 21 147 21 C 155 15 160 11 161 10 C 154 7 150 6 150 6 C 132 20 123 27 123 27 C 119 41 115 57 113 75 C 107 119 102 162 100 203 C 120 202 129 202 129 202 Z" fill="#000000" id="id-female-12_yieldfarmer_overalls_pants_orange-44">
+</path >
+<path d="M 93 217 C 90 217 88 217 88 217 C 88 199 88 190 88 190 C 122 190 139 189 139 189 C 139 204 139 211 139 211 C 136 213 135 213 135 213 C 135 201 136 196 136 196 L 93 196 C 93 210 93 217 93 217 Z" fill="#4f5866" id="id-female-12_yieldfarmer_overalls_pants_orange-45">
+</path >
+<path d="M 139 189 C 139 191 139 192 139 192 C 136 193 135 194 135 194 L 135 189 C 138 189 139 189 139 189 Z" fill="#92b6f2" id="id-female-12_yieldfarmer_overalls_pants_orange-46">
+</path >
+<path d="M 291 209 C 288 208 286 208 286 208 C 287 195 287 188 287 188 C 319 188 334 189 334 189 C 334 189 334 189 334 190 C 333 206 332 214 332 214 C 329 213 328 213 328 213 C 329 200 330 194 330 194 L 293 193 C 292 204 291 209 291 209 Z" fill="#4f5866" id="id-female-12_yieldfarmer_overalls_pants_orange-47">
+</path >
+<path d="M 334 189 C 334 191 334 193 334 193 C 331 194 330 194 330 194 L 332 189 C 333 189 334 189 334 189 Z" fill="#92b6f2" id="id-female-12_yieldfarmer_overalls_pants_orange-48">
+</path >
+<path d="M 321 101 C 300 101 289 101 289 101 C 289 95 289 93 289 93 L 321 92 C 321 98 321 101 321 101 Z" fill="#4f5866" id="id-female-12_yieldfarmer_overalls_pants_orange-49">
+</path >
+<path d="M 321 88 C 300 87 290 87 290 87 C 290 81 290 79 290 79 L 321 78 C 321 84 321 88 321 88 Z" fill="#4f5866" id="id-female-12_yieldfarmer_overalls_pants_orange-50">
+</path >
+<path d="M 290 79 C 311 78 321 78 321 78 C 321 80 321 81 321 81 L 290 81 L 290 79 Z" fill="#5d6f8f" id="id-female-12_yieldfarmer_overalls_pants_orange-51">
+</path >
+<path d="M 107 101 C 129 100 140 100 140 100 C 140 95 140 93 140 93 L 107 93 C 107 98 107 101 107 101 Z" fill="#4f5866" id="id-female-12_yieldfarmer_overalls_pants_orange-52">
+</path >
+<path d="M 108 84 C 130 85 141 86 141 86 C 141 80 141 77 141 77 C 132 77 125 76 120 76 C 117 76 113 76 108 76 C 108 82 108 84 108 84 Z" fill="#4f5866" id="id-female-12_yieldfarmer_overalls_pants_orange-53">
+</path >
+<polygon points="108 78 141 79 141 77 108 76" fill="#5d6f8f" id="id-female-12_yieldfarmer_overalls_pants_orange-54">
+</polygon >
+<path d="M 123 275 C 118 309 115 325 115 325 C 120 326 123 326 123 326 C 126 372 127 395 127 395 C 150 397 165 398 173 399 C 208 400 223 399 223 399 C 273 398 298 397 298 397 C 298 354 298 332 298 332 C 301 329 303 327 303 327 C 302 292 302 274 302 274 L 193 275 C 147 275 123 275 123 275 Z" fill="#a72224" id="id-female-12_yieldfarmer_overalls_pants_orange-55">
+</path >
+<path d="M 176 326 C 184 292 188 275 188 275 C 191 275 193 275 193 275 C 241 275 265 274 265 274 L 254 327 C 202 326 176 326 176 326 Z" fill="#b52e2f" id="id-female-12_yieldfarmer_overalls_pants_orange-56">
+</path >
+<path d="M 258 304 C 257 317 256 324 256 324 C 285 324 299 324 299 324 L 299 304 C 271 304 258 304 258 304 Z" fill="#23274b" id="id-female-12_yieldfarmer_overalls_pants_orange-57">
+</path >
+<path d="M 260 307 C 284 307 296 307 296 307 C 296 316 296 321 296 321 L 259 321 C 259 312 260 307 260 307 Z" fill="#636b80" id="id-female-12_yieldfarmer_overalls_pants_orange-58">
+</path >
+<path d="M 115 325 L 303 327 C 300 331 298 332 298 332 C 293 331 291 330 291 330 C 202 330 158 330 158 330 C 137 337 127 341 127 341 L 123 327 L 115 325 Z" fill="#800109" id="id-female-12_yieldfarmer_overalls_pants_orange-59">
+</path >
+<path d="M 184 313 C 189 290 192 278 192 278 L 242 278 C 203 302 184 313 184 313 Z" fill="#c13b42" id="id-female-12_yieldfarmer_overalls_pants_orange-60">
+</path >
+<path d="M 170 330 L 173 399 C 205 399 221 399 221 399 C 232 399 237 399 237 399 C 241 384 243 376 243 376 L 254 330 C 198 330 170 330 170 330 Z" fill="#b52e2f" id="id-female-12_yieldfarmer_overalls_pants_orange-61">
+</path >
+<g transform="translate(142,342)" id="id-female-12_yieldfarmer_overalls_pants_orange-62">
+<polygon points="132 36 141 36 141 2 107 2 107 36 118 36 118 13 120 13 120 36 130 36 130 13 132 13" fill="#03091e" id="id-female-12_yieldfarmer_overalls_pants_orange-63">
+</polygon >
+<polygon points="118 2 107 2 107 18" fill="#182451" id="id-female-12_yieldfarmer_overalls_pants_orange-63">
+</polygon >
+<polygon points="72 35 81 35 82 11 96 11 96 13 87 13 83 19 100 36 106 30 100 24 105 24 105 2 73 1" fill="#182451" id="id-female-12_yieldfarmer_overalls_pants_orange-65">
+</polygon >
+<polygon points="96 33 100 36 106 30 102 26" fill="#03091e" id="id-female-12_yieldfarmer_overalls_pants_orange-65">
+</polygon >
+<polygon points="0 35 10 35 10 23 34 23 34 13 10 13 10 11 34 11 35 1 1 1" fill="#03091e" id="id-female-12_yieldfarmer_overalls_pants_orange-67">
+</polygon >
+<polygon points="28 23 34 23 34 13 29 13" fill="#182451" id="id-female-12_yieldfarmer_overalls_pants_orange-67">
+</polygon >
+<polygon points="29 11 34 11 35 1 31 1" fill="#182451" id="id-female-12_yieldfarmer_overalls_pants_orange-67">
+</polygon >
+<path d="M 70 1 L 70 35 L 61 35 L 61 28 L 46 28 L 46 35 L 37 35 L 37 1 L 70 1 Z M 61 11 L 46 11 L 46 18 L 61 18 L 61 11 Z" fill="#182451" id="id-female-12_yieldfarmer_overalls_pants_orange-70">
+</path >
+</g >
+</g >
+<defs >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-female-25_35_half_up_headband-0">
+<stop stop-color="#c1b291" offset="0%">
+</stop >
+<stop stop-color="#a57b5a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-female-25_35_half_up_headband-1">
+<stop stop-color="#f0cfaf" offset="0%">
+</stop >
+<stop stop-color="#d89c81" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-female-25_35_half_up_headband-2">
+<stop stop-color="#f0cfaf" offset="0%">
+</stop >
+<stop stop-color="#d89c81" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="5%" x2="50%" y2="100%" id="id-female-25_35_half_up_headband-3">
+<stop stop-color="#ffe9ca" offset="0%">
+</stop >
+<stop stop-color="#feab47" offset="48%">
+</stop >
+<stop stop-color="#ff0d00" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="5%" x2="50%" y2="100%" id="id-female-25_35_half_up_headband-4">
+<stop stop-color="#ffe9ca" offset="0%">
+</stop >
+<stop stop-color="#feab47" offset="48%">
+</stop >
+<stop stop-color="#ff0d00" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(549,255)" id="id-female-25_35_half_up_headband-5">
+<path d="M 43 281 C 52 274 57 268 55 264 C 54 261 50 230 43 172 C 65 135 81 115 89 112 C 97 109 107 106 119 103 C 136 109 146 113 149 115 C 152 117 162 140 180 185 L 172 261 L 197 326 L 166 77 L 32 77 L 43 281 Z" fill="#000000" opacity="0.303" id="id-female-25_35_half_up_headband-6">
+</path >
+<path d="M 124 14 L 134 49 L 157 25 C 159 27 160 29 160 30 C 162 30 163 30 164 31 L 214 88 L 214 143 L 201 164 L 155 96 L 78 93 L 24 169 L 14 135 C 13 144 14 153 19 164 C 4 153 -1 133 2 101 C -2 90 1 77 10 60 C 8 77 8 88 9 93 C 12 90 15 86 17 82 C 14 59 27 56 33 53 C 31 59 31 63 34 49 C 32 49 22 54 12 69 C 14 60 15 57 17 52 C 28 41 46 34 71 33 C 113 28 124 19 106 8 C 108 6 114 8 124 14 Z M 31 60 C 27 63 24 65 23 68 C 22 70 22 72 22 73 L 31 60 Z" fill="#e3bba0" id="id-female-25_35_half_up_headband-7">
+</path >
+<path d="M 12 176 C 1 121 16 101 16 92 C 12 91 2 110 1 134 C 0 160 7 170 12 176 Z" fill="#fce3c4" id="id-female-25_35_half_up_headband-8">
+</path >
+<path d="M 145 1 C 159 23 161 38 165 52 L 165 53 C 166 56 167 59 168 62 C 169 58 171 52 172 45 C 167 37 164 33 163 31 C 167 31 172 33 177 37 C 176 35 175 34 176 34 C 210 39 217 50 231 66 C 231 72 226 86 220 98 C 230 119 235 137 235 153 C 218 156 208 163 204 166 C 205 162 208 159 212 156 L 213 155 C 219 149 225 143 220 134 C 219 135 217 139 213 145 L 213 124 L 204 143 L 209 93 C 202 80 197 71 194 66 C 199 79 198 94 192 112 L 141 62 L 136 47 L 133 62 L 106 56 C 91 43 84 37 84 37 C 78 36 72 36 66 35 C 83 42 96 49 105 55 C 83 64 67 74 58 84 C 52 74 48 67 45 62 C 44 59 45 55 46 51 C 42 54 34 66 29 75 C 29 72 29 70 29 68 L 29 68 C 29 60 30 55 36 43 C 29 43 22 46 16 53 C 21 36 37 36 46 35 C 61 27 77 22 93 21 C 98 15 102 11 103 11 C 110 17 117 18 124 15 L 107 7 C 118 2 130 0 145 1 Z M 201 57 L 216 90 C 219 78 219 70 216 65 C 214 61 209 59 201 57 Z" fill="#fde4c7" id="id-female-25_35_half_up_headband-7">
+</path >
+<path d="M 36 82 C 38 90 42 96 46 98 L 32 115 L 28 103 C 33 96 35 89 36 82 Z" fill="#a77c5b" id="id-female-25_35_half_up_headband-10">
+</path >
+<path d="M 27 177 C 11 99 69 54 113 54 C 156 54 217 101 202 177 C 194 134 157 89 113 89 C 69 89 23 128 27 177 Z" fill="#151823" id="id-female-25_35_half_up_headband-11">
+</path >
+<path d="M 34 359 C 39 358 43 354 45 346 C 48 351 50 354 51 355 C 64 338 32 307 34 292 C 34 281 55 279 47 232 C 45 231 34 259 29 289 C 37 320 39 334 34 359 Z" fill="#a77b5b" id="id-female-25_35_half_up_headband-12">
+</path >
+<polygon points="203 400 194 432 203 422" fill="#e91500" id="id-female-25_35_half_up_headband-13">
+</polygon >
+<path d="M 195 353 C 206 344 212 332 215 316 C 218 329 220 333 220 330 C 226 312 225 293 217 272 C 218 274 219 275 219 275 L 220 271 C 202 230 193 198 195 174 C 190 150 187 138 187 138 L 176 122 C 166 108 161 101 161 101 C 136 87 107 85 76 95 C 64 96 54 112 54 112 C 37 125 26 147 21 180 C 26 189 27 216 27 216 C 37 294 39 341 34 359 C 40 358 43 354 45 347 L 51 355 C 62 337 21 299 41 283 C 62 266 37 226 44 190 C 66 149 65 135 86 106 C 93 96 105 108 119 110 C 136 108 149 100 154 111 C 169 163 173 175 182 218 C 193 284 182 316 195 353 Z" fill="url(#id-female-25_35_half_up_headband-0)" id="id-female-25_35_half_up_headband-14">
+</path >
+<path d="M 200 359 C 234 342 212 294 212 294 C 218 304 221 310 221 310 C 218 295 217 287 217 287 C 201 257 193 242 193 242 C 194 235 195 231 195 231 C 212 257 220 271 220 271 C 207 232 198 205 191 190 C 179 192 174 259 174 259 C 179 274 181 281 181 281 C 179 296 179 310 181 325 C 186 345 197 349 197 349 C 201 331 203 311 203 290 C 210 314 223 338 200 359 Z" fill="url(#id-female-25_35_half_up_headband-1)" id="id-female-25_35_half_up_headband-15">
+</path >
+<path d="M 44 209 L 50 257 L 32 277 C 38 312 40 336 36 349 C 34 331 36 316 18 335 C 5 306 9 267 29 216 L 44 209 Z" fill="url(#id-female-25_35_half_up_headband-2)" id="id-female-25_35_half_up_headband-16">
+</path >
+<path d="M 33 460 C 4 415 16 382 19 307 C 21 268 28 216 40 153 C 47 126 57 105 70 91 C 81 79 93 82 107 100 C 91 91 81 92 77 102 C 84 96 89 95 95 100 C 88 96 83 99 79 106 C 66 129 58 149 49 174 C 49 168 50 160 52 142 C 34 196 52 230 45 247 C 44 256 43 229 42 213 C 45 268 33 317 26 394 C 28 417 29 433 32 455 C 27 435 24 409 23 376 C 18 405 21 433 33 460 Z" fill="url(#id-female-25_35_half_up_headband-3)" id="id-female-25_35_half_up_headband-17">
+</path >
+<path d="M 181 449 C 194 387 186 381 182 351 C 179 314 194 196 152 101 C 147 101 139 103 126 106 L 136 98 C 122 105 116 108 118 107 C 121 101 132 94 151 85 C 167 98 177 118 181 143 C 182 146 179 141 170 128 L 192 186 L 190 172 L 186 170 C 186 151 186 140 187 138 C 193 146 198 158 202 176 L 203 166 L 208 182 C 205 190 202 199 201 211 C 202 250 198 231 198 253 C 188 349 206 344 200 396 C 195 427 187 427 181 449 Z" fill="url(#id-female-25_35_half_up_headband-4)" id="id-female-25_35_half_up_headband-18">
+</path >
+<g transform="translate(53,12)" id="id-female-25_35_half_up_headband-19">
+<path d="M 74 4 C 75 10 78 20 83 33 C 88 23 96 18 105 18 C 103 14 100 8 96 1 C 90 11 83 12 74 4 Z" fill="#fffbf8" id="id-female-25_35_half_up_headband-20">
+</path >
+<path d="M 118 39 L 117 44 C 121 46 122 48 125 53 C 133 59 139 69 143 84 C 145 73 145 64 142 57 C 135 44 122 49 118 39 Z" fill="#fffbf8" id="id-female-25_35_half_up_headband-21">
+</path >
+<path d="M 129 23 C 130 24 131 29 135 39 C 145 36 160 42 178 57 C 178 57 178 55 178 54 C 165 36 148 25 129 23 Z" fill="#fffbf8" id="id-female-25_35_half_up_headband-22">
+</path >
+<path d="M 103 92 C 105 98 106 103 108 107 C 111 106 115 107 121 108 C 117 101 112 96 106 91 C 105 90 104 91 103 92 Z" fill="#fffcfa" id="id-female-25_35_half_up_headband-23">
+</path >
+<path d="M 181 128 C 179 132 177 132 174 138 C 174 116 165 94 169 91 C 171 97 179 114 181 128 Z" fill="#fffaf6" id="id-female-25_35_half_up_headband-24">
+</path >
+<path d="M 0 105 C 1 103 1 101 2 101 C 6 104 10 104 14 103 L 15 107 L 6 127 L 5 126 C 7 117 6 110 0 105 Z" fill="#fffcfb" id="id-female-25_35_half_up_headband-25">
+</path >
+</g >
+</g >
+<defs >
+<linearGradient x1="0%" y1="44%" x2="80%" y2="44%" id="id-female-28_yieldfarmer_glasses_pink-0">
+<stop stop-color="#ff37ff" offset="0%">
+</stop >
+<stop stop-color="#ff37ff" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-female-28_yieldfarmer_glasses_pink-1">
+<stop stop-color="#ff37ff" offset="0%">
+</stop >
+<stop stop-color="#ff37ff" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-female-28_yieldfarmer_glasses_pink-2">
+<stop stop-color="#ff37ff" offset="0%">
+</stop >
+<stop stop-color="#ff37ff" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-female-28_yieldfarmer_glasses_pink-3">
+<stop stop-color="#ff37ff" offset="0%">
+</stop >
+<stop stop-color="#efbfd6" offset="50%" stop-opacity="0.794">
+</stop >
+<stop stop-color="#71135f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="2%" y2="50%" id="id-female-28_yieldfarmer_glasses_pink-4">
+<stop stop-color="#e32b6b" offset="0%">
+</stop >
+<stop stop-color="#fedb82" offset="49%">
+</stop >
+<stop stop-color="#e32b6b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="1%" x2="50%" y2="100%" id="id-female-28_yieldfarmer_glasses_pink-5">
+<stop stop-color="#ffef90" offset="0%">
+</stop >
+<stop stop-color="#aaf8f6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-female-28_yieldfarmer_glasses_pink-6">
+<stop stop-color="#ffef90" offset="1%">
+</stop >
+<stop stop-color="#aaf8f6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="1%" x2="50%" y2="100%" id="id-female-28_yieldfarmer_glasses_pink-7">
+<stop stop-color="#ffef90" offset="0%">
+</stop >
+<stop stop-color="#aaf8f6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="1%" x2="50%" y2="100%" id="id-female-28_yieldfarmer_glasses_pink-8">
+<stop stop-color="#ffef90" offset="0%">
+</stop >
+<stop stop-color="#aaf8f6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-female-28_yieldfarmer_glasses_pink-9">
+<stop stop-color="#f5f58f" offset="0%">
+</stop >
+<stop stop-color="#ff38ff" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="1%" x2="50%" y2="100%" id="id-female-28_yieldfarmer_glasses_pink-10">
+<stop stop-color="#ffef90" offset="0%">
+</stop >
+<stop stop-color="#aaf8f6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-female-28_yieldfarmer_glasses_pink-11">
+<stop stop-color="#ffef90" offset="0%">
+</stop >
+<stop stop-color="#aaf8f6" offset="100%">
+</stop >
+<stop stop-color="#aaf8f6" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(341,415)" id="id-female-28_yieldfarmer_glasses_pink-12">
+<path d="M 4 30 L 124 14 L 124 205 L 4 189 C 4 83 4 30 4 30 Z" fill="#ff37ff" fill-opacity="0.25" id="id-female-28_yieldfarmer_glasses_pink-13">
+</path >
+<path d="M 126 12 L 126 207 L 2 190 L 2 29 L 126 12 Z M 124 14 L 4 30 L 4 30 L 4 189 L 124 205 L 124 14 Z" fill="#56d20c" id="id-female-28_yieldfarmer_glasses_pink-14">
+</path >
+<path d="M 128 9 C 129 137 129 204 129 209 L 129 209 L 129 209 L 0 192 L 0 27 C 85 15 128 9 128 9 Z M 124 14 L 4 30 L 4 30 L 4 189 L 124 205 L 124 14 Z" fill="#ff36ff" id="id-female-28_yieldfarmer_glasses_pink-14">
+</path >
+<path d="M 9 167 C 9 178 9 184 9 184 L 59 190 L 59 172 L 9 167 Z" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-16">
+</path >
+<path d="M 10 151 C 10 149 10 149 10 149 L 58 152 L 58 154 C 26 152 10 151 10 151 Z" fill="#ff37ff" id="id-female-28_yieldfarmer_glasses_pink-17">
+</path >
+<path d="M 10 146 L 12 146 L 12 121 L 10 121 C 10 138 10 146 10 146 Z" fill="#ff37ff" id="id-female-28_yieldfarmer_glasses_pink-18">
+</path >
+<path d="M 22 146 C 26 147 28 147 28 147 C 28 130 27 121 27 121 L 23 121 C 22 138 22 146 22 146 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-19">
+</path >
+<path d="M 30 147 C 33 147 35 148 35 148 C 35 135 35 129 35 129 L 30 129 C 30 141 30 147 30 147 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-20">
+</path >
+<path d="M 37 148 C 37 144 37 143 37 143 L 42 143 L 42 148 L 37 148 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-21">
+</path >
+<polygon points="44 148 44 124 50 124 50 149" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-22">
+</polygon >
+<path d="M 52 149 C 52 142 52 138 52 138 L 57 139 L 57 149 L 52 149 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-23">
+</path >
+<path d="M 20 108 C 14 108 11 108 11 108 C 11 114 11 117 11 117 L 20 117 C 20 111 20 108 20 108 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-24">
+</path >
+<path d="M 122 100 L 122 202 C 122 202 103 200 66 195 L 66 195 L 66 190 C 66 190 66 190 66 190 L 66 185 C 66 185 66 185 66 185 L 66 180 C 66 180 66 179 66 179 L 66 175 C 66 175 66 174 66 174 L 66 170 C 66 170 66 170 66 169 L 66 165 C 66 165 66 165 66 164 L 66 160 C 66 159 66 159 66 159 L 66 155 C 66 155 66 154 66 154 L 66 150 C 66 150 66 149 66 149 L 66 145 C 66 144 66 144 66 143 L 66 140 C 66 140 66 139 66 139 L 66 135 C 66 134 66 134 66 133 L 66 130 C 66 129 66 129 66 128 L 66 125 C 66 125 66 124 66 123 L 66 120 C 66 120 66 119 66 118 L 66 115 C 66 114 66 114 66 113 L 66 110 C 66 109 66 109 66 108 L 66 104 C 66 103 66 102 66 100 C 66 100 66 100 66 100 L 66 100 C 67 100 86 100 122 100 L 122 100 Z M 120 103 C 87 103 70 103 68 103 L 68 103 C 68 103 68 103 68 103 L 67 103 L 67 103 C 67 161 67 191 67 194 L 67 194 L 67 194 C 102 198 119 200 119 200 L 120 103 Z" id="id-female-28_yieldfarmer_glasses_pink-14">
+</path >
+<path d="M 71 107 C 71 110 71 112 71 112 C 100 112 115 112 115 112 L 115 107 C 86 107 71 107 71 107 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-26">
+</path >
+<path d="M 71 114 C 71 117 71 119 71 119 C 100 119 115 119 115 119 L 115 114 C 86 114 71 114 71 114 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-27">
+</path >
+<path d="M 88 121 C 88 124 88 125 88 125 C 100 126 106 126 106 126 L 106 121 C 94 121 88 121 88 121 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-28">
+</path >
+<path d="M 116 121 C 113 121 112 121 112 121 C 112 124 112 126 112 126 L 115 126 C 115 123 116 121 116 121 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-29">
+</path >
+<path d="M 116 132 C 103 132 97 132 97 132 C 96 135 96 137 96 137 L 115 138 C 115 134 116 132 116 132 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-30">
+</path >
+<path d="M 116 140 C 115 143 115 145 115 145 C 85 143 70 142 70 142 L 71 138 C 101 139 116 140 116 140 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-31">
+</path >
+<path d="M 88 136 C 76 136 70 136 70 136 C 71 133 71 131 71 131 L 88 132 C 88 135 88 136 88 136 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-32">
+</path >
+<path d="M 99 148 C 99 159 99 164 99 164 C 108 164 113 165 113 165 L 113 149 C 104 149 99 148 99 148 Z" fill="#ff37ff" id="id-female-28_yieldfarmer_glasses_pink-33">
+</path >
+<path d="M 87 166 C 87 170 87 171 87 171 C 106 173 115 174 115 174 L 115 169 C 96 167 87 166 87 166 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-34">
+</path >
+<path d="M 79 166 C 73 165 71 165 71 165 C 71 168 71 169 71 169 L 79 170 C 79 167 79 166 79 166 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-35">
+</path >
+<path d="M 120 99 C 118 99 117 99 117 99 C 117 83 117 75 117 75 C 118 75 118 75 118 75 C 118 73 118 72 118 72 C 119 72 119 72 119 72 C 119 74 119 75 119 75 L 120 75 C 120 91 120 99 120 99 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-36">
+</path >
+<path d="M 108 88 C 108 88 109 88 109 88 C 109 91 109 93 109 93 C 107 93 106 93 106 93 C 106 96 106 97 106 97 C 105 97 105 97 105 97 C 105 94 105 93 105 93 C 104 93 104 93 104 93 C 104 92 104 91 104 91 L 108 91 C 108 89 108 88 108 88 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-37">
+</path >
+<path d="M 103 88 C 103 90 103 91 103 91 C 101 91 100 91 100 91 L 100 88 C 102 88 103 88 103 88 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-38">
+</path >
+<path d="M 99 89 C 97 89 96 89 96 89 C 96 86 96 84 96 84 L 99 84 C 99 87 99 89 99 89 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-39">
+</path >
+<path d="M 91 84 C 92 84 93 84 93 84 C 93 88 93 89 93 89 L 94 89 C 94 86 94 84 94 84 C 94 84 95 84 95 84 C 95 82 95 81 95 81 L 94 81 C 94 76 94 74 94 74 C 93 74 93 74 93 74 C 93 79 93 81 93 81 L 91 81 C 91 83 91 84 91 84 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-40">
+</path >
+<path d="M 89 87 C 89 87 88 87 88 87 C 88 84 88 82 88 82 C 88 82 87 82 87 82 C 87 81 87 81 87 81 C 88 81 88 81 88 81 C 88 77 88 75 88 75 C 89 75 89 75 89 75 C 89 79 89 81 89 81 C 90 81 90 81 90 81 C 90 82 90 83 90 83 L 89 83 C 89 85 89 87 89 87 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-41">
+</path >
+<path d="M 85 86 C 85 86 85 86 85 86 C 85 84 85 82 85 82 C 86 82 87 82 87 82 C 87 70 87 64 87 64 C 86 64 85 64 85 64 C 86 60 86 58 86 58 C 85 58 85 58 85 58 C 85 62 84 64 84 64 C 84 64 83 64 83 64 C 83 76 83 82 83 82 L 84 82 C 84 85 85 86 85 86 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-42">
+</path >
+<path d="M 82 67 C 81 67 81 67 81 67 C 81 65 81 65 81 65 C 80 65 79 65 79 65 C 79 59 79 56 79 56 C 80 56 81 56 81 56 C 81 53 81 51 81 51 C 81 51 82 51 82 51 C 82 55 82 56 82 56 C 83 56 83 56 83 56 L 83 65 L 82 65 C 82 66 82 67 82 67 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-43">
+</path >
+<path d="M 76 57 C 78 57 79 57 79 57 C 79 34 79 22 79 22 C 78 22 77 22 77 22 C 77 21 77 21 77 21 C 77 21 77 21 77 21 C 77 22 77 22 77 22 L 76 22 C 76 45 76 57 76 57 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-44">
+</path >
+<path d="M 75 41 C 73 41 72 41 72 41 C 72 29 72 23 72 23 L 75 22 C 75 35 75 41 75 41 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-45">
+</path >
+<path d="M 68 41 C 70 41 71 41 71 41 C 71 51 71 55 71 55 L 68 56 C 68 46 68 41 68 41 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-46">
+</path >
+<path d="M 67 60 C 65 60 64 60 64 60 C 64 57 64 56 64 56 C 65 56 65 56 65 56 C 65 54 65 54 65 54 L 66 54 L 66 56 L 67 56 C 67 59 67 60 67 60 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-47">
+</path >
+<path d="M 62 68 C 62 68 62 68 62 68 C 62 64 62 62 62 62 C 63 62 64 62 64 62 C 64 61 64 60 64 60 C 61 60 60 60 60 60 L 60 62 L 62 62 C 62 66 62 68 62 68 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-48">
+</path >
+<path d="M 57 62 C 59 62 60 62 60 62 C 60 55 60 52 60 52 C 59 52 59 52 59 52 C 59 51 59 50 59 50 C 58 50 58 50 58 50 C 58 51 58 52 58 52 L 57 52 C 57 59 57 62 57 62 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-49">
+</path >
+<path d="M 55 52 C 55 54 55 55 55 55 C 54 55 54 55 54 55 C 54 53 54 52 54 52 C 54 52 53 52 53 52 C 53 45 53 42 53 42 L 56 41 L 56 52 C 55 52 55 52 55 52 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-50">
+</path >
+<path d="M 50 42 C 50 44 50 45 50 45 C 51 45 51 45 51 45 C 51 43 51 42 51 42 C 52 42 53 42 53 42 C 53 39 53 38 53 38 C 52 38 52 38 52 38 C 52 37 52 37 52 37 C 51 37 51 37 51 37 C 51 37 51 38 51 38 L 50 38 L 50 42 C 50 42 50 42 50 42 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-51">
+</path >
+<path d="M 45 47 C 45 47 44 47 44 47 C 44 48 44 49 44 49 C 44 49 44 49 44 49 C 44 48 44 47 44 47 C 43 47 43 47 43 47 C 43 41 43 38 43 38 C 43 38 44 38 44 38 C 44 35 44 33 44 33 L 44 33 L 44 38 L 45 38 C 45 44 45 47 45 47 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-52">
+</path >
+<path d="M 39 47 C 40 47 40 47 40 47 C 40 48 40 49 40 49 C 41 49 41 49 41 49 C 41 48 41 47 41 47 C 41 47 42 47 42 47 C 42 40 42 36 42 36 C 41 36 41 36 41 36 C 41 35 41 34 41 34 L 40 34 C 40 35 40 36 40 36 L 39 36 C 39 44 39 47 39 47 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-53">
+</path >
+<path d="M 38 43 C 37 43 37 43 37 43 C 37 39 37 37 37 37 C 36 37 36 37 36 37 C 36 35 36 34 36 34 C 36 34 37 34 37 34 C 37 31 37 29 37 29 L 37 29 L 37 34 L 38 34 L 38 37 L 38 37 C 38 41 38 43 38 43 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-54">
+</path >
+<path d="M 32 37 C 32 35 32 34 32 34 L 33 34 L 33 27 L 34 27 L 34 34 L 35 34 L 35 37 C 33 37 32 37 32 37 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-55">
+</path >
+<polygon points="30 28 31 28 31 37 32 37 32 41 31 41 31 47 30 47 30 41 29 41 29 37 30 37" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-56">
+</polygon >
+<polygon points="28 39 28 41 27 41 27 44 27 44 27 41 26 41 26 39" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-57">
+</polygon >
+<path d="M 25 61 C 23 61 22 61 22 61 C 22 47 22 40 22 40 L 23 40 C 23 38 23 37 23 37 L 23 37 L 23 40 L 25 40 C 25 54 25 61 25 61 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-58">
+</path >
+<path d="M 18 52 L 19 52 C 19 53 19 54 19 54 L 20 54 L 20 52 L 22 52 L 22 41 L 20 41 L 20 37 L 19 37 L 19 41 L 18 41 C 18 48 18 52 18 52 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-59">
+</path >
+<path d="M 16 52 C 16 55 16 56 16 56 L 14 56 C 14 59 14 60 14 60 L 13 60 C 13 57 13 56 13 56 C 13 56 12 56 12 56 C 12 55 12 55 12 55 L 15 54 L 15 52 C 16 52 16 52 16 52 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-60">
+</path >
+<path d="M 11 55 L 9 55 C 9 54 9 53 9 53 L 11 53 C 11 54 11 55 11 55 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-61">
+</path >
+<path d="M 8 53 L 6 53 L 6 49 L 8 49 C 8 52 8 53 8 53 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-62">
+</path >
+<path d="M 6 99 C 6 88 6 82 6 82 C 44 80 63 79 63 79 L 63 98 C 25 98 6 99 6 99 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-63">
+</path >
+<path d="M 100 36 C 103 36 105 36 105 36 C 105 37 105 38 105 38 L 101 39 C 100 37 100 36 100 36 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-64">
+</path >
+<path d="M 97 34 C 96 33 95 32 95 32 C 98 32 99 32 99 32 L 99 34 C 98 34 97 34 97 34 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-65">
+</path >
+<path d="M 90 29 C 90 28 90 27 90 27 C 110 25 120 24 120 24 L 120 27 C 100 28 90 29 90 29 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-66">
+</path >
+<path d="M 108 30 C 108 32 108 33 108 33 C 116 32 120 32 120 32 L 120 29 C 112 30 108 30 108 30 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-67">
+</path >
+<path d="M 107 35 C 107 37 107 38 107 38 C 116 37 120 36 120 36 L 120 34 C 112 35 107 35 107 35 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-68">
+</path >
+<path d="M 95 24 C 95 22 95 21 95 21 C 107 20 113 19 113 19 L 113 22 C 101 23 95 24 95 24 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-69">
+</path >
+<path d="M 117 21 C 117 20 117 19 117 19 C 119 18 120 18 120 18 L 120 21 C 118 21 117 21 117 21 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-70">
+</path >
+<path d="M 114 90 C 114 90 114 90 114 90 C 114 89 114 88 114 88 C 113 88 112 88 112 88 C 112 79 112 75 112 75 C 113 75 114 75 114 75 C 114 72 114 71 114 71 L 114 71 C 114 74 114 75 114 75 L 116 75 L 116 88 L 114 88 L 114 90 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-71">
+</path >
+<polygon points="512 152 512 282 596 271 596 156" fill="#ff37ff" fill-opacity="0.25" id="id-female-28_yieldfarmer_glasses_pink-72">
+</polygon >
+<polygon points="128 14 251 37 251 107 129 205" fill="url(#id-female-28_yieldfarmer_glasses_pink-0)" opacity="0.429" id="id-female-28_yieldfarmer_glasses_pink-73">
+</polygon >
+<path d="M 509 149 L 599 154 L 599 273 L 509 285 L 509 149 Z M 512 152 L 512 282 L 596 271 L 596 156 L 512 152 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-14">
+</path >
+<path d="M 511 151 L 598 155 L 598 272 L 511 284 L 511 151 Z M 512 152 L 512 282 L 596 271 L 596 156 L 512 152 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-14">
+</path >
+<polygon points="515 165 515 167 523 167 523 165" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-76">
+</polygon >
+<polygon points="525 165 525 167 528 167 528 165" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-77">
+</polygon >
+<polygon points="515 162 515 164 522 164 522 162" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-78">
+</polygon >
+<polygon points="529 162 529 164 532 164 532 162" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-79">
+</polygon >
+<polygon points="515 161 515 159 536 159 536 161" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-80">
+</polygon >
+<polygon points="515 155 515 157 516 157 516 155" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-81">
+</polygon >
+<polygon points="519 155 519 157 532 157 532 155" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-82">
+</polygon >
+<polygon points="543 155 545 155 545 179 543 179" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-83">
+</polygon >
+<polygon points="546 167 548 167 548 155 546 155" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-84">
+</polygon >
+<polygon points="549 167 551 167 551 178 549 178" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-85">
+</polygon >
+<polygon points="515 209 517 209 517 194 516 194 516 191 516 191 516 194 515 194" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-86">
+</polygon >
+<polygon points="518 202 519 202 519 204 519 204 519 202 520 202 520 193 519 193 519 190 519 190 519 193 518 193" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-87">
+</polygon >
+<polygon points="523 202 523 205 524 205 524 208 525 208 525 205 526 205 526 204 523 204 523 202" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-88">
+</polygon >
+<polygon points="527 202 527 204 529 204 529 202" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-89">
+</polygon >
+<polygon points="530 202 531 202 531 199 530 199" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-90">
+</polygon >
+<polygon points="532 199 533 199 533 202 533 202 533 199 534 199 534 196 533 196 533 192 533 192 533 196 532 196" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-91">
+</polygon >
+<polygon points="536 200 537 200 537 197 537 197 537 196 536 196 536 192 536 192 536 196 535 196 535 197 536 197" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-92">
+</polygon >
+<polygon points="539 200 539 200 539 197 540 197 540 184 539 184 539 180 539 180 539 184 538 184 538 197 539 197" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-93">
+</polygon >
+<polygon points="541 185 541 186 542 186 542 185 543 185 543 179 542 179 542 175 541 175 541 179 540 179 540 185" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-94">
+</polygon >
+<polygon points="551 181 552 181 552 181 553 181 553 181 553 181 553 177 553 177 553 176 552 176 552 178 551 178" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-95">
+</polygon >
+<polygon points="556 180 556 182 555 182 555 186 554 186 554 182 553 182 553 180" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-96">
+</polygon >
+<polygon points="557 174 557 173 558 173 558 174 558 174 558 182 556 182 556 174" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-97">
+</polygon >
+<polygon points="560 176 560 176 560 174 559 174 559 167 561 167 561 174 560 174" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-98">
+</polygon >
+<polygon points="562 169 563 169 563 167 564 167 564 164 563 164 563 163 562 163 562 164 561 164 561 167 562 167" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-99">
+</polygon >
+<polygon points="567 170 567 170 567 164 567 164 567 160 568 160 568 164 569 164 569 170 568 170 568 171 567 171" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-100">
+</polygon >
+<polygon points="570 162 570 161 571 161 571 162 572 162 572 170 571 170 571 171 570 171 570 170 569 170 569 162" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-101">
+</polygon >
+<polygon points="572 167 573 167 573 163 574 163 574 160 573 160 573 157 572 157 572 160 572 160" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-102">
+</polygon >
+<polygon points="577 165 576 165 576 162 577 162 577 155 578 155 578 162 579 162 579 164 581 164 581 165 578 165 578 170 577 170" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-103">
+</polygon >
+<polygon points="582 164 581 164 581 179 583 179 583 164 583 164 583 162 582 162" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-104">
+</polygon >
+<polygon points="585 164 584 164 584 172 585 172 585 174 585 174 585 172 586 172 586 164 585 164 585 161 585 161" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-105">
+</polygon >
+<polygon points="589 172 589 174 591 174 591 175 588 175 588 172" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-106">
+</polygon >
+<polygon points="591 172 593 172 593 174 591 174" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-107">
+</polygon >
+<polygon points="594 173 596 173 596 169 594 169" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-108">
+</polygon >
+<path d="M 552 209 C 552 225 552 238 552 249 L 552 250 C 552 251 552 252 552 253 L 552 254 C 552 255 552 255 552 255 L 552 256 C 552 257 552 258 552 259 L 552 260 C 552 260 552 260 552 260 L 552 262 C 552 262 552 263 552 263 L 552 264 C 552 264 552 264 552 264 L 552 266 C 552 266 552 266 552 267 L 552 268 C 552 268 552 268 552 268 L 552 270 C 552 270 552 270 552 270 L 552 272 C 552 272 552 272 552 272 L 552 274 C 552 274 552 274 552 274 L 552 275 L 552 275 L 514 281 C 514 276 514 271 514 267 L 514 265 C 514 262 514 259 514 256 L 514 254 C 514 253 514 252 514 251 L 514 249 C 514 248 514 247 514 246 L 514 244 C 514 243 514 243 514 243 L 514 241 C 514 241 514 240 514 240 L 514 238 C 514 238 514 238 514 237 L 514 236 C 514 235 514 235 514 235 L 514 233 C 514 233 514 233 514 232 L 514 231 C 514 231 514 230 514 230 L 514 228 C 514 228 514 227 514 227 L 514 225 C 514 225 514 225 514 225 L 514 222 C 514 222 514 222 514 222 L 514 220 C 514 220 514 220 514 219 L 514 217 C 514 217 514 217 514 217 L 514 214 C 514 214 514 214 514 214 L 514 212 C 514 211 514 211 514 211 L 514 210 L 514 210 C 539 209 552 209 552 209 L 552 209 L 552 209 Z M 551 211 C 551 211 539 211 516 212 L 516 212 L 516 213 C 516 213 516 213 516 213 L 516 214 C 516 214 516 214 516 214 L 516 215 C 516 215 516 215 516 216 L 516 216 C 516 217 516 217 516 217 L 516 218 C 516 218 516 218 516 218 L 516 219 C 516 219 516 220 516 220 L 516 221 C 515 231 515 251 515 279 L 515 279 L 551 274 L 551 274 L 551 274 C 551 274 551 274 551 274 L 551 274 C 551 274 551 274 551 274 L 551 273 C 551 269 551 248 551 211 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-14">
+</path >
+<path d="M 518 215 C 518 217 518 219 518 219 C 539 217 549 217 549 217 L 549 214 C 529 215 518 215 518 215 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-110">
+</path >
+<path d="M 518 220 C 518 222 518 224 518 224 C 538 222 549 222 549 222 L 549 219 C 528 220 518 220 518 220 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-111">
+</path >
+<path d="M 518 225 C 520 225 520 225 520 225 L 520 228 L 518 228 C 518 226 518 225 518 225 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-112">
+</path >
+<path d="M 524 224 C 524 226 524 227 524 227 C 532 227 536 226 536 226 L 536 224 L 524 224 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-113">
+</path >
+<path d="M 519 233 C 519 235 519 236 519 236 C 527 236 531 235 531 235 L 531 232 C 523 233 519 233 519 233 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-114">
+</path >
+<path d="M 536 232 C 536 234 536 235 536 235 L 549 234 L 549 231 C 540 231 536 232 536 232 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-115">
+</path >
+<path d="M 518 238 C 518 240 518 241 518 241 C 539 239 549 239 549 239 L 549 235 C 529 237 518 238 518 238 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-116">
+</path >
+<path d="M 520 244 C 520 251 520 255 520 255 L 530 254 L 530 243 C 523 244 520 244 520 244 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-117">
+</path >
+<path d="M 518 257 C 519 260 519 261 519 261 C 531 260 538 259 538 259 L 538 255 C 525 257 518 257 518 257 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-118">
+</path >
+<path d="M 543 255 C 543 257 543 258 543 258 C 547 258 549 257 549 257 L 549 254 L 543 255 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-119">
+</path >
+<path d="M 518 229 C 518 230 518 231 518 231 C 527 230 532 230 532 230 C 532 233 532 235 532 235 C 534 234 535 234 535 234 C 535 231 535 230 535 230 C 544 229 549 229 549 229 C 549 225 549 224 549 224 C 542 224 539 224 539 224 L 539 228 C 525 229 518 229 518 229 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-120">
+</path >
+<path d="M 595 207 L 595 208 C 595 208 595 208 595 208 L 595 209 C 595 209 595 209 595 209 L 595 210 C 595 210 595 210 595 210 L 595 211 C 595 211 595 211 595 211 L 595 212 C 595 212 595 213 595 213 L 595 213 C 595 214 595 214 595 214 L 595 215 C 595 215 595 215 595 215 L 595 216 C 595 217 595 218 595 218 L 595 219 C 595 230 595 246 595 270 L 595 270 L 555 275 L 555 275 L 555 275 C 555 275 555 275 555 275 L 555 275 C 555 271 555 249 555 209 C 555 209 568 208 595 207 L 595 207 Z M 594 209 C 569 210 556 211 556 211 C 556 251 556 272 556 274 L 556 274 L 556 274 C 580 270 593 269 594 269 L 594 268 C 594 268 594 268 594 268 L 594 209 Z" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-14">
+</path >
+<path d="M 558 245 C 558 246 558 246 558 246 C 581 244 592 243 592 243 L 592 242 C 569 244 558 245 558 245 Z" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-122">
+</path >
+<path d="M 557 259 C 557 268 557 272 557 272 C 581 269 593 267 593 267 L 593 255 C 569 258 557 259 557 259 Z" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-123">
+</path >
+<path d="M 558 243 C 561 243 562 242 562 242 C 562 238 562 236 562 236 L 558 236 C 558 241 558 243 558 243 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-124">
+</path >
+<path d="M 564 242 C 564 231 564 226 564 226 C 566 225 567 225 567 225 L 568 242 C 565 242 564 242 564 242 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-125">
+</path >
+<path d="M 569 241 C 569 239 569 238 569 238 L 572 238 L 572 241 C 570 241 569 241 569 241 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-126">
+</path >
+<path d="M 574 241 C 577 241 578 240 578 240 C 578 232 578 228 578 228 L 574 229 C 574 237 574 241 574 241 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-127">
+</path >
+<path d="M 579 240 C 582 240 583 240 583 240 C 583 228 583 222 583 222 L 579 222 C 579 234 579 240 579 240 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-128">
+</path >
+<path d="M 592 240 C 591 240 591 240 591 240 C 591 228 591 222 591 222 L 592 222 C 592 234 592 240 592 240 Z" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-129">
+</path >
+<path d="M 592 219 C 587 219 585 219 585 219 C 585 215 585 212 585 212 L 592 212 C 592 217 592 219 592 219 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-130">
+</path >
+<circle cx="562" cy="217" r="3" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-131">
+</circle >
+<path d="M 555 207 C 555 198 555 194 555 194 C 581 193 594 193 594 193 L 594 206 C 568 206 555 207 555 207 Z" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-132">
+</path >
+<path d="M 592 153 C 468 121 406 104 406 104 C 405 143 404 163 404 163 L 509 282 L 509 149 C 564 152 592 153 592 153 Z" fill="url(#id-female-28_yieldfarmer_glasses_pink-1)" opacity="0.429" id="id-female-28_yieldfarmer_glasses_pink-133">
+</path >
+<path d="M 544 26 C 544 26 596 36 700 56 L 700 56 L 698 132 C 698 132 646 130 540 126 C 540 126 541 92 544 26 Z M 547 30 C 544 92 543 123 543 123 L 696 130 L 698 59 C 599 40 549 31 547 30 L 547 30 L 547 30 Z" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-14">
+</path >
+<path d="M 547 30 C 544 94 543 126 543 126 C 545 125 546 125 546 125 L 549 33 C 647 51 697 59 697 59 C 696 107 695 131 695 131 C 696 131 696 131 696 131 L 698 58 C 597 39 547 30 547 30 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-135">
+</path >
+<path d="M 549 122 C 549 124 549 125 549 125 C 596 127 619 128 619 128 L 620 126 C 573 123 549 122 549 122 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-136">
+</path >
+<path d="M 625 126 C 625 127 625 128 625 128 C 670 130 692 131 692 131 L 693 130 C 647 127 625 126 625 126 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-137">
+</path >
+<path d="M 551 121 C 554 121 556 121 556 121 C 556 105 556 97 556 97 C 556 97 555 97 555 97 C 555 94 555 93 555 93 L 554 93 C 554 96 554 97 554 97 L 552 97 C 552 113 551 121 551 121 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-138">
+</path >
+<path d="M 559 113 C 560 113 560 113 560 113 C 560 111 560 110 560 110 C 561 111 562 111 562 111 C 562 102 562 97 562 97 C 561 97 561 97 561 97 C 561 94 561 92 561 92 C 560 92 560 92 560 92 C 559 95 559 97 559 97 L 558 97 C 558 106 558 110 558 110 L 559 110 C 559 112 559 113 559 113 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-139">
+</path >
+<path d="M 625 104 C 625 117 624 123 624 123 C 671 125 694 127 694 127 L 694 111 C 648 106 625 104 625 104 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-140">
+</path >
+<path d="M 567 110 C 567 114 567 116 567 116 C 569 116 570 116 570 116 C 570 119 570 120 570 120 L 571 120 L 571 116 L 573 116 L 573 114 L 568 114 L 568 110 C 567 110 567 110 567 110 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-141">
+</path >
+<polygon points="574 111 574 115 578 115 578 111" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-142">
+</polygon >
+<polygon points="579 112 583 112 583 107 579 107" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-143">
+</polygon >
+<polygon points="586 113 587 113 587 108 588 108 588 104 587 104 587 98 586 98 586 104 584 104 584 108 586 108" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-144">
+</polygon >
+<polygon points="591 111 592 111 592 106 594 106 594 104 593 104 593 98 592 98 592 104 590 104 590 106 591 106" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-145">
+</polygon >
+<polygon points="595 106 597 106 597 110 598 110 598 106 599 106 599 88 598 88 598 81 597 81 597 88 595 88" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-146">
+</polygon >
+<polygon points="602 91 603 91 603 89 604 89 604 80 603 80 603 75 602 75 602 80 600 80 600 89 602 89" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-147">
+</polygon >
+<path d="M 606 81 L 609 81 C 610 57 610 45 610 45 L 607 45 L 606 81 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-148">
+</path >
+<path d="M 611 64 L 615 65 C 615 52 615 46 615 46 L 612 45 L 611 64 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-149">
+</path >
+<path d="M 616 65 C 616 74 616 79 616 79 L 619 80 L 619 65 C 617 65 616 65 616 65 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-150">
+</path >
+<polygon points="620 85 621 85 621 86 622 86 622 85 623 85 623 80 622 80 622 78 621 78 621 80 620 80" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-151">
+</polygon >
+<polygon points="625 87 625 93 627 93 627 87 628 87 628 85 624 85 624 87" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-152">
+</polygon >
+<polygon points="629 88 632 88 632 77 631 77 631 75 630 75 630 77 629 77" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-153">
+</polygon >
+<polygon points="634 66 634 77 635 77 635 80 636 80 636 77 637 77 637 66" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-154">
+</polygon >
+<polygon points="640 68 638 68 638 63 640 63 640 62 641 62 641 63 642 63 642 68 641 68 641 71 640 71" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-155">
+</polygon >
+<polygon points="647 73 648 73 648 75 649 75 649 73 650 73 650 64 650 64 650 59 649 59 649 64 647 64" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-156">
+</polygon >
+<polygon points="652 73 652 73 652 75 653 75 653 73 655 73 655 62 654 62 654 60 652 60 652 62 652 62" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-157">
+</polygon >
+<polygon points="658 69 657 69 657 63 656 63 656 60 657 60 657 55 658 55 658 60 659 60 659 63 658 63" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-158">
+</polygon >
+<polygon points="661 60 660 60 660 63 663 63 663 60 662 60 662 54 661 54" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-159">
+</polygon >
+<path d="M 665 63 C 664 63 664 63 664 63 C 664 66 664 67 664 67 C 664 67 665 67 665 67 C 665 72 665 74 665 74 C 665 74 666 74 666 74 C 666 70 666 68 666 68 C 667 68 667 68 667 68 C 667 65 667 64 667 64 C 667 63 666 63 666 63 C 666 58 666 55 666 55 L 665 55 C 665 61 665 63 665 63 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-160">
+</path >
+<path d="M 668 66 C 670 66 671 66 671 66 C 671 68 671 68 671 68 C 670 68 670 68 670 68 C 670 70 670 71 670 71 L 669 71 L 669 68 L 668 68 C 668 67 668 66 668 66 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-161">
+</path >
+<path d="M 674 67 C 673 67 672 67 672 67 C 672 81 672 88 672 88 C 674 88 675 88 675 88 C 675 75 675 68 675 68 C 674 68 674 67 674 67 C 674 66 674 65 674 65 L 673 65 C 673 66 674 67 674 67 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-162">
+</path >
+<polygon points="677 68 677 65 679 65 679 68 679 68 679 79 678 79 678 81 677 81 677 79 676 79 676 68" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-163">
+</polygon >
+<polygon points="682 80 683 80 683 82 686 82 686 85 685 85 685 88 684 88 684 84 682 84" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-164">
+</polygon >
+<polygon points="688 81 690 81 690 83 688 83" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-165">
+</polygon >
+<polygon points="691 77 694 77 694 82 691 82" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-166">
+</polygon >
+<path d="M 540 123 C 474 94 442 80 442 80 C 443 51 444 37 444 37 L 544 31 C 541 93 540 123 540 123 Z" fill="url(#id-female-28_yieldfarmer_glasses_pink-2)" opacity="0.429" id="id-female-28_yieldfarmer_glasses_pink-167">
+</path >
+<path d="M 255 20 C 337 19 379 19 379 19 C 389 23 403 21 407 34 C 408 67 409 84 409 84 C 392 88 383 91 383 91 L 377 87 C 369 92 355 90 341 89 C 312 89 298 89 298 89 C 279 92 267 91 264 89 C 254 88 249 88 249 88 C 237 84 231 82 231 82 L 234 31 C 248 19 254 15 255 20 Z" fill="url(#id-female-28_yieldfarmer_glasses_pink-3)" opacity="0.518" id="id-female-28_yieldfarmer_glasses_pink-168">
+</path >
+<path d="M 439 39 C 438 34 439 29 441 26 C 444 27 444 44 444 64 C 444 78 441 89 436 98 C 435 98 435 97 435 90 C 438 98 442 81 443 60 C 442 32 441 25 439 39 Z" fill="#fb5fbb" id="id-female-28_yieldfarmer_glasses_pink-169">
+</path >
+<path d="M 429 80 C 429 84 430 87 432 90 C 436 73 438 55 435 32 C 433 35 432 39 433 44 C 436 35 434 55 435 62 C 433 80 431 86 429 80 Z" fill="#fb5fbb" id="id-female-28_yieldfarmer_glasses_pink-170">
+</path >
+<path d="M 202 40 C 199 24 198 32 199 64 C 200 80 201 99 206 90 L 204 98 C 200 93 197 82 197 64 C 196 34 197 28 200 26 C 202 28 203 32 202 40 Z" fill="#fb5fbb" id="id-female-28_yieldfarmer_glasses_pink-171">
+</path >
+<path d="M 212 79 C 210 86 209 90 209 90 C 205 76 203 58 206 32 C 207 33 208 34 208 44 C 206 37 205 45 206 64 C 207 80 209 85 212 79 Z" fill="#fb5fbb" id="id-female-28_yieldfarmer_glasses_pink-172">
+</path >
+<path d="M 248 104 C 246 109 244 111 244 111 C 232 106 223 93 216 77 C 214 77 213 76 212 75 C 211 52 210 40 210 40 C 214 38 216 37 216 37 C 220 28 225 19 235 8 C 238 9 242 9 243 15 C 237 20 231 25 225 34 C 224 59 224 72 224 72 L 222 79 C 230 93 239 101 248 104 Z" fill="#000b00" id="id-female-28_yieldfarmer_glasses_pink-173">
+</path >
+<path d="M 432 104 C 429 109 428 111 428 111 C 415 106 406 93 399 77 C 398 77 396 76 395 75 C 394 52 394 40 394 40 C 397 38 399 37 399 37 C 404 28 409 19 418 8 C 421 9 425 9 427 15 C 421 20 414 25 409 34 C 408 59 408 72 408 72 L 405 79 C 413 93 422 101 432 104 Z" transform="translate(413,60) scale(-1,1) translate(-413,-60)" fill="#000b00" id="id-female-28_yieldfarmer_glasses_pink-174">
+</path >
+<path d="M 247 20 C 241 23 232 26 227 42 C 226 63 225 73 225 73 C 227 83 233 90 245 93 L 273 98 C 267 91 264 87 264 87 C 266 84 267 83 267 83 C 265 82 264 81 264 81 C 258 86 251 89 244 88 C 240 88 237 87 234 84 C 234 66 233 45 236 32 C 244 24 253 19 266 23 C 338 23 374 23 374 23 C 378 21 380 21 380 21 C 393 23 403 27 405 35 C 407 46 407 66 407 83 C 395 92 386 88 376 81 C 374 82 373 83 373 83 C 376 85 377 87 377 87 C 371 94 367 98 367 98 C 391 93 403 91 403 91 C 413 86 417 76 414 56 C 413 34 410 30 402 24 L 373 8 C 363 2 347 3 333 2 C 311 2 294 3 277 4 C 272 5 262 10 247 20 Z" fill="#001100" id="id-female-28_yieldfarmer_glasses_pink-175">
+</path >
+<path d="M 271 6 C 264 15 261 20 261 20 C 264 20 266 21 267 21 C 342 21 378 21 378 21 C 384 18 387 16 387 16 C 377 11 372 8 372 8 C 361 1 347 3 333 2 C 316 2 298 2 277 4 C 275 5 272 6 271 6 Z" fill="#263360" id="id-female-28_yieldfarmer_glasses_pink-176">
+</path >
+<path d="M 308 2 C 317 10 321 14 321 14 C 329 6 333 2 333 2 L 321 0 C 313 1 308 2 308 2 Z" fill="#db2067" id="id-female-28_yieldfarmer_glasses_pink-177">
+</path >
+<path d="M 387 16 L 378 21 C 365 19 358 18 358 18 C 362 15 366 11 369 6 C 376 10 382 13 387 16 Z" fill="#475181" id="id-female-28_yieldfarmer_glasses_pink-178">
+</path >
+<path d="M 267 8 C 261 16 258 20 258 20 C 247 20 240 27 232 32 C 234 28 237 25 245 21 C 255 15 262 11 267 8 Z" fill="#19293f" id="id-female-28_yieldfarmer_glasses_pink-179">
+</path >
+<path d="M 241 41 C 248 37 252 35 252 35 C 252 52 252 61 252 61 C 249 63 247 65 247 65 C 247 76 247 81 247 81 L 241 81 C 241 54 241 41 241 41 Z" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-180">
+</path >
+<path d="M 258 83 C 258 61 260 40 264 23 C 265 23 266 23 266 23 L 276 23 C 267 33 261 53 258 83 Z" fill="#ffffff" fill-opacity="0.36" id="id-female-28_yieldfarmer_glasses_pink-181">
+</path >
+<path d="M 276 69 C 276 71 275 71 275 71 C 279 73 283 73 288 70 L 286 69 C 282 71 279 71 276 69 Z" fill="#fd80e8" id="id-female-28_yieldfarmer_glasses_pink-182">
+</path >
+<path d="M 547 30 C 544 92 543 123 543 123 L 696 130 L 698 59 C 597 40 547 30 547 30 Z" fill="#ff37ff" fill-opacity="0.25" id="id-female-28_yieldfarmer_glasses_pink-183">
+</path >
+<path d="M 292 64 C 293 65 294 66 294 66 C 296 63 298 59 298 55 L 301 55 L 301 54 C 299 54 298 54 298 54 C 298 49 296 46 293 43 C 298 38 300 35 300 35 C 321 35 332 35 332 35 C 331 34 331 34 331 34 C 310 34 300 34 300 34 C 298 36 295 39 292 42 C 288 36 266 31 263 54 C 260 54 258 54 258 54 C 258 55 258 55 258 55 C 261 55 263 55 263 55 C 263 63 265 64 267 67 C 268 65 269 65 269 65 C 263 57 265 44 276 41 C 278 40 286 39 291 44 C 294 48 297 56 292 64 Z" fill="#ff88e9" id="id-female-28_yieldfarmer_glasses_pink-184">
+</path >
+<path d="M 264 87 C 280 93 286 88 321 90 C 349 90 370 93 377 87 L 373 83 C 371 90 349 89 320 87 C 294 87 270 89 267 83 L 264 87 Z" fill="url(#id-female-28_yieldfarmer_glasses_pink-4)" id="id-female-28_yieldfarmer_glasses_pink-185">
+</path >
+<path d="M 234 79 C 243 89 252 84 262 83 C 251 90 242 91 234 84 C 234 81 234 79 234 79 Z" fill="#7f258f" id="id-female-28_yieldfarmer_glasses_pink-186">
+</path >
+<path d="M 314 69 C 315 69 316 69 316 69 C 316 80 316 86 316 86 L 314 86 C 314 75 314 69 314 69 Z" fill="url(#id-female-28_yieldfarmer_glasses_pink-5)" id="id-female-28_yieldfarmer_glasses_pink-187">
+</path >
+<path d="M 317 69 C 318 69 319 69 319 69 C 319 75 319 78 319 78 L 317 78 C 317 72 317 69 317 69 Z" fill="url(#id-female-28_yieldfarmer_glasses_pink-6)" id="id-female-28_yieldfarmer_glasses_pink-188">
+</path >
+<path d="M 322 78 C 322 78 323 78 323 78 C 323 79 323 80 323 80 C 324 80 325 80 325 80 C 325 81 325 81 325 81 L 322 82 C 322 79 322 78 322 78 Z" fill="#9dffff" id="id-female-28_yieldfarmer_glasses_pink-189">
+</path >
+<path d="M 326 78 C 328 78 329 78 329 78 C 329 79 329 80 329 80 L 326 80 C 326 79 326 78 326 78 Z" fill="#9dffff" id="id-female-28_yieldfarmer_glasses_pink-190">
+</path >
+<path d="M 329 75 C 331 75 332 75 332 75 C 332 77 332 78 332 78 L 329 78 C 329 76 329 75 329 75 Z" fill="url(#id-female-28_yieldfarmer_glasses_pink-7)" id="id-female-28_yieldfarmer_glasses_pink-191">
+</path >
+<path d="M 332 73 C 334 73 335 73 335 73 C 335 74 335 75 335 75 L 332 75 C 332 74 332 73 332 73 Z" fill="url(#id-female-28_yieldfarmer_glasses_pink-8)" id="id-female-28_yieldfarmer_glasses_pink-192">
+</path >
+<path d="M 338 61 C 340 60 341 60 341 60 C 341 69 341 73 341 73 L 338 74 C 338 65 338 61 338 61 Z" fill="url(#id-female-28_yieldfarmer_glasses_pink-9)" id="id-female-28_yieldfarmer_glasses_pink-193">
+</path >
+<path d="M 341 54 C 343 54 344 54 344 54 C 344 59 344 61 344 61 L 341 61 C 341 57 341 54 341 54 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-194">
+</path >
+<path d="M 344 55 C 346 55 347 55 347 55 C 347 38 347 29 347 29 L 345 30 C 344 47 344 55 344 55 Z" fill="url(#id-female-28_yieldfarmer_glasses_pink-10)" id="id-female-28_yieldfarmer_glasses_pink-195">
+</path >
+<path d="M 348 43 C 349 43 350 43 350 43 C 350 39 350 37 350 35 C 350 34 350 32 350 30 L 348 30 C 348 38 348 43 348 43 Z" fill="url(#id-female-28_yieldfarmer_glasses_pink-11)" id="id-female-28_yieldfarmer_glasses_pink-196">
+</path >
+<path d="M 351 43 C 353 43 354 43 354 43 C 353 50 353 53 353 53 L 351 53 C 351 46 351 43 351 43 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-197">
+</path >
+<path d="M 354 53 C 356 53 356 53 356 53 C 356 56 356 57 356 57 L 354 57 C 354 54 354 53 354 53 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-198">
+</path >
+<path d="M 357 56 C 359 56 359 56 359 56 C 359 57 359 58 359 58 C 359 58 359 58 359 58 C 359 61 359 62 359 62 C 358 62 358 62 358 62 C 358 59 358 58 358 58 L 357 58 C 357 57 357 56 357 56 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-199">
+</path >
+<path d="M 360 50 L 362 50 L 362 58 L 360 58 C 360 53 360 50 360 50 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-200">
+</path >
+<path d="M 363 50 L 366 50 L 366 42 L 363 42 C 363 47 363 50 363 50 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-201">
+</path >
+<path d="M 366 39 L 369 39 L 369 42 L 366 42 C 366 40 366 39 366 39 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-202">
+</path >
+<polygon points="373 38 373 38 373 35 374 35 374 38 375 38 375 45 374 45 374 47 373 47 373 45 373 45" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-203">
+</polygon >
+<polygon points="376 37 376 45 378 45 378 37 377 37 377 35 376 35 376 37" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-204">
+</polygon >
+<path d="M 380 31 L 380 31 L 380 35 L 381 35 L 381 37 L 380 37 L 380 42 L 380 42 L 380 37 L 379 37 L 379 35 L 380 35 C 380 32 380 31 380 31 Z" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-205">
+</path >
+<polygon points="383 29 383 29 383 35 384 35 384 37 382 37 382 35 383 35" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-206">
+</polygon >
+<polygon points="386 30 386 30 386 36 387 36 387 39 387 39 386 45 386 45 386 39 385 39 385 36 386 36" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-207">
+</polygon >
+<polygon points="388 38 390 38 390 40 389 40 389 42 389 42 389 40 388 40" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-208">
+</polygon >
+<polygon points="392 36 393 36 393 38 394 38 394 55 392 55 392 39 392 39" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-209">
+</polygon >
+<polygon points="396 35 396 35 396 38 397 38 397 47 396 47 396 49 396 49 396 47 395 47 395 38 396 38" fill="#ff34ff" id="id-female-28_yieldfarmer_glasses_pink-210">
+</polygon >
+<polygon points="400 47 401 47 401 49 403 49 403 51 402 51 402 53 401 53 401 51 400 51" fill="#25ff63" id="id-female-28_yieldfarmer_glasses_pink-211">
+</polygon >
+<path d="M 406 47 L 404 47 L 404 49 L 406 49 C 406 48 406 47 406 47 Z" fill="#25ff63" id="id-female-28_yieldfarmer_glasses_pink-212">
+</path >
+<path d="M 383 83 C 386 83 387 84 387 84 C 386 62 387 42 390 25 L 377 23 C 384 36 386 56 383 83 Z" fill="#ffffff" fill-opacity="0.36" id="id-female-28_yieldfarmer_glasses_pink-213">
+</path >
+<path d="M 379 83 C 388 85 397 87 407 83 C 403 87 398 88 392 88 C 386 88 382 85 379 83 Z" fill="#7f258f" id="id-female-28_yieldfarmer_glasses_pink-214">
+</path >
+<path d="M 217 39 C 221 39 222 39 222 39 C 222 61 222 72 222 73 L 222 73 L 222 73 C 221 73 220 74 219 74 L 219 74 C 219 74 219 74 219 74 L 213 73 C 212 53 211 42 211 42 L 211 42 L 211 42 C 215 40 217 39 217 39 Z M 214 44 L 214 44 C 214 44 214 53 215 71 L 215 71 L 220 71 L 220 71 L 220 44 L 214 44 L 214 44 Z" fill="#25365f" id="id-female-28_yieldfarmer_glasses_pink-14">
+</path >
+<path d="M 217 44 C 219 44 220 44 220 44 C 220 62 220 71 220 71 L 217 71 C 217 53 217 44 217 44 Z" fill="#fb5fbb" id="id-female-28_yieldfarmer_glasses_pink-216">
+</path >
+<path d="M 217 39 C 221 39 222 39 222 39 L 222 36 C 219 38 217 39 217 39 Z" fill="#46537f" id="id-female-28_yieldfarmer_glasses_pink-217">
+</path >
+<path d="M 235 37 C 242 28 251 24 264 23 L 264 22 C 255 20 245 22 236 32 C 236 35 235 37 235 37 Z" fill="#7f258f" id="id-female-28_yieldfarmer_glasses_pink-218">
+</path >
+<path d="M 264 32 C 270 32 273 32 273 32 L 273 34 L 264 34 C 264 33 264 32 264 32 Z" fill="#73ffff" id="id-female-28_yieldfarmer_glasses_pink-219">
+</path >
+<path d="M 275 32 C 278 32 279 32 279 32 L 279 33 L 275 33 C 275 33 275 32 275 32 Z" fill="#73ffff" id="id-female-28_yieldfarmer_glasses_pink-220">
+</path >
+<polygon points="279 30 264 30 264 29 279 29" fill="#73ffff" id="id-female-28_yieldfarmer_glasses_pink-221">
+</polygon >
+<polygon points="282 27 270 27 270 25 282 25" fill="#73ffff" id="id-female-28_yieldfarmer_glasses_pink-222">
+</polygon >
+<path d="M 264 25 L 264 27 L 267 27 L 268 25 C 266 25 264 25 264 25 Z" fill="#73ffff" id="id-female-28_yieldfarmer_glasses_pink-223">
+</path >
+<path d="M 414 53 C 406 34 402 25 402 25 C 407 28 410 32 412 37 C 413 39 414 43 414 47 C 414 51 414 53 414 53 Z" fill="#7f258f" id="id-female-28_yieldfarmer_glasses_pink-224">
+</path >
+<path d="M 429 41 L 428 73 C 428 73 428 73 427 73 L 427 73 C 427 74 427 74 427 74 L 426 74 C 424 74 421 75 419 72 L 419 72 C 419 72 419 72 419 72 L 419 72 C 419 71 419 61 418 41 C 423 39 426 39 429 41 Z M 426 44 L 422 44 L 422 44 L 422 44 C 422 44 422 53 422 72 L 422 72 L 426 72 L 426 72 L 426 72 C 426 71 426 62 426 44 L 426 44 Z" fill="#25365f" id="id-female-28_yieldfarmer_glasses_pink-14">
+</path >
+<path d="M 418 37 C 418 39 418 41 418 41 L 425 40 C 421 38 418 37 418 37 Z" fill="#46537f" id="id-female-28_yieldfarmer_glasses_pink-226">
+</path >
+<path d="M 421 44 C 423 44 424 44 424 44 C 424 62 424 72 424 72 L 421 72 C 421 53 421 44 421 44 Z" fill="#fb5fbb" id="id-female-28_yieldfarmer_glasses_pink-227">
+</path >
+<path d="M 555 37 C 555 39 555 40 555 40 C 557 41 558 41 558 41 L 558 38 C 556 37 555 37 555 37 Z" fill="#00fff0" id="id-female-28_yieldfarmer_glasses_pink-228">
+</path >
+<path d="M 555 43 C 555 45 555 46 555 46 C 580 50 593 52 593 52 L 593 50 C 568 45 555 43 555 43 Z" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-229">
+</path >
+<path d="M 564 39 C 564 41 564 42 564 42 C 579 44 587 46 587 46 L 587 43 C 571 40 564 39 564 39 Z" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-230">
+</path >
+<polygon points="555 48 555 51 570 53 570 51" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-231">
+</polygon >
+<polygon points="555 53 555 57 571 58 571 56" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-232">
+</polygon >
+<polygon points="574 56 574 59 581 60 581 58" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-233">
+</polygon >
+<path d="M 582 53 L 582 55 C 585 56 586 56 586 56 L 586 54 L 582 53 Z" fill="#00ffee" id="id-female-28_yieldfarmer_glasses_pink-234">
+</path >
+<path d="M 123 100 L 123 203 C 123 203 103 200 64 195 L 64 195 L 64 195 C 64 195 64 195 64 195 L 64 194 C 64 189 65 158 65 101 L 65 101 L 65 101 C 65 101 85 101 123 100 L 123 100 Z M 121 102 L 66 103 C 66 158 66 188 66 193 L 66 193 C 66 193 66 193 66 193 L 66 193 C 66 193 66 193 66 193 L 66 193 L 66 193 C 103 198 121 201 121 201 C 121 145 121 112 121 104 L 121 103 C 121 103 121 103 121 103 L 121 102 C 121 102 121 102 121 102 L 121 102 L 121 102 Z" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-14">
+</path >
+<path d="M 62 101 L 62 193 C 62 193 43 191 6 186 L 6 186 L 6 186 C 6 186 6 186 6 186 L 6 186 C 6 181 6 153 6 101 C 6 101 6 101 6 101 L 6 101 C 7 101 26 101 62 101 L 62 101 Z M 61 103 C 53 103 47 103 43 103 C 35 103 24 103 8 103 C 8 154 8 181 8 184 L 8 185 L 8 185 C 43 189 61 191 61 191 C 61 141 61 112 61 105 L 61 104 C 61 104 61 104 61 103 L 61 103 C 61 103 61 103 61 103 L 61 103 L 61 103 Z" fill="#ff38ff" id="id-female-28_yieldfarmer_glasses_pink-236">
+</path >
+</g >
+<defs >
+<linearGradient x1="83%" y1="9%" x2="12%" y2="70%" id="id-female-29_yieldfarmer_straw-0">
+<stop stop-color="#bf9822" offset="0%">
+</stop >
+<stop stop-color="#e1ba4e" offset="40%">
+</stop >
+<stop stop-color="#e3bc51" offset="75%">
+</stop >
+<stop stop-color="#d4a23a" offset="89%">
+</stop >
+<stop stop-color="#f9cd78" offset="94%">
+</stop >
+<stop stop-color="#daaa53" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-female-29_yieldfarmer_straw-1">
+<stop stop-color="#c39a02" offset="0%">
+</stop >
+<stop stop-color="#906101" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(524,538)" id="id-female-29_yieldfarmer_straw-2">
+<path d="M 82 11 C 62 24 46 39 33 55 C 33 53 30 52 27 53 C 25 53 26 57 23 58 C 21 59 18 59 13 60 C 16 60 18 60 19 60 C 21 60 23 61 25 62 C 27 62 29 62 29 61 L 27 64 C 21 65 17 68 13 72 C 11 74 13 76 11 78 C 9 81 6 85 1 90 C 7 85 11 81 14 80 C 14 80 15 80 17 79 C 18 79 20 78 22 76 L 21 78 C 16 80 12 84 9 90 C 7 93 11 94 10 97 C 9 100 6 104 2 110 C 6 106 8 102 11 100 C 14 97 15 101 19 94 C 22 90 23 85 23 79 L 25 76 C 24 78 24 80 25 83 C 25 85 27 85 28 87 C 29 89 30 93 31 99 C 31 93 31 90 31 87 C 32 84 36 82 36 80 C 36 76 34 71 29 67 L 31 62 C 31 63 32 65 33 67 C 34 68 35 69 36 70 C 37 71 38 73 38 76 C 38 72 38 70 38 69 C 39 66 41 65 41 63 C 41 61 40 58 38 55 C 49 38 63 24 82 15 C 90 11 103 6 121 1 C 107 1 94 4 82 11 Z" fill="url(#id-female-29_yieldfarmer_straw-0)" id="id-female-29_yieldfarmer_straw-3">
+</path >
+<path d="M 96 6 C 91 8 87 9 82 11 C 73 16 64 23 57 29 C 53 33 50 38 58 31 C 65 25 73 19 82 15 C 87 13 92 11 96 9 C 111 3 104 4 96 6 Z" fill="#ffdea3" id="id-female-29_yieldfarmer_straw-3">
+</path >
+<path d="M 38 63 C 37 66 36 67 36 66 C 34 62 31 61 29 61 L 29 66 C 31 72 32 76 32 78 C 32 81 32 83 30 85 C 28 84 27 82 26 81 C 25 76 26 69 25 69 C 23 71 21 73 18 76 C 17 77 13 76 11 78 C 9 81 6 85 1 90 C 7 85 11 81 14 80 C 14 80 15 80 17 79 C 18 79 20 78 22 76 L 21 78 C 22 82 21 86 17 92 C 16 95 11 94 10 97 C 9 100 6 104 2 110 C 6 106 8 102 11 100 C 14 97 15 101 19 94 C 22 90 23 85 23 79 L 25 76 C 24 78 24 80 25 83 C 25 85 27 85 28 87 C 29 89 30 93 31 99 C 31 93 31 90 31 87 C 32 84 36 82 36 80 C 36 76 34 71 29 67 L 31 62 C 31 63 32 65 33 67 C 34 68 35 69 36 70 C 37 71 38 73 38 76 C 38 72 38 70 38 69 C 39 66 41 65 41 63 C 41 61 40 58 38 55 L 38 63 Z" fill="url(#id-female-29_yieldfarmer_straw-1)" id="id-female-29_yieldfarmer_straw-3">
+</path >
+</g >
+<defs >
+</defs >
+<g transform="translate(1193,1632)" fill="#343d53" opacity="0.3" id="id-icons-Yieldfarmer-0">
+<path d="M 20 0 L 20 0 C 31 0 40 9 40 20 L 40 20 C 40 31 31 40 20 40 L 20 40 C 9 40 0 31 0 20 L 0 20 C 0 9 9 0 20 0 Z M 20 8 L 20 8 C 27 8 32 14 32 20 L 32 20 C 32 27 27 32 20 32 L 20 32 C 14 32 8 27 8 20 L 8 20 C 8 14 14 8 20 8 Z" id="id-icons-Yieldfarmer-1">
+</path >
+<path d="M 60 42 L 60 42 C 71 42 81 51 81 62 L 81 62 C 81 73 71 82 60 82 L 60 82 C 49 82 40 73 40 62 L 40 62 C 40 51 49 42 60 42 Z M 60 50 L 60 50 C 67 50 72 55 72 62 L 72 62 C 72 68 67 74 60 74 L 60 74 C 54 74 48 68 48 62 L 48 62 C 48 55 54 50 60 50 Z" id="id-icons-Yieldfarmer-1">
+</path >
+<polygon points="36 0 44 0 44 81 36 81" transform="translate(40,40) rotate(45) translate(-40,-40)" id="id-icons-Yieldfarmer-3">
+</polygon >
+</g >
+</svg>

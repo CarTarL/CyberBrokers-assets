@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1320px" height="1760px" viewBox="0 0 1320 1760" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-0">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-1" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-8">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-9" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-16">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-17" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-24">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-25" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-32">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-33" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-40">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-41" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-48">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-49" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-56">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-57" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-64">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-65" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-72">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-73" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-80">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-81" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-88">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-89" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-96">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-97" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-104">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-105" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-112">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-113" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-120">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-121" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 18 290 C 9 279 4 273 4 273 L 16 254 C 17 278 18 290 18 290 Z" id="id-bg-86-Artboard-128">
+</path >
+<filter width="1106%" height="475%" x="-503%" y="-187%" id="id-bg-86-Artboard-129" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 36 216 C 23 159 11 107 0 60 C 4 -8 86 -23 112 39 C 128 94 136 122 136 122 C 168 109 203 106 244 121 C 259 68 266 42 266 42 C 280 3 323 -12 355 11 C 352 21 350 26 350 26 C 361 23 367 22 367 22 C 372 29 375 32 375 32 C 361 47 354 54 354 54 C 347 19 306 18 292 48 C 271 120 261 157 261 157 C 212 131 170 132 119 157 C 99 84 89 48 89 48 C 73 13 24 21 27 63 C 52 167 64 219 64 219 C 26 315 91 391 158 406 C 151 414 144 421 137 428 C 106 421 -8 353 36 216 Z" id="id-bg-86-Artboard-136">
+</path >
+<filter width="135%" height="131%" x="-18%" y="-15%" id="id-bg-86-Artboard-137" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 80 238 C 93 225 99 219 99 219 C 112 232 119 239 119 239 C 131 226 138 219 138 219 C 150 232 156 238 156 238 C 143 251 137 257 137 257 C 150 270 156 276 156 276 C 143 289 137 295 137 295 C 125 282 119 276 119 276 C 106 288 99 295 99 295 C 87 282 81 276 81 276 L 99 257 C 87 244 80 238 80 238 Z" id="id-bg-86-Artboard-144">
+</path >
+<filter width="278%" height="275%" x="-90%" y="-87%" id="id-bg-86-Artboard-145" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 224 276 C 236 263 243 257 243 257 C 230 244 224 237 224 237 C 237 225 243 219 243 219 C 255 232 261 238 261 238 C 275 226 281 219 281 219 C 293 232 299 238 299 238 C 286 251 280 257 280 257 C 293 270 300 277 300 277 C 287 289 281 295 281 295 C 268 282 262 276 262 276 L 243 296 C 230 283 224 276 224 276 Z" id="id-bg-86-Artboard-152">
+</path >
+<filter width="275%" height="273%" x="-87%" y="-86%" id="id-bg-86-Artboard-153" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 267 160 C 278 120 284 100 284 100 L 274 165 C 269 161 267 160 267 160 Z" id="id-bg-86-Artboard-160">
+</path >
+<filter width="861%" height="328%" x="-374%" y="-124%" id="id-bg-86-Artboard-161" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 360 272 C 357 293 355 304 355 304 C 354 313 353 317 353 317 L 370 302 C 364 282 360 272 360 272 Z" id="id-bg-86-Artboard-168">
+</path >
+<filter width="877%" height="402%" x="-389%" y="-153%" id="id-bg-86-Artboard-169" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 353 63 C 370 52 379 46 379 46 C 382 55 379 63 378 72 C 355 168 344 216 344 216 C 381 362 265 459 151 431 C 160 415 165 407 165 407 C 272 426 354 322 316 219 C 341 115 353 63 353 63 Z" id="id-bg-86-Artboard-176">
+</path >
+<filter width="158%" height="134%" x="-29%" y="-17%" id="id-bg-86-Artboard-177" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+<path d="M 158 336 C 158 316 169 299 191 300 C 206 299 222 312 222 335 C 180 336 158 336 158 336 Z" id="id-bg-86-Artboard-184">
+</path >
+<filter width="309%" height="468%" x="-104%" y="-184%" id="id-bg-86-Artboard-185" filterUnits="objectBoundingBox">
+<feMorphology result="id-bg-86-Artboard-2" in="SourceAlpha" operator="dilate" radius="0.5">
+</feMorphology >
+<feOffset result="id-bg-86-Artboard-3" in="id-bg-86-Artboard-2" dx="0" dy="0">
+</feOffset >
+<feGaussianBlur result="id-bg-86-Artboard-5" in="id-bg-86-Artboard-3" stdDeviation="22">
+</feGaussianBlur >
+<feColorMatrix in="id-bg-86-Artboard-5" type="matrix" values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0">
+</feColorMatrix >
+</filter >
+</defs >
+<g stroke="none" stroke-width="1" fill="none" id="id-bg-86-Artboard-192" fill-rule="evenodd">
+<g id="id-bg-86-Artboard-193">
+<rect fill="#969696" width="1320" height="1760" x="0" y="0" id="id-bg-86-Artboard-194">
+</rect >
+<g transform="translate(38,417)" id="id-bg-86-Artboard-195">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-0" filter="url(#id-bg-86-Artboard-1)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-0" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-8" filter="url(#id-bg-86-Artboard-9)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-8" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-16" filter="url(#id-bg-86-Artboard-17)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-16" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-24" filter="url(#id-bg-86-Artboard-25)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-24" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-32" filter="url(#id-bg-86-Artboard-33)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-32" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-40" filter="url(#id-bg-86-Artboard-41)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-40" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-48" filter="url(#id-bg-86-Artboard-49)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-48" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-56" filter="url(#id-bg-86-Artboard-57)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-56" fill-rule="evenodd">
+</use >
+</g >
+</g >
+<g transform="translate(467,417)" id="id-bg-86-Artboard-228">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-64" filter="url(#id-bg-86-Artboard-65)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-64" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-72" filter="url(#id-bg-86-Artboard-73)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-72" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-80" filter="url(#id-bg-86-Artboard-81)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-80" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-88" filter="url(#id-bg-86-Artboard-89)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-88" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-96" filter="url(#id-bg-86-Artboard-97)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-96" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-104" filter="url(#id-bg-86-Artboard-105)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-104" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-112" filter="url(#id-bg-86-Artboard-113)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-112" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-120" filter="url(#id-bg-86-Artboard-121)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-120" fill-rule="evenodd">
+</use >
+</g >
+</g >
+<g transform="translate(894,417)" id="id-bg-86-Artboard-261">
+<g id="id-bg-86-Artboard-196">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-128" filter="url(#id-bg-86-Artboard-129)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-128" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-200">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-136" filter="url(#id-bg-86-Artboard-137)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-136" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-204">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-144" filter="url(#id-bg-86-Artboard-145)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-144" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-208">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-152" filter="url(#id-bg-86-Artboard-153)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-152" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-212">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-160" filter="url(#id-bg-86-Artboard-161)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-160" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-216">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-168" filter="url(#id-bg-86-Artboard-169)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-168" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-220">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-176" filter="url(#id-bg-86-Artboard-177)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-176" fill-rule="evenodd">
+</use >
+</g >
+<g id="id-bg-86-Artboard-224">
+<use fill="#000000" fill-opacity="1" xlink:href="#id-bg-86-Artboard-184" filter="url(#id-bg-86-Artboard-185)">
+</use >
+<use fill="#7fef00" xlink:href="#id-bg-86-Artboard-184" fill-rule="evenodd">
+</use >
+</g >
+</g >
+</g >
+</g >
+<defs >
+</defs >
+<path d="M 762 449 L 756 452 L 762 472 L 744 488 C 744 488 747 481 743 479 C 743 479 743 494 731 503 C 731 503 732 491 729 490 C 729 490 722 500 721 507 C 698 503 601 486 596 488 C 578 474 580 473 558 467 C 558 467 554 454 557 444 C 573 442 751 437 768 437 L 762 449 Z" fill="#752673" id="id-male-5_15_hair_back-0">
+</path >
+<defs >
+<linearGradient x1="50%" y1="6%" x2="50%" y2="100%" id="id-male-6.6_base_1-0">
+<stop stop-color="#ac705d" offset="0%">
+</stop >
+<stop stop-color="#ffddbc" offset="8%">
+</stop >
+<stop stop-color="#e9af8e" offset="20%">
+</stop >
+<stop stop-color="#e7ad8d" offset="34%">
+</stop >
+<stop stop-color="#d4856f" offset="71%">
+</stop >
+<stop stop-color="#c37f6d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="-10%" x2="50%" y2="84%" id="id-male-6.6_base_1-1">
+<stop stop-color="#e0a582" offset="0%">
+</stop >
+<stop stop-color="#f6c49e" offset="49%">
+</stop >
+<stop stop-color="#d09479" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="57%" y1="50%" x2="47%" y2="56%" id="id-male-6.6_base_1-2">
+<stop stop-color="#e2ad9f" offset="0%">
+</stop >
+<stop stop-color="#b46d61" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="35%" x2="55%" y2="47%" id="id-male-6.6_base_1-3">
+<stop stop-color="#e9ac94" offset="0%">
+</stop >
+<stop stop-color="#c37f6d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="54%" y1="31%" x2="47%" y2="81%" id="id-male-6.6_base_1-4">
+<stop stop-color="#e7ae8d" offset="0%">
+</stop >
+<stop stop-color="#d8997b" offset="20%">
+</stop >
+<stop stop-color="#dfa083" offset="71%">
+</stop >
+<stop stop-color="#c5816d" offset="81%">
+</stop >
+<stop stop-color="#bc7665" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="43%" y1="38%" x2="54%" y2="44%" id="id-male-6.6_base_1-5">
+<stop stop-color="#e0a384" offset="0%">
+</stop >
+<stop stop-color="#dda081" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="26%" x2="59%" y2="75%" id="id-male-6.6_base_1-6">
+<stop stop-color="#ffdbb9" offset="0%">
+</stop >
+<stop stop-color="#d7917a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="41%" x2="49%" y2="66%" id="id-male-6.6_base_1-7">
+<stop stop-color="#6a4862" offset="0%">
+</stop >
+<stop stop-color="#a76f5b" offset="27%">
+</stop >
+<stop stop-color="#e9b090" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="63%" y1="4%" x2="25%" y2="77%" id="id-male-6.6_base_1-8">
+<stop stop-color="#fff1de" offset="0%">
+</stop >
+<stop stop-color="#ffeed9" offset="56%">
+</stop >
+<stop stop-color="#e3aa88" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="23%" x2="41%" y2="77%" id="id-male-6.6_base_1-9">
+<stop stop-color="#73332e" offset="0%">
+</stop >
+<stop stop-color="#b77e68" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="47%" y1="22%" x2="55%" y2="89%" id="id-male-6.6_base_1-10">
+<stop stop-color="#a06555" offset="0%">
+</stop >
+<stop stop-color="#fad5b9" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="86%" y1="87%" x2="12%" y2="66%" id="id-male-6.6_base_1-11">
+<stop stop-color="#dea186" offset="0%">
+</stop >
+<stop stop-color="#cb8c76" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="71%" y1="11%" x2="50%" y2="100%" id="id-male-6.6_base_1-12">
+<stop stop-color="#be7d66" offset="0%" stop-opacity="0">
+</stop >
+<stop stop-color="#f1bd9b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="46%" x2="56%" y2="43%" id="id-male-6.6_base_1-13">
+<stop stop-color="#cd8d78" offset="0%">
+</stop >
+<stop stop-color="#bb786d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="41%" x2="50%" y2="63%" id="id-male-6.6_base_1-14">
+<stop stop-color="#6a2b27" offset="0%">
+</stop >
+<stop stop-color="#743c3a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="69%" y1="20%" x2="50%" y2="99%" id="id-male-6.6_base_1-15">
+<stop stop-color="#cf8f7a" offset="0%">
+</stop >
+<stop stop-color="#dd9e87" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="36%" y1="20%" x2="57%" y2="81%" id="id-male-6.6_base_1-16">
+<stop stop-color="#f1ba97" offset="0%">
+</stop >
+<stop stop-color="#efb795" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="26%" y1="83%" x2="92%" y2="50%" id="id-male-6.6_base_1-17">
+<stop stop-color="#ffd3ad" offset="0%">
+</stop >
+<stop stop-color="#ffd3af" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="17%" y1="56%" x2="85%" y2="45%" id="id-male-6.6_base_1-18">
+<stop stop-color="#ffebd1" offset="0%" stop-opacity="0">
+</stop >
+<stop stop-color="#ffe9d0" offset="52%">
+</stop >
+<stop stop-color="#fccead" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="17%" y1="24%" x2="74%" y2="87%" id="id-male-6.6_base_1-19">
+<stop stop-color="#ffedd8" offset="0%">
+</stop >
+<stop stop-color="#dca181" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="26%" y1="42%" x2="80%" y2="75%" id="id-male-6.6_base_1-20">
+<stop stop-color="#fff1dd" offset="0%">
+</stop >
+<stop stop-color="#ffd4b1" offset="100%" stop-opacity="0">
+</stop >
+</linearGradient >
+<linearGradient x1="29%" y1="56%" x2="77%" y2="50%" id="id-male-6.6_base_1-21">
+<stop stop-color="#ffebd4" offset="0%">
+</stop >
+<stop stop-color="#fedab7" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="74%" y1="24%" x2="34%" y2="74%" id="id-male-6.6_base_1-22">
+<stop stop-color="#ba8469" offset="0%">
+</stop >
+<stop stop-color="#e9af8f" offset="0%">
+</stop >
+<stop stop-color="#ffcfa8" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="100%" x2="40%" y2="0%" id="id-male-6.6_base_1-23">
+<stop stop-color="#fac5a3" offset="0%">
+</stop >
+<stop stop-color="#fff5e6" offset="46%">
+</stop >
+<stop stop-color="#fac8a2" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="52%" y1="13%" x2="59%" y2="75%" id="id-male-6.6_base_1-24">
+<stop stop-color="#d68d79" offset="0%">
+</stop >
+<stop stop-color="#eeae91" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="28%" y1="76%" x2="73%" y2="20%" id="id-male-6.6_base_1-25">
+<stop stop-color="#f0b294" offset="0%">
+</stop >
+<stop stop-color="#d28271" offset="67%">
+</stop >
+<stop stop-color="#df9880" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_1-26">
+<stop stop-color="#db957f" offset="0%">
+</stop >
+<stop stop-color="#9a4f4b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="59%" x2="24%" y2="66%" id="id-male-6.6_base_1-27">
+<stop stop-color="#dea07f" offset="0%">
+</stop >
+<stop stop-color="#fcc8a5" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="41%" y1="11%" x2="64%" y2="63%" id="id-male-6.6_base_1-28">
+<stop stop-color="#ffe6d6" offset="0%">
+</stop >
+<stop stop-color="#da957e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="19%" y1="58%" x2="66%" y2="43%" id="id-male-6.6_base_1-29">
+<stop stop-color="#ffebd4" offset="0%">
+</stop >
+<stop stop-color="#ffd1aa" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="73%" y1="50%" x2="30%" y2="53%" id="id-male-6.6_base_1-30">
+<stop stop-color="#ffd1ab" offset="0%">
+</stop >
+<stop stop-color="#fff6e4" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="31%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_1-31">
+<stop stop-color="#fff1e3" offset="0%">
+</stop >
+<stop stop-color="#ffeada" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="29%" y1="43%" x2="65%" y2="100%" id="id-male-6.6_base_1-32">
+<stop stop-color="#ffe9d4" offset="0%">
+</stop >
+<stop stop-color="#fecfb1" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="13%" y1="78%" x2="84%" y2="50%" id="id-male-6.6_base_1-33">
+<stop stop-color="#f4ba9a" offset="0%">
+</stop >
+<stop stop-color="#e2a086" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="36%" y2="100%" id="id-male-6.6_base_1-34">
+<stop stop-color="#ffebd4" offset="0%">
+</stop >
+<stop stop-color="#ffddc6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="28%" x2="64%" y2="55%" id="id-male-6.6_base_1-35">
+<stop stop-color="#ffe7cd" offset="0%">
+</stop >
+<stop stop-color="#ffddc0" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="40%" y1="55%" x2="62%" y2="71%" id="id-male-6.6_base_1-36">
+<stop stop-color="#dca17f" offset="0%">
+</stop >
+<stop stop-color="#fac5a0" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="9%" y1="37%" x2="88%" y2="55%" id="id-male-6.6_base_1-37">
+<stop stop-color="#e3a889" offset="0%">
+</stop >
+<stop stop-color="#b36f5f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="62%" y1="19%" x2="50%" y2="100%" id="id-male-6.6_base_1-38">
+<stop stop-color="#e0a686" offset="0%">
+</stop >
+<stop stop-color="#bf7c68" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="18%" x2="51%" y2="67%" id="id-male-6.6_base_1-39">
+<stop stop-color="#ffe5d3" offset="0%">
+</stop >
+<stop stop-color="#f5c3a0" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_1-40">
+<stop stop-color="#f9ccb7" offset="0%">
+</stop >
+<stop stop-color="#e7ad8a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="45%" y1="50%" x2="58%" y2="50%" id="id-male-6.6_base_1-41">
+<stop stop-color="#dfa288" offset="0%">
+</stop >
+<stop stop-color="#facbb3" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="33%" y1="74%" x2="77%" y2="42%" id="id-male-6.6_base_1-42">
+<stop stop-color="#ce937b" offset="0%">
+</stop >
+<stop stop-color="#eab89d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="63%" y1="59%" x2="38%" y2="59%" id="id-male-6.6_base_1-43">
+<stop stop-color="#d89a80" offset="0%">
+</stop >
+<stop stop-color="#ecba9e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_1-44">
+<stop stop-color="#d08c74" offset="0%">
+</stop >
+<stop stop-color="#df9a83" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="47%" y1="47%" x2="53%" y2="50%" id="id-male-6.6_base_1-45">
+<stop stop-color="#fde1cd" offset="0%">
+</stop >
+<stop stop-color="#d68f79" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_1-46">
+<stop stop-color="#e29a83" offset="0%">
+</stop >
+<stop stop-color="#dd947e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="53%" y2="50%" id="id-male-6.6_base_1-47">
+<stop stop-color="#dd9785" offset="0%">
+</stop >
+<stop stop-color="#f3d9c6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="55%" x2="99%" y2="55%" id="id-male-6.6_base_1-48">
+<stop stop-color="#dfa59a" offset="0%">
+</stop >
+<stop stop-color="#d3938d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_1-49">
+<stop stop-color="#f0cab1" offset="0%">
+</stop >
+<stop stop-color="#dc907e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="49%" y1="20%" x2="52%" y2="96%" id="id-male-6.6_base_1-50">
+<stop stop-color="#dd9285" offset="0%">
+</stop >
+<stop stop-color="#d88d79" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.6_base_1-51">
+<stop stop-color="#86363e" offset="0%">
+</stop >
+<stop stop-color="#b46a5d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="33%" y1="47%" x2="59%" y2="56%" id="id-male-6.6_base_1-52">
+<stop stop-color="#f6bd9d" offset="0%">
+</stop >
+<stop stop-color="#d48673" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(304,473)" id="id-male-6.6_base_1-53">
+<polygon points="174 662 139 824 137 906 146 1082 171 1154 176 1211 174 1230 175 1284 287 1284 284 1265 308 1195 306 1124 345 952 343 912 353 879 362 881 371 877 383 904 391 970 434 1079 457 1202 475 1252 475 1284 596 1284 600 1225 591 1146 609 1103 612 997 596 842 545 671 539 640 528 606 531 569 509 498 522 403 539 360 539 348 563 464 576 498 585 574 637 704 646 760 646 778 626 822 624 853 631 879 629 901 632 920 637 931 647 931 657 920 655 877 659 867 670 874 672 899 676 903 667 923 644 934 643 945 666 939 664 948 643 960 640 982 657 971 674 969 690 945 701 933 704 926 707 923 713 892 718 871 704 832 696 786 703 768 693 725 693 521 652 425 629 282 626 203 612 175 567 156 548 141 530 139 479 114 422 73 416 42 415 1 285 0 284 73 279 83 242 114 196 137 171 139 155 156 108 175 91 228 91 287 68 431 30 516 23 602 28 725 16 764 21 782 0 874 18 932 49 968 59 970 83 982 83 965 78 960 57 949 55 941 78 948 78 936 66 929 53 923 45 906 51 875 61 866 66 877 63 922 75 927 86 925 93 899 90 877 96 856 96 824 75 778 77 738 108 637 139 562 142 495 159 458 180 358 199 403 203 461 211 504 188 564 191 608" fill="url(#id-male-6.6_base_1-0)" id="id-male-6.6_base_1-54">
+</polygon >
+<polygon points="91 287 68 431 30 516 23 602 72 688 117 614 98 452 109 469 123 336 102 372 109 294 88 309 109 285" fill="url(#id-male-6.6_base_1-1)" id="id-male-6.6_base_1-54">
+</polygon >
+<polygon points="383 906 391 972 434 1081 457 1204 475 1254 475 1287 596 1287 600 1226 591 1148 609 1105 612 999 602 904 584 908 584 846 535 683 456 705 382 878" fill="url(#id-male-6.6_base_1-2)" id="id-male-6.6_base_1-54">
+</polygon >
+<polygon points="137 907 146 1083 171 1156 176 1212 174 1232 175 1286 175 1287 287 1287 284 1266 308 1197 306 1126 345 954 343 923 293 814 263 724 247 711" fill="url(#id-male-6.6_base_1-3)" id="id-male-6.6_base_1-54">
+</polygon >
+<polygon points="545 673 539 641 528 608 531 571 509 500 522 405 539 361 539 350 563 465 576 500 601 540 660 491 688 529 652 427 629 283 626 205 612 177 568 157 548 142 530 141 479 116 422 75 416 44 415 3 360 3 360 715 462 724" fill="url(#id-male-6.6_base_1-4)" id="id-male-6.6_base_1-54">
+</polygon >
+<polygon points="83 984 59 972 49 970 21 932 19 903 7 879 0 874 11 824 38 786 38 814 56 786 78 800 91 822 83 879 69 882 63 855 51 877 45 908 47 930 37 930 50 938 53 954 49 960 56 956 83 973" fill="#e4ab86" id="id-male-6.6_base_1-59">
+</polygon >
+<polygon points="66 855 69 882 63 855 51 877 45 908 42 870 58 825" fill="url(#id-male-6.6_base_1-5)" id="id-male-6.6_base_1-59">
+</polygon >
+<polygon points="83 879 69 882 70 868" fill="#ffd6ba" id="id-male-6.6_base_1-59">
+</polygon >
+<polygon points="481 376 513 349 558 291 522 368" fill="#bd9394" id="id-male-6.6_base_1-62">
+</polygon >
+<polygon points="313 697 260 560 246 448 259 424 355 408 361 366 317 404 285 409 267 378 313 343 394 351 431 378 420 404 368 399 371 404 449 421 466 441 449 510 466 547 406 697 358 717" fill="url(#id-male-6.6_base_1-6)" id="id-male-6.6_base_1-63">
+</polygon >
+<polygon points="410 90 430 82 423 76 416 45 416 7 286 9 286 48 283 76 278 86 244 114 195 139 366 139 390 70 410 26" fill="url(#id-male-6.6_base_1-7)" id="id-male-6.6_base_1-64">
+</polygon >
+<polygon points="182 180 133 231 97 289 97 231 113 182 165 159" fill="url(#id-male-6.6_base_1-8)" id="id-male-6.6_base_1-65">
+</polygon >
+<polygon points="346 107 384 55 409 31 414 23 299 31" fill="url(#id-male-6.6_base_1-9)" id="id-male-6.6_base_1-66">
+</polygon >
+<polygon points="287 93 295 32 323 129" fill="url(#id-male-6.6_base_1-10)" id="id-male-6.6_base_1-67">
+</polygon >
+<polygon points="336 139 314 151 270 146 224 139" fill="#fef6e3" id="id-male-6.6_base_1-68">
+</polygon >
+<polygon points="410 84 409 136 461 129" fill="url(#id-male-6.6_base_1-11)" id="id-male-6.6_base_1-69">
+</polygon >
+<polygon points="173 246 167 286 191 351 263 386 328 330 359 330 359 152 348 139 336 139 309 152" fill="url(#id-male-6.6_base_1-12)" id="id-male-6.6_base_1-70">
+</polygon >
+<polygon points="464 159 516 190 500 159" fill="url(#id-male-6.6_base_1-13)" id="id-male-6.6_base_1-71">
+</polygon >
+<polygon points="302 36 346 72 382 62 409 37 416 28 416 13" fill="url(#id-male-6.6_base_1-14)" id="id-male-6.6_base_1-72">
+</polygon >
+<polygon points="263 151 191 202 219 151" fill="#efb795" id="id-male-6.6_base_1-73">
+</polygon >
+<polygon points="154 206 170 170 122 188" fill="#fffcf1" id="id-male-6.6_base_1-74">
+</polygon >
+<polygon points="358 285 344 299 323 318 305 354 358 345 354 305" fill="url(#id-male-6.6_base_1-15)" id="id-male-6.6_base_1-75">
+</polygon >
+<polygon points="260 361 265 387 203 371 191 347" fill="#c4846d" id="id-male-6.6_base_1-76">
+</polygon >
+<polygon points="198 362 181 359 167 284" fill="#8d4146" id="id-male-6.6_base_1-77">
+</polygon >
+<polygon points="477 341 477 335 488 326 496 325 509 338 496 348 485 354" fill="#a86056" id="id-male-6.6_base_1-78">
+</polygon >
+<polygon points="314 151 342 220 317 293 237 351 209 318 172 251 185 205 270 146" fill="url(#id-male-6.6_base_1-16)" id="id-male-6.6_base_1-79">
+</polygon >
+<polygon points="314 151 330 238 209 318 172 251 185 205 270 146" fill="url(#id-male-6.6_base_1-17)" id="id-male-6.6_base_1-79">
+</polygon >
+<polygon points="314 151 350 205 220 227 185 205 270 146" fill="url(#id-male-6.6_base_1-18)" opacity="0.369" id="id-male-6.6_base_1-79">
+</polygon >
+<polygon points="211 335 223 322 242 327 244 332 235 353 213 349" fill="#c48172" id="id-male-6.6_base_1-82">
+</polygon >
+<polygon points="224 339 226 342 226 345 222 349 235 350 242 333 230 338 227 335" fill="#d4acc2" id="id-male-6.6_base_1-83">
+</polygon >
+<polygon points="488 343 491 347 486 351 479 338 489 327 495 327 493 336" fill="#c7878d" id="id-male-6.6_base_1-84">
+</polygon >
+<polygon points="485 339 488 343 493 337" fill="#edb596" id="id-male-6.6_base_1-85">
+</polygon >
+<polygon points="359 162 359 291 406 325 455 347 529 267 463 182 415 166" fill="url(#id-male-6.6_base_1-19)" id="id-male-6.6_base_1-86">
+</polygon >
+<polygon points="359 178 359 281 391 302 391 249 489 270 461 189 415 166" fill="url(#id-male-6.6_base_1-20)" id="id-male-6.6_base_1-86">
+</polygon >
+<polygon points="359 178 359 219 472 220 461 189 415 166 371 163" fill="url(#id-male-6.6_base_1-21)" id="id-male-6.6_base_1-86">
+</polygon >
+<polygon points="358 178 372 168 440 156 413 137 378 158 411 80 396 60 358 146" fill="url(#id-male-6.6_base_1-22)" id="id-male-6.6_base_1-89">
+</polygon >
+<polygon points="346 140 358 152 372 129 400 48 369 86 364 130" fill="#b66b53" id="id-male-6.6_base_1-90">
+</polygon >
+<polygon points="591 281 601 226 559 159 514 159 523 138 499 156 571 263" fill="url(#id-male-6.6_base_1-23)" id="id-male-6.6_base_1-91">
+</polygon >
+<polygon points="609 298 626 332 629 285 627 227 614 207 617 251" fill="#c6cbe5" id="id-male-6.6_base_1-92">
+</polygon >
+<polygon points="554 159 567 157 612 177 614 192 579 175 603 207 601 226" fill="#f6bf9d" id="id-male-6.6_base_1-93">
+</polygon >
+<polygon points="641 823 648 826 697 896 713 873 682 781" fill="url(#id-male-6.6_base_1-24)" id="id-male-6.6_base_1-94">
+</polygon >
+<polygon points="625 840 700 762 688 738 679 784 648 776 626 822" fill="url(#id-male-6.6_base_1-25)" id="id-male-6.6_base_1-94">
+</polygon >
+<polygon points="648 862 648 845 661 825 661 870 654 878 657 922 652 929 637 929 632 914 632 893 632 877 644 888" fill="#b06559" id="id-male-6.6_base_1-96">
+</polygon >
+<polygon points="554 375 577 333 607 451 594 508 568 462" fill="#f9c3ad" id="id-male-6.6_base_1-97">
+</polygon >
+<polygon points="623 326 643 425 633 431 693 523 652 427 636 326 625 315" fill="#bdbbdb" id="id-male-6.6_base_1-98">
+</polygon >
+<polygon points="628 274 638 339 623 314" fill="#b3838b" id="id-male-6.6_base_1-99">
+</polygon >
+<polygon points="693 523 695 567 685 525 618 416 633 431" fill="#b46b5b" id="id-male-6.6_base_1-100">
+</polygon >
+<polygon points="640 463 599 539 601 571 634 655 646 703 650 754 658 640 660 491" fill="#f7bf9b" id="id-male-6.6_base_1-101">
+</polygon >
+<polygon points="610 531 648 646 652 546 638 479" fill="#ffddc8" id="id-male-6.6_base_1-101">
+</polygon >
+<polygon points="693 748 677 730 677 700 660 491 685 525 691 552 684 727" fill="url(#id-male-6.6_base_1-26)" id="id-male-6.6_base_1-103">
+</polygon >
+<polygon points="691 746 703 768 693 727 695 567 691 551 683 727" fill="#bccbea" id="id-male-6.6_base_1-104">
+</polygon >
+<polygon points="260 559 310 683 355 716 263 713 238 685 195 582" fill="url(#id-male-6.6_base_1-27)" id="id-male-6.6_base_1-105">
+</polygon >
+<polygon points="637 931 636 919 639 914 653 914 653 922 651 929 648 931 644 933" fill="#d58f78" id="id-male-6.6_base_1-106">
+</polygon >
+<polygon points="637 861 637 882 641 890 653 886 649 861" fill="#e19c83" id="id-male-6.6_base_1-107">
+</polygon >
+<polygon points="691 871 693 912 688 936 669 956 671 965 696 924 696 909 705 877" fill="#934d3c" id="id-male-6.6_base_1-108">
+</polygon >
+<polygon points="703 768 684 788 693 837 712 873 702 908 701 933 707 925 718 873 704 834 697 788" fill="#bd7462" id="id-male-6.6_base_1-109">
+</polygon >
+<polygon points="667 939 643 946 644 934 657 928 667 922 676 903 672 899 670 874 660 870 660 854 671 867 680 873 680 902 677 920" fill="#b3665b" id="id-male-6.6_base_1-110">
+</polygon >
+<polygon points="361 510 359 634 426 561 420 535" fill="url(#id-male-6.6_base_1-28)" opacity="0.626" id="id-male-6.6_base_1-111">
+</polygon >
+<polygon points="319 403 289 399 268 380 313 343 361 348 362 372" fill="url(#id-male-6.6_base_1-29)" id="id-male-6.6_base_1-112">
+</polygon >
+<polygon points="171 141 168 151 180 151 204 139 196 138" fill="url(#id-male-6.6_base_1-30)" id="id-male-6.6_base_1-113">
+</polygon >
+<polygon points="359 308 362 360 382 334" fill="#ffe9d9" opacity="0.625" id="id-male-6.6_base_1-114">
+</polygon >
+<polygon points="360 546 360 584 387 551 374 540" fill="url(#id-male-6.6_base_1-31)" opacity="0.626" id="id-male-6.6_base_1-115">
+</polygon >
+<polygon points="346 542 360 547 373 540 360 534" fill="#b36a64" id="id-male-6.6_base_1-116">
+</polygon >
+<polygon points="325 545 277 503 259 561 308 579" fill="url(#id-male-6.6_base_1-32)" opacity="0.758" id="id-male-6.6_base_1-117">
+</polygon >
+<polygon points="389 499 460 467 449 510 404 520" fill="url(#id-male-6.6_base_1-33)" id="id-male-6.6_base_1-118">
+</polygon >
+<polygon points="364 491 361 403 420 428" fill="url(#id-male-6.6_base_1-34)" opacity="0.758" id="id-male-6.6_base_1-119">
+</polygon >
+<polygon points="262 446 333 446 323 469 279 492" fill="url(#id-male-6.6_base_1-35)" opacity="0.758" id="id-male-6.6_base_1-120">
+</polygon >
+<polygon points="259 425 279 496 259 561 236 528 213 443 227 425 243 447" fill="url(#id-male-6.6_base_1-36)" id="id-male-6.6_base_1-121">
+</polygon >
+<polygon points="412 343 444 374 466 383 499 351 447 354 416 339" fill="url(#id-male-6.6_base_1-37)" id="id-male-6.6_base_1-122">
+</polygon >
+<polygon points="164 252 163 278 128 284" fill="#c88574" id="id-male-6.6_base_1-123">
+</polygon >
+<polygon points="58 478 88 441 88 416 69 430 66 456" fill="url(#id-male-6.6_base_1-38)" id="id-male-6.6_base_1-124">
+</polygon >
+<polygon points="76 684 69 634 61 517 89 474 111 569" fill="url(#id-male-6.6_base_1-39)" id="id-male-6.6_base_1-125">
+</polygon >
+<polygon points="53 489 47 539 69 635 76 684 53 760 40 781 16 766 28 727 23 604 28 544" fill="url(#id-male-6.6_base_1-40)" id="id-male-6.6_base_1-126">
+</polygon >
+<polygon points="136 452 127 497 153 460 177 340 170 300" fill="#d89a7f" id="id-male-6.6_base_1-127">
+</polygon >
+<polygon points="181 359 159 460 143 497 142 514 123 532 109 514 108 490 127 497 153 460 177 340" fill="#c28071" id="id-male-6.6_base_1-127">
+</polygon >
+<polygon points="38 747 28 772 38 788 44 772" fill="#f4b89a" id="id-male-6.6_base_1-129">
+</polygon >
+<polygon points="359 379 342 413 361 444 377 417" fill="url(#id-male-6.6_base_1-41)" id="id-male-6.6_base_1-130">
+</polygon >
+<polygon points="196 581 260 561 229 519" fill="url(#id-male-6.6_base_1-42)" id="id-male-6.6_base_1-131">
+</polygon >
+<polygon points="74 929 66 925 69 909 78 905 86 912 83 928" fill="url(#id-male-6.6_base_1-43)" id="id-male-6.6_base_1-132">
+</polygon >
+<polygon points="20 903 7 880 21 851 28 871" fill="#d99c7e" id="id-male-6.6_base_1-133">
+</polygon >
+<polygon points="218 1123 203 1040 191 913 171 1090 182 1169 230 1208 261 1237 270 1213 234 1175 212 1157 272 1191 281 1169" fill="url(#id-male-6.6_base_1-44)" opacity="0.808" id="id-male-6.6_base_1-134">
+</polygon >
+<polygon points="182 1207 181 1155 213 1106 236 1166 230 1210" fill="#ebac8e" id="id-male-6.6_base_1-135">
+</polygon >
+<polygon points="187 902 211 1137 227 1161 275 1187 299 1137 272 1009 299 918 269 791 211 836" fill="url(#id-male-6.6_base_1-45)" id="id-male-6.6_base_1-136">
+</polygon >
+<polygon points="288 1079 311 1040 311 942 295 903 264 1019 275 1188 301 1137" fill="url(#id-male-6.6_base_1-46)" id="id-male-6.6_base_1-137">
+</polygon >
+<polygon points="584 908 604 1008 608 1106 614 998 599 887" fill="#cedafa" id="id-male-6.6_base_1-138">
+</polygon >
+<polygon points="430 886 488 1140 535 1115 561 925 566 886 536 816 500 786" fill="url(#id-male-6.6_base_1-47)" opacity="0.792" id="id-male-6.6_base_1-139">
+</polygon >
+<polygon points="581 921 588 1011 584 1112 576 1162 544 1046 566 886" fill="url(#id-male-6.6_base_1-48)" id="id-male-6.6_base_1-140">
+</polygon >
+<polygon points="561 1247 518 1200 472 1112 494 931 505 931 594 1188 579 1244" fill="url(#id-male-6.6_base_1-49)" id="id-male-6.6_base_1-141">
+</polygon >
+<polygon points="531 1221 539 1263 536 1269 516 1287 509 1287 500 1263 513 1199 488 1226 462 1170 472 1101 427 1010 398 877 469 771 518 739 536 818 500 787 433 890 477 1078 534 1212" fill="url(#id-male-6.6_base_1-50)" id="id-male-6.6_base_1-142">
+</polygon >
+<polygon points="321 1058 284 852 258 721 266 733 371 879 362 883 354 881 343 914 345 954" fill="#d38b73" id="id-male-6.6_base_1-143">
+</polygon >
+<polygon points="429 1068 424 875 536 705 454 704 380 865 384 906 391 972" fill="#cd887e" opacity="0.394" id="id-male-6.6_base_1-144">
+</polygon >
+<polygon points="175 1262 194 1287 206 1287 225 1226 213 1249 175 1221 174 1232" fill="#eeaf93" id="id-male-6.6_base_1-145">
+</polygon >
+<polygon points="528 1227 554 1234 569 1169 549 1168" fill="#ebb5a6" id="id-male-6.6_base_1-146">
+</polygon >
+<polygon points="546 678 545 672 539 641 528 608 531 571 509 500 522 405 539 361 539 350 547 389 542 330 558 289 517 369 528 369 517 411 499 442 509 465 488 531 507 525 522 585 449 724" fill="url(#id-male-6.6_base_1-51)" id="id-male-6.6_base_1-54">
+</polygon >
+<polygon points="402 722 490 609 522 585 449 723" fill="#d38673" id="id-male-6.6_base_1-148">
+</polygon >
+<polygon points="174 664 139 826 137 907 139 937 238 690 352 886 354 881 362 883 371 879 383 906 471 773 548 712 596 844 545 673 539 641 478 697 449 723 278 705 232 657 188 566 191 610" fill="url(#id-male-6.6_base_1-52)" id="id-male-6.6_base_1-54">
+</polygon >
+<polygon points="189 616 211 620 190 586 190 609" fill="#c4846d" id="id-male-6.6_base_1-150">
+</polygon >
+<polygon points="139 836 225 709 167 697 139 826" fill="#e2a58b" id="id-male-6.6_base_1-151">
+</polygon >
+<polygon points="518 734 596 843 547 678" fill="#d0816e" id="id-male-6.6_base_1-152">
+</polygon >
+<polygon points="415 778 447 726 314 744 329 762" fill="#ce8b73" opacity="0.52" id="id-male-6.6_base_1-54">
+</polygon >
+<polygon points="411 685 463 666 456 573" fill="#a05a5c" id="id-male-6.6_base_1-154">
+</polygon >
+</g >
+<defs >
+<linearGradient x1="53%" y1="5%" x2="47%" y2="91%" id="id-male-6.8_face_1-0">
+<stop stop-color="#c67878" offset="0%">
+</stop >
+<stop stop-color="#a26c74" offset="82%">
+</stop >
+<stop stop-color="#d18888" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="62%" y1="61%" x2="50%" y2="36%" id="id-male-6.8_face_1-1">
+<stop stop-color="#b15e5f" offset="0%">
+</stop >
+<stop stop-color="#564753" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="13%" x2="57%" y2="81%" id="id-male-6.8_face_1-2">
+<stop stop-color="#885154" offset="0%">
+</stop >
+<stop stop-color="#c27a7a" offset="52%">
+</stop >
+<stop stop-color="#d8b7a1" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="54%" y2="88%" id="id-male-6.8_face_1-3">
+<stop stop-color="#d19787" offset="0%">
+</stop >
+<stop stop-color="#c8807e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="36%" y1="75%" x2="36%" y2="18%" id="id-male-6.8_face_1-4">
+<stop stop-color="#bb6f6b" offset="0%">
+</stop >
+<stop stop-color="#863c39" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="2%" x2="48%" y2="96%" id="id-male-6.8_face_1-5">
+<stop stop-color="#ead0bc" offset="0%">
+</stop >
+<stop stop-color="#cb9b7f" offset="11%">
+</stop >
+<stop stop-color="#f2c1a5" offset="33%">
+</stop >
+<stop stop-color="#ffe2d3" offset="58%">
+</stop >
+<stop stop-color="#e9bb9e" offset="93%">
+</stop >
+<stop stop-color="#c3957f" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="62%" y1="37%" x2="30%" y2="59%" id="id-male-6.8_face_1-6">
+<stop stop-color="#e4b395" offset="0%">
+</stop >
+<stop stop-color="#cb9c80" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="12%" y1="48%" x2="58%" y2="51%" id="id-male-6.8_face_1-7">
+<stop stop-color="#e7bea3" offset="0%">
+</stop >
+<stop stop-color="#fedfcc" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="76%" y1="54%" x2="27%" y2="47%" id="id-male-6.8_face_1-8">
+<stop stop-color="#f2c4a7" offset="0%">
+</stop >
+<stop stop-color="#f6dcc5" offset="100%">
+</stop >
+</linearGradient >
+<radialGradient cx="50%" cy="59%" r="65%" id="id-male-6.8_face_1-9" fx="50%" fy="59%" gradientTransform="translate(0.5,0.593) scale(0.791,1) rotate(-143) translate(-0.5,-0.593)">
+<stop stop-color="#f0d7bf" offset="0%">
+</stop >
+<stop stop-color="#c38f74" offset="66%">
+</stop >
+<stop stop-color="#a46254" offset="100%">
+</stop >
+</radialGradient >
+<linearGradient x1="69%" y1="50%" x2="50%" y2="60%" id="id-male-6.8_face_1-10">
+<stop stop-color="#dbab94" offset="0%">
+</stop >
+<stop stop-color="#ffe3ce" offset="100%">
+</stop >
+</linearGradient >
+<radialGradient cx="50%" cy="50%" r="44%" id="id-male-6.8_face_1-11" fx="50%" fy="50%" gradientTransform="translate(0.5,0.5) scale(0.696,1) rotate(-57) scale(1,3) translate(-0.5,-0.5)">
+<stop stop-color="#b37864" offset="0%" stop-opacity="0">
+</stop >
+<stop stop-color="#efd3bc" offset="100%">
+</stop >
+</radialGradient >
+<linearGradient x1="0%" y1="58%" x2="50%" y2="58%" id="id-male-6.8_face_1-12">
+<stop stop-color="#e4b69f" offset="0%">
+</stop >
+<stop stop-color="#c88f7c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="49%" y1="83%" x2="53%" y2="51%" id="id-male-6.8_face_1-13">
+<stop stop-color="#c6938b" offset="0%">
+</stop >
+<stop stop-color="#945a53" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="68%" x2="19%" y2="50%" id="id-male-6.8_face_1-14">
+<stop stop-color="#d4a995" offset="0%">
+</stop >
+<stop stop-color="#a9705c" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="48%" y1="37%" x2="33%" y2="25%" id="id-male-6.8_face_1-15">
+<stop stop-color="#ddaf94" offset="0%">
+</stop >
+<stop stop-color="#9d5d51" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="6%" x2="50%" y2="50%" id="id-male-6.8_face_1-16">
+<stop stop-color="#f5d3b9" offset="0%">
+</stop >
+<stop stop-color="#e7ba9d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="33%" x2="57%" y2="50%" id="id-male-6.8_face_1-17">
+<stop stop-color="#f9d2b7" offset="0%">
+</stop >
+<stop stop-color="#d0a086" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="26%" x2="42%" y2="54%" id="id-male-6.8_face_1-18">
+<stop stop-color="#875053" offset="0%">
+</stop >
+<stop stop-color="#81534d" offset="100%" stop-opacity="0.569">
+</stop >
+</linearGradient >
+<linearGradient x1="46%" y1="100%" x2="55%" y2="55%" id="id-male-6.8_face_1-19">
+<stop stop-color="#c4aed2" offset="0%">
+</stop >
+<stop stop-color="#9276a6" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="54%" y1="12%" x2="47%" y2="56%" id="id-male-6.8_face_1-20">
+<stop stop-color="#a46151" offset="0%">
+</stop >
+<stop stop-color="#9370a0" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="id-male-6.8_face_1-21">
+<stop stop-color="#f4d2bf" offset="0%">
+</stop >
+<stop stop-color="#e8b399" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="5%" y1="65%" x2="100%" y2="65%" id="id-male-6.8_face_1-22">
+<stop stop-color="#fcd9c4" offset="0%">
+</stop >
+<stop stop-color="#e0a88c" offset="28%">
+</stop >
+<stop stop-color="#dea786" offset="67%">
+</stop >
+<stop stop-color="#ffe3d1" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="66%" y1="91%" x2="52%" y2="64%" id="id-male-6.8_face_1-23">
+<stop stop-color="#d9a98f" offset="0%">
+</stop >
+<stop stop-color="#dea786" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="70%" y1="50%" x2="41%" y2="50%" id="id-male-6.8_face_1-24">
+<stop stop-color="#f6d4bc" offset="0%">
+</stop >
+<stop stop-color="#ebbca0" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="id-male-6.8_face_1-25">
+<stop stop-color="#f1c4a8" offset="0%">
+</stop >
+<stop stop-color="#ffe3d4" offset="48%">
+</stop >
+<stop stop-color="#f5cab4" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="38%" y1="14%" x2="50%" y2="79%" id="id-male-6.8_face_1-26">
+<stop stop-color="#d29a7e" offset="0%">
+</stop >
+<stop stop-color="#b37b6d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="3%" y1="0%" x2="50%" y2="66%" id="id-male-6.8_face_1-27">
+<stop stop-color="#d8a88d" offset="0%">
+</stop >
+<stop stop-color="#f9d3bd" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="17%" y1="40%" x2="69%" y2="60%" id="id-male-6.8_face_1-28">
+<stop stop-color="#40241e" offset="0%">
+</stop >
+<stop stop-color="#703832" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="100%" y1="50%" x2="16%" y2="64%" id="id-male-6.8_face_1-29">
+<stop stop-color="#351e1c" offset="0%">
+</stop >
+<stop stop-color="#843f3b" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="22%" y1="62%" x2="87%" y2="62%" id="id-male-6.8_face_1-30">
+<stop stop-color="#b07c62" offset="0%">
+</stop >
+<stop stop-color="#d3a790" offset="43%">
+</stop >
+<stop stop-color="#daa88a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="13%" y1="69%" x2="100%" y2="69%" id="id-male-6.8_face_1-31">
+<stop stop-color="#d8a88b" offset="0%">
+</stop >
+<stop stop-color="#f5d2bc" offset="48%">
+</stop >
+<stop stop-color="#daa88a" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="65%" x2="78%" y2="65%" id="id-male-6.8_face_1-32">
+<stop stop-color="#e4b7a1" offset="0%">
+</stop >
+<stop stop-color="#af785e" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="42%" x2="33%" y2="50%" id="id-male-6.8_face_1-33">
+<stop stop-color="#65463c" offset="0%">
+</stop >
+<stop stop-color="#3c2b26" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="11%" y1="36%" x2="44%" y2="36%" id="id-male-6.8_face_1-34">
+<stop stop-color="#a37a68" offset="0%">
+</stop >
+<stop stop-color="#563a31" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="40%" y1="50%" x2="89%" y2="54%" id="id-male-6.8_face_1-35">
+<stop stop-color="#312322" offset="0%">
+</stop >
+<stop stop-color="#5d3e34" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="74%" id="id-male-6.8_face_1-36">
+<stop stop-color="#e47c78" offset="0%">
+</stop >
+<stop stop-color="#d7827d" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="80%" y1="50%" x2="7%" y2="50%" id="id-male-6.8_face_1-37">
+<stop stop-color="#fad6d3" offset="0%" stop-opacity="0.472">
+</stop >
+<stop stop-color="#f5bfbb" offset="55%">
+</stop >
+<stop stop-color="#f2aca7" offset="100%" stop-opacity="0.434">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="id-male-6.8_face_1-38">
+<stop stop-color="#cf8e8a" offset="0%">
+</stop >
+<stop stop-color="#a15552" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="0%" y1="83%" x2="93%" y2="83%" id="id-male-6.8_face_1-39">
+<stop stop-color="#b87268" offset="0%" stop-opacity="0.687">
+</stop >
+<stop stop-color="#da8787" offset="58%">
+</stop >
+<stop stop-color="#c5736d" offset="100%" stop-opacity="0.622">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(548,259)" id="id-male-6.8_face_1-40">
+<g transform="translate(0,121)" id="id-male-6.8_face_1-41">
+<polygon points="199 13 214 3 222 9 221 25 214 38 214 43 210 54 208 65 197 70 190 64" fill="url(#id-male-6.8_face_1-0)" id="id-male-6.8_face_1-42">
+</polygon >
+<polygon points="197 24 209 14 216 9 219 10 220 22 214 37 195 43" fill="url(#id-male-6.8_face_1-1)" id="id-male-6.8_face_1-43">
+</polygon >
+<polygon points="203 38 208 34 199 25 203 22 209 23 207 18 212 16 214 38 214 43 213 48 207 51 201 46" fill="url(#id-male-6.8_face_1-2)" id="id-male-6.8_face_1-42">
+</polygon >
+<polygon points="212 5 214 3 222 9 222 10 219 10 216 9" fill="#f1cfd6" id="id-male-6.8_face_1-42">
+</polygon >
+<polygon points="208 65 197 70 190 64 194 42 199 50 193 62 199 67" fill="#906067" id="id-male-6.8_face_1-42">
+</polygon >
+<polygon points="203 62 202 54 211 50" fill="#a95d5f" id="id-male-6.8_face_1-47">
+</polygon >
+<polygon points="196 50 202 51 203 42 196 46" fill="#c18882" id="id-male-6.8_face_1-48">
+</polygon >
+<polygon points="194 45 199 47 202 45 202 32 197 31" fill="#4e4a5c" id="id-male-6.8_face_1-49">
+</polygon >
+<path d="M 30 70 C 24 70 20 69 19 68 C 17 66 12 52 8 46 C 4 39 2 38 1 33 C 0 30 0 21 1 6 L 8 0 L 23 9 L 30 70 Z" fill="url(#id-male-6.8_face_1-3)" id="id-male-6.8_face_1-50">
+</path >
+<polygon points="8 6 2 6 7 3 10 2 23 9 19 14" fill="#cfb7a6" id="id-male-6.8_face_1-50">
+</polygon >
+<path d="M 26 68 C 23 69 20 69 19 68 C 17 66 12 52 8 46 C 7 44 6 43 6 42 C 9 45 10 47 12 48 C 13 50 14 52 16 56 L 26 68 Z" fill="#ddb5a9" id="id-male-6.8_face_1-50">
+</path >
+<polygon points="26 68 29 65 27 53 20 61" fill="#e5a599" id="id-male-6.8_face_1-50">
+</polygon >
+<path d="M 23 19 C 12 12 6 9 5 9 C 3 10 2 18 2 33 L 17 53 L 26 52 L 23 19 Z" fill="url(#id-male-6.8_face_1-4)" id="id-male-6.8_face_1-54">
+</path >
+<polygon points="12 17 19 19 18 26 15 28 22 38 21 49 12 44" fill="#bc6a69" id="id-male-6.8_face_1-55">
+</polygon >
+<path d="M 27 53 C 16 50 10 47 8 42 C 6 38 8 30 12 17 L 15 23 C 15 36 14 42 15 43 C 15 45 18 46 25 48 L 27 53 Z" fill="#dcac9a" id="id-male-6.8_face_1-56">
+</path >
+<polygon points="11 31 19 26 19 18 14 20 12 18" fill="#dac2b3" id="id-male-6.8_face_1-57">
+</polygon >
+<polygon points="20 46 17 42 22 37 25 48" fill="#d29488" id="id-male-6.8_face_1-58">
+</polygon >
+</g >
+<g transform="translate(18,0)" id="id-male-6.8_face_1-59">
+<path d="M 20 231 C 18 227 11 201 5 153 C 3 140 2 128 1 117 C -1 91 4 63 8 49 C 9 46 16 35 16 34 C 30 20 56 0 94 0 C 157 0 178 45 181 51 C 183 57 183 111 181 144 C 178 177 162 232 160 235 C 158 239 124 261 119 264 C 113 266 74 267 69 264 C 64 261 22 235 20 231 Z" fill="url(#id-male-6.8_face_1-5)" id="id-male-6.8_face_1-60">
+</path >
+<polygon points="19 114 13 91 21 49 49 35 141 43 137 69 105 74 78 52 56 49 39 56 41 93" fill="url(#id-male-6.8_face_1-6)" id="id-male-6.8_face_1-61">
+</polygon >
+<polygon points="60 106 92 113 124 106 121 101 72 88 66 90 41 88 30 101" fill="url(#id-male-6.8_face_1-7)" id="id-male-6.8_face_1-62">
+</polygon >
+<polygon points="51 70 94 83 125 81 132 50 98 64 102 53 80 48" fill="url(#id-male-6.8_face_1-8)" opacity="0.556" id="id-male-6.8_face_1-63">
+</polygon >
+<path d="M 4 144 C 3 137 2 130 2 123 C -1 88 16 34 17 34 C 31 19 56 0 94 0 C 157 0 178 45 181 51 C 183 56 183 103 181 136 L 152 101 C 154 91 155 83 154 79 C 150 60 140 50 136 47 C 130 44 99 50 94 50 C 90 50 78 43 58 42 C 54 42 48 43 38 46 C 29 61 24 68 23 70 C 11 97 16 104 13 127 C 13 131 10 137 4 144 Z" fill="url(#id-male-6.8_face_1-9)" id="id-male-6.8_face_1-60">
+</path >
+<polygon points="146 168 106 137 108 129 149 141 164 156" fill="url(#id-male-6.8_face_1-10)" id="id-male-6.8_face_1-65">
+</polygon >
+<polygon points="146 168 106 137 106 148 116 170 133 186" fill="#ffe7d9" id="id-male-6.8_face_1-65">
+</polygon >
+<path d="M 181 51 C 183 56 183 103 181 136 L 162 124 L 161 111 C 167 97 172 86 174 77 C 175 74 176 71 177 64 C 178 59 177 52 174 41 L 181 51 Z" fill="#b38369" id="id-male-6.8_face_1-60">
+</path >
+<path d="M 48 11 C 60 5 75 0 94 0 C 157 0 178 45 181 51 C 182 54 183 73 183 94 C 174 71 156 51 129 35 C 102 18 75 10 48 11 Z" fill="url(#id-male-6.8_face_1-11)" id="id-male-6.8_face_1-60">
+</path >
+<polygon points="179 156 158 131 148 142 162 156 144 168 148 190" fill="url(#id-male-6.8_face_1-12)" id="id-male-6.8_face_1-60">
+</polygon >
+<path d="M 154 211 L 164 139 L 157 131 L 175 105 L 182 68 C 183 88 183 121 181 144 C 178 177 162 232 160 235 C 158 239 124 261 119 264 L 154 211 Z" fill="url(#id-male-6.8_face_1-13)" opacity="0.749" id="id-male-6.8_face_1-60">
+</path >
+<polygon points="85 260 99 252 111 242 102 223 65 227 64 248" fill="#edc5b0" fill-opacity="0.74" id="id-male-6.8_face_1-71">
+</polygon >
+<polygon points="33 188 44 177 21 169 41 146 21 136 8 168" fill="#f5c9b2" id="id-male-6.8_face_1-72">
+</polygon >
+<path d="M 5 156 C 5 155 5 154 5 153 C 4 148 4 144 3 139 L 13 129 L 15 97 L 20 117 L 16 146 L 20 172 L 5 156 Z" fill="#c18f75" id="id-male-6.8_face_1-60">
+</path >
+<polygon points="13 136 17 121 19 115 32 129 68 132 69 135 40 148 24 139 23 131" fill="url(#id-male-6.8_face_1-14)" id="id-male-6.8_face_1-74">
+</polygon >
+<polygon points="17 156 11 136 23 130 25 130 25 139" fill="#dbac93" id="id-male-6.8_face_1-75">
+</polygon >
+<path d="M 20 231 C 18 227 11 201 5 153 L 33 186 L 46 239 C 62 256 70 265 69 264 C 64 261 22 235 20 231 Z" fill="url(#id-male-6.8_face_1-15)" id="id-male-6.8_face_1-60">
+</path >
+<polygon points="58 194 45 174 33 186 46 239 60 214" fill="url(#id-male-6.8_face_1-16)" id="id-male-6.8_face_1-60">
+</polygon >
+<path d="M 20 231 C 19 229 17 223 15 212 C 29 230 46 244 65 252 C 84 260 101 262 117 256 L 149 212 L 172 192 C 167 214 161 233 160 235 C 158 239 124 261 119 264 C 113 266 74 267 69 264 C 64 261 22 235 20 231 Z" fill="#86574d" opacity="0.47" id="id-male-6.8_face_1-60">
+</path >
+<polygon points="117 256 152 210 144 168 132 185 128 235 113 258" fill="url(#id-male-6.8_face_1-17)" id="id-male-6.8_face_1-60">
+</polygon >
+<path d="M 179 156 C 175 189 161 232 160 235 C 160 236 159 236 157 237 L 148 190 L 179 156 Z" fill="url(#id-male-6.8_face_1-18)" opacity="0.606" id="id-male-6.8_face_1-60">
+</path >
+<path d="M 181 144 C 178 177 162 232 160 235 C 159 237 151 242 143 248 L 157 232 L 163 217 L 170 168 L 181 144 Z" fill="url(#id-male-6.8_face_1-19)" id="id-male-6.8_face_1-60">
+</path >
+<path d="M 135 254 C 127 259 121 263 119 264 C 113 266 74 267 69 264 C 67 263 57 256 46 250 L 73 256 L 116 262 L 135 254 Z" fill="#836386" id="id-male-6.8_face_1-60">
+</path >
+<path d="M 2 130 C 2 125 1 121 1 117 C -1 91 4 63 8 49 C 9 46 16 35 16 34 C 16 34 17 34 17 34 L 29 29 L 13 58 L 13 86 L 2 130 Z" fill="url(#id-male-6.8_face_1-20)" id="id-male-6.8_face_1-60">
+</path >
+<path d="M 182 133 C 181 137 181 141 181 144 C 180 152 179 160 177 169 L 158 179 L 175 157 L 177 139 L 182 133 Z" fill="#7e4341" id="id-male-6.8_face_1-60">
+</path >
+<path d="M 72 248 C 71 246 69 242 68 234 L 83 227 L 111 242 C 86 247 73 249 72 248 Z" fill="#fddfcb" opacity="0.617" id="id-male-6.8_face_1-85">
+</path >
+<polygon points="109 177 114 181 125 213 60 209 61 183 66 177" fill="#efc2a8" id="id-male-6.8_face_1-86">
+</polygon >
+<polygon points="83 194 74 185 77 178 112 181 98 194" fill="#d6a390" id="id-male-6.8_face_1-87">
+</polygon >
+<polygon points="83 193 92 197 99 195 99 181 85 181" fill="url(#id-male-6.8_face_1-21)" id="id-male-6.8_face_1-88">
+</polygon >
+<polygon points="83 196 83 193 92 197 99 195 100 197 91 202" fill="#f2cfbb" id="id-male-6.8_face_1-88">
+</polygon >
+<polygon points="75 138 67 145 60 160 67 171 120 176 116 162 122 153 107 140 110 115" fill="url(#id-male-6.8_face_1-22)" id="id-male-6.8_face_1-90">
+</polygon >
+<polygon points="75 138 78 153 75 160 75 184 94 181 111 183 118 178 120 174 116 162 105 153 107 140 110 115 71 115 71 127" fill="url(#id-male-6.8_face_1-23)" id="id-male-6.8_face_1-90">
+</polygon >
+<polygon points="97 179 108 168 83 166 68 173 71 180" fill="#e8bfa7" id="id-male-6.8_face_1-92">
+</polygon >
+<polygon points="79 124 71 112 71 127 73 131" fill="#cf9779" id="id-male-6.8_face_1-90">
+</polygon >
+<polygon points="71 160 57 173 61 183 78 181 67 177" fill="#ffe1cf" id="id-male-6.8_face_1-94">
+</polygon >
+<polygon points="87 136 71 113 69 101 92 108 108 104 110 112 94 136" fill="url(#id-male-6.8_face_1-24)" id="id-male-6.8_face_1-95">
+</polygon >
+<polygon points="96 169 105 169 116 169 103 159" fill="#ffd6c0" id="id-male-6.8_face_1-96">
+</polygon >
+<polygon points="86 170 98 169 103 159 98 143 95 123 88 126 82 166" fill="url(#id-male-6.8_face_1-25)" id="id-male-6.8_face_1-96">
+</polygon >
+<polygon points="86 170 97 169 92 157" fill="#fff1e3" id="id-male-6.8_face_1-96">
+</polygon >
+<polygon points="92 136 87 125 90 117 95 123" fill="#fff9ed" id="id-male-6.8_face_1-99">
+</polygon >
+<polygon points="103 157 106 151 115 163" fill="#cb9071" id="id-male-6.8_face_1-100">
+</polygon >
+<polygon points="75 184 66 180 65 173 70 163 76 158 76 163 70 172 70 175 76 176 88 180" fill="url(#id-male-6.8_face_1-26)" id="id-male-6.8_face_1-101">
+</polygon >
+<polygon points="70 172 79 172 76 163 71 164" fill="url(#id-male-6.8_face_1-27)" id="id-male-6.8_face_1-102">
+</polygon >
+<polygon points="120 173 120 179 114 184 101 183 111 182 117 177" fill="#a46b65" id="id-male-6.8_face_1-103">
+</polygon >
+<polygon points="89 181 93 183 97 182 99 179 84 176" fill="#bb8e78" id="id-male-6.8_face_1-104">
+</polygon >
+<polygon points="97 182 99 179 84 176" fill="#a77563" id="id-male-6.8_face_1-104">
+</polygon >
+<path d="M 77 180 C 78 180 83 180 90 180 C 89 179 88 177 86 177 C 85 176 83 175 79 174 C 77 174 75 175 75 176 C 74 178 75 179 77 180 Z" fill="url(#id-male-6.8_face_1-28)" id="id-male-6.8_face_1-106">
+</path >
+<path d="M 96 180 L 99 176 L 107 173 C 111 175 112 176 109 178 C 107 180 103 181 96 180 Z" fill="url(#id-male-6.8_face_1-29)" id="id-male-6.8_face_1-107">
+</path >
+<polygon points="30 128 57 124 72 126 72 114 48 102 19 114" fill="url(#id-male-6.8_face_1-30)" id="id-male-6.8_face_1-108">
+</polygon >
+<polygon points="36 127 57 124 69 126 60 108 53 104" fill="url(#id-male-6.8_face_1-31)" id="id-male-6.8_face_1-108">
+</polygon >
+<polygon points="37 129 41 135 33 132 33 130" fill="#2f1a10" opacity="0.429" id="id-male-6.8_face_1-110">
+</polygon >
+<polygon points="48 138 69 135 40 148 33 144 40 138" fill="#deac91" id="id-male-6.8_face_1-74">
+</polygon >
+<path d="M 22 130 C 27 129 30 128 32 127 C 40 124 47 122 52 122 C 60 123 66 126 70 133 L 69 135 L 67 133 L 66 132 L 36 130 L 41 135 L 32 133 L 22 130 Z" fill="#35221d" id="id-male-6.8_face_1-112">
+</path >
+<polygon points="36 130 41 135 50 135 62 133 65 130 58 127 43 126" fill="#e5e2f2" id="id-male-6.8_face_1-110">
+</polygon >
+<path d="M 54 135 C 56 134 58 131 59 127 C 57 125 55 124 51 124 C 48 124 45 125 43 126 C 43 129 44 131 44 132 C 45 133 49 136 54 135 Z" fill="#2c1e19" id="id-male-6.8_face_1-110">
+</path >
+<polygon points="62 133 65 130 67 133" fill="#c37c79" id="id-male-6.8_face_1-110">
+</polygon >
+<polygon points="36 130 41 135 49 126 43 126" fill="#2f1a10" opacity="0.429" id="id-male-6.8_face_1-110">
+</polygon >
+<path d="M 50 131 L 50 134 C 51 134 53 134 54 133 C 54 133 55 132 56 131 C 54 131 53 131 52 131 C 51 131 50 131 50 131 Z" fill="#384239" id="id-male-6.8_face_1-117">
+</path >
+<polygon points="108 131 117 132 137 124 156 110 117 108" fill="#dfaf93" id="id-male-6.8_face_1-118">
+</polygon >
+<polygon points="134 148 151 141 164 122 161 110 155 106 135 126 140 132 132 143 137 143" fill="url(#id-male-6.8_face_1-32)" id="id-male-6.8_face_1-119">
+</polygon >
+<polygon points="46 130 50 129 50 127 46 127" fill="#c2bac8" id="id-male-6.8_face_1-120">
+</polygon >
+<polygon points="48 138 54 142 59 136" fill="#efcbb6" id="id-male-6.8_face_1-121">
+</polygon >
+<path d="M 73 115 L 63 111 C 49 110 38 110 32 111 C 25 111 20 115 17 121 C 18 115 19 111 20 109 C 22 106 24 103 27 101 L 27 104 L 30 100 C 33 99 36 98 41 98 C 45 98 52 99 61 100 L 65 106 L 65 102 L 69 102 L 73 115 Z" fill="url(#id-male-6.8_face_1-33)" id="id-male-6.8_face_1-122">
+</path >
+<polygon points="73 115 63 111 71 106 71 108 75 106" fill="#815a4e" id="id-male-6.8_face_1-122">
+</polygon >
+<polygon points="108 131 108 111 118 111 123 116" fill="#c78c74" id="id-male-6.8_face_1-124">
+</polygon >
+<polygon points="129 125 123 116 129 116 136 114 133 124" fill="#f5d3bd" id="id-male-6.8_face_1-125">
+</polygon >
+<path d="M 116 133 C 115 134 115 135 114 135 C 114 135 114 134 114 133 C 115 132 116 130 117 130 C 121 125 127 123 133 123 C 141 123 147 125 154 129 L 160 132 L 150 135 L 140 135 L 116 133 Z" fill="#402c24" id="id-male-6.8_face_1-126">
+</path >
+<path d="M 108 113 L 105 103 L 111 103 L 109 109 L 117 101 C 122 100 127 99 133 98 C 139 98 143 98 146 99 L 139 102 L 150 100 L 163 109 L 164 122 C 162 115 159 111 155 110 C 152 110 147 110 138 111 L 125 111 L 108 113 Z" fill="url(#id-male-6.8_face_1-34)" id="id-male-6.8_face_1-127">
+</path >
+<path d="M 150 100 L 163 109 C 162 110 159 111 155 110 C 152 110 147 110 138 111 L 125 111 L 150 100 Z" fill="url(#id-male-6.8_face_1-35)" id="id-male-6.8_face_1-127">
+</path >
+<path d="M 149 132 C 146 128 141 125 135 125 C 129 125 124 127 118 131 L 120 134 C 126 135 130 135 133 136 C 135 136 138 136 142 136 L 149 132 Z" fill="#eae6fb" id="id-male-6.8_face_1-129">
+</path >
+<path d="M 140 126 C 138 125 137 125 135 125 C 132 125 128 125 124 127 C 125 132 128 135 133 135 C 138 135 140 132 140 126 Z" fill="#2e2020" id="id-male-6.8_face_1-129">
+</path >
+<path d="M 149 132 C 146 128 141 125 135 125 C 129 125 124 127 118 131 L 120 134 C 124 130 128 128 133 128 C 138 128 142 130 145 134 L 149 132 Z" fill="#3e2f25" opacity="0.326" id="id-male-6.8_face_1-129">
+</path >
+<polygon points="118 131 116 134 120 134" fill="#b4796d" id="id-male-6.8_face_1-129">
+</polygon >
+<polygon points="129 130 129 127 132 126 132 128" fill="#e6e2f6" id="id-male-6.8_face_1-133">
+</polygon >
+<path d="M 132 134 C 134 135 135 135 136 134 C 137 133 138 132 139 130 L 134 130 L 132 134 Z" fill="#384039" id="id-male-6.8_face_1-134">
+</path >
+<polygon points="66 231 97 229 107 229 119 223 119 213 60 215 57 221" fill="#dca493" id="id-male-6.8_face_1-135">
+</polygon >
+<polygon points="118 217 124 214 101 203 71 206 60 215 61 217" fill="#5f2522" id="id-male-6.8_face_1-136">
+</polygon >
+<polygon points="114 135 135 137 150 135 144 135 116 133" fill="#b58e82" id="id-male-6.8_face_1-137">
+</polygon >
+<polygon points="106 225 97 229 85 229 77 224" fill="#a26357" id="id-male-6.8_face_1-138">
+</polygon >
+<polygon points="85 229 77 224 101 225" fill="#763932" id="id-male-6.8_face_1-138">
+</polygon >
+<path d="M 60 215 L 59 217 L 77 225 L 105 226 L 119 217 C 115 214 110 213 106 212 C 102 212 90 212 72 213 L 65 217 L 60 215 Z" fill="url(#id-male-6.8_face_1-36)" id="id-male-6.8_face_1-140">
+</path >
+<path d="M 80 221 L 74 218 C 81 217 87 217 91 217 C 95 216 100 217 107 217 L 100 221 C 96 220 94 219 91 219 C 89 219 85 220 80 221 Z" fill="url(#id-male-6.8_face_1-37)" id="id-male-6.8_face_1-141">
+</path >
+<path d="M 59 215 L 60 210 C 65 207 69 204 71 203 C 74 201 78 199 83 196 L 91 200 L 100 196 L 114 203 L 124 213 L 116 213 L 103 208 L 91 206 L 76 208 L 64 215 L 59 215 Z" fill="url(#id-male-6.8_face_1-38)" id="id-male-6.8_face_1-142">
+</path >
+<path d="M 71 203 C 74 201 78 199 83 196 L 91 200 L 100 196 L 114 203 L 103 208 L 91 206 L 76 208 L 71 203 Z" fill="url(#id-male-6.8_face_1-39)" id="id-male-6.8_face_1-142">
+</path >
+<path d="M 76 200 C 77 199 80 198 83 196 L 91 200 L 91 206 L 82 208 L 76 200 Z" fill="#e696a5" id="id-male-6.8_face_1-142">
+</path >
+</g >
+</g >
+<defs >
+<linearGradient x1="50%" y1="1%" x2="50%" y2="100%" id="id-male-12_shaman_pants_color-0">
+<stop stop-color="#dfe5e7" offset="0%">
+</stop >
+<stop stop-color="#ffffff" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="39%" y1="10%" x2="29%" y2="84%" id="id-male-12_shaman_pants_color-1">
+<stop stop-color="#d3dadf" offset="0%">
+</stop >
+<stop stop-color="#e8eaed" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="50%" y1="63%" x2="42%" y2="100%" id="id-male-12_shaman_pants_color-2">
+<stop stop-color="#1a2e4c" offset="0%">
+</stop >
+<stop stop-color="#160a19" offset="100%">
+</stop >
+</linearGradient >
+<linearGradient x1="90%" y1="11%" x2="12%" y2="88%" id="id-male-12_shaman_pants_color-3">
+<stop stop-color="#983860" offset="0%">
+</stop >
+<stop stop-color="#d46f9f" offset="100%">
+</stop >
+</linearGradient >
+<polygon points="376 181 380 197 460 119 456 103" id="id-male-12_shaman_pants_color-4">
+</polygon >
+<linearGradient x1="90%" y1="11%" x2="10%" y2="90%" id="id-male-12_shaman_pants_color-5">
+<stop stop-color="#6c72d8" offset="0%" stop-opacity="0">
+</stop >
+<stop stop-color="#bd487f" offset="100%">
+</stop >
+</linearGradient >
+<polygon points="376 181 380 197 460 119 456 103" id="id-male-12_shaman_pants_color-4">
+</polygon >
+<linearGradient x1="76%" y1="11%" x2="24%" y2="90%" id="id-male-12_shaman_pants_color-7">
+<stop stop-color="#6c72d8" offset="0%" stop-opacity="0">
+</stop >
+<stop stop-color="#bd487f" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(403,996)" id="id-male-12_shaman_pants_color-8">
+<path d="M 75 738 C 75 745 76 749 76 749 C 116 703 137 680 137 680 C 164 675 177 673 177 673 C 195 682 204 686 204 686 C 207 678 209 674 209 674 L 206 603 L 207 599 C 127 681 83 727 75 738 Z" fill="#2d1434" fill-opacity="0.71" id="id-male-12_shaman_pants_color-9">
+</path >
+<path d="M 53 764 C 22 764 6 764 6 764 C 28 479 39 336 39 336 C 48 334 53 332 53 332 C 72 336 81 338 81 338 C 80 339 80 340 80 340 C 132 348 159 352 159 352 C 158 350 158 349 158 349 C 179 352 189 354 189 354 C 221 357 256 350 289 351 C 339 348 364 346 364 346 C 405 333 454 323 497 311 C 503 364 510 417 513 471 C 525 568 534 666 541 764 C 407 764 341 764 341 764 C 310 704 266 639 229 576 C 170 639 115 690 53 764 Z" fill="#d3dadf" id="id-male-12_shaman_pants_color-10">
+</path >
+<path d="M 35 764 L 6 764 L 39 336 L 53 332 L 81 338 L 80 341 C 56 463 34 589 35 764 Z" fill="#95a7b1" id="id-male-12_shaman_pants_color-11">
+</path >
+<path d="M 108 701 C 119 486 124 379 124 379 C 145 415 156 432 156 432 L 155 653 C 124 685 108 701 108 701 Z" fill="#e9eeef" id="id-male-12_shaman_pants_color-12">
+</path >
+<path d="M 108 701 C 109 679 110 667 110 667 L 155 624 L 155 655 C 124 686 108 701 108 701 Z" fill="#f0f4f4" id="id-male-12_shaman_pants_color-13">
+</path >
+<path d="M 187 617 C 186 603 185 596 185 596 C 211 569 225 556 225 556 L 233 572 C 202 602 187 617 187 617 Z" fill="#f0f4f4" id="id-male-12_shaman_pants_color-14">
+</path >
+<path d="M 229 576 C 356 453 427 379 441 356 L 499 329 C 512 454 525 577 536 701 L 487 416 C 455 390 438 377 438 377 C 399 447 379 482 379 482 C 377 617 376 684 376 684 C 367 638 354 603 339 576 C 325 606 312 637 299 691 C 276 653 253 615 229 576 Z" fill="#95a7b1" id="id-male-12_shaman_pants_color-15">
+</path >
+<path d="M 407 764 C 420 733 426 701 428 650 C 426 590 427 518 425 398 C 428 393 432 386 438 377 C 448 510 438 631 456 764 C 437 763 421 763 407 764 Z" fill="url(#id-male-12_shaman_pants_color-0)" id="id-male-12_shaman_pants_color-16">
+</path >
+<path d="M 283 664 C 277 586 273 547 273 547 C 295 520 306 506 306 506 C 331 526 343 536 343 536 L 351 457 L 229 576 C 265 635 283 664 283 664 Z" fill="#9294aa" id="id-male-12_shaman_pants_color-17">
+</path >
+<path d="M 264 542 C 243 438 233 386 233 386 C 329 363 377 352 377 352 L 395 410 C 319 488 276 532 264 542 Z" fill="url(#id-male-12_shaman_pants_color-1)" id="id-male-12_shaman_pants_color-18">
+</path >
+<path d="M 264 542 C 261 528 260 521 260 521 C 305 479 328 458 328 458 L 335 472 C 288 519 264 542 264 542 Z" fill="#eef2f3" id="id-male-12_shaman_pants_color-19">
+</path >
+<path d="M 335 472 L 311 368 L 377 352 L 395 410 C 355 451 335 472 335 472 Z" fill="#e8eaed" id="id-male-12_shaman_pants_color-20">
+</path >
+<path d="M 360 461 C 368 460 373 460 373 460 C 374 432 374 419 374 419 L 360 419 C 360 447 360 461 360 461 Z" fill="#f19c32" id="id-male-12_shaman_pants_color-21">
+</path >
+<path d="M 396 428 C 405 428 409 428 409 428 C 409 400 409 386 409 386 L 395 386 C 396 414 396 428 396 428 Z" fill="#f19c32" id="id-male-12_shaman_pants_color-22">
+</path >
+<path d="M 431 394 C 439 393 443 392 443 392 C 443 368 443 356 443 356 L 430 352 C 431 380 431 394 431 394 Z" fill="#f19c32" id="id-male-12_shaman_pants_color-23">
+</path >
+<path d="M 499 329 C 461 346 442 355 442 355 L 439 326 L 497 311 L 499 329 Z" fill="#d3dadf" id="id-male-12_shaman_pants_color-24">
+</path >
+<path d="M 429 372 L 409 334 L 439 326 L 442 355 C 433 366 429 372 429 372 Z" fill="#d3dadf" id="id-male-12_shaman_pants_color-25">
+</path >
+<path d="M 241 429 C 236 422 233 419 233 419 L 228 361 C 237 406 241 429 241 429 Z" fill="#d3dadf" id="id-male-12_shaman_pants_color-26">
+</path >
+<path d="M 174 620 C 164 620 159 620 159 620 C 160 647 160 661 160 661 L 172 660 C 173 633 174 620 174 620 Z" fill="#f19c32" id="id-male-12_shaman_pants_color-27">
+</path >
+<path d="M 131 664 C 122 664 118 664 118 664 C 118 692 118 706 118 706 L 131 705 C 131 678 131 664 131 664 Z" fill="#f19c32" id="id-male-12_shaman_pants_color-28">
+</path >
+<path d="M 29 340 L 53 332 C 192 375 340 368 497 311 C 500 310 501 309 501 309 C 500 296 499 289 499 289 C 494 289 492 289 492 289 C 476 234 469 207 469 207 C 455 127 447 87 447 87 C 450 87 452 86 452 86 C 449 69 448 61 448 61 C 442 60 439 60 439 60 C 436 69 434 73 434 73 C 278 89 200 97 200 97 C 124 86 85 80 85 80 C 86 78 86 77 86 77 C 79 77 76 77 76 77 C 76 96 75 106 75 106 C 78 106 79 106 79 106 C 51 242 38 309 38 309 L 30 312 L 29 340 Z" fill="#000001" id="id-male-12_shaman_pants_color-29">
+</path >
+<path d="M 62 330 C 104 337 126 340 126 340 C 114 227 125 144 157 91 C 119 85 100 82 100 82 C 100 100 100 109 100 109 C 116 110 125 111 125 111 C 115 114 107 118 99 123 C 94 186 60 295 62 330 Z" fill="#1b304f" id="id-male-12_shaman_pants_color-30">
+</path >
+<path d="M 246 294 C 235 239 226 193 221 157 C 216 138 200 132 197 124 C 245 113 292 107 337 105 L 347 187 C 280 258 246 294 246 294 Z" fill="url(#id-male-12_shaman_pants_color-2)" id="id-male-12_shaman_pants_color-31">
+</path >
+<path d="M 351 102 C 386 98 403 96 403 96 C 390 110 394 182 416 312 L 387 323 C 381 215 368 141 351 102 Z" fill="#1a2e4c" id="id-male-12_shaman_pants_color-32">
+</path >
+<path d="M 463 156 L 467 180 C 385 271 344 317 344 317 C 234 423 121 526 7 628 C 2 623 0 620 0 620 C 112 514 224 411 337 308 C 418 209 460 158 463 156 Z" fill="#983860" id="id-male-12_shaman_pants_color-33">
+</path >
+<polygon points="106 521 109 536 164 486 162 469" fill="#bc487f" id="id-male-12_shaman_pants_color-34">
+</polygon >
+<polygon points="13 459 19 471 98 421 333 244 460 119 456 103 308 247 91 410" fill="#983860" id="id-male-12_shaman_pants_color-35">
+</polygon >
+<polygon points="91 410 98 421 142 388 142 372" fill="#ba477c" id="id-male-12_shaman_pants_color-36">
+</polygon >
+<g id="id-male-12_shaman_pants_color-37">
+<use fill="url(#id-male-12_shaman_pants_color-3)" xlink:href="#id-male-12_shaman_pants_color-4">
+</use >
+<use fill="url(#id-male-12_shaman_pants_color-5)" xlink:href="#id-male-12_shaman_pants_color-4">
+</use >
+</g >
+<polygon points="395 237 399 256 467 180 463 156" fill="url(#id-male-12_shaman_pants_color-7)" id="id-male-12_shaman_pants_color-40">
+</polygon >
+<polygon points="85 80 89 46 88 44 101 8 107 10 120 16 289 19 374 16 407 10 414 1 421 1 441 60 439 60 434 73 200 97" fill="#94a9b1" id="id-male-12_shaman_pants_color-41">
+</polygon >
+<polygon points="374 16 382 56 356 81 267 90 267 19 289 19" fill="#d3dadf" id="id-male-12_shaman_pants_color-42">
+</polygon >
+<path d="M 278 19 C 266 42 270 67 267 90 C 252 92 244 93 244 93 C 246 69 244 44 240 18 L 278 19 Z" fill="#e8eaed" id="id-male-12_shaman_pants_color-43">
+</path >
+</g >
+<defs >
+<linearGradient x1="83%" y1="68%" x2="5%" y2="26%" id="id-male-19_cammer_necklace-0">
+<stop stop-color="#eca701" offset="0%">
+</stop >
+<stop stop-color="#c37101" offset="100%">
+</stop >
+</linearGradient >
+</defs >
+<g transform="translate(547,541)" id="id-male-19_cammer_necklace-1">
+<path d="M 183 9 C 186 9 187 12 186 16 C 194 17 190 28 185 28 C 189 33 189 38 183 42 C 187 48 186 52 180 54 C 184 60 183 64 178 68 C 182 74 181 78 175 81 C 179 87 178 91 172 93 C 176 99 175 104 169 107 C 173 113 172 117 165 119 C 169 126 168 130 161 132 C 161 132 162 133 162 135 C 162 135 162 135 162 135 L 163 135 C 163 135 165 134 169 133 C 167 128 169 124 174 123 C 173 116 175 113 181 112 C 179 107 181 104 187 103 C 184 97 186 93 192 91 C 190 86 192 82 197 81 C 195 75 197 71 202 70 C 200 64 201 61 207 59 C 204 53 206 49 211 47 C 209 45 209 42 211 38 C 210 39 208 39 206 38 C 205 34 206 33 210 33 C 213 31 214 32 215 34 C 222 33 224 36 222 41 C 224 46 222 49 218 51 C 220 56 219 60 213 61 C 216 67 214 71 209 73 C 211 78 209 82 203 84 C 206 89 204 93 199 94 C 201 101 199 104 193 105 C 195 112 193 115 187 116 C 190 122 188 126 181 127 C 183 133 181 136 174 136 C 176 143 174 147 167 147 C 168 153 165 156 159 156 C 160 161 158 165 152 165 C 152 168 150 170 147 170 C 149 177 147 181 141 182 C 143 189 141 193 134 194 C 135 203 132 207 123 205 C 121 213 117 214 109 210 C 104 215 99 214 95 207 C 87 210 83 207 83 200 C 75 201 72 198 72 190 C 65 192 62 188 63 180 C 57 179 54 175 57 168 C 50 167 49 163 51 156 C 45 155 43 152 45 145 C 40 144 38 141 38 135 C 33 134 31 131 32 125 C 27 125 26 122 27 116 C 23 116 21 113 22 108 C 18 107 16 104 18 99 C 14 98 13 95 15 90 C 11 88 10 85 12 81 C 8 80 7 77 9 72 C 5 70 4 67 7 63 C 3 62 3 59 5 55 C 1 53 1 50 3 47 C 1 46 0 45 0 43 C 0 38 3 36 8 38 C 8 38 10 38 14 37 L 14 37 L 14 37 C 14 37 15 37 18 37 C 18 37 17 38 14 40 C 14 40 13 41 10 42 C 10 43 10 44 8 45 C 12 47 13 50 10 54 C 14 55 15 58 12 62 C 16 64 17 67 15 71 C 18 72 19 75 18 79 C 21 81 22 84 20 88 C 24 90 25 92 24 96 C 28 98 29 101 28 105 C 30 105 32 107 32 110 C 33 110 33 110 33 109 C 30 105 29 101 31 98 C 27 95 26 91 29 86 C 25 84 24 80 27 75 C 23 72 23 68 27 64 C 27 64 26 64 26 64 L 26 63 C 25 63 24 62 24 61 C 23 60 24 58 25 54 C 22 51 22 48 25 45 C 22 42 22 40 25 37 C 23 35 23 32 25 30 C 22 26 24 23 28 22 C 30 16 36 19 35 22 C 35 24 34 25 31 24 C 32 26 32 28 30 29 C 33 31 33 33 31 36 C 34 39 35 42 31 45 C 35 48 35 51 32 54 C 36 57 36 61 33 64 C 38 67 38 71 34 74 C 39 77 39 80 37 84 C 41 88 41 91 38 96 C 44 98 44 102 41 108 C 46 110 47 113 45 119 C 50 121 51 125 48 131 C 52 131 54 134 54 139 C 57 140 58 142 58 145 C 63 146 66 148 65 153 C 71 152 74 154 74 159 C 80 158 83 159 84 165 C 89 163 92 164 94 169 C 98 166 101 167 104 171 C 107 168 111 168 116 171 C 118 167 121 166 126 169 C 127 164 131 162 136 165 C 137 158 140 155 145 155 C 141 149 142 145 150 143 C 147 137 148 133 154 131 C 151 125 152 121 158 118 C 155 113 156 108 161 105 C 158 99 159 95 165 92 C 161 87 162 82 167 79 C 163 73 164 69 170 66 C 166 61 167 56 173 53 C 169 47 170 43 175 40 C 171 35 172 30 178 27 C 175 26 174 24 176 19 C 175 13 177 10 183 9 Z M 71 163 C 69 164 67 165 64 164 L 64 164 L 65 164 C 69 166 71 170 70 174 L 70 174 C 76 175 78 179 78 185 C 85 183 88 190 87 193 C 94 190 97 196 98 199 C 103 195 107 198 109 201 C 112 196 117 196 119 197 C 119 191 124 189 127 189 C 124 182 133 178 134 178 C 130 178 128 177 128 174 C 126 179 120 182 115 177 C 114 182 106 182 103 176 C 97 182 92 178 91 174 C 86 178 80 174 80 169 C 76 172 70 169 71 163 Z" fill="#551a18" fill-opacity="0.2" id="id-male-19_cammer_necklace-2">
+</path >
+<path d="M 184 0 C 187 0 188 3 187 6 C 196 8 192 19 186 19 C 191 24 190 28 184 32 C 188 38 187 42 182 45 C 186 50 185 55 179 58 C 183 64 182 68 177 70 C 180 77 179 81 174 83 C 177 89 176 93 171 96 C 174 103 173 107 167 109 C 171 115 169 119 163 121 C 163 121 163 122 164 124 C 164 124 166 123 170 122 C 168 117 170 113 176 112 C 174 106 177 102 182 102 C 181 96 182 93 188 92 C 186 87 188 83 193 81 C 191 76 193 72 198 71 C 196 65 198 62 204 60 C 201 55 202 51 208 49 C 205 44 207 40 212 38 C 210 35 210 32 212 29 C 211 30 209 29 207 28 C 206 25 207 23 211 24 C 214 22 215 22 216 25 C 223 24 225 26 223 32 C 225 36 223 39 219 41 C 221 46 220 50 214 51 C 217 57 215 61 210 63 C 212 68 210 72 204 74 C 207 79 206 83 200 84 C 202 90 200 94 194 95 C 196 101 195 105 189 105 C 191 111 189 115 182 116 C 184 122 182 125 176 126 C 177 132 175 136 169 136 C 170 142 167 145 160 144 C 161 150 159 153 154 154 C 154 157 152 158 148 159 C 151 166 149 170 143 171 C 145 178 143 182 136 183 C 137 191 134 195 125 193 C 123 201 119 202 111 198 C 106 203 101 202 97 195 C 90 198 86 195 85 188 C 78 190 75 187 75 179 C 68 180 65 177 66 168 C 59 168 57 164 59 157 C 53 155 51 151 54 145 C 48 144 46 141 48 134 C 43 133 41 130 41 124 C 36 123 34 120 35 115 C 31 114 29 111 30 106 C 26 106 24 103 25 98 C 21 97 20 94 22 89 C 17 88 16 85 18 80 C 14 78 13 75 15 71 C 11 70 10 67 13 62 C 8 60 8 57 10 54 C 7 52 6 49 8 45 C 5 43 4 41 6 37 C 5 37 4 35 3 32 C 4 27 6 26 11 28 C 11 28 11 25 15 25 C 17 24 20 25 21 26 C 21 26 20 28 18 30 C 18 30 16 30 14 31 C 14 33 13 35 12 36 C 15 38 16 41 14 44 C 17 46 18 48 16 52 C 19 54 20 57 18 61 C 22 62 23 65 21 69 C 24 71 25 74 24 78 C 27 79 29 82 27 86 C 31 88 32 91 31 95 C 33 95 35 96 35 100 C 36 100 36 99 36 99 C 33 95 32 91 35 87 C 30 85 29 81 32 76 C 28 73 27 70 30 65 C 26 62 26 58 30 55 C 29 54 27 53 27 51 C 27 50 27 48 28 44 C 26 42 26 39 28 36 C 26 33 25 30 28 28 C 26 25 26 23 28 20 C 26 16 26 14 30 12 C 32 5 37 7 37 10 C 36 11 35 13 35 14 C 34 14 34 14 33 14 C 34 16 34 18 33 20 C 36 21 36 24 34 27 C 38 29 38 32 34 35 C 38 38 38 41 35 44 C 39 47 39 51 36 55 C 41 58 41 61 37 64 C 42 67 42 70 40 74 C 44 77 44 81 41 85 C 47 88 47 92 44 97 C 49 99 50 103 47 109 C 53 111 54 115 51 120 C 55 121 57 123 57 128 C 60 129 61 131 60 135 C 66 135 68 137 68 142 C 74 141 77 143 77 148 C 82 146 85 148 86 154 C 91 152 94 153 96 158 C 100 155 103 155 106 160 C 110 157 113 156 118 159 C 120 155 123 155 128 157 C 129 152 133 151 138 154 C 139 147 142 144 147 144 C 142 138 144 134 152 132 C 148 126 150 122 156 120 C 153 114 154 110 160 107 C 156 102 157 98 163 94 C 160 88 161 84 166 82 C 162 76 163 72 169 69 C 165 63 166 59 171 57 C 167 51 168 47 174 43 C 170 38 171 34 177 31 C 173 25 173 21 179 17 C 177 17 176 14 177 10 C 176 4 179 1 184 0 Z M 74 153 C 72 154 70 154 68 153 L 67 153 L 68 154 C 72 156 74 159 73 164 L 73 164 C 79 164 81 169 80 174 C 88 173 91 179 90 182 C 96 179 100 186 100 188 C 105 184 110 187 111 190 C 114 185 119 185 121 186 C 122 181 126 179 129 178 C 126 171 135 167 136 167 C 132 167 130 166 130 164 C 128 168 122 172 118 167 C 116 171 108 171 106 166 C 100 171 95 168 94 163 C 89 168 83 163 83 159 C 79 161 73 159 74 153 Z" fill="url(#id-male-19_cammer_necklace-0)" id="id-male-19_cammer_necklace-3">
+</path >
+<path d="M 147 144 L 142 156 C 137 157 134 160 136 167 C 133 167 131 168 130 164 C 128 168 122 171 118 167 C 125 172 128 158 118 159 C 120 156 124 155 128 157 C 130 153 133 151 138 154 C 139 147 142 144 147 144 Z" fill="#c17000" id="id-male-19_cammer_necklace-4">
+</path >
+<path d="M 140 148 C 141 152 141 155 141 156 C 139 157 137 158 136 160 C 132 159 132 156 132 152 C 135 152 136 153 138 154 C 138 151 139 149 140 148 Z" fill="#a04f03" id="id-male-19_cammer_necklace-5">
+</path >
+</g >
+<defs >
+</defs >
+<g transform="translate(524,216)" id="id-male-25_15_hair_front-0">
+<g transform="translate(32,220)" id="id-male-25_15_hair_front-1">
+<path d="M 206 13 L 200 15 L 206 36 L 189 51 C 189 51 190 45 187 42 C 187 49 184 61 176 66 C 176 66 176 55 173 53 C 173 53 173 51 173 48 L 186 0 L 212 0 L 206 13 Z" fill="#ad4179" id="id-male-25_15_hair_front-2">
+</path >
+<polygon points="206 13 200 15 206 36 193 48 192 37 193 37 193 20 195 24 197 0 211 0" fill="#ea5f9a" id="id-male-25_15_hair_front-2">
+</polygon >
+<path d="M 186 50 C 185 56 181 62 176 66 C 176 62 175 58 174 54 L 178 38 L 179 40 L 181 40 C 183 43 185 46 186 50 Z" fill="#ea5f9a" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 26 37 L 22 37 L 3 31 C 3 31 -2 17 1 7 C 1 7 9 6 9 6 L 13 11 L 22 13 L 23 19 L 26 37 Z" fill="#a8519f" id="id-male-25_15_hair_front-2">
+</path >
+</g >
+<g transform="translate(49,72)" id="id-male-25_15_hair_front-6">
+<path d="M 58 9 C 58 9 23 33 25 98 L 14 130 C -14 126 2 -8 58 9 Z" fill="#732721" opacity="0.53" id="id-male-25_15_hair_front-2">
+</path >
+<polygon points="68 15 80 19 83 7 70 1" fill="#732721" opacity="0.54" id="id-male-25_15_hair_front-2">
+</polygon >
+<polygon points="134 17 141 21 153 76 160 80 162 127 179 76 167 24 134 7" fill="#3b0d0f" opacity="0.529" id="id-male-25_15_hair_front-2">
+</polygon >
+</g >
+<g transform="translate(10,38)" fill="#7c2674" id="id-male-25_15_hair_front-10">
+<polygon points="47 161 45 182 52 197 54 169" id="id-male-25_15_hair_front-2">
+</polygon >
+<path d="M 196 99 L 203 113 C 202 121 202 157 200 164 L 222 133 L 222 111 L 196 99 Z" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 117 51 L 114 45 L 107 49 C 107 49 102 44 97 49 L 92 45 L 63 55 C 62 65 56 140 52 148 L 19 180 L 17 180 L 11 151 L 7 147 L 12 110 L 3 96 L 4 71 L 22 61 L 14 53 L 20 45 L 9 38 C 9 38 83 -1 92 1 C 102 3 124 32 117 51 Z" id="id-male-25_15_hair_front-2">
+</path >
+</g >
+<g id="id-male-25_15_hair_front-14">
+<path d="M 262 143 C 258 137 255 137 255 137 C 255 137 254 128 252 120 C 250 114 248 108 247 107 C 239 100 233 95 228 88 C 227 87 227 84 226 82 C 225 79 223 77 222 73 L 210 64 L 212 34 L 206 46 L 199 36 L 197 28 L 173 18 C 172 -1 145 1 136 5 L 119 0 L 108 5 L 99 18 C 90 15 83 8 80 0 C 80 0 81 19 86 25 L 77 20 L 82 29 C 82 29 53 30 48 14 C 49 24 52 43 65 44 L 54 48 L 31 49 L 53 56 C 53 56 26 79 5 65 C 4 65 15 78 22 78 C 27 79 30 79 33 78 C 36 78 40 77 46 74 C 39 84 16 98 0 98 C -1 98 9 105 29 101 L 29 101 C 31 102 50 89 53 87 L 32 104 C 32 105 10 134 13 134 L 20 146 L 30 135 L 22 147 L 21 148 C 18 155 8 175 17 185 L 33 161 C 36 172 2 207 27 218 C 44 164 55 171 50 114 C 53 126 53 173 53 173 L 39 202 C 44 195 57 187 64 181 L 66 172 L 73 160 L 75 92 L 76 92 C 73 75 92 60 104 74 C 104 74 89 75 90 77 C 90 79 97 78 102 83 C 103 84 105 85 106 86 L 109 88 C 113 84 112 85 115 89 L 118 87 C 118 79 119 63 116 60 C 124 67 128 78 127 89 C 128 90 129 92 129 93 C 132 92 135 90 138 89 C 138 90 139 93 139 93 L 151 89 L 152 92 C 152 92 158 88 158 86 L 164 90 L 174 87 L 175 86 L 175 91 C 179 90 186 89 189 86 L 192 88 C 193 92 203 131 209 142 C 216 144 222 149 226 155 L 217 160 L 224 173 L 216 167 C 215 167 217 193 209 197 C 208 202 215 211 213 216 L 215 233 L 222 215 L 221 205 L 231 213 L 227 224 L 232 235 C 234 235 237 235 239 232 C 243 227 245 216 251 210 L 247 195 C 250 199 254 200 256 199 C 261 198 263 190 262 185 C 262 185 257 168 257 168 C 258 168 264 168 263 166 C 263 162 272 154 262 143 Z M 34 156 L 34 118 L 26 119 L 40 103 L 34 156 Z M 79 61 C 72 67 63 75 58 81 L 61 76 L 74 55 C 74 55 72 62 72 63 L 85 56 C 85 56 82 58 79 61 L 79 61 Z" fill="#9f3b71" id="id-male-25_15_hair_front-15" fill-rule="nonzero">
+</path >
+<path d="M 68 208 C 66 210 65 215 64 220 L 58 221 L 58 198 L 55 209 C 49 214 45 226 45 226 L 49 234 C 46 238 37 247 34 251 C 33 243 31 235 32 227 L 33 216 L 30 218 C 33 201 64 181 64 181 L 63 191 L 62 192 L 62 193 L 68 208 Z" fill="#a8519f" id="id-male-25_15_hair_front-2">
+</path >
+<polygon points="49 234 44 240 45 227" fill="#752673" id="id-male-25_15_hair_front-2">
+</polygon >
+<path d="M 44 11 C 52 44 89 51 107 22 C 80 39 64 20 44 11 Z" fill="#e67ca8" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 212 34 L 210 64 L 184 89 L 176 91 C 185 86 193 55 191 52 C 191 52 185 73 175 87 L 164 90 L 163 89 C 164 83 169 58 169 50 C 168 49 165 72 159 86 C 157 89 153 91 152 92 L 151 89 L 139 93 C 139 93 138 91 138 90 C 148 68 164 29 143 7 L 109 19 L 132 4 L 136 5 C 145 1 172 -1 173 18 L 197 28 L 199 36 L 206 46 L 212 34 Z" fill="#e67ca8" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 145 64 L 137 89 C 135 90 129 93 129 93 L 128 91 L 145 64 Z" fill="#e67ca8" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 131 75 L 141 56 L 137 39 L 125 22 L 114 26 C 124 40 130 58 131 75 L 131 75 Z" fill="#e67ca8" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 125 54 L 116 34 C 103 34 91 40 83 50 C 83 50 99 41 125 54 Z" fill="#e67ca8" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 49 71 L 77 49 C 77 49 60 81 54 82 C 54 82 61 68 60 66 L 49 71 Z" fill="#c76aaa" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 85 58 C 86 58 96 60 96 60 C 83 66 62 88 66 109 C 55 92 66 64 85 58 Z" fill="#c76aaa" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 74 84 C 64 92 74 167 60 174 C 80 163 64 111 74 84 Z" fill="#c76aaa" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 241 224 C 235 213 226 204 215 198 L 213 193 C 216 184 216 167 216 167 L 225 173 L 217 160 L 223 157 C 226 161 237 177 237 181 C 237 186 240 203 232 200 L 241 224 Z" fill="#ec5b98" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 225 109 C 225 109 224 109 224 109 C 230 112 243 119 252 120 C 249 107 246 104 228 88 L 227 84 C 222 84 210 83 206 79 C 206 79 213 103 225 109 Z" fill="#e67ca8" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 255 137 C 255 134 254 131 254 128 C 243 123 221 111 219 108 C 214 106 210 101 208 96 C 208 97 213 116 220 123 L 199 115 C 202 124 205 133 209 142 C 231 154 249 175 257 199 C 262 196 262 186 262 185 C 259 177 249 151 246 148 C 248 150 259 158 261 168 C 273 165 268 144 255 137 Z" fill="#e67ca8" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 221 113 L 231 117 L 246 147 C 246 147 232 146 250 175 C 250 175 222 147 224 137 C 224 137 229 131 238 138 L 221 113 Z" fill="#df91be" id="id-male-25_15_hair_front-2">
+</path >
+<polygon points="200 234 189 209 195 206 191 201 172 209 174 217 188 210 200 235 213 239 214 236" fill="#261214" id="id-male-25_15_hair_front-2">
+</polygon >
+<polygon points="173 211 174 213 192 204 190 202" fill="#63567c" id="id-male-25_15_hair_front-2">
+</polygon >
+<polygon points="180 211 176 213 175 211 179 209" fill="#55b948" id="id-male-25_15_hair_front-2">
+</polygon >
+<path d="M 73 206 L 77 202 L 97 209 C 97 209 95 219 94 218 C 93 218 80 211 80 211 L 68 236 L 54 238 L 53 234 L 67 234 L 79 210 L 73 206 Z" fill="#261214" id="id-male-25_15_hair_front-2">
+</path >
+<polygon points="77 204 94 213 95 210 77 203" fill="#63567c" id="id-male-25_15_hair_front-2">
+</polygon >
+<polygon points="89 209 88 211 92 214 94 211" fill="#55b948" id="id-male-25_15_hair_front-2">
+</polygon >
+<path d="M 192 338 C 192 338 189 351 184 352 C 182 346 178 340 174 336 L 177 331 L 192 338 Z" fill="#601d1c" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 202 318 C 203 320 195 330 194 331 C 193 337 190 342 186 346 C 184 345 172 332 176 330 C 180 328 187 322 190 327 C 193 323 199 318 198 312 C 201 312 202 315 202 318 Z" fill="#2e1616" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 202 318 C 202 321 200 323 199 325 C 197 324 195 323 197 322 C 199 322 201 317 201 314 C 202 316 202 317 202 318 L 202 318 Z" fill="#473f6e" id="id-male-25_15_hair_front-2">
+</path >
+<path d="M 189 325 L 177 331 L 176 330 C 180 328 186 323 189 325 Z" fill="#473f6e" id="id-male-25_15_hair_front-2">
+</path >
+<polygon points="182 335 189 329 191 332 184 338" fill="#473f6e" id="id-male-25_15_hair_front-2">
+</polygon >
+<polygon points="181 334 181 335 188 330" fill="#777280" id="id-male-25_15_hair_front-2">
+</polygon >
+<path d="M 185 57 L 193 34 C 188 46 162 20 164 18 L 161 23 C 161 23 152 6 148 5 C 148 5 159 31 158 45 L 166 27 C 166 27 181 41 185 57 Z" fill="#dea3c9" id="id-male-25_15_hair_front-2">
+</path >
+</g >
+</g >
+<defs >
+</defs >
+<g transform="translate(1188,1616)" fill="#343d53" opacity="0.3" id="id-icons-Cammer-0">
+<g transform="translate(0,0)" id="id-icons-Cammer-1" fill-rule="nonzero">
+<path d="M 78 49 C 79 51 79 53 79 55 C 80 57 80 60 80 62 C 80 72 76 82 69 88 C 62 95 53 99 43 99 C 36 99 29 97 23 93 C 17 89 12 84 9 77 C 8 75 7 73 7 70 C 6 67 6 65 6 62 C 6 60 6 57 7 55 C 7 53 8 51 8 49 L 0 16 C 0 15 0 15 0 15 C 0 11 1 8 2 6 C 4 3 7 1 10 0 C 10 0 11 0 11 0 C 15 0 18 0 20 2 C 23 4 25 7 26 11 L 31 28 C 32 27 34 26 36 26 C 38 26 41 25 43 25 C 46 25 48 25 51 26 C 52 26 54 27 55 27 L 60 11 C 61 7 63 4 66 2 C 69 0 72 0 75 0 C 76 0 76 0 76 0 C 79 1 82 3 84 6 C 86 8 87 11 86 15 C 86 15 86 15 86 16 L 78 49 L 78 49 Z M 74 56 C 73 54 73 52 72 51 L 72 50 L 80 14 L 80 14 C 81 12 80 10 79 9 C 78 8 77 7 75 6 L 74 6 C 72 6 71 6 69 7 C 68 8 66 10 66 12 L 59 36 L 56 34 C 54 33 52 32 50 32 C 47 31 45 31 43 31 C 41 31 39 31 37 32 C 35 32 32 33 30 34 L 27 36 L 20 12 C 20 10 19 8 17 7 C 16 6 14 6 12 6 L 12 6 C 10 7 8 8 7 9 C 6 10 6 12 6 14 L 6 14 L 14 50 L 14 51 C 13 52 13 54 12 56 C 12 58 12 60 12 62 C 12 64 12 67 13 69 C 13 71 14 73 15 75 C 17 80 21 85 26 88 C 31 91 37 93 43 93 C 51 93 59 90 65 84 C 70 78 74 71 74 62 C 74 60 74 58 74 56 L 74 56 Z" id="id-icons-Cammer-2">
+</path >
+<polygon points="35 54 22 67 18 63 31 50" id="id-icons-Cammer-3">
+</polygon >
+<polygon points="31 67 18 54 22 50 35 63" id="id-icons-Cammer-3">
+</polygon >
+<polygon points="68 54 55 67 51 63 64 50" id="id-icons-Cammer-3">
+</polygon >
+<polygon points="64 67 51 54 55 50 68 63" id="id-icons-Cammer-3">
+</polygon >
+</g >
+<path d="M 43 68 C 47 68 50 71 50 75 C 50 76 50 76 50 76 L 36 76 C 36 76 36 76 36 75 C 36 71 39 68 43 68 Z" id="id-icons-Cammer-3">
+</path >
+</g >
+</svg>
