@@ -11,4 +11,10 @@ This repository is split the following sections.
 - icons - the SVG layers that are icons for each of the Talents
 - notes - documentation about the collection as a whole and any unique attributes
 
+Enjoy !
+
 CarTarL
+
+# Changelog
+
+- 30 June 2022 - First release
