@@ -10,7 +10,10 @@ There have been a couple of modifications to these files from what is found in t
 - The individual layers only exist on-chain.  
 - They have been retrieved from the contract and turned into individual SVG files.
 - Id tags are numbers, to save space.  There is no individual source of layers with Id tags as text descriptors.
-- The x/y dimensions of these files match the NFT files, and layers are properly positioned for stacking layers.
+- The width/height of these files match the NFT files, and layers are properly positioned for stacking layers.
 
 ## svg-unbound
-- 
+- Individual layers that are unbound from the full width/height of the broker bounding box.
+- The width/height matches the exact size of the layer itself, with no margin
+- There were created from the svg-render version using the Inkspace command: 
+  ```inkscape --export-area-drawing```
