@@ -7,8 +7,8 @@ Each folders contains image files in the format: cb-XXXXX.EXT where XXXXX is the
 There have been a couple of modifications to these files from what is found on IPFS or in the contract.  See the Notes section for details.
 
 The original SVG files from CyberBrokers are contained in these folders.
-- svg-ipfs - These are the SVG files that were placed in IPFS and are referenced in the metadata.  These have svg layer id tags as text descriptors.
-- svg-render - These come directly from rendering the NFT via the contract.  These have svg layer id tags as numbers, to save space.
+- svg-ipfs - These are the SVG files on IPFS and  referenced in the metadata.  Id tags are text descriptors.
+- svg-render - These come directly from contract rendering.  TId tags are numbers, to save space.
 
 Other than the different in id tag format, both of these are identical version of the NFTs.  The svg-render version may be more useful for those that want to turn on/off layers of a given NFT in an application, as the contract provides id tags in numbers, not text descriptors.
 
@@ -21,3 +21,7 @@ PNG versions of all the above are also provided.  These are rendered at the same
 Not all tools do a good job of converting SVG to PNG, JPG, or any raster format.  I recommend the following tool for linux.  It also has great options for changing the resolution during conversion to take advantage of the SVG file format.
 - [rsvg-convert](https://wiki.gnome.org/action/show/Projects/LibRsvg?action=show&redirect=LibRsvg) part of the librsvg package available on most linux varients.
 
+If you need to download all 10,001 NFTs of a given format at once, they are Zip files in the zip directory.
+
+**For PNG versions it would be appreciated if you download the corresponding SVG version and use rsvg-convert to convert them locally.**  
+This will help keep this repository in place and not cost me a fortune !
