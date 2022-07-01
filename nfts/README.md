@@ -8,7 +8,7 @@ There have been a couple of modifications to these files from what is found on I
 
 The original SVG files from CyberBrokers are contained in these folders.
 - svg-ipfs - These are the SVG files on IPFS and  referenced in the metadata.  Id tags are text descriptors.
-- svg-render - These come directly from contract rendering.  TId tags are numbers, to save space.
+- svg-render - These come directly from contract rendering.  Id tags are numbers, to save space.
 
 Other than the different in id tag format, both of these are identical version of the NFTs.  The svg-render version may be more useful for those that want to turn on/off layers of a given NFT in an application, as the contract provides id tags in numbers, not text descriptors.
 
