@@ -24,5 +24,5 @@ Not all tools do a good job of converting SVG to PNG, JPG, or any raster format.
 
 If you need to download all 10,001 NFTs of a given format at once, they are Zip files in the zip directory.
 
-**For PNG versions it would be appreciated if you download the corresponding SVG version and use rsvg-convert to convert them locally.**  
+**For PNG versions it would be appreciated if you download the corresponding SVG Zip file and uand then use a tool locally to create the PNG versions.**  
 This will help keep this repository in place and not cost me a fortune !
