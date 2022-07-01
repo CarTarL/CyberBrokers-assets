@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="474.00916"
+   height="182.65822"
+   viewBox="0 0 474.00916 182.65822"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="cb-layer-0840.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs10">
+    <filter
+       width="1.4363515"
+       height="4.7249525"
+       x="-0.21817576"
+       y="-1.8624762"
+       id="id-106583"
+       filterUnits="objectBoundingBox">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="30"
+         id="feGaussianBlur2" />
+    </filter>
+    <linearGradient
+       x1="53.219082"
+       y1="156.04184"
+       x2="18.211609"
+       y2="156.04184"
+       id="id-106584"
+       gradientTransform="scale(4.9726525,0.20109992)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#D5D4D8"
+         offset="0%"
+         id="stop5" />
+      <stop
+         stop-color="#AAA9B0"
+         offset="100%"
+         id="stop7" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(71.999998,69.65821)"
+     id="id-106585">
+    <path
+       d="M 168,41 C 254,41 329,20 330,7 331,-7 250,25 165,25 80,25 0,-10 0,7 0,23 83,41 168,41 Z"
+       fill="#eafdff"
+       id="id-106586"
+       filter="url(#id-106583)" />
+    <path
+       d="M 164,28 C 250,28 320,24 320,7 320,3 315,1 304,1 298,10 249,14 157,14 65,14 22,10 28,0 18,1 13,3 13,7 13,24 78,28 164,28 Z"
+       fill="#d4d4d4"
+       id="path13" />
+    <path
+       d="m 28,14 c 25,8 67,11 128,11 61,0 109,-3 144,-10 -51,5 -99,7 -144,7 -45,0 -88,-3 -128,-8 z"
+       fill="url(#id-106584)"
+       id="id-106589"
+       style="fill:url(#id-106584)" />
+  </g>
+</svg>

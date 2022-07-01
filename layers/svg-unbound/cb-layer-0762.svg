@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="182.48247"
+   height="159"
+   viewBox="0 0 182.48247 159"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="cb-layer-0762.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs12">
+    <linearGradient
+       x1="97.119699"
+       y1="67.314459"
+       x2="83.065661"
+       y2="58.714226"
+       id="id-66814"
+       gradientTransform="scale(0.95346259,1.0488088)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#B4B8DE"
+         offset="0%"
+         stop-opacity="0"
+         id="stop2" />
+      <stop
+         stop-color="#B3B9DE"
+         offset="100%"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       x1="43.861267"
+       y1="61.842719"
+       x2="17.072255"
+       y2="61.842719"
+       id="id-66815"
+       gradientTransform="scale(0.56997897,1.7544507)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#D7D9EE"
+         offset="0%"
+         stop-opacity="0"
+         id="stop7" />
+      <stop
+         stop-color="#AEB2D8"
+         offset="100%"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(0.09016994)"
+     id="id-66816">
+    <path
+       d="m 5,144 c -1,3 -2,8 -2,15 0,-1 -2,-4 -2,-4 C -1,132 0,113 2,100 23,83 49,71 79,63 L 76,53 c 2,-2 4,-3 6,-5 -4,-1 -23,-3 -31,-14 -4,-5 1,-16 8,-34 5,5 5,19 11,28 9,8 19,11 21,14 3,-1 7,-3 13,-7 l 2,1 54,-31 c -7,18 -13,32 -18,42 -2,2 -10,4 -23,4 l 1,2 c -5,4 -8,7 -10,8 25,8 48,24 70,47 2,7 3,19 2,37 l -2,10 -1,1 c 0,-4 -1,-7 -1,-9 C 171,124 116,99 96,82 60,109 13,120 5,144 Z"
+       fill="#faf2ff"
+       id="id-66817" />
+    <path
+       d="M 89,75 C 85,73 82,69 78,63 h 1 L 76,53 h 1 c 6,6 12,10 19,12 -1,3 -3,8 -7,10 z"
+       fill="url(#id-66814)"
+       id="id-66818"
+       style="fill:url(#id-66814)" />
+    <path
+       d="m 11,94 c -3,10 0,29 2,38 2,-2 5,-4 8,-7 l 4,-40 c -5,3 -10,6 -14,9 z"
+       fill="url(#id-66815)"
+       id="id-66819"
+       style="fill:url(#id-66815)" />
+  </g>
+</svg>

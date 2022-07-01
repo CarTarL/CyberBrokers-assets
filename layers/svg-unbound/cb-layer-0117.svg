@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1320"
+   height="1760"
+   viewBox="0 0 1320 1760"
+   version="1.1"
+   id="svg55"
+   sodipodi:docname="cb-layer-0117.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview57"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs24">
+    <linearGradient
+       x1="0.5"
+       y1="0"
+       x2="0.5"
+       y2="1"
+       id="id-31336"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#748198"
+         offset="0%"
+         id="stop2" />
+      <stop
+         stop-color="#455471"
+         offset="100%"
+         id="stop4" />
+    </linearGradient>
+    <pattern
+       width="258"
+       height="258"
+       x="-258"
+       y="-258"
+       id="id-31337">
+      <use
+         xlink:href="#id-31338"
+         id="use7" />
+    </pattern>
+    <linearGradient
+       x1="762.10236"
+       y1="1493.7206"
+       x2="762.10236"
+       y2="182.90456"
+       id="id-31339"
+       gradientTransform="scale(0.8660254,1.1547005)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#560073"
+         offset="0%"
+         id="stop10" />
+      <stop
+         stop-color="#05040C"
+         offset="100%"
+         id="stop12" />
+    </linearGradient>
+    <filter
+       width="1.439709"
+       height="1.439709"
+       x="-0.2198545"
+       y="-0.2198545"
+       id="id-31340"
+       filterUnits="objectBoundingBox">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="21"
+         id="feGaussianBlur15" />
+    </filter>
+    <filter
+       width="1.439709"
+       height="1.439709"
+       x="-0.2198545"
+       y="-0.2198545"
+       id="id-31341"
+       filterUnits="objectBoundingBox">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="21"
+         id="feGaussianBlur18" />
+    </filter>
+    <filter
+       width="1.439709"
+       height="1.439709"
+       x="-0.2198545"
+       y="-0.2198545"
+       id="id-31342"
+       filterUnits="objectBoundingBox">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="21"
+         id="feGaussianBlur21" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(0,-3)"
+     id="id-31343">
+    <g
+       id="id-31344">
+      <use
+         fill="url(#id-31336)"
+         xlink:href="#id-31345"
+         id="use26"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:url(#id-31336)" />
+      <use
+         fill="url(#id-31337)"
+         fill-opacity="0.33"
+         xlink:href="#id-31345"
+         id="use28"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       transform="translate(0,3)"
+       id="id-31347">
+      <rect
+         fill="url(#id-31339)"
+         width="1320"
+         height="1760"
+         x="0"
+         y="0"
+         id="rect31"
+         style="fill:url(#id-31339)" />
+      <g
+         transform="translate(885,385)"
+         fill="#5500ff"
+         id="id-31349">
+        <polygon
+           points="85,0 160,75 235,0 310,75 235,150 310,225 235,300 160,225 85,300 10,225 85,150 10,75 "
+           transform="rotate(90,160,150)"
+           stroke="#ffe0e0"
+           stroke-width="13"
+           id="id-31350" />
+        <path
+           d="m 80,295 75,75 66,-65 -75,-75 75,-76 -65,-65 -76,75 z m 0,-150 76,-75 84,84 -75,76 75,75 -85,84 -75,-75 z"
+           transform="rotate(90,160,230)"
+           id="path34"
+           fill-rule="nonzero" />
+        <polygon
+           points="85,0 160,75 235,0 310,75 235,150 310,225 235,300 160,225 85,300 10,225 85,150 10,75 "
+           transform="rotate(90,160,150)"
+           stroke="#ffe0e0"
+           stroke-width="22"
+           id="polygon36"
+           filter="url(#id-31340)" />
+      </g>
+      <g
+         transform="translate(501,385)"
+         fill="#5500ff"
+         id="id-31354">
+        <polygon
+           points="85,0 160,75 235,0 310,75 235,150 310,225 235,300 160,225 85,300 10,225 85,150 10,75 "
+           transform="rotate(90,160,150)"
+           stroke="#ffe0e0"
+           stroke-width="13"
+           id="polygon39" />
+        <path
+           d="m 80,295 75,75 66,-65 -75,-75 75,-76 -65,-65 -76,75 z m 0,-150 76,-75 84,84 -75,76 75,75 -85,84 -75,-75 z"
+           transform="rotate(90,160,230)"
+           id="path41"
+           fill-rule="nonzero" />
+        <polygon
+           points="85,0 160,75 235,0 310,75 235,150 310,225 235,300 160,225 85,300 10,225 85,150 10,75 "
+           transform="rotate(90,160,150)"
+           stroke="#ffe0e0"
+           stroke-width="22"
+           id="polygon43"
+           filter="url(#id-31341)" />
+      </g>
+      <g
+         transform="translate(117,385)"
+         fill="#5500ff"
+         id="id-31359">
+        <polygon
+           points="85,0 160,75 235,0 310,75 235,150 310,225 235,300 160,225 85,300 10,225 85,150 10,75 "
+           transform="rotate(90,160,150)"
+           stroke="#ffe0e0"
+           stroke-width="13"
+           id="polygon46" />
+        <path
+           d="m 80,295 75,75 66,-65 -75,-75 75,-76 -65,-65 -76,75 z m 0,-150 76,-75 84,84 -75,76 75,75 -85,84 -75,-75 z"
+           transform="rotate(90,160,230)"
+           id="path48"
+           fill-rule="nonzero" />
+        <polygon
+           points="85,0 160,75 235,0 310,75 235,150 310,225 235,300 160,225 85,300 10,225 85,150 10,75 "
+           transform="rotate(90,160,150)"
+           stroke="#ffe0e0"
+           stroke-width="22"
+           id="polygon50"
+           filter="url(#id-31342)" />
+      </g>
+    </g>
+  </g>
+</svg>

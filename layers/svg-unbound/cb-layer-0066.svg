@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1508"
+   height="1760"
+   viewBox="0 0 1508 1760"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="cb-layer-0066.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs21">
+    <filter
+       width="1.2380952"
+       height="1.2380952"
+       x="-0.11904762"
+       y="-0.11904762"
+       id="id-30112"
+       filterUnits="objectBoundingBox">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="50"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       width="1.1892744"
+       height="1.1892744"
+       x="-0.094637224"
+       y="-0.094637224"
+       id="id-30113"
+       filterUnits="objectBoundingBox">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="50"
+         id="feGaussianBlur5" />
+    </filter>
+    <radialGradient
+       cx="660"
+       cy="897"
+       r="687.39999"
+       id="id-30114"
+       fx="660"
+       fy="897"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF66AE"
+         offset="0%"
+         id="stop8" />
+      <stop
+         stop-color="#FF3160"
+         offset="100%"
+         id="stop10" />
+    </radialGradient>
+    <circle
+       cx="660"
+       cy="897"
+       r="491"
+       id="id-30115" />
+    <filter
+       width="1.0610998"
+       height="1.0600815"
+       x="-0.024439919"
+       y="-0.024439919"
+       id="id-30116"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         result="id-30117"
+         in="SourceAlpha"
+         dx="12"
+         dy="11"
+         id="feOffset14" />
+      <feGaussianBlur
+         result="id-30118"
+         in="SourceGraphic"
+         stdDeviation="10"
+         id="feGaussianBlur16" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.500 0"
+         id="feColorMatrix18" />
+    </filter>
+  </defs>
+  <g
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     id="id-30121"
+     fill-rule="evenodd"
+     transform="translate(92.999998)">
+    <g
+       id="id-30122">
+      <rect
+         fill="#110f0f"
+         width="1320"
+         height="1760"
+         x="0"
+         y="0"
+         id="id-30123" />
+      <circle
+         cx="661"
+         cy="898"
+         r="504"
+         fill="#ff5fa4"
+         opacity="0.579"
+         id="id-30124"
+         filter="url(#id-30112)" />
+      <circle
+         cx="661"
+         cy="898"
+         r="634"
+         fill="#ff5fa4"
+         opacity="0.181"
+         id="circle25"
+         filter="url(#id-30113)" />
+      <g
+         id="g31">
+        <use
+           fill="#000000"
+           fill-opacity="1"
+           xlink:href="#id-30115"
+           filter="url(#id-30116)"
+           id="use27"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           fill="url(#id-30114)"
+           xlink:href="#id-30115"
+           fill-rule="evenodd"
+           id="use29"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%"
+           style="fill:url(#id-30114)" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="221.75"
+   height="265.8934"
+   viewBox="0 0 221.75 265.8934"
+   version="1.1"
+   id="svg253"
+   sodipodi:docname="cb-layer-0921.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview255"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs82">
+    <linearGradient
+       x1="299.4669"
+       y1="4.3884516"
+       x2="296.6887"
+       y2="44.209332"
+       id="id-111539"
+       gradientTransform="scale(0.69109474,1.4469796)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F6A693"
+         offset="0%"
+         id="stop2" />
+      <stop
+         stop-color="#EB8E76"
+         offset="82%"
+         id="stop4" />
+      <stop
+         stop-color="#F3B197"
+         offset="100%"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       x1="245.48307"
+       y1="25.50184"
+       x2="241.9845"
+       y2="18.21315"
+       id="id-111540"
+       gradientTransform="scale(0.85749293,1.1661904)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#CC4E3E"
+         offset="0%"
+         id="stop9" />
+      <stop
+         stop-color="#A33C30"
+         offset="100%"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       x1="315.43396"
+       y1="13.453133"
+       x2="317.03786"
+       y2="29.03389"
+       id="id-111541"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#CE6F5A"
+         offset="0%"
+         id="stop14" />
+      <stop
+         stop-color="#CC4E3E"
+         offset="52%"
+         id="stop16" />
+      <stop
+         stop-color="#FFA791"
+         offset="100%"
+         id="stop18" />
+    </linearGradient>
+    <linearGradient
+       x1="23.200691"
+       y1="0"
+       x2="25.026069"
+       y2="40.158287"
+       id="id-111542"
+       gradientTransform="scale(0.65192024,1.53393)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#B36E6C"
+         offset="0%"
+         id="stop21" />
+      <stop
+         stop-color="#BB6E6F"
+         offset="100%"
+         id="stop23" />
+    </linearGradient>
+    <linearGradient
+       x1="14.406629"
+       y1="31.019056"
+       x2="14.406629"
+       y2="12.496248"
+       id="id-111543"
+       gradientTransform="scale(0.73854895,1.3540064)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#85433D"
+         offset="0%"
+         id="stop26" />
+      <stop
+         stop-color="#590F13"
+         offset="100%"
+         id="stop28" />
+    </linearGradient>
+    <linearGradient
+       x1="106.23739"
+       y1="184.76318"
+       x2="9.4566694"
+       y2="184.76318"
+       id="id-111544"
+       gradientTransform="scale(0.82723446,1.2088471)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#B6826B"
+         offset="0%"
+         id="stop31" />
+      <stop
+         stop-color="#8F4E43"
+         offset="100%"
+         id="stop33" />
+    </linearGradient>
+    <linearGradient
+       x1="80.036161"
+       y1="102.05703"
+       x2="124.22439"
+       y2="38.373988"
+       id="id-111545"
+       gradientTransform="scale(0.97718331,1.0233494)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#CB927F"
+         offset="0%"
+         id="stop36" />
+      <stop
+         stop-color="#E6B7A1"
+         offset="100%"
+         id="stop38" />
+    </linearGradient>
+    <linearGradient
+       x1="137.86459"
+       y1="122.42733"
+       x2="114.23827"
+       y2="206.19339"
+       id="id-111546"
+       gradientTransform="scale(0.80778534,1.2379526)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#BB7A65"
+         offset="0%"
+         id="stop41" />
+      <stop
+         stop-color="#C2826A"
+         offset="100%"
+         id="stop43" />
+    </linearGradient>
+    <linearGradient
+       x1="49.05033"
+       y1="99.69369"
+       x2="95.734888"
+       y2="95.277586"
+       id="id-111547"
+       gradientTransform="scale(1.2680852,0.78859051)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#C9897B"
+         offset="0%"
+         id="stop46" />
+      <stop
+         stop-color="#C38874"
+         offset="25%"
+         id="stop48" />
+      <stop
+         stop-color="#CC9781"
+         offset="66%"
+         id="stop50" />
+      <stop
+         stop-color="#D6A18A"
+         offset="100%"
+         id="stop52" />
+    </linearGradient>
+    <linearGradient
+       x1="163.23524"
+       y1="190.07292"
+       x2="137.19675"
+       y2="210.99671"
+       id="id-111548"
+       gradientTransform="scale(1.0108111,0.98930451)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#E29985"
+         offset="0%"
+         id="stop55" />
+      <stop
+         stop-color="#E19883"
+         offset="100%"
+         id="stop57" />
+    </linearGradient>
+    <linearGradient
+       x1="134.05194"
+       y1="174.50974"
+       x2="146.98678"
+       y2="198.88693"
+       id="id-111549"
+       gradientTransform="scale(1.1055416,0.90453403)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#E6AE91"
+         offset="0%"
+         id="stop60" />
+      <stop
+         stop-color="#FFDABD"
+         offset="49%"
+         id="stop62" />
+      <stop
+         stop-color="#E8A490"
+         offset="100%"
+         id="stop64" />
+    </linearGradient>
+    <linearGradient
+       x1="52.258451"
+       y1="52.370475"
+       x2="11.123825"
+       y2="43.800762"
+       id="id-111550"
+       gradientTransform="scale(1.1902381,0.84016805)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#BC8770"
+         offset="0%"
+         id="stop67" />
+      <stop
+         stop-color="#874F3D"
+         offset="100%"
+         id="stop69" />
+    </linearGradient>
+    <linearGradient
+       x1="61.20276"
+       y1="45.978319"
+       x2="80.678353"
+       y2="47.748826"
+       id="id-111551"
+       gradientTransform="scale(1.3724871,0.72860428)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#764B36"
+         offset="0%"
+         id="stop72" />
+      <stop
+         stop-color="#AE795F"
+         offset="100%"
+         id="stop74" />
+    </linearGradient>
+    <linearGradient
+       x1="137.39396"
+       y1="154.19397"
+       x2="150.81871"
+       y2="149.99873"
+       id="id-111552"
+       gradientTransform="scale(0.95346259,1.0488088)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#DFA491"
+         offset="0%"
+         id="stop77" />
+      <stop
+         stop-color="#F8BAA3"
+         offset="100%"
+         id="stop79" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(-0.25)"
+     id="id-111553">
+    <g
+       id="id-111554">
+      <g
+         transform="translate(0,121)"
+         id="id-111555">
+        <polygon
+           points="222,9 221,25 214,38 214,43 210,54 208,65 197,70 190,64 199,13 214,3 "
+           fill="url(#id-111539)"
+           id="id-111556"
+           style="fill:url(#id-111539)" />
+        <polygon
+           points="216,9 219,10 220,22 214,37 195,43 197,24 209,14 "
+           fill="url(#id-111540)"
+           id="id-111557"
+           style="fill:url(#id-111540)" />
+        <polygon
+           points="199,25 203,22 209,23 207,18 212,16 214,38 214,43 213,48 207,51 201,46 203,38 208,34 "
+           fill="url(#id-111541)"
+           id="polygon86"
+           style="fill:url(#id-111541)" />
+        <polygon
+           points="222,9 222,10 219,10 216,9 212,5 214,3 "
+           fill="#fdd3b7"
+           id="polygon88" />
+        <polygon
+           points="190,64 194,42 199,50 193,62 199,67 208,65 197,70 "
+           fill="#a13c31"
+           id="polygon90" />
+        <polygon
+           points="211,50 203,62 202,54 "
+           fill="#f3b197"
+           id="id-111561" />
+        <polygon
+           points="203,42 196,46 196,50 202,51 "
+           fill="#eb8e76"
+           id="id-111562" />
+        <polygon
+           points="202,45 202,32 197,31 194,45 199,47 "
+           fill="#a13c31"
+           id="id-111563" />
+        <path
+           d="M 30,70 C 24,70 20,69 19,68 17,66 12,52 8,46 4,39 2,38 1,33 0,30 0,21 1,6 L 8,0 23,9 Z"
+           fill="url(#id-111542)"
+           id="id-111564"
+           style="fill:url(#id-111542)" />
+        <polygon
+           points="7,3 10,2 23,9 19,14 8,6 2,6 "
+           fill="#efaab6"
+           id="polygon96" />
+        <path
+           d="m 26,68 c -3,1 -6,1 -7,0 C 17,66 12,52 8,46 7,44 6,43 6,42 c 3,3 4,5 6,6 1,2 2,4 4,8 z"
+           fill="#995356"
+           id="path98" />
+        <polygon
+           points="27,53 20,61 26,68 29,65 "
+           fill="#7b3e35"
+           id="polygon100" />
+        <path
+           d="M 23,19 C 12,12 6,9 5,9 3,10 2,18 2,33 l 15,20 9,-1 z"
+           fill="url(#id-111543)"
+           id="id-111568"
+           style="fill:url(#id-111543)" />
+        <polygon
+           points="18,26 15,28 22,38 21,49 12,44 12,17 19,19 "
+           fill="#773a2e"
+           id="id-111569" />
+        <path
+           d="M 27,53 C 16,50 10,47 8,42 6,38 8,30 12,17 l 3,6 c 0,13 -1,19 0,20 0,2 3,3 10,5 z"
+           fill="#ce7b8b"
+           id="id-111570" />
+        <polygon
+           points="19,18 14,20 12,18 11,31 19,26 "
+           fill="#c07080"
+           id="id-111571" />
+        <polygon
+           points="22,37 25,48 20,46 17,42 "
+           fill="#6a3032"
+           id="id-111572" />
+      </g>
+      <g
+         transform="translate(18)"
+         id="id-111573">
+        <path
+           d="M 20,231 C 18,227 11,201 5,153 3,140 2,128 1,117 -1,91 4,63 8,49 9,46 16,35 16,34 30,20 56,0 94,0 c 63,0 84,45 87,51 2,6 2,60 0,93 -3,33 -19,88 -21,91 -2,4 -36,26 -41,29 -6,2 -45,3 -50,0 -5,-3 -47,-29 -49,-33 z"
+           fill="url(#id-111544)"
+           id="id-111574"
+           style="fill:url(#id-111544)" />
+        <polygon
+           points="159,110 163,117 160,129 170,143 176,147 176,93 157,34 129,14 67,25 49,80 73,112 82,117 "
+           fill="url(#id-111545)"
+           id="id-111575"
+           style="fill:url(#id-111545)" />
+        <polygon
+           points="156,103 169,107 175,101 174,71 161,62 154,71 "
+           fill="#d69e7c"
+           id="id-111576" />
+        <path
+           d="m 88,1 c 2,-1 4,-1 6,-1 63,0 84,45 87,51 2,6 2,60 0,93 -3,33 -19,88 -21,91 -2,4 -36,26 -41,29 -6,2 -45,3 -50,0 -1,-1 -7,-4 -14,-8 l 33,-21 42,-19 42,-53 2,-45 -2,-24 -12,12 9,-21 V 76 L 147,55 134,23 93,25 52,65 l 6,31 -31,17 -6,18 -6,-6 -6,6 8,-33 10,8 -6,-18 V 58 Z"
+           fill="url(#id-111546)"
+           id="path111"
+           style="fill:url(#id-111546)" />
+        <polygon
+           points="21,58 63,22 89,29 62,55 "
+           fill="#cd8681"
+           id="polygon113" />
+        <path
+           d="m 182,73 c 1,21 1,50 -1,71 -3,33 -19,88 -21,91 l -4,-23 22,-55 3,-29 -7,14 z"
+           fill="#97594d"
+           id="path115" />
+        <polygon
+           points="62,230 73,227 88,242 63,259 47,249 66,240 "
+           fill="#b57d68"
+           id="id-111580" />
+        <path
+           d="m 20,231 c 0,-1 -1,-2 -2,-5 6,5 11,9 15,12 9,6 23,15 43,27 -3,0 -6,0 -7,-1 -5,-3 -47,-29 -49,-33 z"
+           fill="#91463e"
+           id="path118" />
+        <path
+           d="M 1,117 C -1,91 4,63 8,49 9,46 16,35 16,34 22,28 30,21 41,15 l -30,42 3,39 z"
+           fill="#af7e8d"
+           id="path120" />
+        <path
+           d="M 5,153 C 3,140 2,128 1,117 0,108 1,98 1,89 l 7,38 z"
+           fill="#793d31"
+           id="path122" />
+        <polygon
+           points="77,112 67,117 37,103 56,94 "
+           fill="#bc7c6e"
+           id="id-111584" />
+        <path
+           d="m 62,53 c 16,-1 27,-1 35,0 8,1 19,3 34,8 L 121,101 93,85 69,102 57,96 51,66 Z"
+           fill="url(#id-111547)"
+           id="id-111585"
+           style="fill:url(#id-111547)" />
+        <polygon
+           points="137,44 144,55 126,62 108,55 115,47 "
+           fill="#f2c7b2"
+           id="id-111586" />
+        <polygon
+           points="11,143 9,158 21,172 33,171 "
+           fill="#81453f"
+           id="id-111587" />
+        <polygon
+           points="148,173 172,138 143,203 142,188 "
+           fill="#d0826e"
+           id="id-111588" />
+        <polygon
+           points="174,158 175,115 170,142 141,202 141,217 147,229 151,227 "
+           fill="#bb7e66"
+           id="id-111589" />
+        <polygon
+           points="149,229 144,209 117,243 120,255 "
+           fill="#c4846c"
+           id="id-111590" />
+      </g>
+    </g>
+    <polygon
+       points="73,163 66,188 109,172 115,123 97,120 "
+       fill="#9d5b53"
+       id="id-111591" />
+    <polygon
+       points="165,211 165,180 158,177 122,178 118,195 153,223 "
+       fill="url(#id-111548)"
+       id="id-111592"
+       style="fill:url(#id-111548)" />
+    <polygon
+       points="58,140 39,146 41,161 31,148 43,115 "
+       fill="#b2735d"
+       id="id-111593" />
+    <polygon
+       points="90,185 91,188 102,197 78,213 79,195 60,190 82,178 "
+       fill="#c08175"
+       id="id-111594" />
+    <polygon
+       points="85,164 98,140 99,125 58,140 39,146 41,161 51,172 66,172 "
+       fill="#c78371"
+       id="polygon137" />
+    <polygon
+       points="98,155 85,164 98,140 "
+       fill="#ae6c5d"
+       id="polygon139" />
+    <polygon
+       points="70,159 77,165 64,172 56,182 50,169 "
+       fill="#dba392"
+       id="id-111597" />
+    <polygon
+       points="64,172 56,182 50,169 "
+       fill="#d69a8b"
+       id="polygon142" />
+    <polygon
+       points="79,195 68,189 81,165 64,172 56,182 58,213 "
+       fill="#b76b5e"
+       id="polygon144" />
+    <polygon
+       points="79,195 85,215 70,222 58,213 "
+       fill="#d48e7c"
+       id="polygon146" />
+    <polygon
+       points="150,162 190,143 164,178 161,188 153,186 150,177 135,167 142,159 "
+       fill="url(#id-111549)"
+       id="id-111601"
+       style="fill:url(#id-111549)" />
+    <polygon
+       points="190,143 183,135 130,138 128,153 149,163 "
+       fill="#e0a587"
+       id="polygon149" />
+    <polygon
+       points="153,183 150,176 137,165 140,161 130,166 132,172 150,196 "
+       fill="#cf816d"
+       id="id-111603" />
+    <polygon
+       points="127,184 130,181 117,179 111,184 118,195 "
+       fill="#b7684d"
+       id="id-111604" />
+    <polygon
+       points="105,187 92,187 101,197 "
+       fill="#a35e51"
+       id="id-111605" />
+    <polygon
+       points="132,178 137,180 122,189 118,189 120,183 "
+       fill="#7e453d"
+       id="id-111606" />
+    <path
+       d="m 86,178 10,-5 -6,-5 c -2,2 -3,4 -4,5 0,1 0,3 0,5 z"
+       fill="#954839"
+       id="id-111607" />
+    <polygon
+       points="112,175 113,183 118,194 110,198 102,194 105,187 95,187 92,184 86,178 "
+       fill="#86443a"
+       id="id-111608" />
+    <polygon
+       points="104,181 112,175 100,171 86,178 95,180 "
+       fill="#c67c6a"
+       id="id-111609" />
+    <polygon
+       points="131,167 134,171 134,178 127,180 113,183 112,176 119,172 "
+       fill="#b06966"
+       id="id-111610" />
+    <polyline
+       points="90 184 93 188 97 187 102 183 96 180 89 184"
+       fill="#5b221d"
+       id="id-111611" />
+    <polygon
+       points="113,100 132,109 135,130 117,123 92,120 95,110 "
+       fill="#b6826b"
+       id="id-111612" />
+    <g
+       transform="translate(31,92)"
+       id="id-111613">
+      <polygon
+         points="56,56 69,30 44,8 1,22 4,42 24,55 "
+         fill="url(#id-111550)"
+         id="id-111614"
+         style="fill:url(#id-111550)" />
+      <polygon
+         points="67,42 68,39 63,37 59,39 59,47 "
+         fill="#ccb2be"
+         id="id-111615" />
+      <polygon
+         points="60,41 58,46 45,53 31,54 29,50 47,45 "
+         fill="#b97a79"
+         id="id-111616" />
+      <polygon
+         points="58,47 55,43 62,42 63,39 58,39 46,44 44,53 "
+         fill="#8f6357"
+         id="id-111617" />
+      <polygon
+         points="36,23 38,16 64,21 69,31 64,39 13,44 5,37 21,25 "
+         fill="#754335"
+         id="id-111618" />
+      <polygon
+         points="37,25 41,32 30,34 31,27 "
+         fill="#9d6544"
+         id="id-111619" />
+      <path
+         d="m 19,33 c 14,-6 23,-8 27,-7 4,1 10,5 19,11 L 64,28 C 52,23 44,21 41,22 37,22 30,26 19,33 Z"
+         fill="#5b2a23"
+         id="id-111620" />
+      <polygon
+         points="103,89 96,91 93,88 103,85 "
+         fill="#6b3025"
+         id="id-111621" />
+      <g
+         transform="rotate(3,-503.63843,252.13076)"
+         id="id-111622">
+        <path
+           d="m 6,14 8,2 9,-1 c -3,0 -5,-1 -6,-1 -2,-1 -3,-2 -4,-4 z"
+           fill="#783832"
+           id="id-111623" />
+        <path
+           d="m 14,10 c 1,3 4,5 8,5 3,1 9,0 14,-1 2,0 6,-2 11,-4 C 41,5 35,2 30,2 25,2 20,5 14,10 Z"
+           fill="#ffe4f4"
+           id="id-111624" />
+        <path
+           d="m 14,10 c 0,1 1,2 2,3 6,-5 11,-8 15,-8 2,0 6,1 11,4 v 3 c 1,0 3,-1 5,-2 C 41,5 35,2 30,2 25,2 20,5 14,10 Z"
+           fill="#000000"
+           fill-opacity="0.675"
+           id="path171" />
+        <path
+           d="m 20,8 c 0,5 3,7 10,7 6,0 9,-3 8,-10 C 34,4 31,3 28,4 26,4 23,6 20,8 Z"
+           fill="#36110a"
+           id="id-111626" />
+        <path
+           d="m 21,9 c 0,4 3,5 8,5 6,0 8,-2 8,-7 C 33,5 31,4 28,4 26,5 24,6 21,9 Z"
+           fill="#666531"
+           id="path174" />
+        <path
+           d="m 26,6 c 0,2 0,4 1,4 2,1 4,1 5,0 1,-1 1,-2 1,-5 z"
+           fill="#36110a"
+           id="id-111628" />
+        <polygon
+           points="28,9 27,7 22,9 22,11 "
+           fill="#d7b4bf"
+           id="id-111629" />
+        <path
+           d="M 6,14 0,9 C 15,3 26,0 32,0 c 4,0 10,4 17,9 1,0 1,1 1,2 H 45 C 43,7 39,6 33,5 26,5 17,8 6,14 Z"
+           fill="#36110a"
+           id="id-111630" />
+      </g>
+      <polygon
+         points="64,21 51,18 64,13 73,14 "
+         fill="#6e423b"
+         id="id-111631" />
+      <polygon
+         points="39,17 50,20 58,18 68,11 59,7 50,11 54,7 51,7 54,6 19,6 2,21 0,23 17,18 "
+         fill="#3a1f20"
+         id="id-111632" />
+      <polygon
+         points="40,4 20,5 25,1 "
+         fill="#3d2c29"
+         id="id-111633" />
+      <polygon
+         points="159,20 98,12 92,18 93,21 88,27 84,26 101,48 127,55 165,38 "
+         fill="url(#id-111551)"
+         id="id-111634"
+         style="fill:url(#id-111551)" />
+      <polygon
+         points="113,18 124,15 131,18 124,24 126,31 113,31 117,24 "
+         fill="#ce9888"
+         id="id-111635" />
+      <polygon
+         points="138,16 150,18 140,26 143,38 136,35 132,24 "
+         fill="#9e6645"
+         id="id-111636" />
+      <polygon
+         points="127,56 129,54 129,49 116,39 102,42 108,49 "
+         fill="#a96957"
+         id="id-111637" />
+      <polygon
+         points="116,39 129,49 137,42 "
+         fill="#c88c7b"
+         id="polygon187" />
+      <polygon
+         points="123,44 116,39 108,41 108,49 117,52 "
+         fill="#96524f"
+         id="polygon189" />
+      <polygon
+         points="95,42 101,38 104,44 99,44 "
+         fill="#c2908b"
+         id="id-111640" />
+      <polygon
+         points="151,41 151,37 157,34 165,52 166,51 166,26 161,16 151,36 139,42 146,44 "
+         fill="#96534f"
+         id="id-111641" />
+      <path
+         d="m 99,37 -6,-9 6,-6 -2,-5 h 16 l 4,5 c 6,1 11,1 13,2 3,1 9,4 18,10 -13,-6 -23,-9 -29,-9 -6,0 -13,4 -20,12 z"
+         fill="#643827"
+         id="id-111642" />
+      <g
+         transform="rotate(-3,609.13843,-1905.5172)"
+         id="id-111643">
+        <path
+           d="m 5,9 c 3,4 8,6 14,6 7,0 12,-1 16,-4 C 31,5 26,2 21,2 15,2 10,5 5,9 Z"
+           fill="#ffe4f3"
+           id="id-111644" />
+        <path
+           d="m 5,9 c 1,1 2,2 2,2 5,-4 9,-6 14,-6 4,0 8,3 11,8 1,-1 2,-1 3,-2 C 31,5 26,2 21,2 15,2 10,5 5,9 Z"
+           fill="#000000"
+           fill-opacity="0.496"
+           id="path195" />
+        <path
+           d="m 12,6 c 1,5 2,8 3,8 1,1 9,2 11,1 1,0 2,-3 4,-7 C 25,5 22,4 19,3 17,3 14,4 12,6 Z"
+           fill="#311011"
+           id="id-111646" />
+        <path
+           d="m 13,9 c 1,2 1,4 2,4 1,1 8,2 10,2 1,-1 2,-3 3,-6 C 26,8 24,7 21,7 19,6 16,7 13,9 Z"
+           fill="#615e2d"
+           id="path198" />
+        <polygon
+           points="23,11 25,7 21,6 17,7 18,11 "
+           fill="#311011"
+           id="id-111648" />
+        <polygon
+           points="20,5 14,7 14,10 20,8 "
+           fill="#d4aebc"
+           id="id-111649" />
+        <polygon
+           points="8,13 3,13 6,10 "
+           fill="#a03b40"
+           id="id-111650" />
+        <polygon
+           points="4,15 14,16 19,18 41,15 35,11 29,15 24,15 14,15 9,13 3,13 1,14 "
+           fill="#853f3b"
+           id="id-111651" />
+        <path
+           d="M 3,13 C 1,12 0,11 1,11 1,10 8,1 21,0 c 5,0 12,3 19,6 2,1 5,2 9,4 l -8,5 C 37,13 35,11 34,11 29,7 25,5 21,5 14,5 9,7 3,13 Z"
+           fill="#311011"
+           id="id-111652" />
+      </g>
+      <polygon
+         points="103,5 89,9 92,17 "
+         fill="#633e3b"
+         id="id-111653" />
+      <polygon
+         points="107,20 124,17 159,20 145,9 110,5 100,12 103,4 92,17 100,17 "
+         fill="#271716"
+         id="id-111654" />
+      <polygon
+         points="139,4 125,5 143,7 "
+         fill="#3a2a25"
+         id="id-111655" />
+    </g>
+    <polygon
+       points="114,110 114,123 104,122 102,115 "
+       fill="#cb8784"
+       id="polygon210" />
+    <polygon
+       points="127,180 130,182 116,182 124,177 "
+       fill="#320f10"
+       id="id-111657" />
+    <polygon
+       points="95,178 104,181 101,183 95,182 92,184 91,182 "
+       fill="#2c0e0f"
+       id="id-111658" />
+    <polygon
+       points="140,184 135,176 133,181 138,184 "
+       fill="#ab6150"
+       id="id-111659" />
+    <polygon
+       points="113,183 104,181 101,183 111,184 "
+       fill="#572a26"
+       id="id-111660" />
+    <polygon
+       points="123,126 122,133 128,151 130,147 147,156 129,167 107,125 112,123 "
+       fill="url(#id-111552)"
+       id="id-111661"
+       style="fill:url(#id-111552)" />
+    <polygon
+       points="132,173 131,168 128,165 119,143 115,146 119,172 129,176 "
+       fill="#f4b9a0"
+       id="id-111662" />
+    <polygon
+       points="116,132 122,141 119,150 117,148 111,125 117,125 "
+       fill="#f7cecb"
+       id="id-111663" />
+    <path
+       d="m 88,169 c -3,3 -4,6 -3,9 0,3 3,5 6,6 -2,-3 -4,-5 -4,-7 -1,-1 0,-4 1,-8 z"
+       fill="#7d3c32"
+       id="id-111664" />
+    <path
+       d="m 131,170 c -1,2 -2,4 -1,6 1,3 3,5 7,6 -3,-3 -4,-5 -5,-6 0,-2 0,-4 1,-7 z"
+       transform="rotate(-158,133,175)"
+       fill="#964f41"
+       id="path220" />
+    <path
+       d="m 98,171 12,5 9,-4 -4,-41 -4,-6 h -7 v 13 c -2,7 -3,13 -4,17 0,4 -1,9 -2,16 z"
+       fill="#d8908f"
+       id="id-111666" />
+    <polygon
+       points="108,125 106,142 109,151 115,131 111,125 "
+       fill="#e7af9d"
+       id="polygon223" />
+    <polygon
+       points="120,172 115,131 103,173 110,176 "
+       fill="#dc9898"
+       id="polygon225" />
+    <polygon
+       points="120,172 107,159 103,173 110,176 "
+       fill="#e3a8a6"
+       id="polygon227" />
+    <polygon
+       points="120,172 118,170 110,173 103,173 110,176 "
+       fill="#fad2c5"
+       id="polygon229" />
+    <polygon
+       points="68,221 76,213 142,214 147,216 150,221 112,238 "
+       fill="#bf7867"
+       id="id-111671" />
+    <polygon
+       points="120,246 148,219 148,213 90,228 102,242 "
+       fill="#a56049"
+       id="id-111672" />
+    <polygon
+       points="146,214 143,212 133,214 126,224 141,222 "
+       fill="#c88878"
+       id="id-111673" />
+    <polygon
+       points="80,219 87,217 83,214 69,216 70,217 "
+       fill="#e2b2a4"
+       id="id-111674" />
+    <polygon
+       points="74,209 83,214 69,216 68,211 "
+       fill="#a25640"
+       id="id-111675" />
+    <polygon
+       points="151,211 146,208 141,213 148,216 "
+       fill="#c07a64"
+       id="id-111676" />
+    <polygon
+       points="136,217 128,226 112,232 93,225 89,219 "
+       fill="#783025"
+       id="id-111677" />
+    <polygon
+       points="117,198 111,200 105,198 103,195 101,198 92,202 88,206 126,201 118,195 "
+       fill="#e9b4a6"
+       id="id-111678" />
+    <polygon
+       points="140,217 148,214 132,204 107,203 82,209 75,213 87,220 "
+       fill="#781b19"
+       id="id-111679" />
+    <polygon
+       points="87,218 142,216 147,214 139,211 128,209 111,210 94,209 84,211 80,215 "
+       fill="#50090c"
+       id="polygon240" />
+    <path
+       d="m 82,209 c 11,-6 17,-10 18,-10 2,0 9,2 11,2 1,0 7,-2 10,-2 2,0 8,3 19,10 l -8,-2 -17,2 -4,-2 -2,2 -13,-1 -10,2 z"
+       fill="#c05854"
+       id="id-111681" />
+    <path
+       d="m 100,199 c 2,0 9,2 11,2 1,0 7,-2 10,-2 l -9,7 -2,2 z"
+       fill="#d45f63"
+       id="path243" />
+    <path
+       d="m 80,215 c 2,2 4,4 5,4 9,4 16,6 26,6 9,0 18,-3 27,-7 1,0 3,-1 5,-3 -10,-3 -16,-5 -19,-5 -3,0 -7,0 -14,2 -6,-2 -10,-2 -12,-2 -1,1 -8,2 -18,5 z"
+       fill="#dc6b67"
+       id="id-111683" />
+    <path
+       d="m 80,215 c 2,2 4,4 5,4 1,0 2,1 4,2 5,-7 12,-10 21,-9 11,1 18,3 22,9 2,-1 4,-2 6,-3 1,0 3,-1 6,-3 -10,-3 -17,-5 -20,-5 -3,0 -7,0 -14,2 -6,-2 -10,-2 -12,-2 -1,1 -8,2 -18,5 z"
+       fill="#bf5350"
+       id="path246" />
+    <polygon
+       points="99,216 126,216 128,217 124,220 124,217 98,218 94,221 92,217 "
+       fill="#f88db0"
+       id="id-111685" />
+    <polygon
+       points="138,246 120,259 108,254 112,237 "
+       fill="#cd9a8c"
+       id="id-111686" />
+    <polygon
+       points="85,242 85,248 108,254 112,237 "
+       fill="#bf8975"
+       id="polygon250" />
+  </g>
+</svg>

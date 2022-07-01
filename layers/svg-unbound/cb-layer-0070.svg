@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1471"
+   height="1760"
+   viewBox="0 0 1471 1760"
+   version="1.1"
+   id="svg47"
+   sodipodi:docname="cb-layer-0070.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview49"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs33">
+    <linearGradient
+       x1="790.04609"
+       y1="1508.9627"
+       x2="790.04609"
+       y2="-1127.9115"
+       id="id-30181"
+       gradientTransform="scale(0.8660254,1.1547005)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#171623"
+         offset="0%"
+         id="stop2" />
+      <stop
+         stop-color="#293239"
+         offset="54%"
+         id="stop4" />
+      <stop
+         stop-color="#272B37"
+         offset="100%"
+         id="stop6" />
+    </linearGradient>
+    <filter
+       width="1.0888231"
+       height="2.6"
+       x="-0.044411547"
+       y="-0.8"
+       id="id-30182"
+       filterUnits="objectBoundingBox">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="25"
+         id="feGaussianBlur9" />
+    </filter>
+    <linearGradient
+       x1="92.662124"
+       y1="370.14662"
+       x2="92.662124"
+       y2="193.40458"
+       id="id-30183"
+       gradientTransform="scale(7.4386379,0.13443321)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0F008E"
+         offset="0%"
+         id="stop12" />
+      <stop
+         stop-color="#1400A1"
+         offset="0%"
+         id="stop14" />
+      <stop
+         stop-color="#7C69FF"
+         offset="35%"
+         id="stop16" />
+      <stop
+         stop-color="#3518FF"
+         offset="61%"
+         id="stop18" />
+      <stop
+         stop-color="#2304FF"
+         offset="79%"
+         id="stop20" />
+      <stop
+         stop-color="#533BFF"
+         offset="100%"
+         id="stop22" />
+    </linearGradient>
+    <rect
+       width="1328"
+       height="24"
+       x="12"
+       y="26"
+       id="id-30184" />
+    <filter
+       width="1.0289157"
+       height="2.6"
+       x="-0.014457831"
+       y="-0.8"
+       id="id-30185"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         result="id-30186"
+         in="SourceAlpha"
+         dx="0"
+         dy="0"
+         id="feOffset26" />
+      <feGaussianBlur
+         result="id-30187"
+         in="SourceGraphic"
+         stdDeviation="8"
+         id="feGaussianBlur28" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.577 0"
+         id="feColorMatrix30" />
+    </filter>
+  </defs>
+  <g
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     id="id-30190"
+     fill-rule="evenodd"
+     transform="translate(71.000001)">
+    <g
+       transform="translate(-11)"
+       id="id-30191">
+      <rect
+         fill="url(#id-30181)"
+         width="1320"
+         height="1760"
+         x="11"
+         y="0"
+         id="id-30192"
+         style="fill:url(#id-30181)" />
+      <g
+         transform="translate(0,764)"
+         id="id-30193">
+        <polygon
+           points="1351,75 0,75 0,0 1351,0 "
+           fill="#0400f9"
+           id="polygon36"
+           filter="url(#id-30182)" />
+        <g
+           id="g42">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-30184"
+             filter="url(#id-30185)"
+             id="use38"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="url(#id-30183)"
+             xlink:href="#id-30184"
+             fill-rule="evenodd"
+             id="use40"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%"
+             style="fill:url(#id-30183)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

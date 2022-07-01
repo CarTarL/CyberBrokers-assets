@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64.392303"
+   height="28"
+   viewBox="0 0 64.392303 28"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="cb-layer-0621.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs7">
+    <linearGradient
+       x1="42.202872"
+       y1="21.230783"
+       x2="-0.25869361"
+       y2="21.230783"
+       id="id-61818"
+       gradientTransform="scale(1.5164845,0.65941987)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FFFFFF"
+         offset="0%"
+         id="stop2" />
+      <stop
+         stop-color="#E8D7FC"
+         offset="100%"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(0.39230485)"
+     id="id-61819">
+    <path
+       d="m 0,16 4,9 h 9 c 8,-5 13,-8 13,-8 7,0 11,0 11,0 7,5 11,8 11,8 l 5,-1 -3,-5 C 46,14 43,11 43,9 15,14 0,16 0,16 Z"
+       fill="#110707"
+       opacity="0.209"
+       id="id-61820" />
+    <path
+       d="m 0,14 c -1,8 0,12 2,12 9,-2 13,-3 13,-3 7,-5 11,-7 11,-7 7,0 11,0 11,0 7,4 10,6 10,6 8,4 12,6 12,6 3,-5 5,-9 5,-13 C 53,11 47,9 47,9 40,3 37,0 37,0 30,0 26,0 26,0 L 15,10 C 5,12 0,14 0,14 Z"
+       fill="url(#id-61818)"
+       id="path10"
+       style="fill:url(#id-61818)" />
+    <polygon
+       points="26,16 26,0 15,10 15,23 "
+       fill="#ccbeef"
+       id="id-61822" />
+    <path
+       d="m 18,9 c 0,6 0,9 0,9 4,-2 7,-4 7,-4 8,0 12,1 12,1 5,2 7,4 7,4 C 45,12 45,9 45,9 40,5 38,3 38,3 H 25 c -4,4 -7,6 -7,6 z"
+       fill="#fdc8cc"
+       id="id-61823" />
+    <polygon
+       points="37,15 38,3 25,3 25,14 "
+       fill="#ffd5d5"
+       id="id-61824" />
+  </g>
+</svg>

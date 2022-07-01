@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1341.899"
+   height="1760"
+   viewBox="0 0 1341.899 1760"
+   version="1.1"
+   id="svg386"
+   sodipodi:docname="cb-layer-0146.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview388"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs242">
+    <path
+       d="M 18,290 C 9,279 4,273 4,273 l 12,-19 c 1,24 2,36 2,36 z"
+       id="id-32024" />
+    <filter
+       width="8.5428571"
+       height="3.9333333"
+       x="-3.7714286"
+       y="-1.4666667"
+       id="id-32025"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology3" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset5" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur7" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix9" />
+    </filter>
+    <path
+       d="M 36,216 C 23,159 11,107 0,60 4,-8 86,-23 112,39 c 16,55 24,83 24,83 32,-13 67,-16 108,-1 15,-53 22,-79 22,-79 14,-39 57,-54 89,-31 -3,10 -5,15 -5,15 11,-3 17,-4 17,-4 5,7 8,10 8,10 -14,15 -21,22 -21,22 -7,-35 -48,-36 -62,-6 -21,72 -31,109 -31,109 -49,-26 -91,-25 -142,0 C 99,84 89,48 89,48 73,13 24,21 27,63 c 25,104 37,156 37,156 -38,96 27,172 94,187 -7,8 -14,15 -21,22 C 106,421 -8,353 36,216 Z"
+       id="id-32032" />
+    <filter
+       width="1.2816"
+       height="1.2466271"
+       x="-0.1408"
+       y="-0.12331355"
+       id="id-32033"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology13" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset15" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur17" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix19" />
+    </filter>
+    <path
+       d="m 80,238 c 13,-13 19,-19 19,-19 13,13 20,20 20,20 12,-13 19,-20 19,-20 12,13 18,19 18,19 -13,13 -19,19 -19,19 13,13 19,19 19,19 -13,13 -19,19 -19,19 -12,-13 -18,-19 -18,-19 -13,12 -20,19 -20,19 C 87,282 81,276 81,276 L 99,257 C 87,244 80,238 80,238 Z"
+       id="id-32040" />
+    <filter
+       width="2.3894737"
+       height="2.3894737"
+       x="-0.69473684"
+       y="-0.69473684"
+       id="id-32041"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology23" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset25" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur27" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix29" />
+    </filter>
+    <path
+       d="m 224,276 c 12,-13 19,-19 19,-19 -13,-13 -19,-20 -19,-20 13,-12 19,-18 19,-18 12,13 18,19 18,19 14,-12 20,-19 20,-19 12,13 18,19 18,19 -13,13 -19,19 -19,19 13,13 20,20 20,20 -13,12 -19,18 -19,18 -13,-13 -19,-19 -19,-19 l -19,20 c -13,-13 -19,-20 -19,-20 z"
+       id="id-32048" />
+    <filter
+       width="2.3894737"
+       height="2.3714286"
+       x="-0.69473684"
+       y="-0.68571429"
+       id="id-32049"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology33" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset35" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur37" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix39" />
+    </filter>
+    <path
+       d="m 267,160 c 11,-40 17,-60 17,-60 l -10,65 c -5,-4 -7,-5 -7,-5 z"
+       id="id-32056" />
+    <filter
+       width="7.2117647"
+       height="2.6246154"
+       x="-3.1058824"
+       y="-0.81230769"
+       id="id-32057"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology43" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset45" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur47" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix49" />
+    </filter>
+    <path
+       d="m 360,272 c -3,21 -5,32 -5,32 -1,9 -2,13 -2,13 l 17,-15 c -6,-20 -10,-30 -10,-30 z"
+       id="id-32064" />
+    <filter
+       width="7.2117647"
+       height="3.3466667"
+       x="-3.1058824"
+       y="-1.1733333"
+       id="id-32065"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology53" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset55" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur57" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix59" />
+    </filter>
+    <path
+       d="m 353,63 c 17,-11 26,-17 26,-17 3,9 0,17 -1,26 -23,96 -34,144 -34,144 37,146 -79,243 -193,215 9,-16 14,-24 14,-24 107,19 189,-85 151,-188 25,-104 37,-156 37,-156 z"
+       id="id-32072" />
+    <filter
+       width="1.460534"
+       height="1.2708966"
+       x="-0.23026699"
+       y="-0.1354483"
+       id="id-32073"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology63" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset65" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur67" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix69" />
+    </filter>
+    <path
+       d="m 158,336 c 0,-20 11,-37 33,-36 15,-1 31,12 31,35 -42,1 -64,1 -64,1 z"
+       id="id-32080" />
+    <filter
+       width="2.65"
+       height="3.9289598"
+       x="-0.825"
+       y="-1.4644799"
+       id="id-32081"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology73" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset75" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur77" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix79" />
+    </filter>
+    <path
+       d="M 18,290 C 9,279 4,273 4,273 l 12,-19 c 1,24 2,36 2,36 z"
+       id="id-32088" />
+    <filter
+       width="8.5428571"
+       height="3.9333333"
+       x="-3.7714286"
+       y="-1.4666667"
+       id="id-32089"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology83" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset85" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur87" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix89" />
+    </filter>
+    <path
+       d="M 36,216 C 23,159 11,107 0,60 4,-8 86,-23 112,39 c 16,55 24,83 24,83 32,-13 67,-16 108,-1 15,-53 22,-79 22,-79 14,-39 57,-54 89,-31 -3,10 -5,15 -5,15 11,-3 17,-4 17,-4 5,7 8,10 8,10 -14,15 -21,22 -21,22 -7,-35 -48,-36 -62,-6 -21,72 -31,109 -31,109 -49,-26 -91,-25 -142,0 C 99,84 89,48 89,48 73,13 24,21 27,63 c 25,104 37,156 37,156 -38,96 27,172 94,187 -7,8 -14,15 -21,22 C 106,421 -8,353 36,216 Z"
+       id="id-32096" />
+    <filter
+       width="1.2816"
+       height="1.2466271"
+       x="-0.1408"
+       y="-0.12331355"
+       id="id-32097"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology93" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset95" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur97" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix99" />
+    </filter>
+    <path
+       d="m 80,238 c 13,-13 19,-19 19,-19 13,13 20,20 20,20 12,-13 19,-20 19,-20 12,13 18,19 18,19 -13,13 -19,19 -19,19 13,13 19,19 19,19 -13,13 -19,19 -19,19 -12,-13 -18,-19 -18,-19 -13,12 -20,19 -20,19 C 87,282 81,276 81,276 L 99,257 C 87,244 80,238 80,238 Z"
+       id="id-32104" />
+    <filter
+       width="2.3894737"
+       height="2.3894737"
+       x="-0.69473684"
+       y="-0.69473684"
+       id="id-32105"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology103" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset105" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur107" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix109" />
+    </filter>
+    <path
+       d="m 224,276 c 12,-13 19,-19 19,-19 -13,-13 -19,-20 -19,-20 13,-12 19,-18 19,-18 12,13 18,19 18,19 14,-12 20,-19 20,-19 12,13 18,19 18,19 -13,13 -19,19 -19,19 13,13 20,20 20,20 -13,12 -19,18 -19,18 -13,-13 -19,-19 -19,-19 l -19,20 c -13,-13 -19,-20 -19,-20 z"
+       id="id-32112" />
+    <filter
+       width="2.3894737"
+       height="2.3714286"
+       x="-0.69473684"
+       y="-0.68571429"
+       id="id-32113"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology113" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset115" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur117" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix119" />
+    </filter>
+    <path
+       d="m 267,160 c 11,-40 17,-60 17,-60 l -10,65 c -5,-4 -7,-5 -7,-5 z"
+       id="id-32120" />
+    <filter
+       width="7.2117647"
+       height="2.6246154"
+       x="-3.1058824"
+       y="-0.81230769"
+       id="id-32121"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology123" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset125" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur127" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix129" />
+    </filter>
+    <path
+       d="m 360,272 c -3,21 -5,32 -5,32 -1,9 -2,13 -2,13 l 17,-15 c -6,-20 -10,-30 -10,-30 z"
+       id="id-32128" />
+    <filter
+       width="7.2117647"
+       height="3.3466667"
+       x="-3.1058824"
+       y="-1.1733333"
+       id="id-32129"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology133" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset135" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur137" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix139" />
+    </filter>
+    <path
+       d="m 353,63 c 17,-11 26,-17 26,-17 3,9 0,17 -1,26 -23,96 -34,144 -34,144 37,146 -79,243 -193,215 9,-16 14,-24 14,-24 107,19 189,-85 151,-188 25,-104 37,-156 37,-156 z"
+       id="id-32136" />
+    <filter
+       width="1.460534"
+       height="1.2708966"
+       x="-0.23026699"
+       y="-0.1354483"
+       id="id-32137"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology143" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset145" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur147" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix149" />
+    </filter>
+    <path
+       d="m 158,336 c 0,-20 11,-37 33,-36 15,-1 31,12 31,35 -42,1 -64,1 -64,1 z"
+       id="id-32144" />
+    <filter
+       width="2.65"
+       height="3.9289598"
+       x="-0.825"
+       y="-1.4644799"
+       id="id-32145"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology153" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset155" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur157" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix159" />
+    </filter>
+    <path
+       d="M 18,290 C 9,279 4,273 4,273 l 12,-19 c 1,24 2,36 2,36 z"
+       id="id-32152" />
+    <filter
+       width="8.5428571"
+       height="3.9333333"
+       x="-3.7714286"
+       y="-1.4666667"
+       id="id-32153"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology163" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset165" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur167" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix169" />
+    </filter>
+    <path
+       d="M 36,216 C 23,159 11,107 0,60 4,-8 86,-23 112,39 c 16,55 24,83 24,83 32,-13 67,-16 108,-1 15,-53 22,-79 22,-79 14,-39 57,-54 89,-31 -3,10 -5,15 -5,15 11,-3 17,-4 17,-4 5,7 8,10 8,10 -14,15 -21,22 -21,22 -7,-35 -48,-36 -62,-6 -21,72 -31,109 -31,109 -49,-26 -91,-25 -142,0 C 99,84 89,48 89,48 73,13 24,21 27,63 c 25,104 37,156 37,156 -38,96 27,172 94,187 -7,8 -14,15 -21,22 C 106,421 -8,353 36,216 Z"
+       id="id-32160" />
+    <filter
+       width="1.2816"
+       height="1.2466271"
+       x="-0.1408"
+       y="-0.12331355"
+       id="id-32161"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology173" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset175" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur177" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix179" />
+    </filter>
+    <path
+       d="m 80,238 c 13,-13 19,-19 19,-19 13,13 20,20 20,20 12,-13 19,-20 19,-20 12,13 18,19 18,19 -13,13 -19,19 -19,19 13,13 19,19 19,19 -13,13 -19,19 -19,19 -12,-13 -18,-19 -18,-19 -13,12 -20,19 -20,19 C 87,282 81,276 81,276 L 99,257 C 87,244 80,238 80,238 Z"
+       id="id-32168" />
+    <filter
+       width="2.3894737"
+       height="2.3894737"
+       x="-0.69473684"
+       y="-0.69473684"
+       id="id-32169"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology183" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset185" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur187" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix189" />
+    </filter>
+    <path
+       d="m 224,276 c 12,-13 19,-19 19,-19 -13,-13 -19,-20 -19,-20 13,-12 19,-18 19,-18 12,13 18,19 18,19 14,-12 20,-19 20,-19 12,13 18,19 18,19 -13,13 -19,19 -19,19 13,13 20,20 20,20 -13,12 -19,18 -19,18 -13,-13 -19,-19 -19,-19 l -19,20 c -13,-13 -19,-20 -19,-20 z"
+       id="id-32176" />
+    <filter
+       width="2.3894737"
+       height="2.3714286"
+       x="-0.69473684"
+       y="-0.68571429"
+       id="id-32177"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology193" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset195" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur197" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix199" />
+    </filter>
+    <path
+       d="m 267,160 c 11,-40 17,-60 17,-60 l -10,65 c -5,-4 -7,-5 -7,-5 z"
+       id="id-32184" />
+    <filter
+       width="7.2117647"
+       height="2.6246154"
+       x="-3.1058824"
+       y="-0.81230769"
+       id="id-32185"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology203" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset205" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur207" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix209" />
+    </filter>
+    <path
+       d="m 360,272 c -3,21 -5,32 -5,32 -1,9 -2,13 -2,13 l 17,-15 c -6,-20 -10,-30 -10,-30 z"
+       id="id-32192" />
+    <filter
+       width="7.2117647"
+       height="3.3466667"
+       x="-3.1058824"
+       y="-1.1733333"
+       id="id-32193"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology213" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset215" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur217" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix219" />
+    </filter>
+    <path
+       d="m 353,63 c 17,-11 26,-17 26,-17 3,9 0,17 -1,26 -23,96 -34,144 -34,144 37,146 -79,243 -193,215 9,-16 14,-24 14,-24 107,19 189,-85 151,-188 25,-104 37,-156 37,-156 z"
+       id="id-32200" />
+    <filter
+       width="1.460534"
+       height="1.2708966"
+       x="-0.23026699"
+       y="-0.1354483"
+       id="id-32201"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology223" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset225" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur227" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix229" />
+    </filter>
+    <path
+       d="m 158,336 c 0,-20 11,-37 33,-36 15,-1 31,12 31,35 -42,1 -64,1 -64,1 z"
+       id="id-32208" />
+    <filter
+       width="2.65"
+       height="3.9289598"
+       x="-0.825"
+       y="-1.4644799"
+       id="id-32209"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-32026"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology233" />
+      <feOffset
+         result="id-32027"
+         in="SourceGraphic"
+         dx="0"
+         dy="0"
+         id="feOffset235" />
+      <feGaussianBlur
+         result="id-32029"
+         in="SourceGraphic"
+         stdDeviation="22"
+         id="feGaussianBlur237" />
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 0.038 0 0 0 0 0.937 0 0 0 0 0 0 0 0 0.905 0"
+         id="feColorMatrix239" />
+    </filter>
+  </defs>
+  <g
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     id="id-32216"
+     fill-rule="evenodd"
+     transform="translate(14.8)">
+    <g
+       id="id-32217">
+      <rect
+         fill="#969696"
+         width="1320"
+         height="1760"
+         x="0"
+         y="0"
+         id="id-32218" />
+      <g
+         transform="translate(38,417)"
+         id="id-32219">
+        <g
+           id="id-32220">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32024"
+             filter="url(#id-32025)"
+             id="use245"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32024"
+             fill-rule="evenodd"
+             id="use247"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="id-32224">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32032"
+             filter="url(#id-32033)"
+             id="use250"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32032"
+             fill-rule="evenodd"
+             id="use252"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="id-32228">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32040"
+             filter="url(#id-32041)"
+             id="use255"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32040"
+             fill-rule="evenodd"
+             id="use257"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="id-32232">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32048"
+             filter="url(#id-32049)"
+             id="use260"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32048"
+             fill-rule="evenodd"
+             id="use262"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="id-32236">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32056"
+             filter="url(#id-32057)"
+             id="use265"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32056"
+             fill-rule="evenodd"
+             id="use267"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="id-32240">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32064"
+             filter="url(#id-32065)"
+             id="use270"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32064"
+             fill-rule="evenodd"
+             id="use272"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="id-32244">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32072"
+             filter="url(#id-32073)"
+             id="use275"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32072"
+             fill-rule="evenodd"
+             id="use277"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="id-32248">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32080"
+             filter="url(#id-32081)"
+             id="use280"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32080"
+             fill-rule="evenodd"
+             id="use282"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         transform="translate(467,417)"
+         id="id-32252">
+        <g
+           id="g290">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32088"
+             filter="url(#id-32089)"
+             id="use286"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32088"
+             fill-rule="evenodd"
+             id="use288"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g296">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32096"
+             filter="url(#id-32097)"
+             id="use292"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32096"
+             fill-rule="evenodd"
+             id="use294"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g302">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32104"
+             filter="url(#id-32105)"
+             id="use298"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32104"
+             fill-rule="evenodd"
+             id="use300"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g308">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32112"
+             filter="url(#id-32113)"
+             id="use304"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32112"
+             fill-rule="evenodd"
+             id="use306"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g314">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32120"
+             filter="url(#id-32121)"
+             id="use310"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32120"
+             fill-rule="evenodd"
+             id="use312"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g320">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32128"
+             filter="url(#id-32129)"
+             id="use316"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32128"
+             fill-rule="evenodd"
+             id="use318"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g326">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32136"
+             filter="url(#id-32137)"
+             id="use322"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32136"
+             fill-rule="evenodd"
+             id="use324"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g332">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32144"
+             filter="url(#id-32145)"
+             id="use328"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32144"
+             fill-rule="evenodd"
+             id="use330"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         transform="translate(894,417)"
+         id="id-32285">
+        <g
+           id="g339">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32152"
+             filter="url(#id-32153)"
+             id="use335"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32152"
+             fill-rule="evenodd"
+             id="use337"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g345">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32160"
+             filter="url(#id-32161)"
+             id="use341"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32160"
+             fill-rule="evenodd"
+             id="use343"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g351">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32168"
+             filter="url(#id-32169)"
+             id="use347"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32168"
+             fill-rule="evenodd"
+             id="use349"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g357">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32176"
+             filter="url(#id-32177)"
+             id="use353"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32176"
+             fill-rule="evenodd"
+             id="use355"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g363">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32184"
+             filter="url(#id-32185)"
+             id="use359"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32184"
+             fill-rule="evenodd"
+             id="use361"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g369">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32192"
+             filter="url(#id-32193)"
+             id="use365"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32192"
+             fill-rule="evenodd"
+             id="use367"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g375">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32200"
+             filter="url(#id-32201)"
+             id="use371"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32200"
+             fill-rule="evenodd"
+             id="use373"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g381">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             xlink:href="#id-32208"
+             filter="url(#id-32209)"
+             id="use377"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#7fef00"
+             xlink:href="#id-32208"
+             fill-rule="evenodd"
+             id="use379"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

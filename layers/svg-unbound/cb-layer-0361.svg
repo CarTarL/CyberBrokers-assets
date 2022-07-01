@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="310"
+   height="211"
+   viewBox="0 0 310 211"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="cb-layer-0361.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs7">
+    <linearGradient
+       x1="137.00083"
+       y1="117.86819"
+       x2="162.02287"
+       y2="163.36281"
+       id="id-76142"
+       gradientTransform="scale(1.1605769,0.86164044)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#10454D"
+         offset="0%"
+         id="stop2" />
+      <stop
+         stop-color="#002325"
+         offset="100%"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(-1,-1)"
+     id="id-76143">
+    <path
+       d="m 9,8 c -3,7 -4,11 -4,11 48,36 71,54 71,54 47,91 70,136 70,136 9,2 13,3 13,3 10,-2 15,-3 15,-3 C 218,121 240,78 240,78 285,34 307,12 307,12 306,4 305,1 305,1 L 233,69 88,66 Z"
+       fill="#151716"
+       id="id-76144" />
+    <path
+       d="M 7,14 1,31 8,26 c 46,33 68,50 68,50 47,84 70,126 70,126 9,2 13,3 13,3 l 20,-9 66,-114 c 34,-35 53,-55 58,-59 1,-2 4,-1 8,1 C 307,12 305,7 305,7 L 233,75 89,63 Z"
+       fill="#151716"
+       opacity="0.404"
+       id="path10" />
+    <polygon
+       points="178,178 225,81 93,80 142,178 "
+       fill="url(#id-76142)"
+       id="id-76146"
+       style="fill:url(#id-76142)" />
+  </g>
+</svg>

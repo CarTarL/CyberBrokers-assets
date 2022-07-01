@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="734.40002"
+   height="826"
+   viewBox="0 0 734.40002 826"
+   version="1.1"
+   id="svg476"
+   sodipodi:docname="cb-layer-1021.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview478"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs306">
+    <linearGradient
+       x1="386.927"
+       y1="0"
+       x2="386.927"
+       y2="773.85399"
+       id="id-81749"
+       gradientTransform="scale(0.93686924,1.0673848)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#06070A"
+         offset="0%"
+         id="stop2" />
+      <stop
+         stop-color="#00172B"
+         offset="59%"
+         id="stop4" />
+      <stop
+         stop-color="#00172C"
+         offset="100%"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       x1="792.53927"
+       y1="357.59742"
+       x2="515.71261"
+       y2="357.59742"
+       id="id-81750"
+       gradientTransform="scale(0.71163666,1.4052115)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#002036"
+         offset="0%"
+         id="stop9" />
+      <stop
+         stop-color="#003457"
+         offset="100%"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       x1="502.54819"
+       y1="357.89403"
+       x2="225.37677"
+       y2="357.89403"
+       id="id-81751"
+       gradientTransform="scale(0.71435935,1.3998557)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#003457"
+         offset="0%"
+         id="stop14" />
+      <stop
+         stop-color="#002036"
+         offset="100%"
+         id="stop16" />
+    </linearGradient>
+    <filter
+       width="1.3826087"
+       height="1.1859155"
+       x="-0.19130435"
+       y="-0.092957746"
+       id="id-81752"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology19" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="0"
+         id="feOffset21" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="11"
+         id="feGaussianBlur23" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0.011 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix25" />
+    </filter>
+    <path
+       d="m 546,571 c -36,29 -54,44 -54,44 -56,-48 -84,-72 -84,-72 0,-126 0,-190 0,-190 18,-14 28,-22 28,-22 0,16 -1,23 -1,23 -12,11 -19,17 -19,17 0,57 1,86 1,86 13,15 19,22 19,22 0,53 0,79 0,79 26,22 40,32 40,32 29,-18 44,-27 44,-27 l 19,-17 c 4,17 7,25 7,25 z"
+       id="id-81759" />
+    <path
+       d="m 546,571 c -36,29 -54,44 -54,44 -56,-48 -84,-72 -84,-72 0,-126 0,-190 0,-190 18,-14 28,-22 28,-22 0,16 -1,23 -1,23 -12,11 -19,17 -19,17 0,57 1,86 1,86 13,15 19,22 19,22 0,53 0,79 0,79 26,22 40,32 40,32 29,-18 44,-27 44,-27 l 19,-17 c 4,17 7,25 7,25 z"
+       id="path29" />
+    <filter
+       width="1.4056338"
+       height="1.2774775"
+       x="-0.2028169"
+       y="-0.12972973"
+       id="id-81761"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology31" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset33" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur35" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix37" />
+    </filter>
+    <path
+       d="m 480,557 c -1,-51 -1,-76 -1,-76 -21,-22 -32,-34 -32,-34 23,19 35,28 35,28 24,-20 36,-29 36,-29 0,2 0,3 0,3 l -33,30 c -3,52 -5,78 -5,78 z"
+       id="id-81768" />
+    <path
+       d="m 480,557 c -1,-51 -1,-76 -1,-76 -21,-22 -32,-34 -32,-34 23,19 35,28 35,28 24,-20 36,-29 36,-29 0,2 0,3 0,3 l -33,30 c -3,52 -5,78 -5,78 z"
+       id="path41" />
+    <filter
+       width="5.0615385"
+       height="2.76"
+       x="-2.0307692"
+       y="-0.88"
+       id="id-81770"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology43" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="0"
+         id="feOffset45" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="11"
+         id="feGaussianBlur47" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0.011 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix49" />
+    </filter>
+    <path
+       d="m 436,464 c -9,-7 -13,-11 -13,-11 0,-8 0,-12 0,-12 l 13,-7 c 0,20 0,30 0,30 z"
+       id="id-81777" />
+    <path
+       d="m 436,464 c -9,-7 -13,-11 -13,-11 0,-8 0,-12 0,-12 l 13,-7 c 0,20 0,30 0,30 z"
+       id="path53" />
+    <filter
+       width="1.306383"
+       height="1.2701754"
+       x="-0.15319149"
+       y="-0.12631579"
+       id="id-81779"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology55" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset57" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur59" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix61" />
+    </filter>
+    <path
+       d="m 494,399 c -33,27 -50,41 -50,41 0,-1 0,-1 0,-1 30,-28 45,-42 45,-42 0,-4 1,-6 1,-6 -22,-41 -33,-62 -33,-62 23,39 35,59 35,59 5,0 7,0 7,0 26,-41 39,-62 39,-62 -23,43 -35,64 -35,64 11,25 17,37 17,37 l -16,-28 c -6,0 -10,0 -10,0 z"
+       id="id-81786" />
+    <path
+       d="m 494,399 c -33,27 -50,41 -50,41 0,-1 0,-1 0,-1 30,-28 45,-42 45,-42 0,-4 1,-6 1,-6 -22,-41 -33,-62 -33,-62 23,39 35,59 35,59 5,0 7,0 7,0 26,-41 39,-62 39,-62 -23,43 -35,64 -35,64 11,25 17,37 17,37 l -16,-28 c -6,0 -10,0 -10,0 z"
+       id="path65" />
+    <filter
+       width="1.3854015"
+       height="1.1839721"
+       x="-0.19270073"
+       y="-0.091986063"
+       id="id-81788"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology67" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="0"
+         id="feOffset69" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="11"
+         id="feGaussianBlur71" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0.011 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix73" />
+    </filter>
+    <path
+       d="m 235,615 c -36,-29 -54,-43 -54,-43 3,-18 4,-27 4,-27 42,32 63,48 63,48 28,-23 41,-35 41,-35 1,-56 1,-84 1,-84 12,-14 18,-21 18,-21 0,-58 0,-87 0,-87 -13,-12 -19,-18 -19,-18 0,-13 0,-20 0,-20 19,15 29,23 29,23 l -1,191 c -55,49 -82,73 -82,73 z"
+       id="id-81795" />
+    <path
+       d="m 235,615 c -36,-29 -54,-43 -54,-43 3,-18 4,-27 4,-27 42,32 63,48 63,48 28,-23 41,-35 41,-35 1,-56 1,-84 1,-84 12,-14 18,-21 18,-21 0,-58 0,-87 0,-87 -13,-12 -19,-18 -19,-18 0,-13 0,-20 0,-20 19,15 29,23 29,23 l -1,191 c -55,49 -82,73 -82,73 z"
+       id="path77" />
+    <filter
+       width="5.8"
+       height="2.8206897"
+       x="-2.4"
+       y="-0.91034483"
+       id="id-81797"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology79" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="0"
+         id="feOffset81" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="11"
+         id="feGaussianBlur83" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0.011 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix85" />
+    </filter>
+    <path
+       d="m 290,462 c 0,-19 0,-29 0,-29 7,4 11,6 11,6 v 13 c -7,7 -11,10 -11,10 z"
+       id="id-81804" />
+    <path
+       d="m 290,462 c 0,-19 0,-29 0,-29 7,4 11,6 11,6 v 13 c -7,7 -11,10 -11,10 z"
+       id="path89" />
+    <filter
+       width="1.4965517"
+       height="1.2678261"
+       x="-0.24827586"
+       y="-0.12521739"
+       id="id-81806"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology91" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset93" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur95" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix97" />
+    </filter>
+    <path
+       d="m 275,460 c 0,2 -1,3 -1,3 -17,15 -26,23 -26,23 -3,55 -4,82 -4,82 -1,-54 -1,-81 -1,-81 -18,-22 -26,-34 -26,-34 l 29,30 c 19,-15 29,-23 29,-23 z"
+       id="id-81813" />
+    <path
+       d="m 275,460 c 0,2 -1,3 -1,3 -17,15 -26,23 -26,23 -3,55 -4,82 -4,82 -1,-54 -1,-81 -1,-81 -18,-22 -26,-34 -26,-34 l 29,30 c 19,-15 29,-23 29,-23 z"
+       id="path101" />
+    <filter
+       width="1.3428571"
+       height="1.2483871"
+       x="-0.17142857"
+       y="-0.11612903"
+       id="id-81815"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology103" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset105" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur107" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix109" />
+    </filter>
+    <path
+       d="m 282,452 c -33,-33 -50,-50 -50,-50 -4,1 -6,1 -6,1 -11,17 -17,26 -17,26 10,-21 15,-32 15,-32 -1,-7 -2,-10 -2,-10 -16,-25 -24,-38 -24,-38 20,26 30,38 30,38 4,-2 6,-3 6,-3 21,-37 32,-56 32,-56 -21,41 -31,61 -31,61 v 11 c 32,35 47,52 47,52 z"
+       id="id-81822" />
+    <path
+       d="m 282,452 c -33,-33 -50,-50 -50,-50 -4,1 -6,1 -6,1 -11,17 -17,26 -17,26 10,-21 15,-32 15,-32 -1,-7 -2,-10 -2,-10 -16,-25 -24,-38 -24,-38 20,26 30,38 30,38 4,-2 6,-3 6,-3 21,-37 32,-56 32,-56 -21,41 -31,61 -31,61 v 11 c 32,35 47,52 47,52 z"
+       id="path113" />
+    <filter
+       width="1.6923077"
+       height="1.2860416"
+       x="-0.30769231"
+       y="-0.13201919"
+       id="id-81824"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology115" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="3"
+         dy="2"
+         id="feOffset117" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="5"
+         id="feGaussianBlur119" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0.678 0 0 0 0 0.004 0 0 0 0 0.004 0 0 0 1 0"
+         id="feColorMatrix121" />
+    </filter>
+    <path
+       d="m 14,763 c -1,6 -2,12 -4,18 4,9 8,16 11,6 6,-18 16,-35 15,-54 9,-21 13,-32 13,-32 -11,20 -17,29 -17,29 -5,1 -10,7 -15,6 0,7 -1,12 -1,15 7,-3 11,-5 11,-5 l -7,26 z"
+       id="id-81831" />
+    <path
+       d="m 14,763 c -1,6 -2,12 -4,18 4,9 8,16 11,6 6,-18 16,-35 15,-54 9,-21 13,-32 13,-32 -11,20 -17,29 -17,29 -5,1 -10,7 -15,6 0,7 -1,12 -1,15 7,-3 11,-5 11,-5 l -7,26 z"
+       id="path125" />
+    <filter
+       width="1.32"
+       height="1.1356828"
+       x="-0.16"
+       y="-0.063436123"
+       id="id-81833"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology127" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset129" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur131" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix133" />
+    </filter>
+    <path
+       d="m 85,679 c -2,2 -2,3 -2,3 -15,-4 -23,-6 -23,-6 3,-115 4,-173 4,-173 21,-23 31,-35 31,-35 33,29 49,43 49,43 2,-17 3,-26 3,-26 -10,7 -14,11 -14,11 -25,-22 -38,-33 -38,-33 -22,24 -33,36 -33,36 -4,119 -5,178 -5,178 l 27,13 c 0,-5 1,-8 1,-11 z"
+       id="id-81840" />
+    <path
+       d="m 85,679 c -2,2 -2,3 -2,3 -15,-4 -23,-6 -23,-6 3,-115 4,-173 4,-173 21,-23 31,-35 31,-35 33,29 49,43 49,43 2,-17 3,-26 3,-26 -10,7 -14,11 -14,11 -25,-22 -38,-33 -38,-33 -22,24 -33,36 -33,36 -4,119 -5,178 -5,178 l 27,13 c 0,-5 1,-8 1,-11 z"
+       id="path137" />
+    <filter
+       width="1.8655738"
+       height="1.6857143"
+       x="-0.43278689"
+       y="-0.34285714"
+       id="id-81842"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology139" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="0"
+         id="feOffset141" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="11"
+         id="feGaussianBlur143" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0.011 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix145" />
+    </filter>
+    <path
+       d="m 24,474 c 36,-29 54,-44 54,-44 4,-22 7,-33 7,-33 l -51,35 c -2,5 -4,9 -6,13 -2,11 -4,21 -4,29 z"
+       id="id-81849" />
+    <path
+       d="m 24,474 c 36,-29 54,-44 54,-44 4,-22 7,-33 7,-33 l -51,35 c -2,5 -4,9 -6,13 -2,11 -4,21 -4,29 z"
+       id="path149" />
+    <filter
+       width="1.3789474"
+       height="1.1889571"
+       x="-0.18947368"
+       y="-0.088343558"
+       id="id-81851"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology151" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset153" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur155" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix157" />
+    </filter>
+    <path
+       d="m 122,252 c 0,0 -4,16 -14,48 6,3 9,12 7,26 -3,15 -9,24 -18,28 0,0 -4,12 -11,35 0,0 -14,9 -40,26 v 0 l 4,-8 33,-23 c 0,0 3,-10 8,-32 -7,-4 -9,-14 -6,-28 3,-14 9,-23 18,-25 0,0 4,-14 12,-42 0,0 3,-2 7,-5 z m -29,72 c -3,9 -2,17 1,18 3,1 8,-6 10,-15 3,-8 2,-16 -1,-17 -3,-1 -8,5 -10,14 z"
+       id="id-81858" />
+    <path
+       d="m 122,252 c 0,0 -4,16 -14,48 6,3 9,12 7,26 -3,15 -9,24 -18,28 0,0 -4,12 -11,35 0,0 -14,9 -40,26 v 0 l 4,-8 33,-23 c 0,0 3,-10 8,-32 -7,-4 -9,-14 -6,-28 3,-14 9,-23 18,-25 0,0 4,-14 12,-42 0,0 3,-2 7,-5 z m -29,72 c -3,9 -2,17 1,18 3,1 8,-6 10,-15 3,-8 2,-16 -1,-17 -3,-1 -8,5 -10,14 z"
+       id="path161" />
+    <linearGradient
+       x1="388.89022"
+       y1="312.21882"
+       x2="114.17595"
+       y2="312.21882"
+       id="id-81860"
+       gradientTransform="scale(1.4451379,0.69197548)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#002036"
+         offset="0%"
+         id="stop163" />
+      <stop
+         stop-color="#003457"
+         offset="44%"
+         id="stop165" />
+      <stop
+         stop-color="#002036"
+         offset="100%"
+         id="stop167" />
+    </linearGradient>
+    <filter
+       width="1.576"
+       height="1.88"
+       x="-0.288"
+       y="-0.41142857"
+       id="id-81861"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology170" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset172" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur174" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0.776 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix176" />
+    </filter>
+    <path
+       d="m 408,81 1,1 c -3,7 -5,11 -5,11 16,11 23,17 23,17 9,-1 14,-1 14,-1 2,1 3,2 3,2 l -42,5 -8,-10 z"
+       id="id-81868" />
+    <path
+       d="m 408,81 1,1 c -3,7 -5,11 -5,11 16,11 23,17 23,17 9,-1 14,-1 14,-1 2,1 3,2 3,2 l -42,5 -8,-10 z"
+       id="path180" />
+    <filter
+       width="1.5647059"
+       height="1.9333333"
+       x="-0.28235294"
+       y="-0.43636364"
+       id="id-81870"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology182" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset184" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur186" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0.776 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix188" />
+    </filter>
+    <path
+       d="m 283,113 c 28,3 41,5 41,5 7,-9 10,-14 10,-14 -9,-12 -14,-19 -14,-19 -1,1 -2,2 -2,2 4,6 6,9 6,9 -14,11 -20,16 -20,16 l -18,-2 c -2,2 -3,3 -3,3 z"
+       id="id-81877" />
+    <path
+       d="m 283,113 c 28,3 41,5 41,5 7,-9 10,-14 10,-14 -9,-12 -14,-19 -14,-19 -1,1 -2,2 -2,2 4,6 6,9 6,9 -14,11 -20,16 -20,16 l -18,-2 c -2,2 -3,3 -3,3 z"
+       id="path192" />
+    <filter
+       width="1.4363636"
+       height="2.1733333"
+       x="-0.21818182"
+       y="-0.58666667"
+       id="id-81879"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology194" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="0"
+         id="feOffset196" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="11"
+         id="feGaussianBlur198" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0.011 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix200" />
+    </filter>
+    <path
+       d="m 537,76 c -19,16 -28,24 -28,24 26,8 52,17 75,21 31,-4 46,-6 46,-6 -5,-4 -11,-9 -20,-13 -15,3 -28,5 -38,6 -11,-3 -22,-7 -33,-14 5,-4 10,-9 17,-13 -13,-3 -19,-5 -19,-5 z"
+       id="id-81886" />
+    <path
+       d="m 537,76 c -19,16 -28,24 -28,24 26,8 52,17 75,21 31,-4 46,-6 46,-6 -5,-4 -11,-9 -20,-13 -15,3 -28,5 -38,6 -11,-3 -22,-7 -33,-14 5,-4 10,-9 17,-13 -13,-3 -19,-5 -19,-5 z"
+       id="path204" />
+    <linearGradient
+       x1="306.1737"
+       y1="129.60663"
+       x2="155.66832"
+       y2="111.00484"
+       id="id-81888"
+       gradientTransform="scale(0.90431644,1.1058076)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#354FFB"
+         offset="0%"
+         id="stop206" />
+      <stop
+         stop-color="#354FFB"
+         offset="60%"
+         id="stop208" />
+      <stop
+         stop-color="#B4DF4D"
+         offset="73%"
+         id="stop210" />
+      <stop
+         stop-color="#F93A8A"
+         offset="100%"
+         id="stop212" />
+      <stop
+         stop-color="#EE6F48"
+         offset="100%"
+         id="stop214" />
+    </linearGradient>
+    <linearGradient
+       x1="122.6004"
+       y1="162.14015"
+       x2="148.75542"
+       y2="195.42836"
+       id="id-81889"
+       gradientTransform="scale(0.87416514,1.1439486)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#354FFB"
+         offset="0%"
+         id="stop217" />
+      <stop
+         stop-color="#AB48EE"
+         offset="100%"
+         id="stop219" />
+    </linearGradient>
+    <filter
+       width="1.1540107"
+       height="1.1811765"
+       x="-0.077005348"
+       y="-0.084705882"
+       id="id-81890"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology222" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset224" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur226" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix228" />
+    </filter>
+    <path
+       d="m 227,140 c 5,17 7,26 7,26 14,4 21,6 21,6 24,-19 36,-28 36,-28 -21,19 -32,28 -32,28 -1,4 -1,6 -1,6 2,6 3,10 3,10 62,9 93,14 93,14 -1,1 -1,2 -1,2 -60,-8 -90,-13 -90,-13 -3,-1 -8,4 -13,9 h -1 c 0,0 0,0 0,0 18,55 27,83 27,83 3,3 5,5 6,5 v 0 c 0,0 0,0 0,0 5,1 7,2 7,2 4,-3 6,-4 6,-4 42,-49 63,-74 63,-74 -23,30 -69,75 -63,84 6,9 8,14 8,14 -4,-1 -6,-2 -6,-2 -6,-10 -9,-15 -9,-15 h -11 v 0 c -5,8 -8,12 -8,12 0,0 -1,-1 -1,-1 v 0 c 0,0 0,0 0,0 5,-9 8,-13 8,-13 -7,-27 -21,-60 -29,-85 -3,-2 -4,-4 -4,-4 -6,-1 -9,-2 -11,-2 v 0 c 0,0 -1,0 -1,0 v 0 0 c -4,4 -6,6 -7,6 v 0 0 c -12,23 -28,47 -43,71 l -4,25 c -4,-15 -6,-23 -6,-23 2,1 3,2 3,2 v 0 c 0,0 0,0 0,0 22,-32 33,-49 33,-49 13,-22 19,-33 19,-33 -4,-9 -6,-14 -6,-14 -17,-3 -26,-4 -26,-4 v -1 c 0,-1 1,-2 1,-2 17,2 26,3 26,3 7,-9 11,-13 11,-13 -5,-17 -7,-26 -7,-26 1,-1 2,-2 2,-2 z m 6,30 c 0,0 -1,1 -3,3 v 1 c 0,0 0,0 0,0 l -1,1 c -1,1 -3,4 -6,7 0,0 2,5 7,15 v 0 l 16,3 c 0,0 0,0 0,0 v 0 c 0,-1 4,-5 12,-13 0,0 -2,-4 -6,-13 0,0 -6,-1 -19,-4 z"
+       id="id-81897" />
+    <path
+       d="m 227,140 c 5,17 7,26 7,26 14,4 21,6 21,6 24,-19 36,-28 36,-28 -21,19 -32,28 -32,28 -1,4 -1,6 -1,6 2,6 3,10 3,10 62,9 93,14 93,14 -1,1 -1,2 -1,2 -60,-8 -90,-13 -90,-13 -3,-1 -8,4 -13,9 h -1 c 0,0 0,0 0,0 18,55 27,83 27,83 3,3 5,5 6,5 v 0 c 0,0 0,0 0,0 5,1 7,2 7,2 4,-3 6,-4 6,-4 42,-49 63,-74 63,-74 -23,30 -69,75 -63,84 6,9 8,14 8,14 -4,-1 -6,-2 -6,-2 -6,-10 -9,-15 -9,-15 h -11 v 0 c -5,8 -8,12 -8,12 0,0 -1,-1 -1,-1 v 0 c 0,0 0,0 0,0 5,-9 8,-13 8,-13 -7,-27 -21,-60 -29,-85 -3,-2 -4,-4 -4,-4 -6,-1 -9,-2 -11,-2 v 0 c 0,0 -1,0 -1,0 v 0 0 c -4,4 -6,6 -7,6 v 0 0 c -12,23 -28,47 -43,71 l -4,25 c -4,-15 -6,-23 -6,-23 2,1 3,2 3,2 v 0 c 0,0 0,0 0,0 22,-32 33,-49 33,-49 13,-22 19,-33 19,-33 -4,-9 -6,-14 -6,-14 -17,-3 -26,-4 -26,-4 v -1 c 0,-1 1,-2 1,-2 17,2 26,3 26,3 7,-9 11,-13 11,-13 -5,-17 -7,-26 -7,-26 1,-1 2,-2 2,-2 z m 6,30 c 0,0 -1,1 -3,3 v 1 c 0,0 0,0 0,0 l -1,1 c -1,1 -3,4 -6,7 0,0 2,5 7,15 v 0 l 16,3 c 0,0 0,0 0,0 v 0 c 0,-1 4,-5 12,-13 0,0 -2,-4 -6,-13 0,0 -6,-1 -19,-4 z"
+       id="path232" />
+    <filter
+       width="1.166474"
+       height="1.1844311"
+       x="-0.083236994"
+       y="-0.086227545"
+       id="id-81899"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology234" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset236" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur238" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix240" />
+    </filter>
+    <path
+       d="m 496,142 c 0,0 -1,9 -5,29 0,0 4,3 11,9 v 0 0 c 0,0 0,0 0,0 v 0 c 2,0 11,0 29,0 0,0 0,0 0,0 v 0 c -1,0 -10,1 -28,4 0,0 -2,5 -6,14 0,0 15,23 44,67 v 0 0 c 0,-1 -15,-21 -45,-62 l -1,-1 c 0,0 -4,0 -13,1 0,0 -2,3 -7,10 0,0 0,0 0,0 v 0 c 0,2 -9,28 -25,78 0,0 4,4 12,13 0,0 0,0 0,0 h -1 c 0,0 -2,1 -6,2 v 0 -2 c 0,0 -3,-4 -9,-12 0,0 0,0 0,0 v 0 c -1,0 -3,1 -7,1 v 0 c -2,0 -4,1 -6,1 -3,5 -6,10 -3,14 0,0 -3,1 -8,1 0,0 1,-1 3,-2 0,0 2,-5 4,-15 v 0 0 c -1,-2 -21,-28 -61,-80 v 0 c 1,0 22,26 66,77 0,0 3,0 9,1 0,0 0,0 1,-1 v 0 c 0,0 1,0 3,-1 v 0 c 1,-1 1,-1 1,-1 0,0 0,0 0,0 v 0 c 1,-3 10,-29 27,-75 0,0 0,-5 1,-14 0,0 -3,-2 -9,-6 v 0 l -96,12 v 0 c 1,-1 31,-5 91,-15 h 1 c 0,0 2,-4 6,-13 0,0 0,0 0,0 v 0 c -2,-1 -15,-12 -38,-32 v 0 0 c 0,0 14,10 41,30 0,0 5,-2 15,-5 0,0 0,-1 0,-1 v 0 c 1,0 1,0 1,-1 v 0 c 0,-1 0,-2 1,-2 v -1 c 1,-4 4,-12 7,-22 z m -7,30 c -10,4 -15,5 -15,5 -4,8 -6,12 -6,12 9,7 13,11 13,11 8,-1 12,-2 12,-2 5,-10 7,-15 7,-15 z"
+       id="id-81906" />
+    <path
+       d="m 496,142 c 0,0 -1,9 -5,29 0,0 4,3 11,9 v 0 0 c 0,0 0,0 0,0 v 0 c 2,0 11,0 29,0 0,0 0,0 0,0 v 0 c -1,0 -10,1 -28,4 0,0 -2,5 -6,14 0,0 15,23 44,67 v 0 0 c 0,-1 -15,-21 -45,-62 l -1,-1 c 0,0 -4,0 -13,1 0,0 -2,3 -7,10 0,0 0,0 0,0 v 0 c 0,2 -9,28 -25,78 0,0 4,4 12,13 0,0 0,0 0,0 h -1 c 0,0 -2,1 -6,2 v 0 -2 c 0,0 -3,-4 -9,-12 0,0 0,0 0,0 v 0 c -1,0 -3,1 -7,1 v 0 c -2,0 -4,1 -6,1 -3,5 -6,10 -3,14 0,0 -3,1 -8,1 0,0 1,-1 3,-2 0,0 2,-5 4,-15 v 0 0 c -1,-2 -21,-28 -61,-80 v 0 c 1,0 22,26 66,77 0,0 3,0 9,1 0,0 0,0 1,-1 v 0 c 0,0 1,0 3,-1 v 0 c 1,-1 1,-1 1,-1 0,0 0,0 0,0 v 0 c 1,-3 10,-29 27,-75 0,0 0,-5 1,-14 0,0 -3,-2 -9,-6 v 0 l -96,12 v 0 c 1,-1 31,-5 91,-15 h 1 c 0,0 2,-4 6,-13 0,0 0,0 0,0 v 0 c -2,-1 -15,-12 -38,-32 v 0 0 c 0,0 14,10 41,30 0,0 5,-2 15,-5 0,0 0,-1 0,-1 v 0 c 1,0 1,0 1,-1 v 0 c 0,-1 0,-2 1,-2 v -1 c 1,-4 4,-12 7,-22 z m -7,30 c -10,4 -15,5 -15,5 -4,8 -6,12 -6,12 9,7 13,11 13,11 8,-1 12,-2 12,-2 5,-10 7,-15 7,-15 z"
+       id="path244" />
+    <filter
+       width="1.2796117"
+       height="1.1344978"
+       x="-0.13980583"
+       y="-0.062882096"
+       id="id-81908"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology246" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset248" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur250" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix252" />
+    </filter>
+    <path
+       d="m 580,484 c 10,9 15,14 15,14 23,-25 35,-37 35,-37 l 53,45 c -6,111 -8,167 -8,167 -21,11 -31,17 -31,17 -1,-6 -2,-9 -2,-9 3,2 5,3 5,3 16,-8 24,-12 24,-12 6,-108 10,-162 10,-162 -34,-30 -51,-45 -51,-45 l -46,51 c -2,-14 -3,-25 -4,-32 z"
+       id="id-81915" />
+    <path
+       d="m 580,484 c 10,9 15,14 15,14 23,-25 35,-37 35,-37 l 53,45 c -6,111 -8,167 -8,167 -21,11 -31,17 -31,17 -1,-6 -2,-9 -2,-9 3,2 5,3 5,3 16,-8 24,-12 24,-12 6,-108 10,-162 10,-162 -34,-30 -51,-45 -51,-45 l -46,51 c -2,-14 -3,-25 -4,-32 z"
+       id="path256" />
+    <filter
+       width="1.6"
+       height="1.2385321"
+       x="-0.26666667"
+       y="-0.11009174"
+       id="id-81917"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="0.500"
+         id="feMorphology258" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="3"
+         dy="2"
+         id="feOffset260" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="5"
+         id="feGaussianBlur262" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0.678 0 0 0 0 0.004 0 0 0 0 0.004 0 0 0 1 0"
+         id="feColorMatrix264" />
+    </filter>
+    <path
+       d="m 710,751 c 0,-8 0,-17 1,-28 -3,5 -5,7 -5,7 l -14,-5 c -14,-25 -20,-38 -20,-38 11,27 17,41 17,41 -2,26 3,48 14,68 l 14,-12 c -1,-4 -3,-8 -4,-13 -4,4 -7,6 -7,6 l -5,-28 z"
+       id="id-81924" />
+    <path
+       d="m 710,751 c 0,-8 0,-17 1,-28 -3,5 -5,7 -5,7 l -14,-5 c -14,-25 -20,-38 -20,-38 11,27 17,41 17,41 -2,26 3,48 14,68 l 14,-12 c -1,-4 -3,-8 -4,-13 -4,4 -7,6 -7,6 l -5,-28 z"
+       id="path268" />
+    <filter
+       width="1.8655738"
+       height="1.6769231"
+       x="-0.43278689"
+       y="-0.33846154"
+       id="id-81926"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology270" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="0"
+         id="feOffset272" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="11"
+         id="feGaussianBlur274" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0.011 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix276" />
+    </filter>
+    <path
+       d="m 701,475 c -36,-30 -54,-44 -54,-44 -5,-23 -7,-34 -7,-34 l 50,35 c 4,9 7,20 11,32 0,7 0,11 0,11 z"
+       id="id-81933" />
+    <path
+       d="m 701,475 c -36,-30 -54,-44 -54,-44 -5,-23 -7,-34 -7,-34 l 50,35 c 4,9 7,20 11,32 0,7 0,11 0,11 z"
+       id="path280" />
+    <filter
+       width="1.3789474"
+       height="1.1889571"
+       x="-0.18947368"
+       y="-0.088343558"
+       id="id-81935"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="1"
+         id="feMorphology282" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="2"
+         id="feOffset284" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="6"
+         id="feGaussianBlur286" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix288" />
+    </filter>
+    <path
+       d="m 603,252 c 5,3 7,5 7,5 8,28 12,42 12,42 8,3 14,11 18,25 3,15 1,25 -6,29 5,21 8,31 8,31 l 33,23 c 3,5 4,8 4,8 v 0 0 c -26,-17 -40,-26 -40,-26 -7,-23 -10,-35 -10,-35 -8,-3 -15,-11 -19,-25 -3,-15 0,-24 7,-29 -9,-32 -14,-48 -14,-48 z m 19,59 c -3,1 -4,9 -2,17 3,9 7,15 11,14 3,-1 4,-9 2,-18 -3,-8 -7,-14 -11,-13 z"
+       id="id-81942" />
+    <path
+       d="m 603,252 c 5,3 7,5 7,5 8,28 12,42 12,42 8,3 14,11 18,25 3,15 1,25 -6,29 5,21 8,31 8,31 l 33,23 c 3,5 4,8 4,8 v 0 0 c -26,-17 -40,-26 -40,-26 -7,-23 -10,-35 -10,-35 -8,-3 -15,-11 -19,-25 -3,-15 0,-24 7,-29 -9,-32 -14,-48 -14,-48 z m 19,59 c -3,1 -4,9 -2,17 3,9 7,15 11,14 3,-1 4,-9 2,-18 -3,-8 -7,-14 -11,-13 z"
+       id="path292" />
+    <filter
+       width="1.5485714"
+       height="1.4"
+       x="-0.27428571"
+       y="-0.2"
+       id="id-81944"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         result="id-81753"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="2"
+         id="feMorphology294" />
+      <feOffset
+         result="id-81754"
+         in="SourceAlpha"
+         dx="0"
+         dy="0"
+         id="feOffset296" />
+      <feGaussianBlur
+         result="id-81756"
+         in="SourceAlpha"
+         stdDeviation="4"
+         id="feGaussianBlur298" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0.500 0"
+         id="feColorMatrix300" />
+    </filter>
+    <path
+       d="m 355,118 4,1 v 5 h 5 v -5 h 4 l 1,5 c 6,1 10,3 10,8 1,4 -2,7 -6,10 5,1 7,5 7,10 -1,5 -5,8 -12,8 v 0 6 h -4 l -1,-6 h -5 l 1,6 h -5 v -6 h -9 v -3 l 5,-2 v -26 h -5 v -5 h 9 z m 4,26 v 11 c 9,2 13,0 13,-6 -1,-5 -5,-6 -13,-5 z m 0,-15 v 10 c 7,1 11,0 11,-5 0,-4 -4,-6 -11,-5 z"
+       id="id-81951" />
+    <path
+       d="m 355,118 4,1 v 5 h 5 v -5 h 4 l 1,5 c 6,1 10,3 10,8 1,4 -2,7 -6,10 5,1 7,5 7,10 -1,5 -5,8 -12,8 v 0 6 h -4 l -1,-6 h -5 l 1,6 h -5 v -6 h -9 v -3 l 5,-2 v -26 h -5 v -5 h 9 z m 4,26 v 11 c 9,2 13,0 13,-6 -1,-5 -5,-6 -13,-5 z m 0,-15 v 10 c 7,1 11,0 11,-5 0,-4 -4,-6 -11,-5 z"
+       id="path304" />
+  </defs>
+  <g
+     transform="translate(2.3999998)"
+     id="id-81953">
+    <path
+       d="m 561,662 -48,10 -84,43 -39,-95 -51,-4 -43,102 -79,-45 -52,-9 4,-18 c 36,19 73,35 127,49 10,-29 22,-56 35,-82 l 27,-19 11,1 23,16 c 27,57 41,86 41,86 42,-18 84,-27 124,-49 3,9 4,14 4,14 z"
+       fill="#000000"
+       fill-opacity="0.429"
+       id="id-81954" />
+    <path
+       d="m 166,645 c -3,-2 -5,-3 -5,-3 16,-48 26,-91 27,-128 13,-51 19,-76 19,-76 -5,-27 -10,-54 -12,-84 -4,-9 -8,-18 -11,-28 -11,42 -17,102 -35,119 -1,27 -3,51 -6,75 -23,61 -52,118 -59,167 -1,22 3,42 7,63 -19,3 -28,4 -28,4 -15,24 -30,49 -38,70 -7,3 -16,1 -25,-10 8,-28 20,-53 16,-90 6,-32 9,-47 9,-47 -3,-7 -5,-10 -5,-10 -6,-44 -9,-66 -9,-66 2,-58 2,-86 2,-86 6,-3 9,-4 9,-4 1,-21 1,-45 6,-66 8,-23 30,-49 35,-71 2,-21 3,-43 3,-66 10,-23 15,-35 15,-35 -4,-47 -7,-94 7,-146 44,-31 85,-50 122,-53 26,-13 56,-27 65,-41 3,-6 6,-17 9,-33 11,5 24,8 42,10 4,32 6,49 6,49 15,9 22,14 22,14 14,-9 21,-14 21,-14 6,-32 9,-49 9,-49 13,-2 25,-4 41,-8 3,10 5,16 5,16 27,21 54,45 85,55 14,-2 108,23 122,51 7,53 10,103 9,148 9,24 14,36 14,36 -10,89 23,85 41,156 3,67 -1,133 -1,200 1,22 6,41 11,59 -3,30 4,58 14,85 -5,8 -14,14 -25,18 -16,-27 -32,-57 -50,-76 -6,-1 -11,-2 -16,-3 5,-16 11,-28 12,-50 -14,-61 -35,-114 -59,-165 -5,-25 -9,-51 -8,-81 -4,-4 -7,-7 -10,-11 -11,-34 -20,-73 -25,-120 -10,25 -15,37 -15,37 -2,28 -5,52 -9,74 5,27 11,53 20,83 -1,22 -1,33 -1,33 9,32 17,65 25,98 -43,24 -89,34 -131,52 l -41,-87 -23,-15 -11,-1 -27,18 c -18,40 -30,68 -35,83 -72,-18 -111,-41 -130,-50 z"
+       fill="url(#id-81749)"
+       id="id-81955"
+       style="fill:url(#id-81749)" />
+    <path
+       d="m 433,697 c 43,-18 93,-30 131,-52 l -25,-98 1,-33 c -8,-28 -14,-55 -20,-83 4,-23 7,-47 9,-74 9,-23 14,-34 14,-34 1,-10 2,-15 2,-15 -26,33 -39,49 -39,49 -16,-22 -24,-34 -24,-34 -50,5 -75,8 -75,8 -8,-1 -13,-1 -13,-1 -11,-9 -17,-13 -17,-13 -7,3 -10,5 -10,5 1,182 2,273 2,273 l 23,16 z"
+       fill="url(#id-81750)"
+       id="id-81956"
+       style="fill:url(#id-81750)" />
+    <path
+       d="m 443,692 c -4,-10 -6,-15 -6,-15 50,-15 75,-23 75,-23 l 5,12 c -49,17 -74,26 -74,26 z"
+       fill="#13354e"
+       id="id-81957" />
+    <path
+       d="m 547,648 c -3,-7 -4,-11 -4,-11 11,-5 17,-8 17,-8 l 3,12 c -11,5 -16,7 -16,7 z"
+       fill="#0f2c44"
+       id="id-81958" />
+    <path
+       d="m 358,594 -27,19 c -13,29 -20,43 -20,43 l -15,39 c -48,-12 -92,-30 -135,-53 13,-38 24,-77 27,-128 l 19,-76 c -5,-28 -9,-55 -12,-84 -4,-9 -8,-18 -11,-28 -4,-13 -6,-19 -6,-19 3,0 4,0 4,0 23,28 35,43 35,43 20,-18 31,-27 31,-27 46,5 69,8 69,8 9,-3 14,-5 14,-5 15,-8 23,-13 23,-13 l 5,3 c 0,186 -1,278 -1,278 z"
+       fill="url(#id-81751)"
+       id="id-81959"
+       style="fill:url(#id-81751)" />
+    <path
+       d="m 346,327 c 6,-2 9,-3 9,-3 0,179 0,269 0,269 -10,7 -15,10 -15,10 -5,-3 -7,-5 -7,-5 l 13,-13 c 0,-172 0,-258 0,-258 z"
+       fill="#154061"
+       id="id-81960" />
+    <path
+       d="m 287,684 c 22,-49 33,-74 33,-74 6,1 9,1 9,1 l -33,81 c -6,-5 -9,-8 -9,-8 z"
+       fill="#1c415f"
+       id="id-81961" />
+    <path
+       d="m 263,692 c 11,4 17,5 17,5 8,-25 12,-38 12,-38 l -17,-6 c -8,26 -12,39 -12,39 z"
+       fill="#a13331"
+       id="id-81962" />
+    <path
+       d="m 263,685 c 2,-6 3,-8 3,-8 -20,-7 -31,-11 -31,-11 l -3,9 c 21,6 31,10 31,10 z"
+       fill="#122e46"
+       id="id-81963" />
+    <path
+       d="m 185,651 c -15,-7 -23,-11 -23,-11 2,-7 3,-11 3,-11 l 24,12 c -2,7 -4,10 -4,10 z"
+       fill="#122e46"
+       id="id-81964" />
+    <g
+       id="id-81965">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81759"
+         filter="url(#id-81752)"
+         id="use319"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb73b"
+         xlink:href="#id-81759"
+         fill-rule="evenodd"
+         id="use321"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-81969">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81768"
+         filter="url(#id-81761)"
+         id="use324"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81768"
+         fill-rule="evenodd"
+         id="use326"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-81973">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81777"
+         filter="url(#id-81770)"
+         id="use329"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb73b"
+         xlink:href="#id-81777"
+         fill-rule="evenodd"
+         id="use331"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-81977">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81786"
+         filter="url(#id-81779)"
+         id="use334"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81786"
+         fill-rule="evenodd"
+         id="use336"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-81981">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81795"
+         filter="url(#id-81788)"
+         id="use339"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb73b"
+         xlink:href="#id-81795"
+         fill-rule="evenodd"
+         id="use341"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-81985">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81804"
+         filter="url(#id-81797)"
+         id="use344"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb73b"
+         xlink:href="#id-81804"
+         fill-rule="evenodd"
+         id="use346"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-81989">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81813"
+         filter="url(#id-81806)"
+         id="use349"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81813"
+         fill-rule="evenodd"
+         id="use351"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-81993">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81822"
+         filter="url(#id-81815)"
+         id="use354"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81822"
+         fill-rule="evenodd"
+         id="use356"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-81997">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81831"
+         filter="url(#id-81824)"
+         id="use359"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81831"
+         fill-rule="evenodd"
+         id="use361"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 25,676 c 14,-15 22,-22 22,-22 -4,-11 -6,-16 -6,-16 6,-53 10,-80 10,-80 l 1,-57 -39,14 -2,86 9,66 c 3,6 5,9 5,9 z"
+       fill="#06080a"
+       id="id-82001" />
+    <path
+       d="M 20,665 C 31,653 36,647 36,647 29,633 26,626 26,626 32,554 35,518 35,518 l -22,-2 -2,85 c 6,43 9,64 9,64 z"
+       fill="#4426ac"
+       id="id-82002" />
+    <path
+       d="m 16,579 c 6,-6 9,-10 9,-10 l -9,-15 c 0,17 0,25 0,25 z"
+       fill="#06080a"
+       id="id-82003" />
+    <path
+       d="m 16,554 c 1,-15 1,-22 1,-22 l 10,13 c -7,6 -11,9 -11,9 z"
+       fill="#06080a"
+       id="id-82004" />
+    <polygon
+       points="13,515 13,516 34,518 52,501 "
+       fill="#122c44"
+       id="id-82005" />
+    <path
+       d="m 84,693 c -25,-4 -38,-6 -38,-6 l -3,-29 4,-4 -6,-16 10,-80 1,-57 c -20,7 -30,10 -30,10 1,-9 1,-13 1,-13 19,-13 29,-19 29,-19 28,-38 42,-57 42,-57 -1,-6 -2,-10 -2,-10 9,23 14,34 14,34 12,12 18,18 18,18 l 25,-17 c -1,24 -3,49 -6,73 l -40,99 c -13,34 -19,59 -19,74 z"
+       fill="#001f34"
+       id="id-82006" />
+    <path
+       d="M 71,664 C 61,644 63,497 95,428 c 1,10 1,15 1,15 11,19 33,31 54,9 -2,26 -5,47 -7,68 l -38,96 c -23,32 -34,48 -34,48 z"
+       fill="#112c43"
+       id="id-82007" />
+    <g
+       id="id-82008">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81840"
+         filter="url(#id-81833)"
+         id="use371"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81840"
+         fill-rule="evenodd"
+         id="use373"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-82012">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81849"
+         filter="url(#id-81842)"
+         id="use376"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb73b"
+         xlink:href="#id-81849"
+         fill-rule="evenodd"
+         id="use378"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-82016">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81858"
+         filter="url(#id-81851)"
+         id="use381"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81858"
+         fill-rule="evenodd"
+         id="use383"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 143,450 c 12,-56 23,-114 27,-177 l 8,34 6,19 -17,81 c -8,22 -16,36 -24,43 z"
+       fill="#0b0e58"
+       id="id-82020" />
+    <path
+       d="m 63,376 c 5,-45 8,-68 8,-68 l 18,-37 -8,2 -16,35 c -1,45 -2,68 -2,68 z"
+       fill="#324c65"
+       id="id-82021" />
+    <path
+       d="m 195,295 c -17,-16 -25,-24 -25,-24 -3,-33 -5,-49 -5,-49 19,-29 28,-43 28,-43 34,-39 51,-58 51,-58 l 1,7 c 39,12 59,18 59,18 22,35 33,52 33,52 18,3 28,5 28,5 16,-4 24,-6 24,-6 21,-34 31,-52 31,-52 43,-13 65,-19 65,-19 25,25 37,37 37,37 27,40 40,59 40,59 -5,26 -7,38 -7,38 -12,4 -19,6 -19,6 -12,21 -18,31 -18,31 -39,8 -77,15 -115,14 -25,-25 -38,-37 -38,-37 -6,0 -9,0 -9,0 l -38,36 c -45,-4 -86,-9 -123,-15 z"
+       fill="url(#id-81860)"
+       id="id-82022"
+       style="fill:url(#id-81860)" />
+    <path
+       d="m 172,223 c 33,-49 50,-74 50,-74 49,5 74,7 74,7 35,38 53,58 53,58 -38,46 -57,68 -57,68 L 179,261 c -5,-25 -7,-38 -7,-38 z"
+       fill="#214460"
+       id="id-82023" />
+    <path
+       d="m 418,288 c -30,-39 -44,-58 -44,-58 34,-55 50,-82 50,-82 36,-9 54,-14 54,-14 44,74 66,111 66,111 l -28,22 c -65,14 -98,21 -98,21 z"
+       fill="#214460"
+       id="id-82024" />
+    <path
+       d="m 419,160 11,-12 -1,-2 -9,9 -1,-9 h -2 v 14 z m 26,-1 v -2 h -10 v -3 h 8 v -3 h -8 v -3 h 10 v -2 h -12 l -1,14 z m 18,0 -4,-5 3,-1 v -8 l -13,1 v 13 l 3,1 v -5 h 4 l 3,4 z m -4,-8 h -8 v -3 h 9 z m 8,8 v -14 h -2 v 14 z m 6,0 v -6 h 7 v -2 h -7 v -4 h 10 v -2 h -12 l -1,14 z"
+       transform="rotate(-17,450,153)"
+       fill="#ffffff"
+       id="id-82025"
+       fill-rule="nonzero" />
+    <polygon
+       points="482,134 485,134 488,139 491,134 494,134 489,141 489,148 487,148 487,141 "
+       transform="rotate(-15,488,141)"
+       fill="#ffffff"
+       id="id-82026" />
+    <path
+       d="m 337,198 28,5 24,-6 31,-52 c 43,-13 65,-19 65,-19 l -3,-9 33,-44 C 482,62 457,38 430,18 L 425,2 384,10 375,59 354,73 332,59 326,10 C 311,8 297,5 284,0 c -2,15 -5,26 -9,33 0,0 0,0 0,0 -9,14 -45,30 -63,40 l 32,43 1,12 59,18 z"
+       fill="#12151d"
+       id="id-82027" />
+    <path
+       d="m 372,118 19,-109 34,-7 5,16 c 27,23 53,43 79,54 -22,19 -32,29 -32,29 L 414,69 c -28,33 -42,49 -42,49 z"
+       fill="#0f2234"
+       id="id-82028" />
+    <path
+       d="m 417,4 8,-2 c 3,10 5,15 5,15 28,24 48,39 59,44 C 471,54 462,50 462,50 L 423,23 Z"
+       fill="#98c7ff"
+       id="id-82029" />
+    <g
+       id="id-82030">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81868"
+         filter="url(#id-81861)"
+         id="use396"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ff7700"
+         xlink:href="#id-81868"
+         fill-rule="evenodd"
+         id="use398"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-82034">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81877"
+         filter="url(#id-81870)"
+         id="use401"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ff7700"
+         xlink:href="#id-81877"
+         fill-rule="evenodd"
+         id="use403"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 491,120 c -4,-6 -6,-9 -6,-9 15,-22 22,-34 22,-34 l 10,3 c -17,27 -26,40 -26,40 z"
+       fill="#0f2e5a"
+       id="id-82038" />
+    <path
+       d="m 525,74 c -10,11 -21,29 -31,46 26,8 53,9 81,9 l 59,-9 C 620,102 584,87 525,74 Z"
+       fill="#010000"
+       id="id-82039" />
+    <g
+       id="id-82040">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81886"
+         filter="url(#id-81879)"
+         id="use408"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb73b"
+         xlink:href="#id-81886"
+         fill-rule="evenodd"
+         id="use410"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 583,129 c 10,69 36,94 63,114 -2,-54 -5,-94 -9,-119 l -3,-4 c -34,6 -51,9 -51,9 z"
+       fill="#141621"
+       id="id-82044" />
+    <path
+       d="m 633,118 c -1,2 -2,3 -1,8 l 13,80 c -2,-25 -3,-51 -8,-82 -3,-4 -4,-6 -4,-6 z"
+       fill="#c0e8e5"
+       id="id-82045" />
+    <path
+       d="M 219,82 C 258,53 277,39 277,39 L 288,2 284,0 c -3,11 -2,19 -9,33 -13,16 -40,27 -63,40 5,6 7,9 7,9 z"
+       fill="#324a64"
+       id="id-82046" />
+    <path
+       d="m 208,89 14,-6 c 14,22 22,33 22,33 0,3 0,5 0,5 H 231 C 216,100 208,89 208,89 Z"
+       fill="#000000"
+       id="id-82047" />
+    <path
+       d="m 212,94 c 9,-3 14,-4 14,-4 11,16 16,24 16,24 l -14,2 C 217,101 212,94 212,94 Z"
+       fill="#01356f"
+       id="id-82048" />
+    <path
+       d="m 200,80 -4,-4 14,-2 c 2,-1 2,-1 2,-1 l 2,2 c -9,4 -14,5 -14,5 z"
+       fill="#7ae8f5"
+       id="id-82049" />
+    <path
+       d="m 231,121 c -27,32 -41,49 -41,49 -20,29 -30,44 -30,44 -30,21 -44,32 -44,32 l -35,17 c -3,-41 -7,-79 7,-136 29,-21 61,-40 107,-51 l 13,13 c 16,21 23,32 23,32 z"
+       fill="url(#id-81888)"
+       id="id-82050"
+       style="fill:url(#id-81888)" />
+    <path
+       d="m 182,181 c -15,22 -22,33 -22,33 -30,21 -44,32 -44,32 l -35,17 c -3,-41 -7,-79 7,-136 z"
+       fill="url(#id-81889)"
+       id="path420"
+       style="fill:url(#id-81889)" />
+    <path
+       d="m 221,107 c -58,16 -87,25 -87,25 l 33,70 23,-32 41,-49 c -7,-9 -10,-14 -10,-14 z"
+       fill="#e61e85"
+       id="id-82052" />
+    <path
+       d="m 195,76 c 2,3 4,6 5,9 l -6,-1 c -34,8 -69,21 -106,43 38,-30 74,-47 107,-51 z"
+       fill="#ffffff"
+       id="id-82053" />
+    <path
+       d="m 88,127 c -3,8 -5,15 -5,25 6,-6 13,-19 18,-22 -4,-1 -6,-4 -7,-7 -4,3 -6,4 -6,4 z"
+       fill="#fafafa"
+       id="id-82054" />
+    <path
+       d="m 80,167 c 35,2 53,3 53,3 17,20 25,31 25,31 -3,2 -4,3 -4,3 -16,-18 -24,-27 -24,-27 l -50,-4 c 0,-4 0,-6 0,-6 z"
+       fill="#11161c"
+       id="id-82055" />
+    <path
+       d="m 82,263 c 0,6 0,9 0,9 l 37,-19 -3,-7 c -23,11 -34,17 -34,17 z"
+       fill="#002f61"
+       id="id-82056" />
+    <polygon
+       points="165,222 193,179 244,121 231,121 190,170 160,214 116,246 119,253 "
+       fill="#000000"
+       id="id-82057" />
+    <g
+       id="g432">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81897"
+         filter="url(#id-81890)"
+         id="use428"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81897"
+         fill-rule="evenodd"
+         id="use430"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 360,270 c -25,-13 -38,-20 -38,-20 l 38,-41 c 0,41 0,61 0,61 z"
+       fill="#002641"
+       id="id-82062" />
+    <g
+       id="g439">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81906"
+         filter="url(#id-81899)"
+         id="use435"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81906"
+         fill-rule="evenodd"
+         id="use437"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 569,440 c 5,6 11,13 17,15 1,-3 2,-4 2,-4 -19,-55 -30,-114 -35,-178 l -13,40 c 3,-3 5,-5 5,-5 l -2,12 c 7,46 15,87 26,120 z"
+       fill="#0b0f58"
+       id="id-82067" />
+    <path
+       d="m 579,451 c 15,8 23,12 23,12 11,-11 17,-17 17,-17 10,-25 15,-37 15,-37 -1,10 -1,16 -1,16 26,44 39,67 39,67 20,16 30,24 30,24 -1,69 -2,104 -2,104 l -17,4 c -6,32 -8,49 -8,49 l -31,16 c -7,-39 -30,-96 -57,-157 -5,-22 -8,-49 -8,-81 z"
+       fill="#00233a"
+       id="id-82068" />
+    <path
+       d="m 632,429 c 18,85 29,158 32,220 6,-27 9,-40 9,-40 19,-6 28,-9 28,-9 1,-47 1,-71 1,-71 -17,-16 -38,-28 -45,-54 -17,-30 -25,-46 -25,-46 z"
+       fill="#153651"
+       id="id-82069" />
+    <g
+       id="id-82070">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81915"
+         filter="url(#id-81908)"
+         id="use444"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81915"
+         fill-rule="evenodd"
+         id="use446"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 683,685 c 13,-5 20,-7 20,-7 4,19 7,29 7,29 l -18,4 c -6,-17 -9,-26 -9,-26 z"
+       fill="#a23431"
+       id="id-82074" />
+    <g
+       id="g454">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81924"
+         filter="url(#id-81917)"
+         id="use450"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81924"
+         fill-rule="evenodd"
+         id="use452"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="id-82079">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81933"
+         filter="url(#id-81926)"
+         id="use456"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb73b"
+         xlink:href="#id-81933"
+         fill-rule="evenodd"
+         id="use458"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="g465">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81942"
+         filter="url(#id-81935)"
+         id="use461"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ffb600"
+         xlink:href="#id-81942"
+         fill-rule="evenodd"
+         id="use463"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 580,227 c -3,4 -4,6 -4,6 33,20 50,30 50,30 l 5,-7 c -34,-19 -51,-29 -51,-29 z"
+       fill="#002e5f"
+       id="id-82087" />
+    <path
+       d="m 637,268 c 2,-4 3,-5 3,-5 l 6,1 v 9 c -6,-3 -9,-5 -9,-5 z"
+       fill="#002e5f"
+       id="id-82088" />
+    <g
+       id="g473">
+      <use
+         fill="#000000"
+         fill-opacity="1"
+         xlink:href="#id-81951"
+         filter="url(#id-81944)"
+         id="use469"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         fill="#ff8f00"
+         xlink:href="#id-81951"
+         fill-rule="evenodd"
+         id="use471"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
+</svg>

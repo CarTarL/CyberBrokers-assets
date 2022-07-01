@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="165"
+   height="180"
+   viewBox="0 0 165 180"
+   version="1.1"
+   id="svg41"
+   sodipodi:docname="cb-layer-0658.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs13">
+    <linearGradient
+       x1="0"
+       y1="47.916594"
+       x2="95.833188"
+       y2="47.916594"
+       id="id-62572"
+       gradientTransform="scale(0.85565347,1.1686974)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#920312"
+         offset="0%"
+         id="stop2" />
+      <stop
+         stop-color="#920312"
+         offset="21%"
+         id="stop4" />
+      <stop
+         stop-color="#8F0211"
+         offset="45%"
+         id="stop6" />
+      <stop
+         stop-color="#74060F"
+         offset="64%"
+         id="stop8" />
+      <stop
+         stop-color="#74060F"
+         offset="100%"
+         id="stop10" />
+    </linearGradient>
+  </defs>
+  <g
+     id="id-62573">
+    <polygon
+       points="81,180 132,133 131,81 33,82 31,137 "
+       fill="#081024"
+       id="id-62574" />
+    <polygon
+       points="116,135 81,144 45,138 81,174 "
+       fill="#17263d"
+       id="id-62575" />
+    <path
+       d="M 146,27 C 145,26 105,9 89,1 85,0 80,0 76,1 60,8 19,26 19,27 18,27 0,16 0,16 l 17,57 c 10,20 46,33 60,38 3,1 7,1 11,0 13,-5 49,-18 60,-38 l 17,-57 c -12,7 -19,11 -19,11 z"
+       fill="#980212"
+       id="id-62576" />
+    <path
+       d="M 82,0 C 80,0 78,0 76,1 60,8 19,26 19,27 18,27 0,16 0,16 l 17,57 c 10,20 46,33 60,38 2,0 3,1 5,1 z"
+       fill="url(#id-62572)"
+       id="path18"
+       style="fill:url(#id-62572)" />
+    <path
+       d="M 89,1 C 85,0 80,0 76,1 60,9 19,26 19,27 18,27 0,16 0,16 l 2,8 15,9 59,-26 c 4,-2 9,-2 13,0 l 57,26 16,-9 3,-8 c 0,0 -18,11 -19,11 C 145,26 105,9 89,1 Z"
+       fill="#76060f"
+       id="path20" />
+    <path
+       d="m 11,22 1,8 5,3 20,-9 1,-6 c -11,5 -19,9 -19,9 -1,0 -4,-2 -8,-5 z"
+       fill="#ac0013"
+       id="path22" />
+    <polygon
+       points="143,25 109,10 106,15 142,31 "
+       fill="#76060f"
+       id="polygon24" />
+    <path
+       d="m 110,17 19,9 c 2,-2 3,-3 4,-5 L 111,11 Z"
+       fill="#d90017"
+       id="path26" />
+    <g
+       transform="translate(118,44)"
+       fill="#ffffff"
+       id="id-62582">
+      <path
+         d="M 24,9 V 0 h -3 l -7,9 v 4 l 7,-1 v 2 h 3 v -2 h 1 V 9 Z m -2,0 h -4 l 4,-5 z"
+         id="id-62583"
+         fill-rule="nonzero" />
+      <path
+         d="M 7,10 V 7 h 7 v 2 2 c 0,3 -2,5 -5,5 L 7,17 C 5,17 4,16 3,15 1,14 1,13 1,11 V 6 C 1,3 3,0 6,0 h 7 V 4 H 6 C 5,4 4,5 4,6 v 5 c 0,1 0,1 1,2 0,0 1,0 2,0 h 1 c 2,0 2,-1 2,-2 v -1 z"
+         id="path29"
+         fill-rule="nonzero" />
+      <path
+         d="m 18,22 c -1,0 -1,0 -1,1 0,0 1,1 1,1 0,0 0,-1 0,-1 0,-1 0,-1 0,-1 z"
+         id="path31" />
+      <path
+         d="m 13,22 c -1,0 -1,1 -1,1 0,0 0,0 0,0 0,1 0,2 1,1 1,0 1,0 1,-1 0,0 -1,-1 -1,-1 z"
+         id="path33" />
+      <path
+         d="m 16,21 c 0,0 0,-1 -1,-1 0,0 0,1 0,1 0,1 0,1 0,1 1,0 1,0 1,-1 z"
+         id="path35" />
+      <path
+         d="m 22,17 -18,4 -3,4 4,3 17,-4 3,-4 z m -12,9 c -1,0 -1,0 -1,0 v -1 c 0,0 0,0 1,0 0,0 0,0 0,-1 0,-1 0,-1 -1,-1 0,0 0,0 0,0 v -2 h 2 v 0 H 9 v 2 c 0,0 0,0 0,0 1,0 1,0 1,0 1,0 1,0 1,1 0,1 -1,1 -1,2 z m 3,-1 c -1,0 -1,-1 -2,-2 0,0 1,-1 1,-2 0,0 1,-1 1,-1 0,0 0,0 1,0 v 1 c -1,0 -1,0 -1,0 -1,0 -1,1 -1,2 v 0 c 0,-1 0,-1 1,-1 1,0 1,0 1,1 0,1 0,2 -1,2 z m 1,-4 c 0,-1 1,-1 1,-1 1,0 1,0 1,1 0,1 0,2 -1,2 0,0 -1,-1 -1,-2 z m 1,3 2,-5 h 1 l -2,5 z m 3,0 c -1,0 -1,0 -1,-1 0,-1 0,-2 1,-2 0,0 1,1 1,1 0,1 -1,2 -1,2 z"
+         id="path37"
+         fill-rule="nonzero" />
+    </g>
+  </g>
+</svg>
