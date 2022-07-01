@@ -11,4 +11,3 @@ To get all NFTs in PNG/JPG format, you can download the corresponding SVG Zip fi
 There are two tools you can use convert from SVG to PNG, JPG, or other formats.  You can also use these tools in increase or decrease size from the standard used in the SVG file.
 - Windows - [Inkscape](https://inkscape.org/) has a user interface you can use to pull apart layers and a command line utility to convert multiple files at a single time.
 - Linux: [rsvg-convert](https://wiki.gnome.org/action/show/Projects/LibRsvg?action=show&redirect=LibRsvg) is part of the librsvg package available on most linux varients.  It is a command line utility with lots of options as well.
--
