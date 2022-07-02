@@ -1,8 +1,8 @@
 # Asset Notes
 
-This sections contains technical notes on CyberBrokers assets.
+This sections contains technical notes on CyberBrokers assets and any inconsistencies.
 
-## SVG Error: Invalid SVG href
+## SVG: Invalid SVG href
 <img src="https://raw.githubusercontent.com/CarTarL/CyberBrokers-assets/main/layers/png-render/cb-layer-0065.png" width="100px" style="float: right;"><img src="https://raw.githubusercontent.com/CarTarL/CyberBrokers-assets/main/layers/png-render/cb-layer-0117.png" width="100px" style="float: right;">
    The "triple X backgrounds" have an invalid href link.  This prevents many image utlities from being able to convert from SVG to raster image formats (PNG/JPEG).
 
@@ -21,6 +21,6 @@ The line you see will depend if the SVG is coming from IPFS, directly from contr
 <use xlink:href="#id-30365">
 ```
 
-## SVG Error: missing backgrounds
+## SVG: missing backgrounds
 There are 7 NFTs that have no background
 - 688 (Assassin), 101 (Assassin), 1910 (Gunter), 7585 (Mercenary), 9078 (Gambler), 9510 (Degen), and 9834 (Degen)
