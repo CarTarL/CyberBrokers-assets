@@ -3,7 +3,7 @@
 This sections contains technical notes on CyberBrokers assets.
 
 ## Error: Invalid SVG href
-![](../layers/svg-render/cb-layer-0065.png)
+![Layer 65](../layers/png-render/cb-layer-0065.png)
 The "triple X backgrounds" have an invalid href link.  This prevents many image utlities from being able to convert from SVG to raster image formats (PNG/JPEG).
 
 **This error has been fixed in all the files in this repository.**  You only need to worry about this if you are pulling SVG files from the contract, metadata, IPFS, OpenSea, etc.
