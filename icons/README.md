@@ -7,7 +7,7 @@ For each Talent there is an associated icon in the layers.  This section contain
 - These are the exact unmodified SVG files from the layers/svg-unbound directory, renamed with the associated talent.  
 - They are not of consistent size though and are not ideal for icons.
 
-## Consistent Based Icons
+## Consistent (Base) Icons
 - svg-base
 - A consistent set of SVG images useful for icons
 - all are the same size - 100px height x 134px width
