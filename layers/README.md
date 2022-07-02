@@ -22,6 +22,9 @@ There have been a couple of modifications to these files from what is found in t
   ```inkscape --export-area-drawing```
 
 ## PNG versions
-PNG versions of all the above are also provided. These are rendered at the same resolution as the SVG version.
+PNG versions of all the above are also provided. These are rendered at the same resolution as the SVG version.  See NFT directory for best tools to convert from SVG to PNG, JPEG, or other raster formats.
 
+## Zip files
 If you need to download all layers of a given format at once, they are Zip files in the zip directory.
+
+**For PNG versions it would be appreciated if you download the corresponding SVG Zip file and uand then use a tool locally to create the PNG versions.** This will help keep this repository in place and not cost me a fortune !
