@@ -27,6 +27,6 @@ This folder contains CSV and JSON formats of all metadata + additional informati
    - JSON is array with layer ids, in order from backa to front, that are used in this NFT
  talentDesc - text description of the associated Talent of the NFT 1
 
-1 indicates a value directly from the metadata
-2 from contract
-3 from original metadata during mint
+(1) indicates a value directly from the metadata
+(2)from contract
+(3) from original metadata during mint
