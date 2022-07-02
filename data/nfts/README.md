@@ -30,4 +30,5 @@ This folder contains CSV and JSON formats of all metadata + additional informati
 (1) indicates a value directly from the metadata
 
 (2) from contract
+
 (3) from original metadata during mint
