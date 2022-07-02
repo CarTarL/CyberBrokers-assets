@@ -10,9 +10,9 @@ CarTarL [twitter](https://twitter.com/cartar_l) [email](mailto:cartarl2045@gmail
 
 
 ## Reminder
-The intellectual property rights for these assets beling to CyberBrokers and the individual NFT owners.   
+The intellectual property rights for these assets belong to CyberBrokers and the individual NFT owners.   
 
-These assets should not be used for commercial purposes without permission from CyberBrokers or the NFT owners.
+These assets **should not** be used for commercial purposes without permission from CyberBrokers or the NFT owners.
 
 ## Repository
 - nfts - the image files for all 10,001 NFTs in various formats
