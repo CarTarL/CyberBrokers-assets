@@ -10,7 +10,7 @@ This sections contains technical notes on CyberBrokers assets.
 
 To fix the the issue, one of the following lines from the SVG of the NFT or Layer needs to be removed from the top defs/patterns secction.  Make sure to leave the pattern tag intact - just remove the use tag.
 
-The line you see will depend if the SVG is coming from IPFS, directly from contractd, or which background layer is used in your NFT.
+The line you see will depend if the SVG is coming from IPFS, directly from contract, or which background layer is used in the NFT.
 - cb-layer-0065, cb-layer-0084, & cb-layer-0117
 ```
 <use xlink:href="#id-bg-6-Group-2">
