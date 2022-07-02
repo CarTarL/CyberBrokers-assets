@@ -26,6 +26,7 @@ These assets **should not** be used for commercial purposes without permission f
 ## CyberBrokers official links
 - [Website](https://www.cyberbrokers.io)
 - [Twitter](https://twitter.com/CyberBrokers_) 
+- [Instagram](https://www.instagram.com/cyberbrokers/)
 - [Discord](https://discord.gg/josie)
 
 ## Changelog
