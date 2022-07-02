@@ -14,13 +14,19 @@ This folder contains CSV and JSON formats of all metadata + additional informati
 - body - integer value 0-30 for Body statistic*
 - soul - integer value 0-30 for Soul statistic*
 - totalStats - mind + body + soul.  integer value 0-90
-- layerBkgd - the layer id of the NFT background.  -1 for no background
-- minter - the Ethereum wallet address for the original minter of the NFT
-- svgAws - a URL to the SVG file for the NFT on Amazon AWS
-- svgIpfs - the IPFS link to the SVG file
+- layerBkgd - the layer id of the NFT background.  -1 for no background**
+- minter - the Ethereum wallet address for the original minter of the NFT**
+- svgAws - a URL to the SVG file for the NFT on Amazon AWS***
+- svgIpfs - the IPFS link to the SVG file**
 - numTraits - the number of unique traits for the NFT.  integer value 0-12.  This value does not count Talent, Class, or Species
-- traits
-  - CSV contains columns for trait1 -> trait12
+- traits*
+  - CSV contains columns for trait1 -> trait12.  
   - JSON is array with trait values 
+ - layers**
+   - CSV contains list of layer ids, in order from back to front, that are used in this NFT.  separated by | symbol
+   - JSON is array with layer ids, in order from backa to front, that are used in this NFT
+ talentDesc - text description of the associated Talent of the NFT*
 
 * indicates a value directly from the metadata
+** from contract
+*** from original metadata during mint
