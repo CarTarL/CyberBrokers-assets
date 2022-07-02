@@ -4,6 +4,11 @@ CyberBrokers (CB) is a completely on-chain NFT project.  That means all the meta
 
 This is an **unofficial** repository of assets (images + data) for CyberBrokers. While you can get the source assets from the CB contract directly, this repository was created to make it easier to grab everything at once and provide additional image formats and versions for community use.
 
+Enjoy !
+
+CarTarL [twitter](https://twitter.com/cartar_l) [email](mailto:cartarl2045@gmail.com) Discord: CarTarL#3042
+
+
 ## Reminder
 The intellectual property rights for these assets beling to CyberBrokers and the individual NFT owners.   
 
@@ -17,9 +22,6 @@ These assets should not be used for commercial purposes without permission from 
 - icons - the SVG layers that are icons for each of the Talents
 - notes - documentation about the collection as a whole and any unique attributes
 
-Enjoy !
-
-CarTarL
 
 ## CyberBrokers official links
 - [Website](https://www.cyberbrokers.io)
