@@ -3,8 +3,8 @@
 This sections contains technical notes on CyberBrokers assets.
 
 ## Error: Invalid SVG href
-
-The "triple X backgrounds" have an invalid href link.  This prevents many image utlities from being able to convert from SVG to raster image formats (PNG/JPEG).
+<img src="https://raw.githubusercontent.com/CarTarL/CyberBrokers-assets/main/layers/png-render/cb-layer-0065.png" width="100px" style="float: right;"><img src="https://raw.githubusercontent.com/CarTarL/CyberBrokers-assets/main/layers/png-render/cb-layer-0117.png" width="100px" style="float: right;">
+   The "triple X backgrounds" have an invalid href link.  This prevents many image utlities from being able to convert from SVG to raster image formats (PNG/JPEG).
 
 **This error has been fixed in all the files in this repository.**  You only need to worry about this if you are pulling SVG files from the contract, metadata, IPFS, OpenSea, etc.
 
