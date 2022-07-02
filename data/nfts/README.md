@@ -20,7 +20,7 @@ This folder contains CSV and JSON formats of all metadata + additional informati
 - svgIpfs - the IPFS link to the SVG file
 - numTraits - the number of unique traits for the NFT.  integer value 0-12.  This value does not count Talent, Class, or Species
 - traits
--- CSV contains columns for trait1 -> trait12
--- JSON is array with trait values 
+  - CSV contains columns for trait1 -> trait12
+  - JSON is array with trait values 
 
 * indicates a value directly from the metadata
