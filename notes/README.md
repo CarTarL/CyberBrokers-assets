@@ -6,7 +6,7 @@ This sections contains technical notes on CyberBrokers assets.
 
 The "triple X backgrounds" have an invalid href link.  This prevents many image utlities from being able to convert from SVG to raster image formats (PNG/JPEG).
 
-**This error has been fixed in all the files in this repository.**  You only need to worry about this if you are pulling SVG files from the contract, IPFS, OpenSea, etc.
+**This error has been fixed in all the files in this repository.**  You only need to worry about this if you are pulling SVG files from the contract, metadata, IPFS, OpenSea, etc.
 
 To fix the the issue, one of the following lines from the SVG of the NFT or Layer needs to be removed from the top defs/patterns secction.  Make sure to leave the pattern tag intact - just remove the use tag.
 
