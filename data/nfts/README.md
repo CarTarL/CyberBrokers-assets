@@ -9,7 +9,8 @@ This folder contains CSV and JSON formats of all metadata + additional informati
 - class - one of 6 Classes (1)
 - Species - one of 14 Species (1)
 - Gender - female|male|unknown.  derived from layer information
-- dna - an integer value that defines all values of the NFT (1) 
+- dna - an integer value that defines all values of the NFT (1)
+  - CSV the value is prepended with a tab character to prevent Excel turning this into a number
 - mind - integer value 0-30 for Mind statistic (1)
 - body - integer value 0-30 for Body statistic (1)
 - soul - integer value 0-30 for Soul statistic (1)
