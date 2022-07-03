@@ -17,7 +17,7 @@ This folder contains CSV and JSON formats of information on the 51 CyberBrokers 
 - traitsMin - the minimum value (0-12) of number of Traits for NFTs of the Talent
 - traitsMedian - the median value (0-12) of number of Traits for NFTs of the Talent
 - traitsMax - the maximum value (0-12) of number of Traits for NFTs of the Talent
-- desc - the Lore description for the talent
+- desc - the Lore description for the talent (1)
 
 (1) indicates a value directly from the metadata  
 (2) from the contract  
