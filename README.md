@@ -8,6 +8,9 @@ Enjoy !
 
 CarTarL [twitter](https://twitter.com/cartar_l) [email](mailto:cartarl2045@gmail.com) Discord: CarTarL#3042
 
+# DO NOT CLONE THIS REPO
+It is many GB in size and you will likely not need all parts of it.
+Find the parts you need and look in the Zip folders to download them individually.
 
 ## Reminder
 The intellectual property rights for these assets belong to CyberBrokers and the individual NFT owners.   
