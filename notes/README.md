@@ -23,4 +23,4 @@ The line you see will depend if the SVG is coming from IPFS, directly from contr
 
 ## SVG: missing backgrounds
 There are 7 NFTs that have no background
-- 688 (Assassin), 101 (Assassin), 1910 (Gunter), 7585 (Mercenary), 9078 (Gambler), 9510 (Degen), and 9834 (Degen)
+- 688 (Assassin), 1010 (Assassin), 1910 (Gunter), 7585 (Mercenary), 9078 (Gambler), 9510 (Degen), and 9834 (Degen)
