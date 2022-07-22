@@ -6,3 +6,4 @@ Note: These assets belong to CyberBrokers and **should not** be used for commerc
 
 ## Artwork
 - talents - one piece of art for each Talent, including Talent description and icon
+- zip - place to grab all graphics of a single category at once
