@@ -23,6 +23,7 @@ These assets **should not** be used for commercial purposes without permission f
 - data - CSV and JSON versions of the metadata + information to tie all of these layers/images together
 - backgrounds - the SVG layers that are specifically backgrounds for the NFTs
 - icons - the SVG layers that are icons for each of the Talents
+- artwork - artwork created by CB for newsletters, twitter, etc.
 - notes - documentation about the collection as a whole and any unique attributes
 
 
@@ -34,6 +35,7 @@ These assets **should not** be used for commercial purposes without permission f
 
 ## Changelog
 
+- 22 July 2022 - added artwork/talents
 - 8 July 2022 - fixed: 1010 is broker without background, not 101
 - 7 July 2022 - fixed: layers missing from data/nfts/cb-data-nfts.json
 - 30 June 2022 - First release
