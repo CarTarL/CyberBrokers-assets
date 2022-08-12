@@ -34,7 +34,7 @@ These assets **should not** be used for commercial purposes without permission f
 - [Discord](https://discord.gg/josie)
 
 ## Changelog
-
+- 12 August 2022 - Added artwork/asherahs-keys
 - 22 July 2022 - added artwork/talents
 - 08 July 2022 - fixed: 1010 is broker without background, not 101
 - 07 July 2022 - fixed: layers missing from data/nfts/cb-data-nfts.json
